@@ -1,0 +1,924 @@
+[
+  {
+    "prompt_en": "Create an auditory experience for a first-person video of lying in bed with blurred vision, simulating the sensation of having a fever: external sounds (such as family conversations) become distant and distorted, overlaid with a continuous high-frequency tinnitus.",
+    "prompt_vision": "Blurred first-person view of a bedroom ceiling while lying in bed, simulating feverish vision.",
+    "prompt_audio": "Distant, muffled family conversations with low intelligibility, overlaid with a continuous high-frequency tinnitus tone.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a continuous high-frequency tinnitus sound present throughout the audio experience?",
+      "Are external sounds, such as family conversations, audibly distant and distorted in the audio experience?",
+      "Does the audio experience maintain a consistent level of distortion in the external sounds to simulate the sensation of having a fever?",
+      "Is the volume of external sounds lower compared to the tinnitus sound, indicating their distant nature?",
+      "Are the external sounds muffled or unclear, reflecting the blurred vision and feverish state described in the prompt?"
+    ],
+    "auxiliary_info_vision": [
+      "Are the colors in the scene muted or desaturated to evoke a feverish and disoriented atmosphere?",
+      "Does the composition of the scene include elements like a bed, pillows, or blankets to clearly indicate a bedroom setting?",
+      "Are the lighting conditions dim or soft, suggesting a subdued and restful environment consistent with being unwell?",
+      "Is there a noticeable lack of sharp focus on objects in the foreground and background, reinforcing the sensation of blurred vision?",
+      "Are spatial relationships between objects in the scene visually distorted or unclear, enhancing the sense of disorientation?"
+    ]
+  },
+  {
+    "prompt_en": "Create a drunken auditory effect for a first-person, shaky, out-of-focus video shot in a noisy bar: process background music and voices to sound chaotic and blurred, with reverb and delay, reducing directional perception.",
+    "prompt_vision": "shaky handheld camera, blurred and out-of-focus footage, dimly lit noisy bar interior with indistinct figures and neon signs",
+    "prompt_audio": "chaotic and blurred background music and overlapping voices, heavy reverb and delay, reduced directional perception, muffled and swirling soundscape",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the background music sound chaotic and blurred, with noticeable reverb and delay effects?",
+      "Are the voices in the bar processed to sound chaotic and blurred, with reverb and delay effects?",
+      "Is the directional perception of sounds reduced, making it difficult to pinpoint their exact sources?",
+      "Does the overall audio convey a sense of being in a noisy bar environment?",
+      "Can the audio effects create a drunken auditory experience, consistent with the first-person perspective?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the video shot from a first-person perspective, showing a viewpoint as if the viewer is present in the scene?",
+      "Does the video exhibit a shaky camera movement, suggesting instability or unsteadiness?",
+      "Is the visual content of the video out-of-focus, making details appear blurred or indistinct?",
+      "Are there visible elements that suggest the setting is a noisy bar, such as people, drinks, or bar furniture?",
+      "Is there a lack of clear directional perception in the video, making it difficult to discern specific locations or directions?"
+    ]
+  },
+  {
+    "prompt_en": "A first-person video with a whitened field of view caused by a nearby explosion, representing temporary hearing loss: nearly eliminating external sounds and leaving only intense, persistent high-frequency tinnitus and muffled heartbeat sounds.",
+    "prompt_vision": "First-person view with a whitened, overexposed field of vision from a nearby explosion",
+    "prompt_audio": "Nearly eliminated external sounds, intense persistent high-frequency tinnitus, muffled heartbeat",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the whitened field of view accompanied by nearly eliminated external sounds, as described in the prompt?",
+      "Does the audio include intense, persistent high-frequency tinnitus sounds matching the described temporary hearing loss?",
+      "Are muffled heartbeat sounds present in the audio, as specified in the prompt?",
+      "Is there an absence of prominent external sounds, consistent with the described temporary hearing loss caused by the explosion?",
+      "Can the tinnitus and muffled heartbeat sounds be clearly distinguished from each other in the audio?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the field of view predominantly white, suggesting a nearby explosion?",
+      "Does the video show a lack of visible external objects due to the whitened field of view?",
+      "Are there visual cues indicating a sudden change in lighting, such as increased brightness?",
+      "Is there a visual representation of intense light or flash consistent with an explosion?",
+      "Can the video depict a lack of motion or activity, implying temporary disorientation?",
+      "Are there any visual effects suggesting a blurred or distorted perception due to the explosion?"
+    ]
+  },
+  {
+    "prompt_en": "Generate auditory elements for a first-person video showing a character in a crowded environment with tunnel vision effect: foreground features extremely rapid and loud breathing sounds and an uncontrollably accelerating heartbeat, while external human voices turn into an overwhelming, threatening noise.",
+    "prompt_vision": "First-person view in a crowded environment with tunnel vision effect, blurred periphery and focused central vision.",
+    "prompt_audio": "Extremely rapid and loud breathing, uncontrollably accelerating heartbeat, overwhelming and threatening cacophony of external human voices",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the rapid breathing sound prominently audible in the foreground throughout the video?",
+      "Does the heartbeat sound increase in speed and volume as the video progresses?",
+      "Are external human voices transformed into a loud, overwhelming noise in the background?",
+      "Is there a clear distinction between the foreground breathing and heartbeat sounds and the background noise of human voices?",
+      "Can the breathing and heartbeat sounds be heard continuously without distortion or interruption?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the visual representation of the crowded environment depicted with a tunnel vision effect, where the edges of the scene appear blurred or darkened?",
+      "Does the character's facial expression visually convey a sense of panic or distress, consistent with the auditory elements described?",
+      "Can the visual composition effectively show the spatial relationship between the character and the surrounding crowd, emphasizing the feeling of being overwhelmed?",
+      "Are the lighting and shadows in the scene adjusted to enhance the tunnel vision effect, creating a contrast between the focused center and the blurred periphery?"
+    ]
+  },
+  {
+    "prompt_en": "To create the auditory experience for a first-person video of drowsy driving on a highway at night: process the engine and wind noise to be monotonous and hypnotic, and intermittently introduce non-existent, fleeting auditory illusions—such as a distant horn or a whispered voice.",
+    "prompt_vision": "First-person view of driving on a dark highway at night, with minimal traffic and repetitive road markings.",
+    "prompt_audio": "Monotonous and hypnotic engine and wind noise, intermittently interrupted by faint, illusory sounds such as a distant car horn or a whispered voice that are not actually present.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the engine noise consistently monotonous throughout the video?",
+      "Does the wind noise maintain a hypnotic quality without abrupt changes?",
+      "Are the auditory illusions, like a distant horn, introduced intermittently and fleetingly?",
+      "Can whispered voices be heard occasionally, adding to the auditory illusion effect?",
+      "Are the auditory illusions subtle enough to not overpower the engine and wind noise?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the visual representation of the highway at night accurately depicted with dim lighting and sparse traffic?",
+      "Does the video include visual elements that suggest drowsiness, such as slow blinking or blurred vision effects?",
+      "Can the visual model show the car interior with subtle reflections or shadows that enhance the nighttime driving experience?",
+      "Does the visual composition include a sense of motion, such as the road moving beneath the car, to simulate driving?"
+    ]
+  },
+  {
+    "prompt_en": "Construct a subjective auditory experience for a video of someone anxiously waiting outside an operating room: disproportionately amplify the \"tick-tock\" sound of a clock in the environment, making it clear, loud, and overwhelmingly oppressive.",
+    "prompt_vision": "A person sitting alone on a bench outside an operating room, head in hands, surrounded by sterile hospital walls and a visible wall clock.",
+    "prompt_audio": "Overwhelmingly loud and clear 'tick-tock' of a clock, disproportionately amplified, creating an oppressive and anxious atmosphere.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the 'tick-tock' sound of the clock disproportionately amplified compared to other sounds in the environment?",
+      "Does the 'tick-tock' sound of the clock have a clear and distinct timing that matches the typical rhythm of a clock?",
+      "Is the 'tick-tock' sound of the clock overwhelmingly loud, creating an oppressive auditory experience?",
+      "Can the 'tick-tock' sound of the clock be clearly heard as the dominant sound in the audio mix?",
+      "Is there an absence of other prominent sounds that would distract from the amplified 'tick-tock' sound of the clock?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the clock visually prominent in the scene, with clear visibility of its face and hands?",
+      "Does the lighting in the scene create a tense atmosphere, with shadows or dim areas enhancing the anxious mood?",
+      "Are the facial expressions of the person waiting outside the operating room visually conveying anxiety or stress?",
+      "Is the composition of the scene focused on the person waiting, with the clock positioned in a way that emphasizes its presence?",
+      "Are there visual cues, such as the person's body language or gestures, that indicate a heightened sense of anticipation or nervousness?",
+      "Is the texture of the clock's surface detailed enough to be visually distinguishable, contributing to its oppressive presence?"
+    ]
+  },
+  {
+    "prompt_en": "For a video showing a person becoming bewildered after smelling something, create an olfactory-triggered memory flashback in audio: add reverb to the ambient sounds of the present moment and fade them out, while simultaneously fading in a distant, dreamy sound clip associated with the memory.",
+    "prompt_vision": "A person smelling something and becoming bewildered, then experiencing a memory flashback",
+    "prompt_audio": "Reverb applied to present ambient sounds fading out, while a distant, dreamy sound clip associated with a memory fades in",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include reverb applied to the ambient sounds of the present moment as the person becomes bewildered?",
+      "Is there a fade-out effect applied to the ambient sounds of the present moment as the memory flashback begins?",
+      "Does the audio fade in a distant, dreamy sound clip associated with the memory during the flashback?",
+      "Are the ambient sounds of the present moment audibly distinct before the memory flashback begins?",
+      "Is there a noticeable transition in the audio from the present moment to the memory flashback?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the person visibly sniffing or inhaling as if detecting a smell?",
+      "Does the person's facial expression change to show signs of bewilderment, such as widened eyes or a furrowed brow?",
+      "Is there a visible pause or stillness in the person's actions after smelling something, indicating a moment of contemplation or confusion?",
+      "Are the ambient visual elements consistent with a present moment setting, such as normal lighting and surroundings?",
+      "Does the video show a transition or visual cue indicating a shift from the present moment to a memory flashback, such as a change in lighting or color tone?"
+    ]
+  },
+  {
+    "prompt_en": "For a first-person video of an injury with the vision gradually darkening, representing the character's auditory experience as consciousness fades: gradually apply reverb and low-pass filter to all sounds, reduce volume, and finally make them disappear completely.",
+    "prompt_vision": "First-person view of an injury with vision gradually darkening to black.",
+    "prompt_audio": "All sounds gradually processed with increasing reverb and low-pass filtering, volume decreasing until completely silent.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio gradually decrease in volume as the vision darkens?",
+      "Is there a noticeable increase in reverb applied to the sounds as the video progresses?",
+      "Does the low-pass filter effect become more pronounced over time, reducing higher frequencies?",
+      "Are all sounds completely absent by the end of the video, matching the complete darkness?",
+      "Is there a smooth transition in the audio effects, such as reverb and low-pass filtering, as consciousness fades?",
+      "Does the audio accurately reflect the character's fading consciousness by becoming less distinct and more muffled over time?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the video shot from a first-person perspective, showing the viewpoint of the character experiencing the injury?",
+      "Does the visual content gradually darken over time, indicating the character's fading consciousness?",
+      "Are there any visible signs of injury, such as blood or wounds, in the first-person view?",
+      "Is there a noticeable lack of motion in the video, suggesting the character is becoming unconscious?",
+      "Does the video end with complete darkness, representing the character's loss of consciousness?"
+    ]
+  },
+  {
+    "prompt_en": "Create a \"bullet time\" auditory experience for a first-person slow-motion video during an emergency (such as avoiding a car crash): external world sounds are extremely stretched, pitch-shifted, and filled with low frequencies, while the character's own heartbeat and breathing are amplified and remain at a relatively normal speed.",
+    "prompt_vision": "First-person slow-motion car crash, vehicles and debris floating, blurred background, intense focus on escape path.",
+    "prompt_audio": "Extremely time-stretched and pitch-shifted ambient sounds of traffic, screeching tires, and crashing metal, dominated by deep, rumbling low frequencies; overlaid with a loud, clear, and steady human heartbeat and rapid but natural-speed breathing.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the external world soundscape in the audio extremely stretched to match the slow-motion effect of the video?",
+      "Are the external world sounds pitch-shifted to lower frequencies, creating a deep and resonant auditory experience?",
+      "Does the audio prominently feature low-frequency sounds to enhance the slow-motion effect?",
+      "Is the character's heartbeat sound amplified and clearly audible, maintaining a relatively normal speed?",
+      "Is the character's breathing sound amplified and clearly audible, maintaining a relatively normal speed?",
+      "Are the external world sounds and the character's internal sounds (heartbeat and breathing) distinguishable from each other in the audio?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the video depicting a first-person perspective during an emergency situation?",
+      "Does the video show slow-motion visuals, such as objects moving slowly or appearing suspended in mid-air?",
+      "Are external world objects visibly distorted or stretched, suggesting altered perception?",
+      "Is there a visible car or other vehicle that appears to be involved in a potential crash scenario?",
+      "Can the character's chest movement be seen, indicating breathing at a relatively normal speed?",
+      "Are there visible signs of heightened tension, such as dilated pupils or focused eyes, suggesting awareness of the emergency?",
+      "Is the character's hand or body visibly moving in a way that suggests an attempt to avoid the crash?"
+    ]
+  },
+  {
+    "prompt_en": "Create a subjective auditory experience for a video of a veteran whose expression suddenly changes upon hearing a car backfire: process the \"bang\" of the car's backfire so it seamlessly transforms into the sound of a gunshot on the battlefield, layered with soldiers' shouts and panicked breathing.",
+    "prompt_vision": "A veteran's face suddenly tenses, eyes widening in alarm as they hear a car backfire.",
+    "prompt_audio": "A sharp 'bang' from a car backfire seamlessly morphs into a realistic gunshot, layered with distant soldiers' shouts and rapid, panicked breathing.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the sound of the car backfire transition seamlessly into the sound of a gunshot on the battlefield without noticeable distortion or abruptness?",
+      "Are the soldiers' shouts clearly audible and appropriately layered with the battlefield gunshot sound?",
+      "Is the panicked breathing synchronized with the intensity and pacing of the battlefield sounds?",
+      "Does the audio maintain consistent energy and volume levels throughout the transition from the car backfire to the battlefield scene?",
+      "Are there no unintended noise or distortions during the transformation of the car backfire into the battlefield sounds?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the veteran's facial expression visibly changing in response to the auditory experience?",
+      "Does the video visually depict the veteran's surroundings changing to reflect a battlefield scene as the sound transforms?",
+      "Are there visual cues, such as lighting or color shifts, that indicate the transition from the present moment to a battlefield setting?",
+      "Is the veteran's body language, such as posture or hand movements, consistent with a reaction to the auditory transformation?"
+    ]
+  },
+  {
+    "prompt_en": "A video depicting a character's daily activities from a third-person perspective behind them, creating a dissociative experience: the sounds of the \"self\" and the surrounding environment are heavily reverberant and distant, as if coming from far away, while at the observer's \"point of view,\" there is only silence or faint breathing.",
+    "prompt_vision": "Third-person view of a character engaged in daily activities, seen from behind, with no visible indication of the observer.",
+    "prompt_audio": "Heavily reverberant and distant sounds of the character's actions and environment; observer's point of view has only silence or faint breathing.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the audio of the character's daily activities heavily reverberant, suggesting distance from the sound source?",
+      "Does the sound of the character's actions appear distant, as if coming from far away?",
+      "Is there silence or only faint breathing audible at the observer's point of view?",
+      "Are the environmental sounds around the character reverberant and distant, matching the dissociative experience?",
+      "Can the faint breathing be heard consistently at the observer's point of view, without other prominent sounds?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the character visible from a third-person perspective behind them throughout the video?",
+      "Does the video show the character performing daily activities such as walking, eating, or working?",
+      "Are the character's actions visually consistent with a dissociative experience, such as slow or detached movements?",
+      "Can the character's breathing be faintly seen or inferred from subtle chest movements?",
+      "Is the environment around the character depicted with a sense of distance or separation, such as blurred or unfocused visuals?"
+    ]
+  },
+  {
+    "prompt_en": "Create a subjective auditory experience for a video of a person alone in a room, nervously scanning their surroundings with paranoid eyes: distort ordinary, harmless ambient sounds—such as the hum of a refrigerator or dripping water pipes—so they resemble malicious whispers or hidden signals.",
+    "prompt_vision": "A person alone in a room, nervously scanning their surroundings with paranoid eyes.",
+    "prompt_audio": "Distorted ambient sounds: refrigerator hum and dripping water pipes manipulated to resemble malicious whispers and hidden signals.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include distorted ambient sounds, such as the hum of a refrigerator or dripping water pipes, transformed to resemble malicious whispers or hidden signals?",
+      "Are the distorted sounds synchronized with the visual cues of the person nervously scanning their surroundings?",
+      "Can the distorted sounds maintain a consistent presence throughout the video, matching the implied tension and paranoia of the scene?",
+      "Are the distorted sounds positioned in the sound field to create an immersive and unsettling auditory experience for the viewer?",
+      "Is there an absence of any unrelated or non-ambient sounds that would contradict the described scenario of a person alone in a room?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the person alone in the room visible in the image or video?",
+      "Are the person's eyes visibly scanning their surroundings in a nervous manner?",
+      "Does the person exhibit a paranoid facial expression, such as wide eyes or furrowed brows?",
+      "Is the room depicted as still and calm, with no visible motion or activity?",
+      "Can ordinary objects like a refrigerator or water pipes be seen in the room?"
+    ]
+  },
+  {
+    "prompt_en": "Create a dreamlike auditory experience for a video featuring a constantly shifting and jumping visual sequence: the soundscape abruptly changes with each visual transition, and sounds undergo illogical transformations and fusions (for example, a cat's meow gradually morphing into a telephone ring).",
+    "prompt_vision": "A constantly shifting and jumping visual sequence with abrupt transitions between surreal, dreamlike scenes.",
+    "prompt_audio": "A dreamlike soundscape where each sound abruptly changes with every visual cut, featuring illogical transformations and fusions—such as a cat's meow smoothly morphing into a telephone ring—creating an unpredictable, surreal auditory experience.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio change abruptly with each visual transition in the sequence?",
+      "Can the sound of a cat's meow morph into a telephone ring as described?",
+      "Are there illogical transformations and fusions of sounds throughout the video?",
+      "Is there a dreamlike quality to the auditory experience that matches the shifting visuals?",
+      "Will the soundscape include unexpected combinations of sounds that align with the visual changes?"
+    ],
+    "auxiliary_info_vision": [
+      "Are the visual transitions in the sequence abrupt and clearly noticeable, aligning with the shifting soundscape changes?",
+      "Are the visual elements presented in a way that suggests illogical or unexpected transformations, such as objects changing form or function in a way that defies reality?",
+      "Is the lighting or color palette of the visuals dynamic and varied, enhancing the surreal and dreamlike quality of the sequence?",
+      "Are the spatial relationships between objects in the visuals altered or inconsistent, contributing to the surreal atmosphere?",
+      "Does the composition of the visuals create a sense of unpredictability or disorientation, complementing the auditory transformations?"
+    ]
+  },
+  {
+    "prompt_en": "Create an auditory experience filled with jealousy for the protagonist seeing their beloved happily chatting with someone else from a distance: process the distant couple's cheerful laughter with sound effects to make it sound harsh, fake, and even mocking.",
+    "prompt_vision": "A protagonist watches from a distance as their beloved laughs and chats cheerfully with another person.",
+    "prompt_audio": "Distant cheerful laughter processed with sharp, metallic reverb; pitch-shifted to sound unnaturally high and grating; layered with subtle mocking echoes and dissonant undertones to evoke jealousy and emotional pain.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the distant couple's cheerful laughter audible and positioned to sound like it is coming from far away?",
+      "Does the laughter include sound effects that make it feel harsh or grating to the listener?",
+      "Can the laughter be perceived as fake or exaggerated through the use of specific audio manipulations?",
+      "Are there distortions or tonal changes applied to the laughter to evoke a mocking or taunting quality?",
+      "Is the volume of the laughter consistent with the implied distance, avoiding being too loud or too quiet for the setting?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the distant couple visually depicted with cheerful expressions that contrast with the protagonist's somber demeanor?",
+      "Does the scene include visual elements that emphasize the distance between the protagonist and the couple, such as spatial separation or perspective?",
+      "Are the lighting and colors used in the scene designed to highlight the couple's happiness, while casting the protagonist in shadow or muted tones?",
+      "Can the visual composition of the scene suggest a sense of isolation for the protagonist, such as framing them alone while the couple is together?"
+    ]
+  },
+  {
+    "prompt_en": "For a video showing a person's strained facial expressions during a difficult moral decision, create an inner conflict by generating two conflicting layers of whisper-like background audio tracks—one representing temptation and the other conscience—alternating between left and right channels, as if arguing inside the mind.",
+    "prompt_vision": "A person displaying strained facial expressions while grappling with a difficult moral decision.",
+    "prompt_audio": "Two whisper-like audio layers alternating between left and right channels: one representing temptation, the other conscience, creating an inner argument.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a whisper-like audio track representing temptation that alternates between the left and right audio channels?",
+      "Is there a whisper-like audio track representing conscience that alternates between the left and right audio channels?",
+      "Does the audio create a sense of inner conflict by having the two whisper-like tracks alternate between channels as if arguing?",
+      "Is the volume of the whisper-like audio tracks consistent with the idea of internal thoughts, being subtle and not overpowering?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the person's face showing strained facial expressions?",
+      "Are the person's eyebrows furrowed or raised to indicate tension?",
+      "Is the person's mouth slightly open or lips pressed together as part of the strained expression?",
+      "Are the person's eyes narrowed or widened, suggesting inner conflict?",
+      "Is the person's head still, indicating focus on the decision-making process?"
+    ]
+  },
+  {
+    "prompt_en": "Create an auditory \"flow state\" for a video of an artist deeply immersed in creation (painting, playing piano): all distracting external noises (such as street sounds, phone rings) completely fade away, leaving only the sounds of the creative act itself (such as brush strokes, keystrokes) amplified and enhanced with a subtle, immersive reverb.",
+    "prompt_vision": "An artist deeply immersed in creation, either painting on a canvas or playing a piano, with focused expression and fluid movements.",
+    "prompt_audio": "Amplified and enhanced sounds of brush strokes or piano keystrokes, enveloped in subtle immersive reverb, with all external distracting noises completely absent.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of brush strokes or piano keystrokes clearly audible and prominent throughout the video?",
+      "Does the audio contain a subtle, immersive reverb that enhances the sound of the creative act?",
+      "Are all distracting external noises, such as street sounds or phone rings, completely absent from the audio?",
+      "Can the audio maintain a consistent focus on the sounds of the creative act without introducing unexpected noises?",
+      "Is the audio free from distortion or noise that could detract from the immersive experience?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the artist visibly focused on their creative activity, such as painting or playing the piano?",
+      "Are the artist's hands actively engaged in the creative process, either moving a brush or pressing piano keys?",
+      "Does the video show the artist's facial expression as concentrated or absorbed in their work?",
+      "Is the artist's body posture indicative of deep engagement, such as leaning towards the canvas or piano?",
+      "Are the visual elements of the creative act, like brush strokes or piano keys, clearly visible and emphasized?",
+      "Is there an absence of visible external distractions, such as people walking by or phones ringing?",
+      "Does the lighting in the video focus on the artist and their activity, enhancing the sense of immersion?"
+    ]
+  },
+  {
+    "prompt_en": "For a video of a character sitting in stillness after experiencing a major upheaval, simulating the subjective sensation of time slowing down: apply time-stretching processing to all ambient sounds (such as clock ticking, traffic noise) so they play slower than normal, with correspondingly lowered pitch.",
+    "prompt_vision": "A character sitting motionless, conveying deep emotional stillness after a major upheaval, with visual cues suggesting the subjective slowing of time.",
+    "prompt_audio": "Time-stretched ambient sounds including slowed clock ticking and traffic noise, all with lowered pitch to simulate time dilation.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include ambient sounds such as clock ticking or traffic noise that are time-stretched to play slower than normal?",
+      "Are the pitches of the ambient sounds lowered to match the time-stretching effect?",
+      "Is the overall audio free of abrupt noise or distortion that would disrupt the sensation of slowed time?",
+      "Are the ambient sounds consistent with the implied stillness of the character, without introducing unexpected or prominent new sound sources?",
+      "Does the audio maintain synchronization between the slowed-down ambient sounds and the visual elements of the scene?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the character visibly sitting in stillness without any large body movements?",
+      "Are the surroundings visually calm, with no fast-moving objects or actions in the scene?",
+      "Does the character's facial expression or posture suggest a contemplative or subdued state?",
+      "Is the lighting consistent and not changing rapidly, supporting the sense of stillness?",
+      "Are any visible ambient elements, such as a clock or traffic, moving slower than normal to simulate time slowing down?"
+    ]
+  },
+  {
+    "prompt_en": "To create a sense of being watched in a video of someone walking alone and frequently looking back, feeling followed: each time they turn their head, add an extremely faint but clear sound from a hidden observer (such as a camera shutter click or muffled breath), which immediately vanishes once they look forward again.",
+    "prompt_vision": "A person walking alone down a dimly lit street, frequently glancing back over their shoulder with a tense expression, as if feeling followed.",
+    "prompt_audio": "Each time the person turns their head, an extremely faint but clear sound such as a camera shutter click or muffled breath is heard, vanishing immediately when they look forward again.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include an extremely faint but clear sound from a hidden observer each time the person turns their head?",
+      "Is the sound from the hidden observer immediately absent once the person looks forward again?",
+      "Can the faint sound from the hidden observer be identified as a camera shutter click or muffled breath?",
+      "Are the sounds from the hidden observer synchronized with the timing of the person's head turns?",
+      "Is the volume of the hidden observer's sound low enough to suggest subtlety but still clear enough to be discernible?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the person visibly walking alone in the video?",
+      "Does the person frequently turn their head to look back?",
+      "Is there a visible change in the person's facial expression when they look back, suggesting alertness or concern?",
+      "Are the person's head movements clearly directed backward when they turn?",
+      "Is the person's body posture indicative of walking, with visible leg motion?",
+      "Does the person appear to resume looking forward after each backward glance?"
+    ]
+  },
+  {
+    "prompt_en": "Create the audio for a first-person video of waking up with a hangover and a splitting headache: extreme sensitivity to light and sound, so that normal sounds like the \"click\" of a light switch or birds chirping outside the window are rendered abnormally sharp and piercing, accompanied by a persistent low-frequency pulsating tinnitus synchronized with the heartbeat.",
+    "prompt_vision": "First-person view, dim bedroom, sunlight through curtains, hand reaches to turn off switch, wincing in pain.",
+    "prompt_audio": "Extremely sharp and piercing click of a light switch, exaggeratedly loud and shrill birds chirping outside, persistent low-frequency pulsating tinnitus synchronized with heartbeat, all sounds unnaturally amplified and harsh to convey auditory hypersensitivity.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of the light switch click rendered abnormally sharp and piercing to reflect heightened sensitivity?",
+      "Are the sounds of birds chirping outside the window abnormally sharp and piercing to match the described sensitivity?",
+      "Is there a persistent low-frequency pulsating tinnitus synchronized with the heartbeat present throughout the audio?",
+      "Does the tinnitus maintain a consistent low-frequency pulsation without distortion or interruption?",
+      "Are all ambient sounds subdued or absent except for those explicitly described, reflecting the implied quietness of the scene?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the lighting in the scene depicted as overly bright and harsh, emphasizing sensitivity to light?",
+      "Are the objects in the room visually blurred or distorted to suggest disorientation and headache symptoms?",
+      "Does the window show exaggerated brightness or sharp contrasts to simulate discomfort from sunlight?",
+      "Are the textures of surfaces, such as bedding or furniture, rendered with heightened clarity to emphasize sensory overload?",
+      "Is the spatial relationship between the viewer and nearby objects visually compressed or distorted to suggest a sense of dizziness or unease?",
+      "Are the shadows in the scene sharp and exaggerated, contributing to the visual discomfort associated with a hangover?"
+    ]
+  },
+  {
+    "prompt_en": "A video of a person recalling memories with closed eyes during psychotherapy, depicting the emergence of repressed memories: over indistinct spoken words, layered with distorted, reversed, and speed-altered sound fragments related to real trauma, these sounds flicker like ghosts at the edge of consciousness.",
+    "prompt_vision": "A person with closed eyes during psychotherapy, recalling memories, facial expression showing emotional intensity, seated in a dimly lit room.",
+    "prompt_audio": "Indistinct spoken words layered with distorted, reversed, and speed-altered sound fragments, flickering faintly like ghosts at the edge of consciousness.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio contain indistinct spoken words that are layered with other sound fragments?",
+      "Can the sound fragments be perceived as flickering, suggesting they appear intermittently or unpredictably?",
+      "Is there a sense of auditory emergence, where the sounds gradually become more noticeable or prominent?",
+      "Are the sound fragments positioned or mixed in a way that suggests they are at the edge of consciousness, not fully clear or dominant?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the person depicted with their eyes closed during the video?",
+      "Does the video show the person in a still or calm posture, consistent with recalling memories?",
+      "Are there visual representations or effects suggesting the emergence of repressed memories, such as flickering or distorted imagery?",
+      "Is the lighting subdued or soft, creating a reflective or introspective atmosphere?",
+      "Are there visual cues or overlays that suggest fragmented or distorted elements, such as ghostly or flickering visuals?"
+    ]
+  },
+  {
+    "prompt_en": "For a video of someone arriving at a new place but suddenly looking confused, create an auditory \"déjà vu\": briefly and ghost-like, overlay a past sound with strong reverb and faded quality into the current ambient audio, as if memory and reality overlapped for a second.",
+    "prompt_vision": "A person arrives at a new location and suddenly looks confused.",
+    "prompt_audio": "Brief, ghost-like overlay of a past sound with strong reverb and faded quality, blending into current ambient audio as if memory and reality briefly overlapped.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the past sound presented with a faded quality to create a ghost-like effect?",
+      "Can the overlay of the past sound be heard distinctly within the current ambient audio?",
+      "Is the timing of the past sound overlay synchronized with the moment the person looks confused?",
+      "Does the ambient audio continue seamlessly after the brief overlay of the past sound?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the person visibly arriving at a new location in the video?",
+      "Does the person exhibit a facial expression that clearly indicates confusion?",
+      "Are there visible cues in the video that suggest the person has just arrived, such as luggage or a vehicle?",
+      "Is the person's body language consistent with someone who is confused, such as looking around or pausing in movement?",
+      "Is the lighting in the video consistent with the person being outdoors or in a well-lit area, as typically expected when arriving at a new place?"
+    ]
+  },
+  {
+    "prompt_en": "Create an auditory representation of \"inspiration striking\" for a video depicting a writer or scientist deep in thought who suddenly has a flash of insight: abruptly introduce a complex, harmonious, and rapidly flowing musical or sonic passage over the previously quiet or tense background soundscape, as if a flood of information instantly converges in the mind.",
+    "prompt_vision": "A writer or scientist sitting in deep thought, suddenly pausing with widened eyes and an uplifted posture as if struck by a sudden insight.",
+    "prompt_audio": "Abruptly introduces a complex, harmonious, and rapidly flowing musical passage—bright, resonant, and intricate—over a previously quiet or tense ambient soundscape, evoking a flood of converging ideas.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the transition to the musical or sonic passage occur abruptly at the moment of insight?",
+      "Is the musical or sonic passage complex and harmonious, reflecting the described flood of information?",
+      "Is the background soundscape appropriately subdued or quiet before the flash of insight?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the person depicted sitting or standing still, showing a thoughtful pose such as resting their chin on their hand or gazing intently at an object or space?",
+      "Does the person's facial expression change to show a sudden realization, such as widened eyes or a slight smile?",
+      "Are the person's hands or body shown making a sudden movement, such as reaching for a pen or typing on a keyboard, after the moment of insight?",
+      "Is there a visible object or tool, such as a notebook, computer, or scientific equipment, that the person interacts with after the flash of insight?",
+      "Does the lighting in the scene shift to become brighter or more focused on the person at the moment of inspiration?",
+      "Are there visual elements, such as abstract shapes, glowing lines, or symbols, that appear around the person to represent the flow of ideas or insight?"
+    ]
+  },
+  {
+    "prompt_en": "Create an auditory experience of information overload for a video depicting a person in a modern city surrounded by countless billboards and screens: rapidly switch and layer the sounds from all advertisements (voice-overs, music, sound effects) to form a dizzying, overwhelming flood of sound.",
+    "prompt_vision": "A person standing in a modern city surrounded by countless billboards and digital screens displaying advertisements.",
+    "prompt_audio": "Rapidly switching and layered advertisement sounds including overlapping voice-overs, jingles, electronic music snippets, and sound effects, creating a dizzying, overwhelming flood of audio information.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a rapid switching of advertisement sounds such as voice-overs, music, and sound effects to reflect the concept of information overload?",
+      "Are multiple advertisement sounds layered simultaneously to create a dense and overwhelming auditory experience?",
+      "Is there a noticeable variation in the pitch and timbre of the overlapping sounds to represent different types of advertisements?",
+      "Are there no prolonged moments of silence or quietness that would contradict the intended overwhelming auditory experience?",
+      "Does the overall volume and energy of the audio match the chaotic and busy atmosphere of a modern city filled with advertisements?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the person visually surrounded by numerous billboards and screens in the modern city setting?",
+      "Are the billboards and screens displaying distinct visual content, such as advertisements or animations?",
+      "Does the person appear visually overwhelmed or disoriented, such as through facial expressions or body language?",
+      "Are the billboards and screens positioned at varying heights and angles around the person?",
+      "Is there a visible contrast in lighting between the bright screens and the surrounding environment?"
+    ]
+  }
+]

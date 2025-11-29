@@ -1,0 +1,418 @@
+[
+  {
+    "prompt_en": "The pianist plays a deep chord and then depresses the sustain pedal. The notes can be heard blending and blurring through string resonance, forming a rich, sonorous cloud of sound. Then, without releasing the sustain pedal, skillfully shifts to a new chord, allowing the lingering tones of the previous chord to intertwine with the attack of the new one. Finally, the pedal is abruptly lifted, instantly cutting off all sound with the dampers, restoring absolute clarity and demonstrating exquisite control over sound texture through the pedal.",
+    "prompt_vision": "A pianist playing a piano, depressing and releasing the sustain pedal with focused expression and precise hand movements.",
+    "prompt_audio": "Deep piano chord with sustain pedal engaged, notes blending through string resonance into a rich, sonorous cloud; new chord introduced while pedal still down, creating overlapping harmonies; abrupt release of pedal cuts all sound instantly with dampers, restoring silence and clarity.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the sound of a deep chord being played on the piano initially?",
+      "Is there a noticeable blending and blurring of notes through string resonance after the sustain pedal is depressed?",
+      "Can the audio capture the rich, sonorous quality of the sound cloud formed by the sustained chord?",
+      "Are the lingering tones of the previous chord audible when the pianist shifts to a new chord without releasing the sustain pedal?",
+      "Does the audio demonstrate the intertwining of the previous chord's tones with the attack of the new chord?",
+      "Is there an abrupt cessation of sound when the sustain pedal is lifted, restoring clarity?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the pianist's foot visibly pressing the sustain pedal after playing the first chord?",
+      "Are the pianist's fingers visibly moving to play a new chord while the sustain pedal remains pressed?",
+      "Does the pianist's foot visibly lift off the sustain pedal at the end, indicating the release of the pedal?",
+      "Are the keys of the piano visibly depressed when the pianist plays the chords?",
+      "Is there a visible transition in the pianist's hand position when shifting from the first chord to the new chord?"
+    ]
+  },
+  {
+    "prompt_en": "The guitarist begins with a crystalline arpeggio played using the clean channel. Then, stepping on the overdrive pedal, the tone becomes warm and slightly compressed. Next, switching to the distortion channel, the same phrase instantly transforms into a gritty, aggressive roar. Finally, the guitarist bends a note to its limit and moves closer to the amplifier, triggering a controlled, howling feedback, as the pitch hovers on the edge between control and chaos.",
+    "prompt_vision": "A guitarist playing an electric guitar, stepping on effects pedals, bending a string intensely, and moving closer to a guitar amplifier.",
+    "prompt_audio": "Crystalline clean arpeggio, warm compressed overdrive, gritty aggressive distortion, sustained high-pitched feedback hovering between control and chaos.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the sound become warmer and slightly compressed when the overdrive pedal is activated?",
+      "Is there a noticeable change to a gritty, aggressive tone when the distortion channel is engaged?",
+      "Can you hear the note bending to its limit with a change in pitch as described?",
+      "Is there a controlled feedback sound when the guitarist moves closer to the amplifier, with the pitch hovering between control and chaos?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the guitarist visibly playing an arpeggio on the guitar at the beginning of the sequence?",
+      "Does the guitarist appear to step on a pedal to change the tone during the performance?",
+      "Can the guitarist be seen bending a note on the guitar towards the end of the sequence?",
+      "Is there visible proximity between the guitarist and the amplifier when triggering feedback?",
+      "Are the guitarist's fingers visibly moving on the guitar strings during the performance?",
+      "Is there a visible change in the guitarist's posture or position when moving closer to the amplifier?",
+      "Does the guitar appear to produce feedback visually, such as vibrating strings or speaker cone movement, when the guitarist moves closer to the amplifier?"
+    ]
+  },
+  {
+    "prompt_en": "A violin solo. It begins with a rapid run of double stops, with two strings sounding simultaneously. This is followed by a series of artificial harmonics, producing an ethereal, whistle-like tone. Then the performer switches to pizzicato, plucking the strings with fingers to create a percussive effect. Finally, after a dazzling passage of fast scales, it concludes with a powerful, sustained note rich in vibrato, showcasing the wide expressive range of the violin.",
+    "prompt_vision": "A violinist performing a solo on a violin.",
+    "prompt_audio": "Violin solo beginning with rapid double stops, followed by artificial harmonics producing an ethereal whistle-like tone, then pizzicato plucking for a percussive effect, fast scales, and ending with a powerful sustained note rich in vibrato.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio begin with a rapid run of double stops, where two strings sound simultaneously?",
+      "Are the artificial harmonics producing an ethereal, whistle-like tone after the initial double stops?",
+      "Is there a transition to pizzicato, where the strings are plucked to create a percussive effect?",
+      "Does the audio include a dazzling passage of fast scales before the conclusion?",
+      "Is the final note powerful and sustained, rich in vibrato, showcasing the expressive range of the violin?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the violinist depicted playing with a bow at the beginning of the solo, suggesting the use of double stops?",
+      "Are two strings visibly vibrating simultaneously during the initial rapid run, indicating double stops?",
+      "Does the violinist appear to use finger techniques on the strings to produce artificial harmonics, suggesting an ethereal tone?",
+      "Can the performer be seen plucking the strings with fingers during the pizzicato section, indicating a percussive effect?",
+      "Are the violinist's fingers visibly moving quickly along the fingerboard during the fast scales passage?",
+      "Is the final note shown with the violinist using a bow and visibly applying vibrato, suggesting a powerful, sustained expression?"
+    ]
+  },
+  {
+    "prompt_en": "The solo begins with a complex, swinging \"ding-da-ding\" pattern on the ride cymbal, the left foot steadily pressing the hi-hat on beats two and four. Then, while the right hand maintains the ride rhythm, the left hand starts a series of delicate, extremely soft ghost notes filling in on the snare drum. Suddenly, the rhythm erupts as hands and feet engage in a complex dialogue across the entire kit—snare rolls, tom-tom phrases, and double bass drum hits intertwine, culminating in a powerful rimshot and cymbal crash.",
+    "prompt_vision": "Drummer plays energetic solo, hands and feet rapid on kit, ends with forceful rimshot and cymbal crash.",
+    "prompt_audio": "Complex swinging ride cymbal pattern 'ding-da-ding', steady hi-hat on beats two and four, soft ghost notes on snare, building into rapid snare rolls, tom-tom phrases, double bass drum hits, ending with a loud rimshot and cymbal crash.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the ride cymbal produce a swinging 'ding-da-ding' pattern at the beginning of the solo?",
+      "Is the hi-hat sound present on beats two and four, indicating the left foot's steady pressing?",
+      "Can the snare drum produce extremely soft ghost notes while the right hand maintains the ride rhythm?",
+      "Are the snare rolls, tom-tom phrases, and double bass drum hits audibly distinct during the complex dialogue across the kit?",
+      "Will the audio culminate in a powerful rimshot and cymbal crash at the end of the solo?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the right hand visibly maintaining a swinging pattern on the ride cymbal?",
+      "Is the left foot visibly pressing the hi-hat on beats two and four?",
+      "Is the left hand visibly playing soft ghost notes on the snare drum?",
+      "Are both hands and feet visibly engaged in a complex rhythm across the drum kit?",
+      "Are there visible snare rolls and tom-tom phrases being played?",
+      "Is there a visible double bass drum technique being used?",
+      "Is there a visible rimshot and cymbal crash at the culmination of the solo?"
+    ]
+  },
+  {
+    "prompt_en": "This is not a simple strumming. The guitarist uses the little, ring, middle, and index fingers of his right hand to rapidly and forcefully sweep across the strings in sequence, like a fan unfolding, producing a series of highly energetic and rhythmic \"ch-ch-ch-ch\" sounds. Immediately after, he plucks a syncopated melody on the lower strings with his thumb, while simultaneously striking the guitar's soundboard with the lower part of his palm (Golpe), creating a sharp \"tap\" percussion sound, transforming the guitar into a hybrid instrument blending melody and percussion.",
+    "prompt_vision": "Guitarist sweeps strings with right-hand fingers, plucks lower strings with thumb, strikes soundboard with palm heel.",
+    "prompt_audio": "Rapid, forceful 'ch-ch-ch-ch' strumming sounds, followed by a syncopated melodic pluck on lower strings and a sharp percussive 'tap' from striking the guitar body.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a rapid and forceful sequence of 'ch-ch-ch-ch' sounds produced by the guitarist's fingers sweeping across the strings?",
+      "Is there a syncopated melody plucked on the lower strings with the thumb immediately following the sweeping sequence?",
+      "Can the audio capture a sharp 'tap' percussion sound created by the guitarist striking the soundboard with the lower part of his palm?",
+      "Are the 'ch-ch-ch-ch' sounds rhythmic and energetic, matching the described fan-like sweeping motion?",
+      "Is the sound of the syncopated melody distinct and audible amidst the percussion elements?",
+      "Does the audio maintain synchronization between the melody plucking and the percussion tapping, creating a cohesive hybrid sound?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the guitarist using all four fingers of his right hand to sweep across the strings in a fan-like motion?",
+      "Does the guitarist's thumb pluck the lower strings to play a melody?",
+      "Is the lower part of the guitarist's palm striking the guitar's soundboard to produce a percussion sound?",
+      "Are the guitarist's fingers visibly moving rapidly and forcefully across the strings?",
+      "Is there a visible sequence of finger movements on the guitar strings that resembles a fan unfolding?",
+      "Can the guitarist's hand be seen transitioning from sweeping the strings to plucking with the thumb?",
+      "Is there a visible interaction between the guitarist's hand and the guitar's soundboard to create a tapping sound?"
+    ]
+  },
+  {
+    "prompt_en": "The movement begins with a lonely yet beautiful melody played by the clarinet over an extremely soft string background. After a few measures, the flute takes over the melody, repeating it an octave higher, while the string harmonies become richer. Then, the entire string section assumes the theme, developing it into a powerful, sweeping torrent. Finally, the brass instruments unleash the climactic portion of the theme with tremendous force, as timpani and cymbals join in, driving the music to its peak. This is a process in which a melodic theme is passed among different timbres and voices, evolving and accumulating energy.",
+    "prompt_vision": "Clarinetist leads orchestra, flutist, strings, brass, timpani, cymbals, warm stage lighting",
+    "prompt_audio": "A lonely yet beautiful clarinet melody over extremely soft strings, followed by flute repeating the melody an octave higher with richer string harmonies, then full strings developing the theme into a powerful sweeping torrent, culminating in brass unleashing the theme with tremendous force alongside timpani and cymbals.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the clarinet melody clearly audible at the beginning, with an extremely soft string background accompanying it?",
+      "Does the flute take over the melody after a few measures, repeating it an octave higher, while the string harmonies become richer?",
+      "Are the strings clearly audible when they assume the theme and develop it into a powerful, sweeping torrent?",
+      "Is Do the brass instruments unleash the climactic portion of the theme with tremendous force, accompanied by timpani and cymbals?",
+      "Is the transition of the melodic theme between the clarinet, flute, strings, and brass smooth and consistent in timing and energy?",
+      "Can the timpani and cymbals be distinctly heard driving the music to its peak during the climactic portion?",
+      "Are the changes in timbre and energy throughout the progression of the theme accurately reflected in the audio?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the clarinet visually depicted playing a melody with a soft string background?",
+      "Does the flute appear to take over the melody, visually represented an octave higher than the clarinet?",
+      "Are the string harmonies visually shown becoming richer as the flute plays?",
+      "Will the brass instruments be visually depicted unleashing the climactic portion of the theme with tremendous force?",
+      "Are timpani and cymbals visually represented joining in to drive the music to its peak?"
+    ]
+  },
+  {
+    "prompt_en": "The song begins with a strong, standard 4/4 beat. After the verse ends, without any warning, the band suddenly shifts into a complex 7/8 time signature, with guitar and bass playing an interlocking, asymmetrical phrase, while the drummer complements with intricate polyrhythms. This instrumental section in odd meter exudes a mathematical precision and tension, then seamlessly transitions back into the smooth 4/4 chorus through a clever bridge, showcasing the band's mastery of complex rhythms.",
+    "prompt_vision": "A band performing on stage, musicians intensely focused as they play complex rhythms, with dynamic lighting shifting to highlight the transition between time signatures.",
+    "prompt_audio": "A song starting with a strong 4/4 beat, abruptly shifting to a complex 7/8 time signature featuring interlocking guitar and bass phrases and intricate drum polyrhythms, then seamlessly transitioning back to a smooth 4/4 chorus through a clever bridge, showcasing mathematical precision and rhythmic mastery.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio begin with a strong, standard 4/4 beat?",
+      "Is there a noticeable shift to a complex 7/8 time signature after the verse ends?",
+      "Can the guitar and bass be heard playing an interlocking, asymmetrical phrase during the 7/8 section?",
+      "Are intricate polyrhythms from the drummer audible during the 7/8 instrumental section?",
+      "Does the transition back to the 4/4 chorus occur seamlessly through a clever bridge?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visual representation of the band playing with instruments, such as guitars and drums, during the transition from the verse to the instrumental section?",
+      "Can the visual elements illustrate the interlocking, asymmetrical phrase played by the guitar and bass, highlighting their synchronized movements and spatial relationship?",
+      "Are there visual cues, such as lighting changes or camera angles, that emphasize the transition from the complex 7/8 instrumental section back to the smooth 4/4 chorus?",
+      "Will the visual composition include close-up shots of the musicians' hands or instruments, demonstrating the band's mastery of complex rhythms during the bridge?",
+      "Is the tension and mathematical precision of the odd meter section visually represented through dynamic and engaging imagery, such as contrasting colors or sharp geometric shapes?"
+    ]
+  },
+  {
+    "prompt_en": "The saxophone section plays a fast, intricate melodic phrase in unison (soli), like a voice posing a question. Immediately, the brass section—composed of trumpets and trombones—responds with a powerful, tightly synchronized chord. This \"call and response\" pattern repeats between the two sections, over a steady swing groove provided by the rhythm section of bass, drums, and piano. At the climax, all the horn players stand up and play with full force, creating the famous \"shout chorus,\" where the sonic energy reaches its peak.",
+    "prompt_vision": "Jazz big band: sax and brass call-response, horn players stand for shout chorus; rhythm section with bass, drums, piano.",
+    "prompt_audio": "Fast, intricate saxophone soli melody followed by powerful, synchronized brass chords in a call-and-response pattern over a steady swing groove; builds to a climactic shout chorus with full ensemble intensity.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the saxophone section produce a fast, intricate melodic phrase with clear unison playing at the beginning of the sequence?",
+      "Is there a powerful, tightly synchronized chord response from the brass section immediately following the saxophone phrase?",
+      "Can the rhythm section of bass, drums, and piano be heard providing a steady swing groove throughout the sequence?",
+      "Are the saxophone and brass sections alternating in a call and response pattern, with each section clearly audible?",
+      "Will the horn players' volume and energy noticeably increase during the climax, creating a peak in sonic energy?",
+      "Is the 'shout chorus' characterized by all horn players standing and playing with full force, resulting in a heightened auditory impact?"
+    ],
+    "auxiliary_info_vision": [
+      "Are the saxophone players depicted playing their instruments in unison?",
+      "Does the brass section, including trumpets and trombones, appear to play a synchronized chord?",
+      "Can the rhythm section, consisting of bass, drums, and piano, be seen providing a steady groove?",
+      "Are all the horn players shown standing up during the climax of the performance?",
+      "Is there visible interaction between the saxophone section and the brass section, suggesting a call and response pattern?",
+      "Will the saxophone section be depicted playing with intricate finger movements on their instruments?",
+      "Are the horn players visibly exerting full force during the shout chorus?"
+    ]
+  },
+  {
+    "prompt_en": "What we hear is not a live band performance, but a mixed recording. It's clear that the kick drum and bass have been processed to be deep and powerful, occupying the lower midrange; the lead vocal sits precisely at the center of the soundstage with a slight reverb effect; the two rhythm guitars are panned hard left and right, creating a wide stereo image; while the guitar solo is brought to the forefront, standing out in both volume and brightness above the other instruments. All instruments have been meticulously shaped with equalization (EQ) to avoid masking each other, resulting in a track that is both cohesive and clearly defined.",
+    "prompt_vision": "a coherent and harmonious scene",
+    "prompt_audio": "mixed music recording with deep and powerful kick drum and bass in the lower midrange, centered lead vocal with slight reverb, rhythm guitars panned hard left and right for wide stereo image, bright and prominent guitar solo, all instruments EQ'd to avoid masking for a cohesive and clearly defined mix",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the kick drum and bass sound deep and powerful, occupying the lower midrange?",
+      "Is the lead vocal positioned precisely at the center of the soundstage with a slight reverb effect?",
+      "Are the two rhythm guitars panned hard left and right, creating a wide stereo image?",
+      "Is the guitar solo brought to the forefront, standing out in both volume and brightness above the other instruments?",
+      "Are all instruments clearly defined and not masking each other due to meticulous equalization (EQ)?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the kick drum visually represented as deep and powerful, occupying the lower midrange in the composition?",
+      "Does the lead vocal appear precisely at the center of the visual soundstage with a slight reverb effect?",
+      "Are the two rhythm guitars visually panned hard left and right, creating a wide stereo image?",
+      "Can the guitar solo be seen brought to the forefront, standing out in both volume and brightness above the other instruments?",
+      "Are all instruments visually shaped with equalization to avoid masking each other, resulting in a cohesive and clearly defined track?"
+    ]
+  },
+  {
+    "prompt_en": "A live concert. After a very soft and slow movement, the conductor makes a tiny, preparatory gesture. At the instant the baton sharply dips downward, the entire orchestra erupts into a powerful tutti fortissimo, the dynamic range of sound expanding from near silence to maximum within a fraction of a second. Then, the conductor's gesture becomes gentle and smooth, and the string section immediately responds with a diminuendo, the sound gradually fading into silence. This demonstrates the remarkable synchronicity and causality between the conductor's movements and the orchestra's dynamic fluctuations.",
+    "prompt_vision": "A conductor leading an orchestra, making a sharp downward baton motion followed by a gentle, smooth gesture; the orchestra members respond in precise synchrony.",
+    "prompt_audio": "Near silence abruptly erupting into a powerful orchestral fortissimo tutti, then gradually fading into silence through a smooth diminuendo.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a very soft and slow movement audible before the conductor's preparatory gesture?",
+      "Does the sound erupt into a powerful tutti fortissimo at the instant the baton sharply dips downward?",
+      "Is there a noticeable expansion in dynamic range from near silence to maximum within a fraction of a second?",
+      "Does the string section respond with a diminuendo immediately after the conductor's gesture becomes gentle and smooth?",
+      "Is the sound of the orchestra gradually fading into silence after the diminuendo?",
+      "Is there a clear synchronicity between the conductor's movements and the orchestra's dynamic fluctuations?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the conductor holding a baton in their hand?",
+      "Does the conductor make a tiny, preparatory gesture before the baton sharply dips downward?",
+      "Is the orchestra visually depicted playing their instruments during the powerful tutti fortissimo section?",
+      "Does the conductor's baton sharply dip downward at the moment the orchestra erupts into a powerful tutti fortissimo?",
+      "Are the conductor's gestures gentle and smooth after the fortissimo section?",
+      "Does the string section visually respond to the conductor's gentle gestures with a diminuendo, showing a gradual reduction in activity?",
+      "Is the orchestra visually depicted as becoming still or silent after the diminuendo?"
+    ]
+  }
+]

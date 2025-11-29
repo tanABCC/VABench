@@ -1,0 +1,1304 @@
+[
+  {
+    "prompt_en": "A vintage alarm clock with a finger pressing the top bell, set against a pure white background. The audio should include a clear metallic bell sound, with a strong sense of rhythm. The bell rings periodically and gradually quickens in pace, accompanied by slight gear rotation and mechanical clicking sounds. The sound field is centered in the middle of the scene, with moderate volume, crisp and bright tone, and a quiet ambient background, highlighting the mechanical texture of the alarm clock.",
+    "prompt_vision": "A vintage alarm clock with a finger pressing the top bell, set against a pure white background.",
+    "prompt_audio": "Clear metallic bell sound with a strong sense of rhythm, ringing periodically and gradually quickening in pace, accompanied by slight gear rotation and mechanical clicking sounds; centered sound field, moderate volume, crisp and bright tone, quiet ambient background highlighting mechanical texture.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a clear metallic bell sound present when the finger presses the top bell?",
+      "Can the bell sound be heard periodically with a gradually quickening pace?",
+      "Are there slight gear rotation and mechanical clicking sounds accompanying the bell?",
+      "Is the sound field centered in the middle of the scene?",
+      "Is the volume of the audio moderate, with a crisp and bright tone?",
+      "Is the ambient background quiet, highlighting the mechanical texture of the alarm clock?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a vintage alarm clock visible in the scene?",
+      "Is a finger pressing the top bell of the alarm clock?",
+      "Is the background pure white without any other visual elements?",
+      "Are the top bell and finger interaction clearly visible without obstruction?",
+      "Does the alarm clock show slight gear rotation during the scene?",
+      "Are the mechanical components of the alarm clock visually detailed?"
+    ]
+  },
+  {
+    "prompt_en": "The bedroom environment in the early morning, with the alarm clock's ticking clearly audible, steady and rhythmic. Faint background sounds of birds chirping outside the window and a gentle breeze create a peaceful atmosphere. The alarm gradually rings louder, with volume increasing from low to high, accompanied by subtle rustling sounds from the bed sheets. The beat synchronizes with the movement of the alarm clock's hands, forming a cyclical rhythm.",
+    "prompt_vision": "A bedroom in the early morning light, an alarm clock on a bedside table with moving hands, bed sheets slightly rumpled.",
+    "prompt_audio": "Steady, rhythmic ticking of an alarm clock, faint birds chirping outside, gentle breeze sounds, alarm ringtone gradually increasing in volume, subtle rustling of bed sheets, all forming a cyclical rhythm synchronized with the clock's ticking.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the ticking of the alarm clock clearly audible and steady throughout the audio?",
+      "Are faint background sounds of birds chirping present, contributing to the peaceful atmosphere?",
+      "Is there a gentle breeze sound that complements the peaceful environment?",
+      "Does the alarm clock's ringing gradually increase in volume from low to high?",
+      "Are there subtle rustling sounds from the bed sheets accompanying the alarm clock's ringing?",
+      "Is the cyclical rhythm of the alarm clock's ticking synchronized with the movement of its hands?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there an alarm clock visible in the bedroom environment?",
+      "Are the hands of the alarm clock visibly moving in a cyclical rhythm?",
+      "Is there a window present in the bedroom environment?",
+      "Are the bed sheets visibly rustling in the bedroom environment?",
+      "Is the lighting in the bedroom environment consistent with early morning light?"
+    ]
+  },
+  {
+    "prompt_en": "In a quiet room, the chime of an old-fashioned alarm clock rings out clearly and rhythmically. The metallic clapper strikes the bell, producing crisp, resonant tones that form a regular beat. The reverberations of the chime spread throughout the room, creating a sense of urgency and the feeling of time passing. Each swing of the clapper is synchronized with the rhythm of the scene, as if urging time forward.",
+    "prompt_vision": "An old-fashioned alarm clock with a visible metallic clapper striking a bell, sitting in a quiet, still room with soft ambient light.",
+    "prompt_audio": "Clear, rhythmic chime of an old-fashioned alarm clock; crisp, resonant metallic tones with regular beat and reverberations, creating a sense of urgency.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the chime of the alarm clock clearly audible in the audio?",
+      "Does the metallic clapper produce crisp, resonant tones when striking the bell?",
+      "Are the chimes rhythmic, forming a regular beat throughout the audio?",
+      "Can the reverberations of the chime be heard spreading throughout the room?",
+      "Is there a sense of urgency conveyed through the timing and rhythm of the chimes?",
+      "Are the swings of the clapper synchronized with the rhythm of the scene?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the alarm clock depicted as old-fashioned in design?",
+      "Does the alarm clock have a visible metallic clapper striking the bell?",
+      "Are the bells of the alarm clock shown vibrating or moving slightly with each chime?",
+      "Is the clapper's motion synchronized with the rhythm of the scene?",
+      "Are the reverberations of the chime visually represented spreading throughout the room?"
+    ]
+  },
+  {
+    "prompt_en": "In a quiet room, the ticking of the clock is clearly audible, steady and rhythmic. Each movement of the second hand is accompanied by a faint mechanical sound, creating a regular background noise. Occasionally, the clock's alarm rings out, gradually increasing in volume, filling the entire soundscape, and bringing a sense of urgency.",
+    "prompt_vision": "A quiet room with a clock on the wall, its second hand moving steadily.",
+    "prompt_audio": "Steady, rhythmic ticking of a clock with faint mechanical sounds; occasionally, an alarm rings out, gradually increasing in volume and filling the soundscape with urgency.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the ticking of the clock audible and steady throughout the audio, maintaining a rhythmic pattern?",
+      "Does each movement of the second hand produce a faint mechanical sound that is consistently heard along with the ticking?",
+      "Can the clock's alarm be heard occasionally, starting softly and gradually increasing in volume?",
+      "Is the clock's alarm capable of filling the entire soundscape, creating a sense of urgency when it rings?",
+      "Are the sounds of the ticking and mechanical movements clearly distinguishable from the alarm when it rings?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the clock visually depicted with a clearly visible second hand moving in a steady and rhythmic manner?",
+      "Does the clock have a design that suggests it could produce a mechanical ticking sound, such as visible gears or a traditional analog style?",
+      "Are there visual cues, such as a glowing or highlighted alarm indicator, that suggest the clock's alarm is active or about to ring?",
+      "Is the room depicted in a way that emphasizes quietness, such as minimal clutter, soft lighting, or muted colors, to visually support the sense of a quiet environment?"
+    ]
+  },
+  {
+    "prompt_en": "On top of a police car, the police lights flash with blue light, accompanied by loud sirens that have a strong rhythmic feel. The volume of the siren changes with the flashing of the lights, creating a tense yet organized soundscape. In the background, faint urban ambient sounds can be heard, occasionally punctuated by passing vehicles, enhancing the realism of the scene.",
+    "prompt_vision": "Police car with flashing blue lights on its roof, urban environment in the background.",
+    "prompt_audio": "Loud, rhythmic police siren with volume modulating in sync with light flashes, faint urban ambient sounds, occasional passing vehicles.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the siren have a strong rhythmic feel that matches the flashing of the police lights?",
+      "Is the volume of the siren changing in sync with the flashing of the police lights?",
+      "Are faint urban ambient sounds audible in the background?",
+      "Can passing vehicles be occasionally heard, enhancing the realism of the scene?",
+      "Is the overall soundscape tense yet organized, as described?"
+    ],
+    "auxiliary_info_vision": [
+      "Are blue lights flashing on top of the police car?",
+      "Is the police car stationary or moving without visible motion blur?",
+      "Are the flashing blue lights clearly visible and alternating in intensity?",
+      "Is the police car equipped with a visible set of police lights on its roof?",
+      "Are the flashing lights casting blue reflections or illumination on nearby surfaces?"
+    ]
+  },
+  {
+    "prompt_en": "On a sunlit basketball court, the basketball bounces lightly, producing a crisp and rhythmically distinct thumping sound, as if each contact with the ground were echoing. The breeze under the sun interweaves with the steady cycle of the ball hitting and rebounding from the surface, resembling a heartbeat, accompanied occasionally by the scuffing sounds of sports shoes on the ground, forming a unique rhythm for morning exercise.",
+    "prompt_vision": "A sunlit basketball court with a bouncing basketball and someone wearing sports shoes moving lightly on the ground.",
+    "prompt_audio": "Crisp, rhythmically distinct thumping of a bouncing basketball echoing like a heartbeat, interwoven with occasional scuffing sounds of sports shoes on the ground.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the basketball produce a crisp and rhythmically distinct thumping sound when it bounces?",
+      "Is there an echo effect present in the sound of the basketball bouncing?",
+      "Can the sound of the basketball bouncing resemble a heartbeat in its rhythmic cycle?",
+      "Are there occasional scuffing sounds from sports shoes on the ground?",
+      "Is the sound of the breeze interwoven with the rhythm of the basketball bouncing?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the basketball visible on the court?",
+      "Is the basketball shown in motion, bouncing up and down?",
+      "Are there visible shadows on the court indicating sunlight?",
+      "Is the basketball court surface visible and unobstructed?",
+      "Are there visible sports shoes on the court?",
+      "Is there any visible indication of a breeze, such as moving leaves or clothing?"
+    ]
+  },
+  {
+    "prompt_en": "On an empty basketball court, a basketball bounces on the ground, producing crisp dribbling sounds. Each bounce is accompanied by a strong, rhythmic bass drum beat, creating a powerful sense of rhythm. Occasionally, a gentle rustling sound from a breeze enhances the realism of the environment. Every time the basketball hits the ground, it synchronizes perfectly with the beat of the background music, generating a highly dynamic atmosphere.",
+    "prompt_vision": "An empty basketball court with a bouncing basketball.",
+    "prompt_audio": "Crisp basketball dribbling sounds synchronized with a strong, rhythmic bass drum beat, accompanied by gentle rustling from a breeze.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the basketball produce crisp dribbling sounds each time it bounces on the ground?",
+      "Is there a strong, rhythmic bass drum beat accompanying each bounce of the basketball?",
+      "Can the gentle rustling sound from a breeze be heard occasionally to enhance the realism?",
+      "Does the sound of the basketball hitting the ground synchronize perfectly with the beat of the background music?",
+      "Are the dribbling sounds and bass drum beats creating a powerful sense of rhythm?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a basketball visibly bouncing on the ground?",
+      "Does the basketball appear to be in motion, with visible changes in position between frames?",
+      "Are there visible impacts on the ground where the basketball bounces?",
+      "Is the basketball's motion synchronized with an implied rhythmic pattern, suggesting a beat?",
+      "Does the scene appear to be set on an empty basketball court, with no other people or objects present?",
+      "Is there any visible indication of a breeze, such as slight movement of nearby objects or dust?",
+      "Are the basketball's bounces consistent and rhythmic, suggesting a dynamic atmosphere?"
+    ]
+  },
+  {
+    "prompt_en": "On a quiet basketball court, the basketball remains still on the ground. The ambient sounds are subtle, occasionally interrupted by the faint sound of a breeze. The background music features a strong rhythmic beat, simulating the basketball bouncing on the ground in a regular pattern. The tempo is perfectly synchronized with the ball's bouncing motion. Each time the ball hits the ground, it is accompanied by a deep and powerful thud at a moderate volume, creating a tense and focused atmosphere.",
+    "prompt_vision": "A still basketball on a quiet basketball court.",
+    "prompt_audio": "Subtle ambient sounds with faint breeze interruptions, strong rhythmic background beat synchronized with deep, powerful, moderate-volume thuds simulating regular basketball bounces, creating a tense and focused atmosphere.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the ambient sound predominantly quiet with only subtle noises, occasionally interrupted by the faint sound of a breeze?",
+      "Does the background music feature a strong rhythmic beat that simulates the basketball bouncing on the ground in a regular pattern?",
+      "Is the tempo of the background music perfectly synchronized with the simulated bouncing motion of the basketball?",
+      "Can each simulated bounce of the basketball be accompanied by a deep and powerful thud at a moderate volume?",
+      "Is the overall audio atmosphere tense and focused due to the combination of rhythmic beats and thuds?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the basketball visible on the ground?",
+      "Is the basketball stationary and not moving?",
+      "Are there no visible people or players on the basketball court?",
+      "Is the basketball court visually quiet and calm, with no signs of activity?",
+      "Is the lighting on the basketball court consistent, without dramatic changes or shadows?",
+      "Is the basketball court free of any visible debris or objects other than the basketball?"
+    ]
+  },
+  {
+    "prompt_en": "In a quiet kitchen environment, the sound of a knife cutting through a steak is clearly audible, accompanied by faint creaking noises from the wooden cutting board. Each downward stroke of the blade synchronizes with a soft background rhythm, creating a pattern of rhythmic cutting sounds. Occasionally, subtle wind noises can be heard within the ambient soundscape, adding a sense of realism to the scene.",
+    "prompt_vision": "A knife cutting through a steak on a wooden cutting board in a quiet kitchen.",
+    "prompt_audio": "Clear knife cutting sounds through steak, faint creaking from wooden cutting board, soft rhythmic background beat synchronized with each cut, subtle ambient wind noises.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does each downward stroke of the knife synchronize with a soft background rhythm, creating a rhythmic pattern?",
+      "Are faint creaking noises from the wooden cutting board audible during the cutting action?",
+      "Can subtle wind noises be heard occasionally within the ambient soundscape?",
+      "Is the overall sound environment consistent with a quiet kitchen setting, without prominent background noise?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visible knife cutting through a steak on a wooden cutting board?",
+      "Does the steak appear to be positioned on a wooden cutting board?",
+      "Can the knife be seen making downward strokes on the steak?",
+      "Are there visible signs of the steak being cut, such as slices or cuts on its surface?",
+      "Is the kitchen environment visually quiet, with no visible signs of activity or movement?",
+      "Does the wooden cutting board show signs of use, such as knife marks or slight wear?",
+      "Are the knife strokes visually synchronized with a rhythmic pattern, suggesting a deliberate cutting motion?"
+    ]
+  },
+  {
+    "prompt_en": "Inside an ancient clock tower, the massive pendulum swings in the dim light, emitting deep and prolonged chimes. The echoes of the bells reflect back and forth between the narrow stone walls, creating a solemn and mysterious soundscape. The rhythm of the chimes is perfectly synchronized with the pendulum's swing; each toll is accompanied by a subtle vibration in the air, as if the entire space were breathing along with it. Occasionally, a faint breeze can be heard in the background, adding a touch of natural tranquility.",
+    "prompt_vision": "Inside an ancient clock tower, a massive pendulum swings in dim light, surrounded by narrow stone walls.",
+    "prompt_audio": "Deep and prolonged bell chimes echoing between stone walls, synchronized with the pendulum's swing, accompanied by subtle air vibrations and occasional faint breeze sounds.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of the pendulum's swing accompanied by deep and prolonged chimes?",
+      "Are the chimes synchronized with the pendulum's swing in rhythm?",
+      "Is Do the echoes of the bells reflect back and forth, creating a solemn and mysterious soundscape?",
+      "Is there a subtle vibration in the audio that coincides with each toll of the chimes?",
+      "Can a faint breeze be heard occasionally in the background, adding a natural tranquility to the soundscape?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a massive pendulum visible inside the clock tower?",
+      "Is the pendulum swinging in the dim light?",
+      "Are the stone walls narrow within the clock tower?",
+      "Does the lighting appear dim inside the clock tower?",
+      "Is there a visible synchronization between the pendulum's swing and the chimes?",
+      "Are there any visible vibrations in the air when the chimes occur?",
+      "Is there any indication of a faint breeze within the clock tower?"
+    ]
+  },
+  {
+    "prompt_en": "In an industrial workshop, a worker is using a grinder to polish metal, accompanied by the deep humming of the machine and sparks generated by metal friction, creating a strong sense of rhythm. The rotating sound of the grinder synchronizes with the rhythm of the flying sparks, while the environment also features slight metallic clinking and the background hum of operating machinery, resulting in an overall industrial-sounding audio scene.",
+    "prompt_vision": "In an industrial workshop, a worker uses a grinder to polish metal, generating flying sparks from metal friction. The environment includes machinery and industrial equipment.",
+    "prompt_audio": "Deep humming of a grinder, rhythmic rotating sound synchronized with bursts of spark sounds, slight metallic clinking, and background hum of operating machinery.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the rotating sound of the grinder synchronized with the rhythm of the flying sparks?",
+      "Is there a deep humming sound from the machine accompanying the grinder's operation?",
+      "Are there slight metallic clinking sounds present in the environment?",
+      "Does the background feature a hum of operating machinery distinct from the grinder's sound?",
+      "Are the sounds of metal friction and sparks consistent with the grinder's polishing action?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the worker holding a grinder?",
+      "Are there visible sparks being generated by the grinder?",
+      "Is the metal being polished by the grinder?",
+      "Is the grinder in motion, suggesting rotation?",
+      "Are there visible signs of metal friction, such as sparks or metal shavings?",
+      "Is the worker's posture indicative of operating a grinder?",
+      "Is the environment visually consistent with an industrial workshop setting?"
+    ]
+  },
+  {
+    "prompt_en": "When the engine starts, a deep and powerful roar fills the entire sound field, accompanied by metallic vibrations and mechanical operating sounds. The rhythm is strong, as if performing a symphony of speed. The engine sound is layered, rich in tone, and gradually increases in volume, creating a tense and exciting atmosphere. The ambient sound occasionally includes wind noise and the sound of tires friction against the ground, enhancing the sense of speed.",
+    "prompt_vision": "A high-performance vehicle with a powerful engine, possibly on a racetrack or open road, conveying motion and speed.",
+    "prompt_audio": "Deep, powerful engine roar with metallic vibrations and mechanical operating sounds; layered, rich tones gradually increasing in volume; strong rhythmic quality; accompanied by wind noise and tire friction against the ground.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the engine start with a deep and powerful roar that fills the entire sound field?",
+      "Are metallic vibrations and mechanical operating sounds present when the engine starts?",
+      "Is the rhythm of the engine sound strong, resembling a symphony of speed?",
+      "Is the engine sound layered and rich in tone, gradually increasing in volume?",
+      "Does the audio create a tense and exciting atmosphere as the engine sound increases?",
+      "Is there occasional wind noise present in the ambient sound?",
+      "Can the sound of tires friction against the ground be heard, enhancing the sense of speed?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the engine visually depicted as starting with visible mechanical components moving or vibrating?",
+      "Are there visible metallic elements that appear to vibrate in sync with the engine operation?",
+      "Can the motion of the engine components be seen to increase in speed, suggesting a gradual increase in activity?",
+      "Are there visual cues, such as dust or debris, indicating tire friction against the ground?",
+      "Is there a visual representation of wind, such as moving leaves or dust, suggesting wind noise?",
+      "Are the mechanical components of the engine depicted with a strong, rhythmic motion?",
+      "Is there a visual indication of tension and excitement, such as rapid movements or dynamic lighting changes?"
+    ]
+  },
+  {
+    "prompt_en": "The sound of footsteps walking in the snow, with a faint creaking noise produced as the soles make contact with the snow, maintaining a steady rhythm synchronized with the movement of the steps. The environment features subtle wind sounds, occasionally accompanied by distant, muffled natural noises such as rustling branches or bird calls. The audio field conveys a sense of open space, with the volume of the footsteps changing according to distance, gradually fading away.",
+    "prompt_vision": "A person walking through a snowy landscape, surrounded by trees and open space, with no visible signs of human structures.",
+    "prompt_audio": "Footsteps in snow with faint creaking soles, steady rhythm, subtle wind, distant muffled rustling branches and bird calls, footsteps fading with distance",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a clear sound of footsteps that matches the rhythm of walking in the snow, with a faint creaking noise accompanying each step?",
+      "Are the footsteps synchronized with the movement, maintaining a steady rhythm throughout the audio?",
+      "Does the audio include subtle wind sounds that are consistent with an open space environment?",
+      "Are there occasional distant, muffled natural noises such as rustling branches or bird calls present in the audio?",
+      "Does the audio field convey a sense of open space, with the volume of the footsteps changing according to distance?",
+      "Is Do the footsteps gradually fade away, indicating a change in distance from the listener?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visual representation of footsteps making contact with the snow, showing the snow being slightly compressed or displaced with each step?",
+      "Are there visual cues indicating a snowy environment, such as snow-covered ground or snowflakes in the air?",
+      "Does the visual scene include elements that suggest a sense of open space, like a wide landscape or distant horizon?",
+      "Are there visual indicators of wind, such as swaying branches or drifting snow particles, that align with the subtle wind sounds described?"
+    ]
+  },
+  {
+    "prompt_en": "The sound of walking in the snow, emphasizing the crispness and rhythm of footsteps on the snow. Each step is accompanied by a subtle sound of snow friction, creating an atmosphere of a cold environment. Occasionally, a faint whistling sound of a breeze can be heard in the background, enhancing the realism of the environmental soundscape. The rhythm of the footsteps is perfectly synchronized with the movement of the shoes in the visual, ensuring a seamless integration of audio and visual elements.",
+    "prompt_vision": "Person walking in snow, footsteps sinking slightly, shoes moving in precise rhythm with steps, crisp white surface.",
+    "prompt_audio": "Crisp, rhythmic footsteps on snow with subtle snow friction sounds, accompanied by occasional faint whistling breeze in the background, creating a cold, realistic winter soundscape.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a crisp sound accompanying each footstep, indicating walking on snow?",
+      "Does each footstep include a subtle sound of snow friction?",
+      "Is there an occasional faint whistling sound of a breeze in the background?",
+      "Are the footsteps' sounds synchronized with the visual movement of the shoes?",
+      "Does the audio create an atmosphere that suggests a cold environment?"
+    ],
+    "auxiliary_info_vision": [
+      "Are the footsteps visually depicted as making contact with snow with each step?",
+      "Is there visible snow deformation or displacement with each footstep?",
+      "Are the shoes shown moving in a rhythmic pattern consistent with walking?",
+      "Is there visual evidence of a cold environment, such as snow-covered ground or frost?",
+      "Are the shoes visually depicted as moving in sync with the rhythm of footsteps?"
+    ]
+  },
+  {
+    "prompt_en": "In a snowy forest during winter, accompanied by the rhythm of footsteps, the snow emits a faint creaking sound when stepped on. Occasionally, distant whispers of wind and rustling branches can be heard. The rhythm of the footsteps should be perfectly synchronized with the walking movements in the visuals, with slight variations in volume to reflect distance, creating an immersive natural soundscape.",
+    "prompt_vision": "A person walking through a snowy forest in winter, with visible footsteps compressing the snow underfoot.",
+    "prompt_audio": "Faint creaking of snow under rhythmic footsteps, synchronized with walking movements, with slight volume variations to indicate distance; distant whispers of wind and rustling branches in the background.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a faint creaking sound emitted by the snow when footsteps occur?",
+      "Are the footsteps synchronized with the walking movements in the visuals?",
+      "Is Do the footsteps vary in volume to reflect changes in distance from the viewer?",
+      "Can distant whispers of wind be heard occasionally in the audio?",
+      "Are rustling branches audible occasionally in the soundscape?",
+      "Is the overall audio experience immersive and consistent with a natural snowy forest environment?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there visible snow on the ground in the forest scene?",
+      "Are there trees with bare branches, indicating a winter setting?",
+      "Can the footsteps be seen creating impressions in the snow as they move?",
+      "Are the walking movements of the person synchronized with the visual rhythm of footsteps?",
+      "Is there any visible movement of branches that suggests rustling due to wind?",
+      "Does the snow appear to have a faint texture that could imply a creaking sound when stepped on?"
+    ]
+  },
+  {
+    "prompt_en": "In a woodworking scene, the sound of a hammer striking a nail has a crisp metallic timbre, accompanied by rhythmic tapping. The volume varies with the intensity of the motion, and the tapping sounds are perfectly synchronized with the hand movements. In the background, there are faint sounds of wooden boards rubbing together and footsteps on the floor. The overall soundscape is focused and layered.",
+    "prompt_vision": "A person hammering a nail into wood, with visible hand movements synchronized to the tapping. Wooden boards and a floor are present in the scene.",
+    "prompt_audio": "Crisp metallic hammer strikes with rhythmic tapping, volume varying with motion intensity. Faint sounds of wooden boards rubbing and footsteps in the background. Focused, layered soundscape.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the sound of the hammer striking a nail have a crisp metallic timbre?",
+      "Are the tapping sounds synchronized with the hand movements of the hammer?",
+      "Does the volume of the hammer tapping vary with the intensity of the motion?",
+      "Are there faint sounds of wooden boards rubbing together in the background?",
+      "Are there faint footsteps audible on the floor in the background?",
+      "Is the overall soundscape focused and layered without excessive noise or distortion?"
+    ],
+    "auxiliary_info_vision": [
+      "Is a person visibly striking a nail with a hammer in the scene?",
+      "Does the hammer make contact with the nail in a rhythmic motion?",
+      "Is the nail visibly being driven into a piece of wood or similar material?",
+      "Are there wooden boards visibly present in the background of the scene?",
+      "Can the person's hand movements be seen clearly synchronized with the hammer's motion?"
+    ]
+  },
+  {
+    "prompt_en": "At a woodworking bench, a craftsman strikes nails with a hammer, producing rhythmic tapping sounds. Each hammer blow is accompanied by a crisp metallic impact, concentrated and powerful in the sound field. Occasionally in the background, faint sounds of wood rubbing and tools moving create a busy working atmosphere. The rhythm of the hammering synchronizes with the craftsman's movements, forming an orderly work beat.",
+    "prompt_vision": "A craftsman at a woodworking bench hammering nails, with visible rhythmic arm movements and scattered tools around.",
+    "prompt_audio": "Rhythmic tapping sounds of a hammer striking nails, each hit producing a crisp metallic impact; faint background sounds of wood rubbing and tools moving.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does each hammer strike produce a rhythmic tapping sound that matches the craftsman's movements?",
+      "Is there a crisp metallic impact sound accompanying each hammer blow?",
+      "Are the hammering sounds concentrated and powerful in the sound field?",
+      "Can faint sounds of wood rubbing be heard occasionally in the background?",
+      "Are there occasional faint sounds of tools moving in the background?",
+      "Does the rhythm of the hammering synchronize with the craftsman's movements, forming an orderly work beat?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the craftsman holding a hammer in their hand?",
+      "Are nails visibly being struck by the hammer?",
+      "Is the hammer in motion, indicating the act of striking?",
+      "Are there visible signs of impact on the nails or wood surface?",
+      "Is the craftsman positioned at a woodworking bench?",
+      "Are there other tools visible on the bench or in the background?"
+    ]
+  },
+  {
+    "prompt_en": "The helicopter is ready for takeoff on the helipad, its rotor beginning to turn slowly and emitting a deep, powerful hum. As the rotor speed increases, the sense of rhythm gradually intensifies, accompanied by strong wind noise and engine roar, creating a dynamic sound field. Occasionally, distant bird calls and the rustling of leaves in the wind can be heard in the environment, enhancing the realism of the scene. The audio should synchronize with the rotor's rotational rhythm, emphasizing the changes in tempo as the rotor accelerates.",
+    "prompt_vision": "Helicopter on a helipad with rotor slowly turning, preparing for takeoff.",
+    "prompt_audio": "Deep, powerful hum of helicopter rotor starting slowly, intensifying in rhythm as rotor accelerates, accompanied by strong wind noise and engine roar; occasional distant bird calls and rustling leaves in the wind; audio synchronized with rotor's rotational tempo changes.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a deep, powerful hum that matches the initial slow rotation of the helicopter rotor?",
+      "Is there an increase in the intensity of the rotor's rhythmic sound as its speed increases?",
+      "Can strong wind noise and engine roar be heard as the rotor speed intensifies, contributing to a dynamic sound field?",
+      "Are distant bird calls occasionally audible in the background, enhancing the environmental realism?",
+      "Is the rustling of leaves in the wind present in the audio, adding to the scene's atmosphere?",
+      "Does the audio synchronize with the rotor's rotational rhythm, accurately reflecting changes in tempo as the rotor accelerates?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the helicopter positioned on a helipad in the image or video?",
+      "Does the helicopter's rotor appear to be turning slowly at the beginning of the scene?",
+      "Can the rotor's motion be seen increasing in speed as the scene progresses?",
+      "Are there visible signs of wind, such as leaves or debris moving, as the rotor speed increases?",
+      "Is the helicopter's body visibly stable and not moving from its position on the helipad?"
+    ]
+  },
+  {
+    "prompt_en": "A black helicopter flies against a background of blue sky and green trees. The audio should feature the intense, cyclical sound of the helicopter's rotating blades, with low-frequency vibrations permeating the entire sound field, accompanied by wind shear noise and faint ambient natural sounds in the distance. The rhythm should be synchronized with the rotational frequency of the blades, and the volume should dynamically change according to the helicopter's distance, creating a realistic sense of space.",
+    "prompt_vision": "A black helicopter flies against a background of blue sky and green trees.",
+    "prompt_audio": "Intense, cyclical sound of helicopter rotating blades with low-frequency vibrations, wind shear noise, and faint ambient natural sounds in the distance; rhythm synchronized to blade rotation, volume dynamically changing with helicopter distance for realistic spatial effect.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the intense, cyclical sound of the helicopter's rotating blades?",
+      "Are low-frequency vibrations present throughout the entire sound field?",
+      "Is there wind shear noise accompanying the sound of the helicopter?",
+      "Can faint ambient natural sounds be heard in the distance?",
+      "Is the rhythm of the audio synchronized with the rotational frequency of the helicopter blades?",
+      "Does the volume dynamically change according to the helicopter's distance, creating a realistic sense of space?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a black helicopter visible in the scene?",
+      "Is the helicopter flying against a background of blue sky?",
+      "Are there green trees visible in the background?",
+      "Does the helicopter appear to be in motion with its blades rotating?",
+      "Is the helicopter's body fully visible and not occluded by other objects?",
+      "Are the helicopter blades visibly spinning in a cyclical motion?",
+      "Does the scene show no other objects or elements that contradict the described background of blue sky and green trees?"
+    ]
+  },
+  {
+    "prompt_en": "In an industrial setting, metalworking machines operate at high speed, accompanied by continuous mechanical humming and sharp sounds of metal cutting. The background sound effects are rhythmically intense, simulating the rotating cycles of the machines, along with occasional metallic clinking. The soundscape is filled with vibrations from the machinery, creating a tense yet orderly atmosphere.",
+    "prompt_vision": "Industrial setting with high-speed metalworking machines, showing rotating parts, metal shavings, and organized machinery layout.",
+    "prompt_audio": "Continuous mechanical humming, sharp metal cutting sounds, rhythmically intense rotating machine cycles, occasional metallic clinking, and pervasive machinery vibrations.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a continuous mechanical humming sound accompanying the operation of the metalworking machines?",
+      "Are sharp sounds of metal cutting present during the operation of the machines?",
+      "Does the background sound include rhythmically intense effects simulating the rotating cycles of the machines?",
+      "Can occasional metallic clinking be heard amidst the operation of the machinery?",
+      "Are vibrations from the machinery audible, contributing to the tense atmosphere?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there visible metalworking machines in the scene?",
+      "Is there visible motion indicating high-speed operation of the machines?",
+      "Can sparks or metal deformation be seen as a result of metal cutting?",
+      "Are the machines visibly vibrating or showing signs of mechanical activity?",
+      "Is there visible evidence of rotating cycles in the machines, such as spinning parts?",
+      "Are there visible tools or components that suggest metal cutting is occurring?"
+    ]
+  },
+  {
+    "prompt_en": "Design audio for a scene featuring a mechanical metronome. The metronome's pendulum produces clear, mechanical clicking sounds, with a steady rhythm gradually accelerating from Andante to Presto. Add subtle ambient sounds to the background, such as resonance from a wooden tabletop. The sound should be centered within the soundscape, with moderate volume and a metallic timbre. The beat must be perfectly synchronized with the pendulum's movement.",
+    "prompt_vision": "A mechanical metronome on a wooden tabletop, its pendulum swinging with increasing speed from Andante to Presto.",
+    "prompt_audio": "Clear, steady mechanical clicking sounds with a metallic timbre, perfectly synchronized with the pendulum's movement, gradually accelerating from Andante to Presto; subtle wooden resonance in the background; centered soundscape with moderate volume.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio feature clear mechanical clicking sounds from the metronome's pendulum?",
+      "Is the rhythm of the clicking sounds steady and gradually accelerating from Andante to Presto?",
+      "Are there subtle ambient sounds in the background, such as resonance from a wooden tabletop?",
+      "Is the sound of the metronome centered within the soundscape?",
+      "Is the volume of the metronome's sound moderate?",
+      "Does the metronome's sound have a metallic timbre?",
+      "Is the beat perfectly synchronized with the pendulum's movement?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the pendulum of the mechanical metronome visually depicted with clear, mechanical movement synchronized to its clicking sounds?",
+      "Does the metronome's pendulum visually accelerate its swing rhythm from Andante to Presto in a steady and gradual manner?",
+      "Are the metallic textures and reflective surfaces of the metronome visually rendered with clarity and detail?",
+      "Is the wooden tabletop visually represented with subtle textures and lighting that suggest resonance and ambient interaction with the metronome?"
+    ]
+  },
+  {
+    "prompt_en": "A metronome swings steadily in a quiet room, producing clear ticking sounds. Each swing is accompanied by a faint mechanical noise, and the metronome's rhythm is strong and consistent, as if guiding everything around it. The ambient sounds in the room are extremely faint, nearly imperceptible, with only the metronome's sound echoing through the space.",
+    "prompt_vision": "A metronome swinging steadily in a quiet room.",
+    "prompt_audio": "Clear, consistent ticking sounds with faint mechanical noise; ambient sounds are nearly imperceptible.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the metronome's ticking sound clear and distinct with each swing?",
+      "Does each swing of the metronome produce a faint mechanical noise accompanying the ticking?",
+      "Is the rhythm of the metronome strong and consistent throughout the audio?",
+      "Are the ambient sounds in the room extremely faint and nearly imperceptible, allowing the metronome's sound to dominate?",
+      "Can the sound of the metronome be heard echoing through the space, indicating a quiet room?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the metronome visibly swinging back and forth in a steady rhythm?",
+      "Does the metronome appear to be the central focus of the scene, with no other objects drawing attention?",
+      "Can the metronome's swinging motion be seen as consistent and regular, without any interruptions?",
+      "Are the mechanical parts of the metronome visible, suggesting the source of faint mechanical noises?",
+      "Is the room depicted as quiet and still, with no visible signs of movement or activity other than the metronome?"
+    ]
+  },
+  {
+    "prompt_en": "On a quiet street, with each step, the soles of the shoes make a clear rhythmic sound upon touching the ground. Occasionally, a gentle breeze rustling through the leaves can be heard in the background, creating a peaceful atmosphere. The rhythm of the footsteps blends perfectly with the natural background sounds, forming a harmonious auditory experience.",
+    "prompt_vision": "A quiet street with trees, a person walking.",
+    "prompt_audio": "Clear rhythmic footsteps on pavement, gentle breeze rustling leaves, peaceful ambient soundscape.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Are the footsteps audible with a clear rhythmic sound matching the described pace?",
+      "Does the sound of the footsteps blend harmoniously with the background breeze rustling through leaves?",
+      "Can the gentle breeze rustling through the leaves be heard occasionally, as described?",
+      "Is the overall audio free from unexpected noise or distortion that would disrupt the peaceful atmosphere?",
+      "Are the footsteps consistent in volume and timing to maintain the rhythmic pattern described?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the street depicted as quiet with no visible signs of traffic or bustling activity?",
+      "Are the shoes shown making contact with the ground in a way that suggests a rhythmic walking pattern?",
+      "Can the leaves be seen moving slightly, indicating the presence of a gentle breeze?",
+      "Are the footsteps visually synchronized with the depicted motion of the person walking?",
+      "Is there a visible absence of large movements or disturbances, suggesting a peaceful atmosphere?"
+    ]
+  },
+  {
+    "prompt_en": "Footsteps walking on a wooden boardwalk, accompanied by gentle natural sounds of wind and rustling leaves. The footsteps have a strong rhythmic pattern, gradually increasing in volume with each step while maintaining a periodic rhythm. The ambient soundscape is expansive, creating a serene atmosphere. The sound of each step synchronizes with cuts between shots, emphasizing the rhythm of the footsteps.",
+    "prompt_vision": "Cuts between shots synchronized with footsteps on a wooden boardwalk, surrounded by trees or natural scenery with leaves rustling in the wind.",
+    "prompt_audio": "Rhythmic footsteps on a wooden boardwalk, gradually increasing in volume while maintaining a steady periodic rhythm, accompanied by gentle wind and rustling leaves in an expansive, serene soundscape.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Are the footsteps audibly distinct with a strong rhythmic pattern as described?",
+      "Does the volume of the footsteps gradually increase with each step while maintaining a periodic rhythm?",
+      "Is there synchronization between the sound of each step and the cuts between shots?",
+      "Can gentle natural sounds of wind be heard in the background?",
+      "Are rustling leaves audible, contributing to the serene atmosphere?",
+      "Is the ambient soundscape expansive, enhancing the serene atmosphere?"
+    ],
+    "auxiliary_info_vision": [
+      "Are the footsteps visually depicted as occurring on a wooden boardwalk surface?",
+      "Is there a visible rhythmic pattern in the movement of the feet, suggesting a consistent walking pace?",
+      "Do the visual cuts between shots align with the rhythm of the footsteps, emphasizing their periodic nature?",
+      "Is there a visual representation of wind, such as moving leaves or grass, suggesting gentle natural sounds?",
+      "Are the footsteps shown to gradually increase in volume, possibly indicated by closer camera angles or more pronounced foot movements?"
+    ]
+  },
+  {
+    "prompt_en": "Against the backdrop of a city street, crisp footsteps create a rhythmically distinct sound as the soles touch the ground, with a tone leaning towards light and clean. In the background, a faint low-frequency rumble from distant vehicles and subtle wind noise can be heard. The rhythm of the footsteps is perfectly synchronized with the walking movements in the visuals, with clear spatial positioning; the footsteps move from left to right, creating a sense of dynamic motion.",
+    "prompt_vision": "A person walking from left to right on a city street, with clear spatial positioning and synchronized footsteps.",
+    "prompt_audio": "Crisp, light, and clean footsteps in a rhythmic pattern, moving from left to right, accompanied by a faint low-frequency rumble of distant vehicles and subtle wind noise.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of footsteps rhythmically distinct and synchronized with the walking movements in the visuals?",
+      "Does the tone of the footsteps sound light and clean as the soles touch the ground?",
+      "Can a faint low-frequency rumble from distant vehicles be heard in the background?",
+      "Is there subtle wind noise audible in the background?",
+      "Are the footsteps audibly moving from left to right, creating a sense of dynamic motion?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visible person walking from left to right on a city street?",
+      "Are the person's footsteps visually synchronized with their walking movements?",
+      "Is the person walking with a light and clean stride, as suggested by the description of the footsteps?",
+      "Are there visible vehicles in the background, suggesting a distant presence?",
+      "Is there a sense of dynamic motion conveyed by the person's movement from left to right?",
+      "Is the city street backdrop clearly visible in the scene?"
+    ]
+  },
+  {
+    "prompt_en": "In this scene, a pair of hands is playing a drum, producing crisp and rhythmic percussive sounds. Each time the palms strike the drumhead, there is a clear spatial audio effect, with tones that are warm and powerful. The continuous drumbeats intertwine, forming a regular rhythm. The volume and tempo of the sound are perfectly synchronized with the hand movements, allowing the drumbeats to resonate and echo throughout the space.",
+    "prompt_vision": "A pair of hands playing a drum, striking the drumhead with rhythmic and synchronized movements.",
+    "prompt_audio": "Crisp, warm, and powerful percussive drumbeats with clear spatial audio effects, regular rhythm, resonating echoes, and tempo perfectly synchronized with hand movements.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does each palm strike on the drumhead produce a crisp and rhythmic percussive sound?",
+      "Are the tones produced by the drum warm and powerful as described?",
+      "Is there a clear spatial audio effect corresponding to the drumbeats?",
+      "Are the drumbeats continuous and forming a regular rhythm?",
+      "Is the volume of the drumbeats synchronized with the intensity of the hand movements?",
+      "Is the tempo of the drumbeats synchronized with the speed of the hand movements?",
+      "Is Do the drumbeats resonate and echo throughout the space as described?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there visible hands striking a drum in the scene?",
+      "Is the drumhead visibly impacted by the hands during the playing action?",
+      "Can the hands be seen moving in a rhythmic pattern consistent with playing a drum?",
+      "Is there visible motion of the drumhead or surrounding elements that suggests resonance or vibration?",
+      "Are the hands positioned in a way that suggests they are actively playing the drum?"
+    ]
+  },
+  {
+    "prompt_en": "On the city streets, a police car is driving rapidly with flashing lights and a loud, periodic siren. The audio should include rhythmic, powerful siren sounds with a wide soundstage, creating a tense atmosphere. Environmental sounds include distant traffic noise and occasional wind. The siren synchronizes with the flashing lights, gradually increasing in volume as if the police car is approaching.",
+    "prompt_vision": "A police car driving rapidly on city streets with flashing lights that synchronize with the siren, appearing to approach the viewer.",
+    "prompt_audio": "Rhythmic, powerful police siren sounds with a wide soundstage, gradually increasing in volume, accompanied by distant traffic noise and occasional wind.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the siren sound synchronized with the flashing lights, maintaining a consistent rhythm?",
+      "Can the siren's volume gradually increase, suggesting the police car is approaching?",
+      "Are there distant traffic noises present in the audio, contributing to the city street environment?",
+      "Is there occasional wind noise included in the audio, enhancing the environmental soundscape?",
+      "Does the audio create a wide soundstage that contributes to a tense atmosphere as described?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the police car depicted with flashing lights on the city streets?",
+      "Does the police car appear to be moving rapidly?",
+      "Are the flashing lights synchronized with the visual depiction of the siren?",
+      "Is there visible motion blur or other indicators of speed on the police car?",
+      "Are there any visual cues suggesting the presence of distant traffic?",
+      "Is the police car shown in a way that implies it is approaching the viewer?",
+      "Are there any visual elements indicating occasional wind, such as moving debris or swaying objects?"
+    ]
+  },
+  {
+    "prompt_en": "Sound effects simulating a printing press operation, including the rhythmic rotating noise of mechanical rollers, the metallic friction sound of interlocking gears, and the subtle rustling sound of paper moving. Add low-frequency industrial ambient noise in the background; the rhythm should synchronize with the roller rotation cycle, with clear volume layers to emphasize the dynamic feel of the machinery.",
+    "prompt_vision": "Printing press operating with rotating rollers, moving metal gears, paper sheets feeding through, in an industrial print shop under low light.",
+    "prompt_audio": "Rhythmic rotating noise of mechanical rollers, metallic friction of interlocking gears, subtle rustling of paper movement, and synchronized low-frequency industrial ambient noise in the background; layered with clear volume dynamics that match the roller rotation cycle.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include rhythmic rotating noises that match the expected sound of mechanical rollers in a printing press operation?",
+      "Are there metallic friction sounds present that simulate the interlocking gears of a printing press?",
+      "Is there a subtle rustling sound that corresponds to the movement of paper in the printing press?",
+      "Does the low-frequency industrial ambient noise in the background synchronize with the roller rotation cycle?",
+      "Are the volume layers clearly defined to emphasize the dynamic feel of the machinery in the audio?",
+      "Can the audio be perceived as having a rhythmic pattern that aligns with the operation cycle of a printing press?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the visual representation of the printing press operation accurately showing the rhythmic rotation of mechanical rollers with visible movement and synchronization?",
+      "Are the interlocking gears depicted with metallic textures and realistic friction effects in their motion?",
+      "Is there a clear visual layering of elements, such as rollers, gears, and paper, to emphasize the dynamic feel of the machinery?",
+      "Are the industrial ambient elements visually represented in the background, complementing the printing press operation without overpowering the main focus?",
+      "Does the lighting and shading effectively highlight the metallic surfaces and moving components to enhance the realism of the scene?"
+    ]
+  },
+  {
+    "prompt_en": "On the beach, following the rhythm of the waves, the up and down movement of the air pump emits a steady airflow sound, accompanied by the gentle breeze over the sand and the background noise of waves crashing. The air pump's beat synchronizes with the actions of the figures in the scene, creating a rhythmic sense of motion.",
+    "prompt_vision": "Figures on beach move rhythmically with air pump, waves crash, sand blows in gentle breeze.",
+    "prompt_audio": "Steady airflow sound from an air pump, gentle breeze over sand, and background waves crashing, all in rhythmic synchronization.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a steady airflow sound from the air pump that matches the described rhythm of the waves?",
+      "Does the sound of the air pump synchronize with the actions of the figures in the scene, creating a rhythmic sense of motion?",
+      "Is there a gentle breeze sound over the sand that is audible in the audio?",
+      "Are the sounds of waves crashing present in the background noise?",
+      "Can the rhythm of the air pump be clearly distinguished from the background noise of the waves?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the air pump visually depicted moving up and down in synchronization with the rhythm of the waves?",
+      "Are the figures in the scene shown performing actions that align rhythmically with the movement of the air pump?",
+      "Is the beach visually represented with sand visible in the scene?",
+      "Are the waves depicted crashing onto the shore in the background?",
+      "Can the gentle breeze be inferred visually, such as through the movement of sand or objects on the beach?"
+    ]
+  },
+  {
+    "prompt_en": "In a classically styled hotel lobby, the background features soft indoor ambient sounds, with faint footsteps and distant echoes of a bell. In the scene, a hand presses a service bell; the resulting chime is crisp and brief, its echo spreading through the hall. Each bell-pressing motion is perfectly synchronized with the beat of the background music, creating a rhythmic feel. Occasionally, subtle sounds of pages turning and slight creaks from the wooden floor can be heard within the ambient environment, enhancing the realism of the space.",
+    "prompt_vision": "A classically styled hotel lobby with a hand pressing a service bell on a wooden counter, elegant furnishings, and ambient lighting.",
+    "prompt_audio": "Soft indoor ambient sounds with faint footsteps, distant bell echoes, crisp and brief service bell chimes synchronized to background music beats, subtle page-turning sounds, and slight wooden floor creaks.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the background music synchronized with each bell-pressing motion, creating a rhythmic feel?",
+      "Does the sound of the service bell chime have a crisp and brief quality, with its echo spreading through the hall?",
+      "Are the faint footsteps audible in the background, contributing to the ambient sounds?",
+      "Can the distant echoes of a bell be heard as part of the background sounds?",
+      "Are subtle sounds of pages turning audible within the ambient environment?",
+      "Is there occasional creaking from the wooden floor audible in the scene?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a hand visible pressing a service bell in the scene?",
+      "Does the service bell appear to be located on a counter or desk in the hotel lobby?",
+      "Is the hand pressing the bell shown in a downward motion consistent with activating the bell?",
+      "Are the bell and hand visually synchronized with a rhythmic motion?",
+      "Is the service bell depicted emitting a brief chime when pressed?",
+      "Are there visible wooden floorboards in the hotel lobby scene?",
+      "Does the hotel lobby have a classically styled appearance, such as ornate or traditional design elements?"
+    ]
+  },
+  {
+    "prompt_en": "A vintage rotary dial telephone sits quietly on a black countertop. The background is silent, while the dial slowly spins, producing crisp mechanical clicking sounds, accompanied by subtle spring rebound noises. The sound field is focused around the telephone, with a metallic tone, moderate volume, and a steady, periodic rhythm. The ambient sound is a low, deep sense of quietness, highlighting the details of the mechanical movements.",
+    "prompt_vision": "A vintage rotary dial telephone on a black countertop, with the dial slowly spinning.",
+    "prompt_audio": "Crisp mechanical clicking sounds and subtle spring rebound noises from a rotary telephone dial, metallic tone, moderate volume, steady periodic rhythm, low deep ambient quietness.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of the rotary dial producing crisp mechanical clicking sounds as it spins?",
+      "Are subtle spring rebound noises audible during the dial's rotation?",
+      "Is the sound field focused around the telephone, emphasizing its mechanical sounds?",
+      "Is the volume of the mechanical sounds moderate, allowing for clear audibility without overpowering the ambient quietness?",
+      "Is there a steady, periodic rhythm to the mechanical clicking sounds as the dial spins?",
+      "Is the ambient sound characterized by a low, deep sense of quietness, highlighting the details of the telephone's mechanical movements?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a vintage rotary dial telephone visible on a black countertop?",
+      "Does the rotary dial on the telephone appear to be in motion?",
+      "Is the telephone's dial positioned to suggest it is slowly spinning?",
+      "Are there visible mechanical components on the telephone that could produce clicking sounds?",
+      "Is the countertop beneath the telephone clearly black in color?",
+      "Does the visual scene suggest a sense of stillness or quietness, with no other objects in motion?"
+    ]
+  },
+  {
+    "prompt_en": "In a quiet indoor environment, the phone screen displays an incoming call. The background music features a gentle and rhythmic beat, accompanied by the sound of the phone vibrating and subtle ambient noises, such as a breeze outside the window and distant birdsong. The rhythm of the music synchronizes with the phone's vibration, creating a calm and expectant atmosphere.",
+    "prompt_vision": "A phone screen displaying an incoming call in a quiet indoor environment with a window showing a calm outdoor scene.",
+    "prompt_audio": "Gentle rhythmic background music synchronized with phone vibration, subtle ambient breeze, and distant birdsong.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the sound of the phone vibrating synchronize with the rhythm of the background music?",
+      "Are subtle ambient noises, such as a breeze outside the window, present in the audio?",
+      "Is the overall audio atmosphere calm and expectant, as described in the prompt?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the phone screen visibly showing an incoming call notification?",
+      "Does the phone appear to be vibrating, as indicated by slight movements or visual cues on the surface it rests on?",
+      "Are there any visual elements suggesting a gentle and rhythmic beat, such as synchronized movements or patterns on the phone screen?",
+      "Can the indoor environment be inferred as quiet based on the absence of visible disturbances or large movements?",
+      "Is there any indication of a breeze outside, such as moving curtains or leaves visible through a window?",
+      "Are there visual cues, like birds outside a window, that suggest distant birdsong?"
+    ]
+  },
+  {
+    "prompt_en": "In a quiet room, the rhythmic tapping of an old typewriter sounds with each keystroke accompanied by a subtle mechanical rebound, creating a distinctive typing rhythm. Occasionally, the gentle rustling of leaves stirred by a breeze outside the window can be heard in the background, adding to the serene and focused atmosphere. The sound of the typewriter is perfectly synchronized with the typing actions in the scene, giving a strong sense of rhythm.",
+    "prompt_vision": "A person typing on an old typewriter in a quiet room with a window showing leaves gently moving in the breeze.",
+    "prompt_audio": "Rhythmic tapping of an old typewriter with subtle mechanical rebound, synchronized with typing actions, accompanied by gentle rustling of leaves in the background.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the rhythmic tapping sound of the typewriter audible with each keystroke in the scene?",
+      "Does the mechanical rebound sound subtly accompany each typewriter keystroke?",
+      "Can the gentle rustling of leaves stirred by a breeze outside the window be heard occasionally in the background?",
+      "Are the typewriter sounds perfectly synchronized with the typing actions in the scene?",
+      "Is the overall audio consistent with the described quiet and serene atmosphere of the room?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there an old typewriter visible in the scene?",
+      "Are the keys of the typewriter being pressed rhythmically in the scene?",
+      "Does the typewriter show subtle mechanical rebound after each keystroke?",
+      "Is there a window visible in the scene with leaves gently rustling outside?",
+      "Are the leaves outside the window visibly stirred by a breeze?"
+    ]
+  },
+  {
+    "prompt_en": "In a quiet room, the rhythmic tapping of an old typewriter regularly sounded, accompanied by the faint rustling of paper. Each keystroke rang out clearly and forcefully, as if emphasizing the appearance of every letter. The rhythm was strong, like a silent dance. Occasionally, the gentle breeze outside the window could be heard, adding a touch of natural atmosphere to the environment.",
+    "prompt_vision": "An old typewriter in a quiet room, with papers nearby and a window letting in a gentle breeze.",
+    "prompt_audio": "Rhythmic, forceful keystrokes of an old typewriter, faint paper rustling, and occasional soft breeze sounds.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the rhythmic tapping of the typewriter audible and regular throughout the audio?",
+      "Does each keystroke sound clear and forceful, emphasizing the appearance of every letter?",
+      "Can the faint rustling of paper be heard accompanying the typewriter sounds?",
+      "Is the gentle breeze outside the window occasionally audible, adding to the natural atmosphere?",
+      "Are the typewriter sounds prominent in the quiet room, without any unexpected loud noises?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there an old typewriter visible in the room?",
+      "Are the keys of the typewriter being pressed down rhythmically?",
+      "Does the typewriter appear stationary while being used?",
+      "Is there paper visibly present near or inside the typewriter?",
+      "Are the typewriter keys visibly moving with each keystroke?",
+      "Is there a window visible in the room?",
+      "Does the window show signs of a gentle breeze, such as moving curtains or leaves outside?"
+    ]
+  },
+  {
+    "prompt_en": "In a quiet room, the rhythmic tapping of a typewriter echoes, accompanied by the faint rustling of paper. Each keystroke produces a crisp mechanical sound, as if weaving a melody. The ambient background noise remains low, occasionally interrupted by the gentle breeze from outside the window, creating a contemplative atmosphere. The rhythm of the typewriter synchronizes with the editing cuts, revealing the gradual formation of words.",
+    "prompt_vision": "Typewriter in quiet room, paper typed on, breeze from open window, cuts reveal words forming gradually.",
+    "prompt_audio": "Rhythmic tapping of a typewriter with crisp mechanical keystrokes, faint rustling of paper, low ambient background noise, and occasional soft sounds of a gentle breeze.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the rhythmic tapping of the typewriter audible and does it produce crisp mechanical sounds as described?",
+      "Does the faint rustling of paper accompany the typewriter sounds in the audio?",
+      "Is the ambient background noise consistently low throughout the scene?",
+      "Can the occasional gentle breeze from outside the window be heard interrupting the quiet atmosphere?",
+      "Are the typewriter sounds synchronized with the editing cuts to match the rhythm described?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a typewriter visible in the room?",
+      "Are there sheets of paper near the typewriter?",
+      "Is the typewriter's carriage moving with each keystroke?",
+      "Can the window be seen with a gentle breeze affecting nearby objects?",
+      "Are the words visibly forming on the paper as the typewriter is used?",
+      "Is the room visually quiet with minimal movement?",
+      "Does the lighting in the room suggest a calm and contemplative atmosphere?"
+    ]
+  }
+]

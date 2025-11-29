@@ -1,0 +1,2776 @@
+[
+  {
+    "prompt_en": "A person walks normally down a quiet corridor, the soles of their shoes steadily tapping the floor, producing a rhythmic, evenly spaced \"tap, tap\" sound.",
+    "prompt_vision": "A person walking down a quiet corridor.",
+    "prompt_audio": "Rhythmic, evenly spaced tapping sounds of shoe soles on the floor, 'tap, tap'.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of footsteps consistently rhythmic and evenly spaced, matching the described 'tap, tap' pattern?",
+      "Does the audio maintain a steady tapping sound that aligns with the normal walking pace described?",
+      "Is the tapping sound produced by the soles of shoes clearly audible and distinct in the audio?",
+      "Are the footsteps the primary sound in the audio, with minimal or no background noise, reflecting the quiet corridor setting?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the person walking with a steady, even pace down the corridor?",
+      "Are the soles of the person's shoes visibly making contact with the floor as they walk?",
+      "Is the corridor depicted as quiet, with no visible signs of other people or movement?",
+      "Does the person's walking motion appear smooth and uninterrupted?",
+      "Are the person's legs shown in a typical walking motion, with one foot in front of the other?"
+    ]
+  },
+  {
+    "prompt_en": "A person was creeping down the corridor, moving with extremely soft footsteps, holding their breath, the friction of the shoe soles against the floor barely audible.",
+    "prompt_vision": "A person creeping down a corridor, moving stealthily with careful footsteps, holding their breath.",
+    "prompt_audio": "Extremely soft footsteps, barely audible friction of shoe soles against the floor, no breathing sounds.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of footsteps extremely soft and barely audible as the person creeps down the corridor?",
+      "Does the audio lack any prominent breathing sounds, indicating the person is holding their breath?",
+      "Can the friction sound of shoe soles against the floor be heard, but remain barely audible?",
+      "Are there no sudden loud noises or disturbances in the audio, maintaining the stealthy atmosphere of the scene?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the person depicted in a crouched or stealthy posture, suggesting they are creeping?",
+      "Are the person's feet positioned in a way that indicates they are taking soft, careful steps?",
+      "Is the person's facial expression neutral or tense, as if they are holding their breath?",
+      "Does the scene show the person in a corridor, with walls or a floor visible to suggest this setting?",
+      "Are the person's shoes shown in contact with the floor, implying minimal friction and sound?"
+    ]
+  },
+  {
+    "prompt_en": "A person angrily stomped down the corridor, each step heavily striking the ground with loud,think sounds of \"thud! thud!\" as the floor slightly vibrated.",
+    "prompt_vision": "A person stomping angrily down a corridor, feet striking the floor forcefully.",
+    "prompt_audio": "Loud, heavy thudding footsteps with a low, muffled quality, causing slight floor vibrations: \"thud! thud!\"",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include loud, distinct 'thud' sounds corresponding to each step as described?",
+      "Is there a noticeable vibration or low-frequency rumble accompanying the 'thud' sounds?",
+      "Are the 'thud' sounds synchronized with the visual depiction of the person's footsteps?",
+      "Can the audio convey a sense of anger through the intensity or forcefulness of the footsteps?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the person visibly stomping with forceful leg motion?",
+      "Does the person's facial expression clearly show anger?",
+      "Are the person's feet making contact with the ground in a way that suggests heavy impact?",
+      "Is there visible vibration or movement in the floor as the person walks?",
+      "Can the person's posture or body language be interpreted as aggressive or tense?"
+    ]
+  },
+  {
+    "prompt_en": "The door opens smoothly with a normal hand motion, the doorknob turns lightly with a \"click,\" and the hinges glide open with a soft \"creak,\" free of any extraneous noise.",
+    "prompt_vision": "A hand turning a doorknob and opening a door smoothly.",
+    "prompt_audio": "click, soft creak",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the sound of a doorknob turning lightly with a 'click'?",
+      "Is there a soft 'creak' sound when the door hinges glide open?",
+      "Are the sounds of the door opening free of any extraneous noise?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the door shown in the image or video opening smoothly without any visible resistance?",
+      "Does the doorknob appear to be turning lightly as the door opens?",
+      "Can the hinges be seen gliding open without any visible obstruction?",
+      "Are there no visible signs of extraneous noise, such as vibrations or shaking, as the door opens?"
+    ]
+  },
+  {
+    "prompt_en": "The hand quietly opened the door, moving extremely slowly; the doorknob made no sound, the hinges nearly silent, as if gliding in like a ghost.",
+    "prompt_vision": "A hand slowly opening a door, moving with extreme caution and smoothness.",
+    "prompt_audio": "No sound from the doorknob or hinges; complete silence.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of the door opening extremely quiet, with minimal noise from the hinges?",
+      "Does the audio lack any sound from the doorknob as it is turned?",
+      "Are the sounds of the door hinges subdued, suggesting a slow and gentle movement?",
+      "Can the audio convey a sense of stealth or silence as the door is opened?",
+      "Is there an absence of any sudden or loud noises during the door opening sequence?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the hand visible on the doorknob, indicating it is opening the door?",
+      "Is the door shown moving very slowly, suggesting a quiet and careful action?",
+      "Are the hinges depicted as nearly silent, with no visible signs of creaking or resistance?",
+      "Is the doorknob shown turning without any visible noise or vibration?",
+      "Is the door depicted as opening smoothly, without any abrupt or jerky movements?"
+    ]
+  },
+  {
+    "prompt_en": "Hand slammed the door open with a loud crash, the door panel hit the wall and shook the frame, the impact echoing through the entire corridor.",
+    "prompt_vision": "A hand slamming a door open, the door panel hitting the wall and shaking the frame.",
+    "prompt_audio": "Loud crash of a door slamming open, impact echoing through a corridor.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a loud crashing sound when the hand slams the door open?",
+      "Does the sound of the door panel hitting the wall have a distinct impact noise?",
+      "Can the sound of the impact be heard echoing through the corridor?",
+      "Is the volume of the crash consistent with a door being slammed open forcefully?",
+      "Are there any reverberations or echoes following the initial crash sound?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the hand visibly making contact with the door panel to slam it open?",
+      "Is the door panel shown hitting the wall after being slammed open?",
+      "Are visible vibrations or shaking present in the door frame after the impact?",
+      "Is the door panel depicted in an open position after being slammed?",
+      "Are there visual indications of force or motion, such as the door moving quickly or abruptly?"
+    ]
+  },
+  {
+    "prompt_en": "Hand places a glass on a wooden table, the bottom of the glass making a crisp, clean \"tap\" sound, natural and everyday.",
+    "prompt_vision": "Hand placing a glass on a wooden table",
+    "prompt_audio": "Crisp, clean tap sound of glass bottom contacting wood, natural and everyday",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the sound of the glass being placed on the table occur at the moment the hand releases it?",
+      "Is the sound of the glass making contact with the table a crisp, clean 'tap' sound?",
+      "Is the sound of the glass placement free from any distortion or noise?",
+      "Does the sound of the glass placement match the expected volume for a natural, everyday occurrence?",
+      "Is the sound source position consistent with the visual position of the glass on the table?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a hand visible placing a glass on a wooden table?",
+      "Does the glass appear to be in contact with the surface of the wooden table?",
+      "Is the glass positioned upright on the table after being placed?",
+      "Is the hand shown in a position that suggests it is releasing the glass onto the table?",
+      "Is the wooden texture of the table clearly visible beneath the glass?"
+    ]
+  },
+  {
+    "prompt_en": "Gently place the glass on the table with a slow motion as light as a feather, barely making any sound.",
+    "prompt_vision": "Gently placing a glass on a table in slow motion, movements light and delicate.",
+    "prompt_audio": "Very faint sound of glass touching a surface, almost inaudible.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of the glass being placed on the table very soft and subtle, reflecting the gentle motion described?",
+      "Does the audio lack any loud or abrupt noises when the glass is placed on the table, indicating a careful and quiet action?",
+      "Is there an absence of additional background noise or distortion that would distract from the subtle sound of the glass placement?",
+      "Can the sound of the glass placement be heard as coming from a specific location, consistent with the visual depiction of the action?",
+      "Is the audio synchronized with the visual of the glass being placed, ensuring the sound occurs at the correct moment in the video?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the glass visibly in contact with the table surface?",
+      "Does the glass appear to be moving slowly towards the table?",
+      "Is there no visible motion blur indicating fast movement of the glass?",
+      "Is the glass upright and stable on the table after being placed?",
+      "Is there no visible indication of the glass bouncing or tipping upon contact with the table?"
+    ]
+  },
+  {
+    "prompt_en": "Heavily slamming a glass cup on the table, it let out a crisp \"crack!\" sound with a tremor, as if faint cracks were whispering.",
+    "prompt_vision": "A glass cup being slammed forcefully onto a table, causing visible vibrations and faint cracks appearing on its surface.",
+    "prompt_audio": "A crisp, sharp 'crack!' sound followed by faint, whispering crackling noises.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a crisp 'crack!' sound at the moment the glass cup is slammed on the table?",
+      "Is there a tremor sound accompanying the 'crack!' when the glass cup is slammed?",
+      "Can faint cracking sounds be heard after the initial 'crack!' sound, suggesting whispering cracks?",
+      "Is the timing of the 'crack!' sound synchronized with the visual action of the glass cup being slammed on the table?",
+      "Are the faint cracking sounds audible immediately following the initial 'crack!' sound, indicating a progression of sound events?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visible glass cup on the table?",
+      "Are there faint cracks visible on the glass cup?",
+      "Is the glass cup positioned as if it has been heavily slammed onto the table?",
+      "Does the table show signs of a tremor, such as slight movement or vibration?",
+      "Is the lighting such that it highlights the cracks on the glass cup?"
+    ]
+  },
+  {
+    "prompt_en": "A person breathes calmly, the chest rising and falling gently, with deep, steady, and even breaths, free of any extraneous sounds, as stable as a pendulum.",
+    "prompt_vision": "A person's chest rising and falling gently in a calm, steady rhythm.",
+    "prompt_audio": "soft breathing sound",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio maintain a consistent rhythm, similar to a pendulum, without sudden changes in pace?",
+      "Are there no extraneous sounds accompanying the breathing, ensuring clarity and focus on the breath itself?",
+      "Is the volume of the breathing sound gentle and even, without abrupt fluctuations?",
+      "Can the breathing sound be heard clearly without any distortion or noise interference?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the person's chest visibly rising and falling gently in a steady rhythm?",
+      "Does the person's body appear still and free of large movements aside from the chest motion?",
+      "Can the breathing motion be observed as deep and even, without abrupt or irregular changes?",
+      "Are the person's facial features relaxed, indicating calmness?",
+      "Is there no visible motion or activity that would suggest extraneous sounds or disturbances?"
+    ]
+  },
+  {
+    "prompt_en": "After a person finishes running, gasping for breath with loud \"huffing... puffing...\", the lungs are rapidly inhaling and exhaling like a bellows.",
+    "prompt_vision": "A person standing bent over, hands on knees, chest heaving rapidly after running.",
+    "prompt_audio": "Loud huffing and puffing sounds, rapid and heavy breathing like a bellows.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there audible gasping for breath with distinct 'huffing' and 'puffing' sounds after the person finishes running?",
+      "Does the audio include rapid inhaling and exhaling sounds similar to a bellows?",
+      "Are the 'huffing' and 'puffing' sounds loud and prominent in the audio?",
+      "Is there a clear synchronization between the visible actions of breathing and the corresponding inhaling and exhaling sounds?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the person visibly gasping for breath with their mouth open?",
+      "Are the person's chest and shoulders moving up and down rapidly, indicating heavy breathing?",
+      "Is there a visible expression of exertion or fatigue on the person's face?",
+      "Are the person's arms hanging loosely or resting on their knees, suggesting they have stopped running?",
+      "Is the person's posture slightly bent forward, as if recovering from physical exertion?"
+    ]
+  },
+  {
+    "prompt_en": "Hands flip through the pages quickly, producing a crisp, rhythmic sound like \"Hua——,\"\" light and unemotional, purely skimming.\"",
+    "prompt_vision": "Hands flipping through pages quickly, skimming lightly and unemotionally.",
+    "prompt_audio": "Crisp, rhythmic page-flipping sounds like \"Hua——\", light and unemotional.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a crisp, rhythmic sound produced when the pages are flipped?",
+      "Does the sound of flipping pages resemble a 'Hua——' sound?",
+      "Is the sound of the pages flipping light and unemotional?",
+      "Can the flipping sound be described as purely skimming?"
+    ],
+    "auxiliary_info_vision": [
+      "Are the hands visibly flipping through the pages quickly?",
+      "Is there visible motion blur indicating rapid page flipping?",
+      "Do the pages appear to be moving in a rhythmic manner?",
+      "Are the hands shown in a neutral position without any emotional expression?",
+      "Is there visible page movement suggesting skimming rather than detailed reading?",
+      "Are the pages visibly crisp and well-defined?"
+    ]
+  },
+  {
+    "prompt_en": "Hand politely knocked, \"knock, knock, knock,\" three evenly spaced light taps, gentle and unobtrusive.",
+    "prompt_vision": "A hand gently knocking on a door with three light, evenly spaced taps.",
+    "prompt_audio": "knock, knock, knock — three evenly spaced, light, gentle taps",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of knocking composed of three distinct taps?",
+      "Are the taps evenly spaced in time?",
+      "Is the volume of the taps gentle and unobtrusive?",
+      "Does the knocking sound have a light timbre, suggesting a polite knock?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a hand visible in the image or video?",
+      "Does the hand appear to be in a knocking position with fingers slightly bent?",
+      "Are there three distinct tapping motions visible in the video?",
+      "Is the knocking motion gentle, without any aggressive or forceful movement?",
+      "Are the taps evenly spaced in time, without any noticeable variation in intervals?"
+    ]
+  },
+  {
+    "prompt_en": "Hand calmly zipped up the zipper, the smooth \"hiss\" rising steadily, a relaxed rhythm, unhurried.",
+    "prompt_vision": "Hand calmly zipping up a zipper with smooth, unhurried motion.",
+    "prompt_audio": "Smooth, steady hiss of a zipper rising in a relaxed rhythm.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a smooth 'hiss' sound that rises steadily as the zipper is zipped up?",
+      "Is the rhythm of the zipper sound relaxed and unhurried?",
+      "Can the sound of the zipper be heard clearly without distortion or noise?",
+      "Is the sound of the zipper consistent with the action of zipping up, without abrupt changes in pitch or volume?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the hand visibly holding the zipper pull?",
+      "Does the zipper appear to be in a closed or closing position?",
+      "Is the hand's motion depicted as smooth and steady?",
+      "Are there no signs of haste or rapid movement in the hand's action?",
+      "Is the zipper shown in a vertical or slightly angled orientation, typical for clothing or bags?",
+      "Is the hand shown in a relaxed posture without tension?",
+      "Is the zipper's path free from visible obstructions or snags?"
+    ]
+  },
+  {
+    "prompt_en": "Hands hastily zipped up, with a \"zzzzip!\" sound as the zipper was sharply pulled upward, creating fabric friction.",
+    "prompt_vision": "Hands quickly zipping up a zipper on fabric.",
+    "prompt_audio": "Sharp 'zzzzip!' sound with fabric friction.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a distinct 'zzzzip!' sound when the zipper is pulled upward?",
+      "Does the sound of the zipper pulling upward occur sharply and quickly?",
+      "Can the audio capture the friction sound of fabric as the zipper is pulled?",
+      "Is the zipper sound synchronized with the visual action of hands zipping up?",
+      "Are the sounds of fabric friction and zipper pull clearly audible without distortion?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visible hand gripping the zipper pull?",
+      "Does the zipper appear to be in motion, moving upward?",
+      "Is the fabric visibly gathered or compressed near the zipper due to the pulling action?",
+      "Are there visible creases or folds in the fabric indicating tension from the zipper being pulled?",
+      "Is the zipper pull positioned at the top of the zipper track, indicating it has been fully zipped up?"
+    ]
+  },
+  {
+    "prompt_en": "Hand vigorously stirring the egg liquid, \"clank clank!\" the spoon hitting the cup walls, liquid splashing, the rhythm rapid with swirls.",
+    "prompt_vision": "Hand vigorously stirring egg liquid in a cup, liquid splashing, rapid swirling motion",
+    "prompt_audio": "clank clank! spoon hitting cup walls, splashing liquid, rapid rhythmic stirring sounds",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the sound of a spoon clanking against the cup walls at a rapid pace?",
+      "Is there a sound of liquid splashing during the stirring action?",
+      "Can the rhythm of the spoon hitting the cup walls be perceived as rapid?",
+      "Is the sound of the spoon clanking consistent with vigorous stirring?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a hand visibly holding a spoon?",
+      "Is the spoon making contact with the walls of the cup?",
+      "Is the egg liquid visibly splashing out of the cup?",
+      "Are there visible swirls in the egg liquid?",
+      "Is the motion of stirring rapid and vigorous?"
+    ]
+  },
+  {
+    "prompt_en": "A few people clapped politely, \"Clap... clap... clap,\" with slow, faint applause, long pauses, and perfunctory indifference.",
+    "prompt_vision": "A few people sitting or standing in an audience, hands lightly coming together in sparse, slow claps, with neutral or unenthusiastic expressions.",
+    "prompt_audio": "Slow, faint clapping sounds with long pauses between each 'clap... clap... clap,' conveying perfunctory indifference.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include faint and slow clapping sounds matching the described 'Clap... clap... clap' pattern?",
+      "Are the clapping sounds spaced with long pauses between each clap?",
+      "Is the volume of the clapping sounds consistently soft and subdued?",
+      "Can the clapping sounds convey a sense of perfunctory indifference as described?",
+      "Are there no additional loud or prominent sounds that would contradict the described polite and faint applause?"
+    ],
+    "auxiliary_info_vision": [
+      "Are the people depicted with their hands in a clapping position?",
+      "Is the clapping motion shown as slow, with visible pauses between claps?",
+      "Do the facial expressions of the people appear indifferent or neutral?",
+      "Is the applause depicted as faint, with minimal hand movement?",
+      "Are the people standing or sitting still, without any large body movements?"
+    ]
+  },
+  {
+    "prompt_en": "The crowd erupted into thunderous applause, \"clap, clap, clap!\"—a dense, rain-like rhythm interspersed with cheers and whistles, creating a deafening roar.",
+    "prompt_vision": "A crowd of people clapping and cheering enthusiastically.",
+    "prompt_audio": "Thunderous applause with a dense, rain-like clapping rhythm, interspersed with cheers and whistles, creating a deafening roar.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of applause present and does it have a dense, rain-like rhythm?",
+      "Are there audible cheers interspersed with the applause?",
+      "Can whistles be heard among the crowd noise?",
+      "Is the overall sound a deafening roar, indicating high volume and energy?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visible crowd in the image or video?",
+      "Are there people in the crowd with their hands raised, suggesting clapping?",
+      "Can you see individuals with open mouths, indicating cheering or whistling?",
+      "Are there visible hand movements consistent with clapping actions?",
+      "Is the crowd densely packed, suggesting a large gathering?",
+      "Are there any visual cues, like facial expressions, indicating excitement or enthusiasm?",
+      "Does the scene convey a sense of motion or energy, consistent with a lively crowd?"
+    ]
+  },
+  {
+    "prompt_en": "Gently close the drawer with a soft push, producing a subtle \"click\" as it latches shut—smooth and silent, ending gracefully.",
+    "prompt_vision": "A hand gently pushing a drawer closed until it latches.",
+    "prompt_audio": "Soft click of a drawer latching shut, smooth and nearly silent.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a subtle 'click' sound when the drawer latches shut?",
+      "Does the audio remain smooth and silent throughout the drawer closing action, except for the 'click'?",
+      "Is the sound of the drawer closing gentle and soft, without any harsh noises?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the drawer visibly closing smoothly without abrupt movements?",
+      "Does the drawer appear to be pushed gently by a hand or another object?",
+      "Is the drawer fully closed and latched at the end of the motion?",
+      "Are there no visible signs of force or jerky motion during the closing action?",
+      "Does the drawer remain stationary and shut after the closing action is complete?"
+    ]
+  },
+  {
+    "prompt_en": "He slammed the drawer shut in anger, \"Bang!\" the violent impact reverberated through the cabinet, the wood vibrating in resonance, his anger exploding along with the sound.",
+    "prompt_vision": "A man forcefully closing a wooden drawer, his face tense with anger, the cabinet shaking slightly from the impact.",
+    "prompt_audio": "Loud bang of a drawer slamming shut, sharp and resonant, followed by the low reverberation of wood vibrating.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a loud 'bang' sound at the moment the drawer is slammed shut?",
+      "Is there a reverberation effect following the 'bang' sound, suggesting the sound travels through the cabinet?",
+      "Can the sound of wood vibrating be heard after the drawer is slammed shut?",
+      "Is the volume of the 'bang' sound consistent with an expression of anger?",
+      "Are the timing and synchronization of the drawer slamming and the 'bang' sound accurate?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the drawer visibly closed after being slammed shut?",
+      "Does the cabinet show signs of vibration or movement due to the impact?",
+      "Can the expression on the person's face be interpreted as anger?",
+      "Is the drawer shown in motion before it is slammed shut?",
+      "Are there visible signs of force or impact on the drawer or cabinet?",
+      "Is the person's hand positioned in a way that suggests they are slamming the drawer?"
+    ]
+  },
+  {
+    "prompt_en": "Press the elevator button with your hand, a soft \"beep\" sounds, the metal button slightly depresses, without any extra friction noise.",
+    "prompt_vision": "Hand pressing an elevator button, causing the metal button to slightly depress.",
+    "prompt_audio": "Soft beep sound, no friction noise.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does pressing the elevator button produce a soft 'beep' sound immediately after the button is pressed?",
+      "Is the sound of the button depression free from any extra friction noise?",
+      "Can the metal button be heard slightly depressing without any additional sounds?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visible hand pressing the elevator button?",
+      "Does the metal button appear to slightly depress when pressed?",
+      "Is the hand positioned in a way that suggests it is actively pressing the button?",
+      "Is there an absence of visible friction marks or scratches on the button?",
+      "Is the button made of a material that visually resembles metal?"
+    ]
+  },
+  {
+    "prompt_en": "Hand slams the elevator button, a sharp \"crack!\" followed by a heavy thud, the fingertip trembles, impatient and restless.",
+    "prompt_vision": "Hand slamming an elevator button, fingertip trembling",
+    "prompt_audio": "Sharp crack followed by a heavy thud",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a sharp 'crack' sound immediately when the hand slams the elevator button?",
+      "Is there a heavy thud sound following the initial 'crack' sound?",
+      "Can the audio convey a sense of impatience through the timing or rhythm of the sounds?",
+      "Is the sound of the fingertip trembling audible after the button is pressed?",
+      "Are the sounds synchronized with the visual action of the hand slamming the button?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visible hand pressing the elevator button?",
+      "Does the hand appear to be moving quickly towards the button, indicating a slamming action?",
+      "Can the elevator button be seen in a depressed state, suggesting it has been pressed?",
+      "Are there visible signs of motion or vibration in the fingertip, indicating trembling?",
+      "Is the hand positioned close to the elevator button, implying impatience and restlessness?"
+    ]
+  },
+  {
+    "prompt_en": "The key slid into the lock, clicked softly as it turned, the bolt retracted, and the door swung open—all in one smooth, decisive motion.",
+    "prompt_vision": "A key turning in a lock, causing a door to swing open smoothly.",
+    "prompt_audio": "Soft clicking sound of a key turning in a lock, followed by the quiet sliding of a bolt retracting and the gentle creak of a door opening.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the sound of the key sliding into the lock occur before the clicking sound of the lock turning?",
+      "Is the clicking sound of the lock turning soft and distinct?",
+      "Does the sound of the bolt retracting follow the clicking sound of the lock turning?",
+      "Is there a sound of the door swinging open after the bolt retracts?",
+      "Are all the sounds in the sequence smooth and continuous without abrupt pauses or distortions?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a key visible sliding into the lock?",
+      "Does the lock appear to turn with a soft click?",
+      "Can the bolt be seen retracting from the lock?",
+      "Is the door visibly swinging open in a smooth motion?",
+      "Are the key and lock shown in close proximity during the action?"
+    ]
+  },
+  {
+    "prompt_en": "The key got stuck in the lock. When I forced it to turn, there was a harsh metallic grinding sound, \"Gash...\" but the door didn't budge an inch.",
+    "prompt_vision": "A key stuck in a lock, hand forcing it to turn, door remaining closed",
+    "prompt_audio": "Harsh metallic grinding sound, 'Gash...'",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a harsh metallic grinding sound when the key is forced to turn?",
+      "Is the grinding sound synchronized with the moment the key is forced in the lock?",
+      "Does the grinding sound have a metallic timbre consistent with a key and lock interaction?",
+      "Is there an absence of additional unrelated sounds during the described action?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the key visibly inserted into the lock?",
+      "Does the key appear to be turned or twisted in the lock?",
+      "Can the lock be seen as intact and not visibly broken?",
+      "Is the door shown as closed and not open?",
+      "Are there visible signs of force applied to the key or lock, such as scratches or marks?"
+    ]
+  },
+  {
+    "prompt_en": "Tearing open the shipping tape with a \"Rippp—!\" sound, the plastic tape broke apart with a crisp, long noise.",
+    "prompt_vision": "Tearing open shipping tape on a package",
+    "prompt_audio": "Rippp—! crisp, long tearing sound of plastic tape breaking apart",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a distinct 'Rippp—!' sound when the shipping tape is torn open?",
+      "Is there a crisp, long noise present when the plastic tape breaks apart?",
+      "Can the tearing sound be clearly identified as originating from the shipping tape?",
+      "Are the sounds of tearing and breaking synchronized with the visual action of opening the tape?",
+      "Is the volume of the tearing sound appropriate for the action of ripping open shipping tape?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there visible shipping tape being torn open in the image?",
+      "Does the image show the tape breaking apart as it is being torn?",
+      "Can the torn tape be seen with a jagged or uneven edge?",
+      "Are there visible hands or tools involved in tearing the tape?",
+      "Is the tape shown as being plastic in appearance?",
+      "Does the image capture the moment of tension or stretching in the tape before it breaks?"
+    ]
+  },
+  {
+    "prompt_en": "Tearing the candy wrapper by hand, crinkling it softly a few times, then a gentle \"hiss\" as you tear it open.",
+    "prompt_vision": "Hand tearing open a candy wrapper",
+    "prompt_audio": "Soft crinkling followed by a gentle hiss",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a sound of tearing when the candy wrapper is opened by hand?",
+      "Does the audio include a soft crinkling sound a few times before the wrapper is torn?",
+      "Is there a gentle 'hiss' sound when the wrapper is finally torn open?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the candy wrapper visibly being held by hands?",
+      "Does the candy wrapper show signs of crinkling or folding before being torn?",
+      "Is the candy wrapper visibly torn apart by hand in the image or video?",
+      "Are the hands in contact with the candy wrapper during the crinkling and tearing actions?",
+      "Does the candy wrapper appear intact before the tearing action begins?"
+    ]
+  },
+  {
+    "prompt_en": "Squeezing the bubble wrap in hand, \"pop! pop! pop!\" a series of crisp little bursts, the rhythm varying between fast and slow according to one's mood.",
+    "prompt_vision": "Hand squeezing bubble wrap, popping bubbles intermittently.",
+    "prompt_audio": "Crisp popping sounds, varying in rhythm from fast to slow: pop, pop, pop.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a series of crisp popping sounds when the bubble wrap is squeezed?",
+      "Is there a variation in the rhythm of the popping sounds, alternating between fast and slow?",
+      "Are the popping sounds clearly audible and distinct from any background noise?",
+      "Can the popping sounds be identified as originating from the bubble wrap being squeezed?",
+      "Is the volume of the popping sounds consistent with the action of squeezing bubble wrap?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there visible bubble wrap being held in a hand?",
+      "Are there visible bubbles on the bubble wrap?",
+      "Can the hand be seen squeezing the bubble wrap?",
+      "Are there visible changes in the bubble wrap indicating popped bubbles?",
+      "Does the hand show varying movements to suggest different squeezing speeds?",
+      "Is the bubble wrap visibly compressed during the squeezing action?",
+      "Are there visible signs of bubble wrap deformation after popping?"
+    ]
+  },
+  {
+    "prompt_en": "Squeezing the plastic bottle tightly with one's hand, a \"crunch...\" sound emerged as the plastic deformed, groaning under the pressure, and the bottle's body caved in with a dull thud.",
+    "prompt_vision": "A hand tightly squeezing a plastic bottle, causing it to deform and collapse inward.",
+    "prompt_audio": "Crunching and groaning plastic sounds followed by a dull thud.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a 'crunch' sound when the plastic bottle is squeezed tightly?",
+      "Is there a groaning sound from the plastic as it deforms under pressure?",
+      "Can the audio capture a dull thud as the bottle's body caves in?",
+      "Is the timing of the 'crunch' sound synchronized with the visual action of squeezing the bottle?",
+      "Are the sounds of the bottle deformation consistent with the expected timbre of plastic material?",
+      "Will the audio remain free of extraneous noise or distortion during the bottle squeezing action?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the plastic bottle visibly deformed or caved in after being squeezed tightly?",
+      "Does the hand appear to be gripping the plastic bottle firmly during the squeezing action?",
+      "Are the fingers visibly pressing into the surface of the plastic bottle?",
+      "Is the plastic bottle's body shown with creases or folds as a result of the pressure applied?",
+      "Does the bottle remain stationary in the hand while being squeezed, without visible motion away from the hand?"
+    ]
+  },
+  {
+    "prompt_en": "Gently place the keys on the hallway cabinet, a soft metallic clink as they slide into place.",
+    "prompt_vision": "Keys being placed on a hallway cabinet.",
+    "prompt_audio": "Soft metallic clink as keys slide into place.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a soft metallic clink sound when the keys are placed on the hallway cabinet?",
+      "Does the sound of the keys sliding into place occur immediately after they are placed on the cabinet?",
+      "Is the volume of the metallic clink sound soft and subdued?",
+      "Can the sound of the keys be heard without any noticeable distortion or noise?",
+      "Are the sounds synchronized with the visual action of placing the keys on the cabinet?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a set of keys visible in the image or video?",
+      "Are the keys being placed on a cabinet in a hallway?",
+      "Is there a visible action of the keys being gently placed on the cabinet?",
+      "Is there an indication of the keys making contact with the cabinet, such as a slight movement or settling?",
+      "Are the keys positioned in a way that suggests they have just been placed down, rather than being held or in motion?"
+    ]
+  },
+  {
+    "prompt_en": "He flung the keys onto the cabinet with a slap, \"Clang!\" They clattered noisily, a disorderly jumble of metal striking metal.",
+    "prompt_vision": "A person flinging keys onto a cabinet, causing them to scatter in a disordered pile.",
+    "prompt_audio": "A sharp slap followed by a loud 'Clang!' and noisy clattering of metal keys striking each other.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the sound of the keys being flung onto the cabinet include a distinct 'slap' followed by a 'clang' noise?",
+      "Are the keys heard clattering noisily after the initial impact, with multiple metal-on-metal sounds?",
+      "Is the sound of the keys striking metal characterized by a disorderly jumble, indicating multiple impacts?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visible cabinet onto which the keys are flung?",
+      "Are the keys visibly in motion as they are flung onto the cabinet?",
+      "Does the image show the keys landing on the cabinet with a visible impact?",
+      "Are the keys depicted in a disorderly jumble on the cabinet?",
+      "Is there a visible interaction between the keys and the cabinet, such as keys striking the cabinet surface?"
+    ]
+  },
+  {
+    "prompt_en": "Hand-pulled curtain track, \"shua—\" the fabric slides smoothly over the crossbar, steady and seamless without any jamming.",
+    "prompt_vision": "Hand-pulled curtain sliding smoothly along a track over a crossbar, no visible resistance or jamming.",
+    "prompt_audio": "shua—, smooth fabric sliding sound, steady and seamless",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the sound of the fabric sliding over the crossbar match the smooth and steady motion described, without any abrupt interruptions or jamming noises?",
+      "Is the timing of the sliding sound synchronized with the visual motion of the curtain being pulled?",
+      "Can the sound of the curtain sliding be clearly distinguished from any background noise or distortion?",
+      "Is the sound consistent in pitch and timbre throughout the described steady and seamless motion?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visible curtain being pulled along a track?",
+      "Does the curtain fabric appear to move smoothly without any visible jamming?",
+      "Is the curtain track visible above the curtain?",
+      "Is the motion of the curtain fabric steady and continuous?",
+      "Can the curtain be seen sliding over a crossbar?",
+      "Is the curtain being pulled by hand?",
+      "Are there no visible interruptions in the movement of the curtain fabric?"
+    ]
+  },
+  {
+    "prompt_en": "Hand yanked the curtain violently, \"Rip!\" it stopped abruptly, the track jammed, and the fabric tightened, emitting a screeching friction sound.",
+    "prompt_vision": "Hand yanking a curtain violently, the curtain stopped abruptly with the track jammed and fabric taut.",
+    "prompt_audio": "Rip followed by a screeching friction sound.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the sound of the curtain being yanked include a distinct ripping noise as described?",
+      "Does the audio stop abruptly after the ripping sound, matching the described jamming of the track?",
+      "Is there a screeching friction sound when the fabric tightens after the track jams?",
+      "Are the timing and sequence of the ripping, abrupt stop, and screeching sounds consistent with the described actions?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the hand visibly gripping the curtain tightly?",
+      "Is the curtain shown being pulled with force, appearing stretched or taut?",
+      "Does the curtain fabric appear to be stuck or jammed on the track?",
+      "Is there visible tension in the curtain fabric where it is tightened?",
+      "Are there signs of friction on the curtain track, such as visible wear or resistance?"
+    ]
+  },
+  {
+    "prompt_en": "Lightly pressing the pen cap, the ballpoint pen clicked and extended precisely and silently without any unnecessary vibration.",
+    "prompt_vision": "A hand lightly pressing a pen cap, causing the ballpoint pen to extend precisely with no visible vibration.",
+    "prompt_audio": "A soft, single click sound as the pen extends, otherwise silent.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a clear and precise clicking sound when the pen cap is pressed?",
+      "Is the clicking sound free from any unnecessary noise or distortion?",
+      "Does the audio lack any additional vibrations or extraneous sounds during the pen's extension?",
+      "Is the clicking sound synchronized with the visual action of pressing the pen cap?",
+      "Does the audio remain silent apart from the clicking sound, as implied by the prompt?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the pen cap visibly pressed down in the image?",
+      "Does the ballpoint pen appear extended in the image?",
+      "Is there an absence of visible vibration or motion blur around the pen?",
+      "Does the pen appear to be in a stable, stationary position?",
+      "Is the pen cap shown in contact with the pen body, indicating it has been pressed?"
+    ]
+  },
+  {
+    "prompt_en": "Hand restlessly tapping the pen, \"click, click, click,\" repeatedly pressing hard, the plastic spring making high-pitched sounds, a rhythm full of anxiety.",
+    "prompt_vision": "Hand restlessly tapping a pen on a surface, pressing hard repeatedly.",
+    "prompt_audio": "Click, click, click; high-pitched plastic spring sounds in a rapid, anxious rhythm.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the sound of a pen clicking repeatedly?",
+      "Is the clicking sound high-pitched, as expected from a plastic spring?",
+      "Can the rhythm of the clicking convey a sense of anxiety?",
+      "Are the clicks frequent enough to suggest restless tapping?",
+      "Is the volume of the clicks consistent with pressing hard on the pen?"
+    ],
+    "auxiliary_info_vision": [
+      "Is a hand visible holding a pen in a tapping motion?",
+      "Does the pen appear to be pressed down repeatedly in a way that suggests clicking?",
+      "Is the hand's movement consistent with a restless or anxious tapping action?",
+      "Is the pen visibly made of plastic with a clickable mechanism?",
+      "Are the fingers positioned to press the pen's clickable top or side?"
+    ]
+  },
+  {
+    "prompt_en": "Twisting open the soda bottle cap, a \"hiss—\" sound of pressure release came out, with a puff of white mist spraying from the mouth of the bottle, and a cool sensation clearly heard.",
+    "prompt_vision": "Twisting open a soda bottle cap, a puff of white mist sprays from the mouth of the bottle.",
+    "prompt_audio": "A hiss sound of pressure release, with a cool sensation clearly heard.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a 'hiss' sound when the soda bottle cap is twisted open?",
+      "Does the audio include a sound that suggests pressure release from the bottle?",
+      "Can the sound of the white mist spraying be heard when the bottle is opened?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the soda bottle cap visibly being twisted open by hand or another tool?",
+      "Does white mist spray visibly from the mouth of the soda bottle upon opening?",
+      "Is the soda bottle's mouth clearly visible during the release of the mist?",
+      "Does the soda bottle appear to be stationary while being opened?",
+      "Is the soda bottle cap visibly detached or loosened after being twisted open?"
+    ]
+  },
+  {
+    "prompt_en": "Shaking an unopened soda bottle by hand, the liquid inside churns with a \"gurgle, gurgle\" sound as bubbles collide with the bottle walls, building pressure with a muffled roar.",
+    "prompt_vision": "Hand shaking an unopened soda bottle, liquid visibly churning inside",
+    "prompt_audio": "gurgle, gurgle sounds with muffled roar as bubbles collide and pressure builds",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a 'gurgle, gurgle' sound that corresponds with the liquid churning inside the soda bottle?",
+      "Is there a muffled roar sound that suggests pressure building inside the unopened soda bottle?",
+      "Can the sound of bubbles colliding with the bottle walls be heard distinctly in the audio?",
+      "Are the sounds of the liquid and bubbles synchronized with the visual action of shaking the soda bottle by hand?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the soda bottle visibly being held and shaken by a hand?",
+      "Does the liquid inside the soda bottle appear to be in motion, indicating churning?",
+      "Are there visible bubbles inside the soda bottle colliding with the walls?",
+      "Is the soda bottle unopened, with the cap securely in place?",
+      "Does the soda bottle show signs of pressure build?"
+    ]
+  },
+  {
+    "prompt_en": "Gently pushing the shopping cart, the wheels rolled smoothly with a \"grumble\" sound, and the flat ground produced no jarring noises.",
+    "prompt_vision": "A person gently pushing a shopping cart on flat ground.",
+    "prompt_audio": "Wheels rolling smoothly with a low grumble sound, no jarring noises.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a grumble sound when the shopping cart wheels roll?",
+      "Is the grumble sound consistent with the smooth rolling of the shopping cart?",
+      "Are there no jarring noises present in the audio when the shopping cart is pushed?",
+      "Is the sound of the shopping cart wheels positioned correctly to match the movement across flat ground?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the shopping cart visible in the image or video?",
+      "Are the wheels of the shopping cart shown rolling smoothly?",
+      "Is the ground depicted as flat?",
+      "Does the shopping cart appear to be pushed gently?",
+      "Is there an absence of visible jarring or abrupt movements in the scene?"
+    ]
+  },
+  {
+    "prompt_en": "Hand pushed the shopping cart forcefully, \"Creak... Clang!\" The wheels screeched and the axle hit the shelves, creating an ear-piercing, chaotic noise.",
+    "prompt_vision": "Hand pushing a shopping cart forcefully, wheels screeching, cart hitting shelves",
+    "prompt_audio": "Creak, clang, screeching wheels, ear-piercing chaotic noise",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a screeching sound from the shopping cart wheels as described?",
+      "Is there a creaking sound accompanying the forceful push of the shopping cart?",
+      "Does the audio include a metallic clang sound when the axle hits the shelves?",
+      "Are the chaotic noises loud and ear-piercing as described in the prompt?",
+      "Can the sequence of sounds clearly convey the progression of the cart being pushed, screeching, and hitting the shelves?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a hand visibly pushing the shopping cart?",
+      "Are the wheels of the shopping cart shown in motion?",
+      "Is the shopping cart depicted as making contact with shelves?",
+      "Are the wheels of the shopping cart shown at an angle suggesting forceful movement?",
+      "Is there visible deformation or movement of the shelves due to the cart's impact?",
+      "Are the wheels of the shopping cart depicted as screeching or creating friction?"
+    ]
+  },
+  {
+    "prompt_en": "Lightly press the intercom button on the access control panel, a short \"beep\" sounds, followed by a faint hum of electricity, waiting for a response.",
+    "prompt_vision": "A hand lightly pressing the intercom button on an access control panel.",
+    "prompt_audio": "A short beep followed by a faint hum of electricity.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does pressing the intercom button produce a short 'beep' sound?",
+      "Is there a faint hum of electricity audible after the beep?",
+      "Is the beep sound followed by a period of silence or low noise, indicating waiting for a response?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visible intercom button on the access control panel being pressed lightly?",
+      "Does the access control panel show any indication of a short 'beep' sound, such as a light or display change?",
+      "Can the faint hum of electricity be visually represented by subtle vibrations or movement in the panel?",
+      "Is the person's finger visibly in contact with the intercom button during the pressing action?",
+      "Are there any visible signs of waiting for a response, such as a person standing still near the panel?"
+    ]
+  },
+  {
+    "prompt_en": "Slapping the malfunctioning access control door with his hand, he pounded the panel furiously, shouting \"Hey? Hey?\" in vain.",
+    "prompt_vision": "A man slapping and pounding a malfunctioning access control door panel with his hand, shouting in frustration.",
+    "prompt_audio": "Sharp slapping sounds, furious pounding on a panel, and repeated loud shouts of 'Hey? Hey?'",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a sound of a hand slapping the door panel when he hits it?",
+      "Does the audio include the sound of pounding on the panel?",
+      "Can you hear the person shouting 'Hey? Hey?' clearly?",
+      "Is the volume of the shouting consistent with someone expressing frustration?",
+      "Are the slapping and pounding sounds distinct and separate from the shouting?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the person visibly slapping the access control door with their hand?",
+      "Does the access control door appear to be malfunctioning, possibly indicated by a lack of response or error lights?",
+      "Can the person's hand be seen making contact with the panel during the act of pounding?",
+      "Are the person's facial expressions showing signs of frustration or anger?",
+      "Is the person visibly shouting, with an open mouth and tense facial muscles?",
+      "Is the panel being pounded furiously, suggesting rapid and forceful hand movements?"
+    ]
+  },
+  {
+    "prompt_en": "Hand gently placed the backpack on the ground, a soft \"puff\" as the soft object landed, fabric rubbing slightly without impact.",
+    "prompt_vision": "Hand placing a backpack gently on the ground",
+    "prompt_audio": "soft puff, fabric rubbing slightly",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a soft 'puff' sound when the backpack is placed on the ground?",
+      "Does the sound of fabric rubbing occur without any impact noise?",
+      "Is the overall sound of the backpack placement gentle and subdued?",
+      "Can the sound of the backpack landing be heard without any additional noise or distortion?",
+      "Are the sounds consistent with a soft object being placed gently on the ground?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the backpack visibly resting on the ground with no signs of motion?",
+      "Does the backpack appear to be made of soft fabric material?",
+      "Is there a hand visible in the image or video gently placing the backpack down?",
+      "Are there no visible signs of impact or damage on the backpack as it lands?",
+      "Is the fabric of the backpack showing slight movement or adjustment as it settles?"
+    ]
+  },
+  {
+    "prompt_en": "He slammed his backpack on the ground, producing a muffled \"thud!\" that reverberated, causing the zipper and metal buckles to clatter noisily.",
+    "prompt_vision": "A person slamming a backpack on the ground, with visible zipper and metal buckles.",
+    "prompt_audio": "Muffled thud followed by reverberating clatter of zipper and metal buckles.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a muffled 'thud' sound when the backpack is slammed on the ground?",
+      "Is there a reverberation effect following the 'thud' sound?",
+      "Can the sound of the zipper clattering be heard after the backpack hits the ground?",
+      "Are the metal buckles audibly clattering after the backpack is slammed?",
+      "Is the clattering noise distinct and noisy following the initial 'thud'?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a backpack visible on the ground?",
+      "Are the metal buckles of the backpack visible?",
+      "Is the zipper of the backpack visible?",
+      "Does the backpack appear to be in contact with the ground, suggesting it was dropped?",
+      "Are the metal buckles and zipper positioned in a way that suggests they could make noise upon impact?"
+    ]
+  },
+  {
+    "prompt_en": "Gently close the car door, producing a soft \"click\" as the latch engages, with the door seam closing smoothly and no residual vibration—a textbook-perfect door closure.",
+    "prompt_vision": "A car door closing smoothly with the seam aligning perfectly and no visible vibration.",
+    "prompt_audio": "Soft click sound as the car door latch engages, clean and muted with no echo or resonance.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a soft 'click' sound corresponding to the latch engaging?",
+      "Is the sound of the door seam closing smooth and free from abrupt or harsh noises?",
+      "Are there no residual vibrations or reverberations audible after the door is closed?",
+      "Does the timing of the 'click' align with the visual moment the latch engages?",
+      "Is the overall volume of the door closure sound subdued and gentle, as implied by the prompt?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the car door visibly closed with no gap along the seam?",
+      "Does the car door appear to close smoothly without any visible jerking or abrupt motion?",
+      "Can the latch mechanism be seen engaging as the door closes?",
+      "Is there no visible vibration or shaking of the car door after it is closed?",
+      "Are the car door and its surrounding frame aligned perfectly once closed?"
+    ]
+  },
+  {
+    "prompt_en": "He slammed the car door forcefully, producing a loud \"Bang!\" that shook the windows and made the car tremble slightly. The neighbors looked over angrily, their faces filled with rage.",
+    "prompt_vision": "A man slamming a car door, causing the car to tremble slightly; nearby neighbors glaring with angry, enraged expressions.",
+    "prompt_audio": "Loud bang from a car door slamming shut, sharp and resonant, followed by brief silence.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Can the audio include a sound effect that suggests the windows are shaking slightly due to the slam?",
+      "Is there an audible reaction from the neighbors, such as murmuring or angry vocalizations, following the loud 'Bang!'?",
+      "Will the sound of the car door slamming be followed by a brief period of silence or subdued noise, indicating the neighbors' reaction?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the car door visibly closed with force, suggesting a strong impact?",
+      "Are the car windows visibly shaking or vibrating as a result of the door slam?",
+      "Is the car itself showing signs of slight trembling or movement due to the forceful door slam?",
+      "Are the neighbors visibly looking in the direction of the car with angry facial expressions?"
+    ]
+  },
+  {
+    "prompt_en": "Hands lightly pressing the calculator, the soft beeps of the buttons—\"beep, beep, beep\"—sounded steadily, with the numbers calmly changing.",
+    "prompt_vision": "Hands lightly pressing a calculator, numbers changing on the display.",
+    "prompt_audio": "Soft, steady beeps from calculator buttons: 'beep, beep, beep'.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include soft beeps corresponding to the calculator buttons being pressed?",
+      "Are the beeps steady and evenly spaced as the buttons are pressed?",
+      "Is there a change in the numbers on the calculator synchronized with each beep sound?",
+      "Is the overall sound level of the beeps soft, indicating light pressing of the calculator buttons?",
+      "Can the beeps be clearly distinguished without distortion or noise interfering with their clarity?"
+    ],
+    "auxiliary_info_vision": [
+      "Are hands visibly pressing the buttons on the calculator?",
+      "Is there a visible change in the numbers on the calculator display?",
+      "Are the hands positioned lightly on the calculator without excessive force?",
+      "Is the calculator shown in a stationary position without movement?",
+      "Are the buttons on the calculator visibly depressed as they are pressed?"
+    ]
+  },
+  {
+    "prompt_en": "The light bulb suddenly burned out with a soft \"pop!\" as the filament broke, plunging the room into darkness.",
+    "prompt_vision": "A light bulb in a room suddenly goes dark as its filament breaks, casting the space into complete darkness.",
+    "prompt_audio": "A soft 'pop!' sound as a light bulb filament breaks.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a soft 'pop' sound at the moment the light bulb burns out?",
+      "Is the 'pop' sound synchronized with the visual cue of the light bulb going out?",
+      "Is there an absence of other prominent sounds immediately following the 'pop' to imply the room is plunged into silence?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a light bulb visible in the image or video?",
+      "Does the light bulb appear to be off or not emitting light?",
+      "Can the broken filament be seen inside the light bulb?",
+      "Is the room depicted in darkness, with no visible light sources?",
+      "Are there any visual cues indicating the light bulb has burned out, such as a broken filament or darkened glass?"
+    ]
+  },
+  {
+    "prompt_en": "The old ceiling fan starts up with a \"click\" as the relay engages, and the blades begin to hum and slowly turn.",
+    "prompt_vision": "An old ceiling fan begins to rotate slowly as it powers on.",
+    "prompt_audio": "A click followed by a low hum as the fan blades start turning.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a distinct 'click' sound at the moment the ceiling fan starts up?",
+      "Is there a humming sound present that corresponds to the movement of the fan blades?",
+      "Can the sound of the fan blades be heard gradually increasing in speed after the initial start-up?",
+      "Is the humming sound consistent with the operation of an old ceiling fan?",
+      "Are the sounds of the fan blades turning synchronized with their visual movement in the video?"
+    ],
+    "auxiliary_info_vision": [
+      "Does the ceiling fan have visible blades that are slowly turning?",
+      "Is the ceiling fan depicted as old in appearance, such as worn or aged materials?",
+      "Are the blades of the ceiling fan initially stationary before starting to turn?",
+      "Can the motion of the blades be seen gradually increasing in speed?",
+      "Is the ceiling fan shown as the source of the movement and humming sound implied by the description?"
+    ]
+  },
+  {
+    "prompt_en": "The air conditioner suddenly turned on, emitting a low-frequency humming sound as the motor started up, and a gust of cold air rushed into the room with a whoosh.",
+    "prompt_vision": "An air conditioner turns on, blowing a gust of cold air into the room.",
+    "prompt_audio": "Low-frequency humming sound from the motor starting up, followed by a whoosh of cold air.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a low-frequency humming sound when the air conditioner turns on?",
+      "Is there a whooshing sound accompanying the start-up of the air conditioner, indicating a rush of cold air?",
+      "Is the humming sound continuous after the initial start-up of the air conditioner?",
+      "Does the timing of the humming sound coincide with the visual cue of the air conditioner turning on?",
+      "Is the whooshing sound brief and distinct, occurring immediately after the air conditioner starts?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the air conditioner visually depicted as turned on, with operational indicators such as visible vents or moving parts?",
+      "Does the air conditioner appear to emit a visual representation of cold air, such as faint mist or airflow lines?",
+      "Are objects near the air conditioner visibly affected by the gust of air, such as curtains or papers moving slightly?",
+      "Is the air conditioner shown in a stationary position, without any visible motion of the unit itself?"
+    ]
+  },
+  {
+    "prompt_en": "The refrigerator door wasn't closed properly, and the compressor clicked and automatically restarted, the low hum beginning again.",
+    "prompt_vision": "A refrigerator with its door slightly ajar.",
+    "prompt_audio": "A clicking sound followed by a low humming noise.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the sound of a compressor clicking when it restarts?",
+      "Is there a low hum audible after the compressor restarts?",
+      "Can the sound of the compressor clicking be heard distinctly before the hum begins?",
+      "Is the hum continuous and consistent after the compressor restarts?",
+      "Are there no other prominent sounds that would obscure the hum of the compressor?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the refrigerator door visibly ajar or not fully closed?",
+      "Does the refrigerator have a visible compressor component?",
+      "Can the compressor be seen in a state of operation, possibly vibrating or showing signs of activity?",
+      "Is there a visible light inside the refrigerator indicating it is open?",
+      "Are there any visible items inside the refrigerator that are partially exposed due to the door being ajar?"
+    ]
+  },
+  {
+    "prompt_en": "The microwave timer ends with a crisp \"ding!\" The turntable stops, and steam escapes from the door seam.",
+    "prompt_vision": "Steam escaping from the seam of a microwave door, turntable inside is stationary.",
+    "prompt_audio": "Crisp microwave timer ding",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a crisp 'ding' sound at the moment the microwave timer ends?",
+      "Is the sound of the microwave turntable stopping audible after the timer ends?",
+      "Can the sound of steam escaping from the microwave door seam be heard after the turntable stops?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there visible steam escaping from the seam of the microwave door?",
+      "Does the microwave turntable appear stationary after the timer ends?",
+      "Is the microwave door closed when the steam is escaping?",
+      "Can the microwave timer be seen as having reached the end of its countdown?",
+      "Is there a visible indication that the microwave has finished cooking, such as a display showing zero or an end message?"
+    ]
+  },
+  {
+    "prompt_en": "The electric kettle boils, clicks off automatically, the boiling sound stops abruptly, leaving only a soft hissing from the residual heat.",
+    "prompt_vision": "An electric kettle sitting on a counter, steam gently rising from its spout after boiling.",
+    "prompt_audio": "Water boiling vigorously, then abruptly stopping with a click, followed by a soft hissing sound.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a distinct boiling sound from the electric kettle before it clicks off?",
+      "Does the boiling sound stop abruptly when the kettle clicks off?",
+      "Is there a soft hissing sound present after the boiling sound stops?",
+      "Does the sound of the kettle clicking off occur at the end of the boiling sound?",
+      "Is the hissing sound quieter than the boiling sound?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the electric kettle visibly steaming when it boils?",
+      "Does the electric kettle have a visible switch or indicator that changes when it clicks off?",
+      "Is there a visible transition from steam to a softer hissing when the kettle clicks off?",
+      "Are there any visible signs of heat, such as steam or condensation, after the kettle clicks off?",
+      "Is the kettle's spout or lid area visibly affected by steam or condensation during boiling?"
+    ]
+  },
+  {
+    "prompt_en": "The old TV turned off with a \"zzzt...\" sound as the electric current faded, the screen shrinking to a single white dot before going dark.",
+    "prompt_vision": "An old TV screen shrinking to a single white dot before going dark.",
+    "prompt_audio": "A 'zzzt...' sound as the electric current fades.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a 'zzzt' sound as the TV turns off?",
+      "Is the 'zzzt' sound synchronized with the visual of the TV screen shrinking to a single white dot?",
+      "Does the sound of the TV turning off fade out as the screen goes dark?",
+      "Is there an absence of other prominent sounds when the TV turns off, implying silence after the 'zzzt' sound?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there an old TV present in the image or video?",
+      "Does the TV screen show a shrinking effect to a single white dot before going completely dark?",
+      "Is the TV screen initially illuminated before it turns off?",
+      "Is the final state of the TV screen completely dark after the shrinking effect?",
+      "Can the TV be seen in a state of transition from on to off, indicated by the shrinking white dot?"
+    ]
+  },
+  {
+    "prompt_en": "The window wasn't closed tightly, and the wind rushed in, slamming the pane with a loud \"bang!\" and making the glass vibrate and the frame rattle.",
+    "prompt_vision": "A window with a loose pane, glass vibrating, frame rattling as wind blows through.",
+    "prompt_audio": "Loud bang, glass vibrating, window frame rattling in the wind.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a loud 'bang' sound when the window pane is slammed?",
+      "Is there a sound of glass vibrating after the pane is slammed?",
+      "Can the audio capture the rattling sound of the window frame following the 'bang'?",
+      "Is the sound of wind rushing in audible before the pane slams?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the window pane visibly vibrating due to the wind impact?",
+      "Does the window frame appear to be rattling from the force of the wind?",
+      "Is the window shown to be partially open, indicating it wasn't closed tightly?",
+      "Can the movement of the window pane be seen as a result of the wind rushing in?",
+      "Are there visible signs of wind, such as curtains or nearby objects moving?"
+    ]
+  },
+  {
+    "prompt_en": "The curtain billowed in the crosswind, \"Hoo——pa!\" The fabric slapped against the window frame, its rhythm varying with the wind's strength.",
+    "prompt_vision": "A curtain billowing in a crosswind, repeatedly slapping against a window frame.",
+    "prompt_audio": "Hoo——pa! The sound of fabric flapping and slapping rhythmically against a window frame, varying in intensity with the wind.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the sound of fabric flapping against a window frame?",
+      "Is there a variation in the rhythm of the fabric slapping sound corresponding to changes in wind strength?",
+      "Is the vocalization 'Hoo——pa!' present in the audio as described?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the curtain visibly billowing due to the crosswind?",
+      "Does the fabric of the curtain appear to slap against the window frame?",
+      "Can the varying rhythm of the curtain's movement be seen as changing with the wind's strength?",
+      "Are there visible signs of wind affecting the curtain, such as motion or deformation?"
+    ]
+  },
+  {
+    "prompt_en": "The old light tube on the ceiling flickered, making a \"zzzt\" sound as the electric current became unstable. It brightened and dimmed repeatedly, then finally went out with a \"pop.\"",
+    "prompt_vision": "An old light tube on the ceiling flickering, brightening and dimming repeatedly, then going out.",
+    "prompt_audio": "A 'zzzt' sound from an unstable electric current, followed by a 'pop' as the light tube goes out.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a 'zzzt' sound that corresponds with the flickering of the light tube?",
+      "Is there a 'pop' sound when the light tube finally goes out?",
+      "Can the 'zzzt' sound be heard repeatedly as the light brightens and dims?",
+      "Is the 'zzzt' sound consistent with the timing of the flickering light?",
+      "Does the audio maintain a quiet background, emphasizing the sounds of the flickering and popping light tube?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a light tube visible on the ceiling?",
+      "Does the light tube flicker with varying brightness?",
+      "Can the light tube be seen dimming and brightening repeatedly?",
+      "Is there a visible change in the light tube when it goes out?",
+      "Are there visible signs of instability in the electric current affecting the light tube?",
+      "Will the light tube appear to be off after the 'pop' sound?"
+    ]
+  },
+  {
+    "prompt_en": "The radiator suddenly made a soft metallic \"clink!\" as the pipes expanded and contracted with the heat, a sound unique to winter.",
+    "prompt_vision": "A radiator in a room during winter, with visible pipes connected to it.",
+    "prompt_audio": "Soft metallic clink sound from radiator pipes expanding and contracting due to heat",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a soft metallic 'clink' sound when the radiator pipes expand and contract?",
+      "Is the 'clink' sound distinct and recognizable as a unique winter sound?",
+      "Can the 'clink' sound be heard clearly without distortion or noise?",
+      "Is the timing of the 'clink' sound consistent with the sudden expansion and contraction of the radiator pipes?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a radiator visible in the image or video?",
+      "Are the pipes connected to the radiator visible?",
+      "Does the radiator appear to be made of metal?",
+      "Is there any visible indication of heat, such as steam or warmth emanating from the radiator?",
+      "Are the pipes shown in a state that suggests expansion or contraction, such as slight bending or movement?",
+      "Is there a visual cue that suggests the setting is during winter, such as snow or winter clothing nearby?"
+    ]
+  },
+  {
+    "prompt_en": "The glass window was pounded intensely by raindrops, producing a crisp, continuous sound of \"pitter-patter,\" as the rain intensified and quickened its rhythm.",
+    "prompt_vision": "Raindrops intensely pounding a glass window as the rain intensifies and quickens.",
+    "prompt_audio": "Crisp, continuous pitter-patter of raindrops, rhythm intensifying and quickening.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio contain a continuous sound of raindrops hitting the glass window?",
+      "Is the sound of raindrops characterized by a crisp 'pitter-patter'?",
+      "Does the rhythm of the raindrop sounds intensify and quicken over time?",
+      "Can the sound of raindrops be heard clearly without distortion or noise?",
+      "Is the sound source position consistent with raindrops hitting a glass window?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the glass window visibly wet with raindrops on its surface?",
+      "Are raindrops shown hitting the glass window with visible impact?",
+      "Can the raindrops on the glass window be seen increasing in density over time?",
+      "Is the motion of the raindrops on the glass window consistent with an intensified and quickened rhythm?",
+      "Are streaks or trails of water visible running down the glass window due to the rain?"
+    ]
+  },
+  {
+    "prompt_en": "Outside the window, a car alarm suddenly blared, \"Woo-wa woo-wa!\" The high-pitched siren shattered the tranquility, continuing without pause.",
+    "prompt_vision": "A car outside a window with its alarm activated.",
+    "prompt_audio": "Loud, high-pitched car alarm siren blaring continuously: 'Woo-wa woo-wa!'",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the car alarm sound high-pitched as described?",
+      "Does the car alarm produce a 'Woo-wa woo-wa' pattern?",
+      "Is the car alarm continuous without any pauses?",
+      "Can the car alarm be heard clearly as if it is outside the window?",
+      "Is the sound of the car alarm loud enough to shatter the tranquility?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a car visible outside the window?",
+      "Does the car have visible flashing lights indicating an alarm?",
+      "Are the windows of the car closed?",
+      "Is the car stationary, indicating it is parked?",
+      "Is the scene outside the window depicted as calm except for the car alarm?",
+      "Does the car appear to be in a typical parking area or street setting?",
+      "Are there no visible people interacting with the car?"
+    ]
+  },
+  {
+    "prompt_en": "A loud thud came from the floor above, followed by the grating sound of furniture being dragged.",
+    "prompt_vision": "Furniture being dragged on the floor above.",
+    "prompt_audio": "A loud thud followed by the grating sound of furniture being dragged.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a loud thud sound that occurs first in the sequence?",
+      "Does the thud sound have a low-frequency and heavy impact quality?",
+      "Is the thud sound localized to appear as coming from above?",
+      "Does the grating sound of furniture being dragged follow immediately after the thud?",
+      "Is the dragging sound continuous and abrasive, resembling the movement of furniture?",
+      "Can the dragging sound be perceived as originating from the same position above as the thud?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there visible movement or vibration on the ceiling or floor indicating a loud thud?",
+      "Can furniture be seen in motion, suggesting it is being dragged?",
+      "Are there visible marks or scratches on the floor consistent with furniture being dragged?",
+      "Is the furniture's position changing over time, indicating it is being moved?",
+      "Are there any objects on the floor that appear to have been disturbed by the thud?"
+    ]
+  },
+  {
+    "prompt_en": "A loud \"bang!\" echoed from the neighboring apartment as a door was slammed shut, causing the walls to tremble slightly. Anger pierced through the floorboards and reached my ears.",
+    "prompt_vision": "A door slamming shut in a neighboring apartment, causing walls to tremble slightly.",
+    "prompt_audio": "A loud 'bang!' echoing through the building, conveying anger.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a loud 'bang' sound when the door is slammed shut?",
+      "Does the sound of the 'bang' have an echo effect, suggesting it reverberates through the apartment?",
+      "Can the sound of the 'bang' cause a subtle rumbling or trembling effect, indicating the walls are affected?",
+      "Is the sound of the 'bang' distinct and clear, without distortion or noise?",
+      "Does the audio convey a sense of anger through the intensity or abruptness of the sound?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visible door in the neighboring apartment that appears to be slammed shut?",
+      "Are the walls of the neighboring apartment visibly trembling or showing signs of vibration?",
+      "Can the floorboards in the scene be seen reacting to the impact, such as slight movement or vibration?",
+      "Are there visual cues, such as facial expressions or body language, indicating anger in the neighboring apartment?"
+    ]
+  },
+  {
+    "prompt_en": "The vending machine clunked as a drink dropped down, the rollers turned, and the can landed with a light bounce before coming to a stop.",
+    "prompt_vision": "A vending machine with a drink can dropping down, rollers turning, and the can landing with a light bounce before stopping.",
+    "prompt_audio": "Clunking sound followed by rolling mechanical noise and a light metallic bounce.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a clunking sound when the drink drops down from the vending machine?",
+      "Is there a sound of rollers turning as part of the vending machine operation?",
+      "Can you hear a light bouncing sound when the can lands before coming to a stop?",
+      "Is the sequence of sounds (clunk, rollers turning, bounce) in the correct order as described in the prompt?",
+      "Are the sounds of the vending machine operation free from unexpected noise or distortion?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a vending machine visible in the scene?",
+      "Does the vending machine appear to be dispensing a drink?",
+      "Can the rollers be seen turning as the drink is dispensed?",
+      "Is there a can visible landing with a bounce?",
+      "Does the can come to a stop after bouncing?"
+    ]
+  },
+  {
+    "prompt_en": "The elevator suddenly came to an abrupt stop with a screeching sound, \"Gaa—zzz!\" The cable scraped, the car slightly jolted, and the lights flickered for a moment.",
+    "prompt_vision": "An elevator car jolts suddenly as the lights flicker; the interior is momentarily dim before brightening again.",
+    "prompt_audio": "Screeching metal sound 'Gaa—zzz!', followed by a scraping noise and a brief electrical flicker hum.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a scraping sound from the cable when the elevator comes to a stop?",
+      "Can the audio convey a slight jolt in the elevator car through a corresponding sound effect?",
+      "Are the sounds synchronized with the visual flickering of the lights for a moment?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the elevator car visibly jolted or shifted from its usual position?",
+      "Are the elevator lights flickering or showing intermittent illumination?",
+      "Is there a visible cable that appears to be scraped or damaged?",
+      "Does the elevator interior show signs of sudden movement, such as objects slightly displaced?",
+      "Can the elevator doors be seen closed, indicating the car is not in motion?",
+      "Are there visible signs of tension or stress on the elevator cable?",
+      "Is the elevator interior lighting inconsistent, suggesting a flicker?"
+    ]
+  },
+  {
+    "prompt_en": "The old wall clock struck the hour, its chime ringing out \"Dong—Dong—\" as the clapper hit the bronze bell, the sound echoing through the empty house.",
+    "prompt_vision": "An old wall clock with a bronze bell, its clapper striking the bell as it chimes the hour, in an empty house.",
+    "prompt_audio": "Dong—Dong—, resonant chime of a bronze bell echoing through an empty house.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the sound of a clock chime striking the hour with a distinct 'Dong—Dong—' pattern?",
+      "Is the sound of the clock chime characterized by a metallic timbre, consistent with a bronze bell being struck?",
+      "Can the echo of the clock chime be heard, suggesting it is resonating through an empty space?",
+      "Is there an absence of other prominent sounds, indicating the house is empty and quiet except for the clock chime?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the wall clock visibly old in appearance, with features such as wear or vintage design?",
+      "Does the wall clock have a visible clapper striking a bronze bell?",
+      "Are the hands of the wall clock positioned to indicate the hour being struck?",
+      "Is the wall clock stationary and mounted on a wall?",
+      "Is there no visible motion or activity in the surrounding space, suggesting an empty house?"
+    ]
+  },
+  {
+    "prompt_en": "Slight sparking sound from the socket, loose plug, flickering current, and fluctuating brightness on the appliance screen.",
+    "prompt_vision": "Loose plug in a socket, appliance screen with flickering and fluctuating brightness.",
+    "prompt_audio": "Slight sparking sound from an electrical socket.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a slight sparking sound audible from the socket when the loose plug is described?",
+      "Does the sparking sound occur intermittently, matching the flickering current described?",
+      "Can the fluctuating brightness on the appliance screen be synchronized with the sparking sound or flickering current?",
+      "Are the sparking sounds free of excessive noise or distortion that would make them unclear?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visible spark near the socket?",
+      "Does the plug appear to be loosely connected to the socket?",
+      "Is the appliance screen showing fluctuating brightness levels?",
+      "Can the flickering of the current be observed through changes in light intensity?",
+      "Are there visible signs of electrical instability around the socket area?"
+    ]
+  },
+  {
+    "prompt_en": "The range hood suddenly \"whooshed\" as it accelerated, sensing the grease concentration and automatically increasing the airflow.",
+    "prompt_vision": "Range hood operating in kitchen, no smoke or steam, airflow evident from movement of nearby lightweight objects or hair.",
+    "prompt_audio": "A sudden whooshing sound, increasing in intensity, characteristic of a range hood fan accelerating automatically.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a sudden 'whooshing' sound when the range hood accelerates?",
+      "Is the 'whooshing' sound synchronized with the visual cue of the range hood accelerating?",
+      "Can the sound of the range hood's airflow be heard increasing after the initial 'whoosh'?",
+      "Is there a noticeable change in pitch or frequency indicating the range hood's airflow increase?",
+      "Are the sounds of the range hood free from distortion or unexpected noise during operation?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the range hood visibly present in the image or video?",
+      "Does the range hood appear to be actively operating, indicated by visible airflow or motion?",
+      "Can the range hood's vent or fan be seen in a state suggesting increased activity, such as faster rotation or more open vents?",
+      "Are there visible indicators of grease concentration, such as smoke or steam near the range hood?",
+      "Is there a noticeable change in the lighting or shadows around the range hood, suggesting increased airflow?",
+      "Will the range hood's controls or display show signs of automatic adjustment or activation?"
+    ]
+  },
+  {
+    "prompt_en": "The fire sprinkler head was accidentally activated, \"Hua——!\" Cold water suddenly sprayed out, the sound of water jets hitting the ground mixed with the piercing alarm.",
+    "prompt_vision": "A fire sprinkler head activated, spraying cold water onto the ground.",
+    "prompt_audio": "Hua——! The sound of water jets hitting the ground mixed with a piercing alarm.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of water spraying from the sprinkler head clearly audible when it is activated?",
+      "Does the audio include the sound of water jets hitting the ground?",
+      "Is there a piercing alarm sound present in the audio?",
+      "Can the alarm sound be heard simultaneously with the sound of water spraying?",
+      "Will the audio maintain a clear distinction between the sound of water and the alarm throughout the scene?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there visible water spraying out from the fire sprinkler head?",
+      "Does the water appear to be cold, possibly indicated by steam or lack thereof?",
+      "Are there visible water jets hitting the ground?",
+      "Is the fire sprinkler head clearly visible in the image or video?",
+      "Can the alarm be visually identified, such as through flashing lights or an alarm device?",
+      "Is there a visible reaction to the water spray, such as wet surfaces or water pooling on the ground?"
+    ]
+  },
+  {
+    "prompt_en": "Water drips from the ceiling, landing evenly in the bucket with a soft \"plink... plink...\" rhythm, like a clock.",
+    "prompt_vision": "Water dripping from a ceiling into a bucket below.",
+    "prompt_audio": "Soft, rhythmic 'plink... plink...' sounds, evenly spaced like a clock ticking.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a soft 'plink' sound that repeats rhythmically like a clock?",
+      "Is the timing of the 'plink' sounds consistent and evenly spaced?",
+      "Can the sound of water dripping be heard originating from above, suggesting it is falling from the ceiling?",
+      "Are the 'plink' sounds free from distortion or noise, maintaining a clear and soft quality?",
+      "Does the audio maintain a consistent volume level for each 'plink' sound, indicating uniform drops landing in the bucket?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there visible water dripping from the ceiling?",
+      "Does the water appear to land in a bucket?",
+      "Is the bucket positioned directly under the dripping water?",
+      "Can the water droplets be seen creating ripples or splashes in the bucket?",
+      "Are the water droplets spaced evenly, suggesting a rhythmic pattern?",
+      "Is the bucket visibly collecting water, indicating it is not overflowing?",
+      "Is there a visible ceiling from which the water drips?"
+    ]
+  },
+  {
+    "prompt_en": "A strong wind swept past the glass curtain wall, letting out a long, wailing whistle as it rushed along the surface, the air pressure causing the window frames to hum faintly.",
+    "prompt_vision": "Strong wind blowing past a glass curtain wall, causing visible vibration in the window frames.",
+    "prompt_audio": "Long, wailing whistle of wind rushing along a surface, accompanied by faint humming from window frames due to air pressure.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a long, wailing whistle sound that corresponds to the strong wind sweeping past the glass curtain wall?",
+      "Is there a faint humming sound in the audio that matches the air pressure affecting the window frames?",
+      "Are the whistle and hum sounds synchronized with the described wind movement along the glass curtain wall?",
+      "Can the whistle sound be distinctly identified as originating from the interaction between the wind and the glass surface?",
+      "Is the hum sound subtle enough to reflect the faint effect of air pressure on the window frames?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visible glass curtain wall in the scene?",
+      "Can the effects of a strong wind be seen on the glass curtain wall, such as slight vibrations or movement?",
+      "Are there any visual cues indicating the presence of a wailing whistle, such as vibrating window frames or slight distortions in the glass?",
+      "Does the scene show any visual signs of air pressure affecting the window frames, like subtle bending or flexing?",
+      "Are the window frames visibly intact and not broken or shattered?"
+    ]
+  },
+  {
+    "prompt_en": "The underground water pipe made a dull \"thud!\" sound — the water hammer effect — causing the entire building's pipes to resonate and vibrate slightly.",
+    "prompt_vision": "Underground water pipes in a building, no visible movement or damage.",
+    "prompt_audio": "Dull thud followed by low resonant vibrations and faint metallic rattling.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a dull 'thud' sound corresponding to the water hammer effect as described?",
+      "Can the resonance of the building's pipes be heard following the initial 'thud' sound?",
+      "Are the vibrations of the pipes audibly present and consistent with the described slight intensity?",
+      "Is the timing of the resonance and vibrations synchronized with the initial 'thud' sound?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there visible vibration or movement in the building's pipes?",
+      "Are the pipes visibly resonating or shaking slightly?",
+      "Can the dull 'thud!' sound be visually represented by a sudden movement or shift in the pipes?",
+      "Are there any visible signs of the water hammer effect, such as slight pipe displacement or movement?",
+      "Is there a visual indication of the underground water pipe causing a disturbance in the building's plumbing system?"
+    ]
+  },
+  {
+    "prompt_en": "When the electronic lock runs out of power, it emits three beeps (\"Beep... beep... beep...\"), the red light flashes, and the door refuses to open.",
+    "prompt_vision": "Red light flashing on an electronic lock, door closed and not opening",
+    "prompt_audio": "Three beeps: 'Beep... beep... beep...'",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include three distinct beeps when the electronic lock runs out of power?",
+      "Can the sound of the beeps be clearly heard without distortion or noise?",
+      "Is there synchronization between the beeping sound and the visual flashing of the red light?",
+      "Does the audio remain quiet after the beeps, indicating the door refuses to open?"
+    ],
+    "auxiliary_info_vision": [
+      "Does the electronic lock have a visible red light that flashes when it runs out of power?",
+      "Are there three distinct visual indications corresponding to the beeps, such as light flashes or other visible cues?",
+      "Is the door visibly closed and not opening when the electronic lock runs out of power?",
+      "Can the electronic lock be seen as inactive or unresponsive when it runs out of power?",
+      "Is the red light on the electronic lock clearly distinguishable from other parts of the lock?"
+    ]
+  }
+]

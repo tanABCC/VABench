@@ -1,0 +1,845 @@
+[
+  {
+    "prompt_en": "Generate audio for a first-person park running video, dominated by the character's heavy breathing and heartbeat sounds, while reducing external environmental noises.",
+    "prompt_vision": "First-person view of running through a park, showing paths, trees, and greenery.",
+    "prompt_audio": "Heavy breathing and prominent heartbeat, with minimal environmental sounds.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the character's heavy breathing clearly audible throughout the video?",
+      "Does the heartbeat sound maintain a consistent rhythm and volume during the running sequence?",
+      "Are external environmental noises significantly reduced compared to the character's breathing and heartbeat sounds?",
+      "Can the breathing and heartbeat sounds be heard as originating from the character's position in the video?",
+      "Is there minimal distortion or noise interference affecting the clarity of the breathing and heartbeat sounds?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the character's heavy breathing visually synchronized with their physical movements in the video?",
+      "Does the visual representation of the character's heartbeat align with the rhythm of their footsteps?",
+      "Are the visuals of the park environment minimal, focusing more on the character's perspective and actions?",
+      "Is the lighting in the video consistent with a natural outdoor setting, enhancing the realism of the park scene?",
+      "Are the textures and colors of the park visually subdued to emphasize the character's experience?"
+    ]
+  },
+  {
+    "prompt_en": "For a first-person underwater video, create an underwater auditory experience: all external sounds become muffled and blurred, while the foreground features clear bubbling sounds from a breathing regulator or breath-holding.",
+    "prompt_vision": "First-person view underwater, with clear visibility of bubbles rising from a breathing regulator or the viewer's mouth.",
+    "prompt_audio": "Muffled and blurred external sounds, with prominent, clear bubbling sounds from a breathing regulator or breath-holding in the foreground.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Are the external sounds muffled and blurred as expected in an underwater environment?",
+      "Is there a clear bubbling sound from a breathing regulator or breath-holding in the foreground?",
+      "Does the audio maintain a consistent underwater sound field throughout the video?",
+      "Can the bubbling sounds be distinctly heard over the muffled external noises?",
+      "Is there an absence of sharp or clear external sounds that would not be expected underwater?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the video presented from a first-person perspective underwater?",
+      "Does the visual content include clear indications of being submerged, such as water distortion or particles floating in the water?",
+      "Are there visible air bubbles rising from a breathing regulator or breath-holding action?",
+      "Is the lighting consistent with underwater conditions, such as diffused light or a bluish tint?",
+      "Are objects or features in the foreground visibly affected by underwater refraction or distortion?"
+    ]
+  },
+  {
+    "prompt_en": "For a first-person video shot in a noisy subway station, apply active noise cancellation to significantly reduce low-frequency noises such as train rumbles and human voices when wearing over-ear headphones.",
+    "prompt_vision": "First-person view in a busy subway station with people moving, trains visible in the background, and over-ear headphones worn by the viewer.",
+    "prompt_audio": "Noisy subway station ambiance with prominent low-frequency train rumbles and overlapping human voices, processed with active noise cancellation to significantly reduce those sounds.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio effectively reduce low-frequency train rumbles when wearing over-ear headphones?",
+      "Is the audio able to significantly diminish human voice frequencies in the noisy subway station environment?",
+      "Can the active noise cancellation maintain clarity of other non-low-frequency sounds while reducing unwanted noises?",
+      "Are the over-ear headphones capable of providing a noticeable reduction in ambient noise levels in the subway station?",
+      "Will the audio maintain a consistent sound field without distortion after applying noise cancellation?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the video shot from a first-person perspective, showing what a person would see in a subway station?",
+      "Does the video visually depict a subway station environment, including elements like platforms, tracks, or trains?",
+      "Are there visible over-ear headphones worn by the person in the video, suggesting active noise cancellation is being applied?",
+      "Is there a noticeable reduction in visible vibrations or movements typically associated with low-frequency noises, such as train rumbles?",
+      "Are human figures in the video visually present, indicating the presence of human voices that are being reduced by noise cancellation?"
+    ]
+  },
+  {
+    "prompt_en": "Create an intensely exciting auditory experience for a video of a fan watching a crucial match and about to witness a goal: generate accelerated heartbeat sounds and rapid breathing, and process the background crowd cheers to feel as if they are exploding right beside the ear.",
+    "prompt_vision": "A fan intensely watching a crucial sports match, eyes wide, leaning forward in anticipation of a goal.",
+    "prompt_audio": "Accelerated heartbeat, rapid breathing, and explosively loud crowd cheers panned closely to simulate proximity, with dynamic range compression and slight overdrive for intensity.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include accelerated heartbeat sounds that match the intensity of the described excitement?",
+      "Are rapid breathing sounds present and synchronized with the fan's emotional state as described?",
+      "Is the background crowd cheering processed to sound explosively close to the listener's ears?",
+      "Does the audio avoid noticeable distortion or noise that would detract from the described auditory experience?",
+      "Are the heartbeat and breathing sounds clearly distinguishable from the crowd cheers in the audio mix?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the fan visibly watching the match with an intense facial expression, such as wide eyes or a focused gaze?",
+      "Are the fan's hands clenched, raised, or otherwise showing tension or excitement?",
+      "Is the fan's posture leaning forward, indicating anticipation or engagement with the match?",
+      "Are there visible signs of a crowd in the background, such as people or flags, to suggest the setting of a match?",
+      "Is the lighting consistent with an indoor or outdoor stadium environment, as implied by the match setting?"
+    ]
+  },
+  {
+    "prompt_en": "For a video of a person pressing their ear against a door, create the auditory experience of eavesdropping: amplify the dialogue from behind the door while preserving its muffled, filtered quality, and overlay the character's own tense breathing.",
+    "prompt_vision": "A person pressing their ear against a closed door, listening intently.",
+    "prompt_audio": "Muffled, filtered dialogue from behind a door, amplified but indistinct, overlaid with the eavesdropper's tense, audible breathing.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the dialogue from behind the door sound amplified while maintaining a muffled and filtered quality?",
+      "Is the character's tense breathing audible and appropriately overlaid with the dialogue?",
+      "Are the dialogue and breathing sounds synchronized with the visual timing of the character pressing their ear against the door?",
+      "Does the dialogue from behind the door remain free of distortion or noise that would not be expected from a muffled sound?",
+      "Can the audio balance between the muffled dialogue and the character's breathing convey the intended eavesdropping experience without one overpowering the other?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the person visibly pressing their ear against the door in the video?",
+      "Does the video show the person in a tense posture while listening at the door?",
+      "Can the person's facial expression be seen as focused or intent while eavesdropping?",
+      "Is the person's breathing visually noticeable, such as through chest movement or mouth position?",
+      "Are the person's hands positioned against the door or nearby, indicating active listening?"
+    ]
+  },
+  {
+    "prompt_en": "A video of a person hiding in a closet, looking out through a crack, focusing on the auditory experience during concealment: amplifying threatening footsteps from outside while foregrounding the character's suppressed breathing and heartbeat.",
+    "prompt_vision": "A person hiding in a closet, peering out through a narrow crack in the door.",
+    "prompt_audio": "Amplified threatening footsteps approaching from outside, foregrounded suppressed breathing and rapid heartbeat.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include amplified footsteps that sound threatening and originate from outside the closet?",
+      "Is the character's breathing audible but suppressed, indicating an effort to remain quiet?",
+      "Can the heartbeat of the character be heard, suggesting heightened tension or fear?",
+      "Are the footsteps outside the closet louder than the character's breathing and heartbeat, emphasizing the external threat?",
+      "Is there an absence of other prominent sounds, implying the focus is on the footsteps, breathing, and heartbeat?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the person visibly positioned inside a closet with a partially open door or crack?",
+      "Can the person's eyes be seen looking out through the crack in the closet door?",
+      "Are the person's facial features visible, showing a focused or tense expression?",
+      "Is the lighting inside the closet dim or shadowy, suggesting concealment?",
+      "Does the person's body appear still, with no large movements, indicating hiding?"
+    ]
+  },
+  {
+    "prompt_en": "Generate sounds heard through a stethoscope for a video of a doctor placing the stethoscope on a patient's chest: create clear, strong heartbeat and breathing sounds, and completely eliminate all external environmental noises.",
+    "prompt_vision": "A doctor placing a stethoscope on a patient's chest in a clinical setting.",
+    "prompt_audio": "Clear, strong heartbeat and breathing sounds heard through a stethoscope; no external environmental noises.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the heartbeat sound clear and strong when the stethoscope is placed on the patient's chest?",
+      "Are the breathing sounds audible and distinct through the stethoscope?",
+      "Is there a complete absence of external environmental noises in the audio?",
+      "Does the timing of the heartbeat sound match the expected rhythm of a human heart?",
+      "Are the breathing sounds synchronized with the visual cues of the patient's chest movement?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the doctor visibly placing the stethoscope on the patient's chest?",
+      "Does the patient's chest appear still, indicating no large body movement?",
+      "Is the stethoscope clearly visible in the doctor's hand?",
+      "Are the doctor's actions focused on the patient's chest area?",
+      "Is the patient wearing clothing that allows access to the chest area for the stethoscope?",
+      "Is the lighting sufficient to clearly see the stethoscope and the doctor's hand?"
+    ]
+  },
+  {
+    "prompt_en": "Generate the sensation of wind rushing past the ears for a first-person video standing at the edge of a cliff facing strong winds: create intense wind noise with a low-frequency roar, overwhelming most other ambient sounds.",
+    "prompt_vision": "First-person view standing at the edge of a cliff, facing strong winds, with hair and clothing blowing intensely.",
+    "prompt_audio": "Intense wind noise with a low-frequency roar, overwhelming most other ambient sounds.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there an intense wind noise present throughout the video?",
+      "Does the audio include a low-frequency roar characteristic of strong winds?",
+      "Can the wind noise be heard overwhelming most other ambient sounds?",
+      "Is the sensation of wind rushing past the ears effectively conveyed through the audio?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the visual perspective from a first-person viewpoint, showing the edge of a cliff in front?",
+      "Does the video depict strong wind effects on visible elements, such as hair, clothing, or nearby vegetation moving vigorously?",
+      "Are dust, debris, or small particles visibly carried by the wind in the scene?",
+      "Is the lighting consistent with an outdoor environment, without any artificial indoor light sources visible?",
+      "Are distant objects, such as trees or clouds, visibly affected by the wind, showing motion or distortion?"
+    ]
+  },
+  {
+    "prompt_en": "For a video showing a person inserting foam earplugs in a noisy factory, achieve the auditory sensation after wearing the earplugs: significantly reducing the loud mechanical roar, making the overall sound muffled.",
+    "prompt_vision": "A person inserting foam earplugs in a noisy factory.",
+    "prompt_audio": "Loud mechanical roar suddenly becoming muffled and significantly quieter.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio significantly reduce the loud mechanical roar after the earplugs are inserted?",
+      "Is the overall sound muffled after the earplugs are inserted?",
+      "Can the transition from loud to muffled sound be clearly perceived when the earplugs are inserted?",
+      "Are the sounds of the factory still audible but significantly quieter after the earplugs are inserted?",
+      "Will the audio maintain a consistent muffled quality after the earplugs are inserted?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the person visibly holding foam earplugs in their hand before inserting them into their ears?",
+      "Does the person appear to be in a factory environment with visible machinery or equipment?",
+      "Can the person's hands be seen moving towards their ears to insert the earplugs?",
+      "Are the foam earplugs visibly compressed before being inserted into the ears?",
+      "Is there a noticeable change in the person's facial expression indicating relief or comfort after inserting the earplugs?",
+      "Are the person's ears visibly covered by the foam earplugs after insertion?",
+      "Is there a visible reduction in the apparent activity or motion of the person after inserting the earplugs, suggesting a calmer state?"
+    ]
+  },
+  {
+    "prompt_en": "For a video of a person walking on a noisy street wearing headphones with an absorbed expression, focus on their subjective auditory experience: generate clear music sound while significantly reducing the street noise to a faint background.",
+    "prompt_vision": "A person walking on a noisy street wearing headphones, absorbed in thought, with a focused expression.",
+    "prompt_audio": "Clear, prominent music playing through headphones, with street noise reduced to a faint, distant background hum.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the music sound clear and prominent in the audio, matching the person's absorbed expression?",
+      "Is the street noise significantly reduced to a faint background level, allowing the music to be the focus?",
+      "Does the audio maintain a consistent volume level for the music throughout the video?",
+      "Are the street noises, such as traffic or people, subdued enough to not distract from the music?",
+      "Can the music be heard distinctly without distortion or interference from the street noise?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the person wearing headphones visible in the video?",
+      "Does the person have an absorbed expression on their face?",
+      "Are the person's legs visibly moving to indicate walking?",
+      "Is the street depicted as noisy with visible elements like cars or people?",
+      "Are the headphones clearly positioned over the person's ears?",
+      "Is the street noise visually represented as faint or subdued in the background?",
+      "Is the person walking shown without any large body movements indicating calmness?"
+    ]
+  },
+  {
+    "prompt_en": "For a first-person video of wearing a fully enclosed helmet, construct an auditory space inside the helmet: external sounds become muffled and distant, while the character's own breathing becomes clear and slightly resonant.",
+    "prompt_vision": "First-person view through a fully enclosed helmet, showing a limited field of vision with interior helmet surfaces visible at the edges.",
+    "prompt_audio": "Muffled and distant external sounds; clear, slightly resonant breathing of the wearer.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the character's breathing sound clear and slightly resonant inside the helmet?",
+      "Are external sounds muffled and distant as heard from inside the helmet?",
+      "Does the audio accurately reflect the enclosed auditory space of wearing a helmet?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the interior of the helmet visually enclosed, with no external view visible?",
+      "Does the video show a first-person perspective from inside the helmet?",
+      "Are the edges of the helmet visible around the periphery of the screen, indicating the enclosed space?",
+      "Is the lighting inside the helmet dim or subdued, consistent with an enclosed environment?",
+      "Does the visual perspective remain stationary or move smoothly, as if worn by a person?"
+    ]
+  },
+  {
+    "prompt_en": "Generate the internal auditory experience for a first-person close-up video of yawning: create a deep \"humming\" sound and sensation of pressure caused by the movement of the jawbone and changes in the ear canal, while external sounds temporarily become muffled.",
+    "prompt_vision": "First-person close-up view of yawning, showing the mouth opening wide and jaw moving.",
+    "prompt_audio": "Deep internal humming sound with a sensation of pressure, accompanied by muffled external sounds.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a deep humming sound that coincides with the act of yawning?",
+      "Is there a sensation of pressure in the audio that aligns with the movement of the jawbone during yawning?",
+      "Are external sounds temporarily muffled during the yawn, as expected?",
+      "Is the deep humming sound consistent with the typical frequency range of a yawn?",
+      "Does the audio transition smoothly from normal sound levels to muffled and back to normal as the yawn occurs?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the person's mouth visibly opening wide during the yawn?",
+      "Are the jaw muscles visibly moving as the person yawns?",
+      "Is the person's face showing a relaxed or stretched expression typical of yawning?",
+      "Are the person's eyes partially or fully closed during the yawn?",
+      "Is the neck slightly tilted backward as the person yawns?"
+    ]
+  },
+  {
+    "prompt_en": "Create a subjective auditory experience for a first-person chip-eating video: generate loud, crisp chewing sounds that seem to echo inside the head, temporarily overpowering any external environmental noises.",
+    "prompt_vision": "First-person view of hands holding and eating chips, with close-up of chip fragments near the mouth.",
+    "prompt_audio": "Loud, crisp chewing sounds with internal head resonance, overpowering external environmental noises.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the chewing sound loud and crisp, as expected from eating chips?",
+      "Does the chewing sound seem to echo, giving the impression it is inside the head?",
+      "Are external environmental noises temporarily overpowered by the chewing sounds?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the visual representation of the chip-eating action clear and detailed, showing the hand-to-mouth motion distinctly?",
+      "Are the chips visually depicted with a texture that suggests crispiness, such as visible ridges or a glossy surface?",
+      "Does the lighting in the video highlight the chips, making them appear appetizing and enhancing their visual appeal?",
+      "Is the perspective of the video effectively first-person, showing the chips and hand from the viewer's point of view, as if they are the ones eating?"
+    ]
+  },
+  {
+    "prompt_en": "For a video of someone gasping for breath after intense physical exertion (such as climbing a tall building), focus on their physiological experience: generate deep, labored, slightly hoarse breathing sounds, with a heavy and strong heartbeat.",
+    "prompt_vision": "A person gasping for breath after intense physical exertion, such as climbing a tall building, showing visible signs of fatigue and heavy breathing.",
+    "prompt_audio": "Deep, labored, slightly hoarse breathing sounds with a heavy and strong heartbeat.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there deep, labored breathing audible in the audio?",
+      "Does the breathing sound slightly hoarse, as expected after intense exertion?",
+      "Can the heartbeat be heard as heavy and strong in the audio?",
+      "Are the breathing and heartbeat sounds synchronized with the visual cues of the person's physiological state?",
+      "Is the volume of the breathing and heartbeat sounds appropriate to convey the intensity of the exertion?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the person's chest visibly rising and falling rapidly, indicating deep breathing?",
+      "Are the person's facial expressions showing signs of exertion, such as an open mouth or furrowed brows?",
+      "Is there visible perspiration on the person's face or body, suggesting intense physical exertion?",
+      "Are the person's shoulders moving noticeably with each breath, indicating labored breathing?",
+      "Is the person's skin flushed or reddened, consistent with physical exertion?",
+      "Are the person's nostrils flaring, suggesting heavy breathing?",
+      "Is there a visible pulse or heartbeat in the person's neck or chest area, indicating a strong heartbeat?"
+    ]
+  },
+  {
+    "prompt_en": "For a video showing a person hiding by the window during a thunderstorm and being startled by thunder, convey their subjective auditory experience: layer rapid inhalation and an abruptly accelerated heartbeat sound when the thunder strikes.",
+    "prompt_vision": "A person crouched by a window during a thunderstorm, flinching as lightning flashes outside.",
+    "prompt_audio": "Rapid inhalation followed immediately by an abruptly accelerated heartbeat, synchronized with a sudden, loud thunderclap.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a sound of rapid inhalation when the thunder strikes, indicating the person's startled reaction?",
+      "Does the audio include an abruptly accelerated heartbeat sound synchronized with the thunder strike?",
+      "Can the thunder sound be heard clearly and prominently when it occurs?",
+      "Is the thunder sound positioned to match the visual depiction of the storm outside the window?",
+      "Are the inhalation and heartbeat sounds layered in a way that they are both audible and distinguishable during the thunder strike?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the person visibly positioned near a window in the video?",
+      "Does the window show visual indications of a thunderstorm, such as rain or lightning?",
+      "Does the person exhibit a startled reaction, such as sudden body movement or facial expression, when the thunder strikes?",
+      "Are the person's facial expressions consistent with fear or surprise during the thunder strike?",
+      "Does the lighting in the video change momentarily to simulate lightning during the thunderstorm?",
+      "Is the person's posture or movement indicative of hiding, such as crouching or leaning away from the window?"
+    ]
+  },
+  {
+    "prompt_en": "First-person perspective of an impending sneeze: an uncontrollable, increasingly rapid inhalation builds up, then at the moment the sneeze erupts, all sound is overwhelmed by a single, massive physiological burst.",
+    "prompt_vision": "First-person view of a darkening room, eyes squeezing shut, facial muscles tensing as an impending sneeze builds",
+    "prompt_audio": "Rapid, forceful inhalation escalating in speed, cut off by a sudden, overwhelming burst of a loud, explosive sneeze that drowns out all other sound",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there an audible rapid inhalation sound leading up to the sneeze?",
+      "Does the inhalation sound increase in speed or intensity as it progresses?",
+      "Is there a distinct and sudden burst sound at the moment of the sneeze?",
+      "Does the sneeze sound momentarily overwhelm all other audio elements?",
+      "Is there a noticeable pause or silence immediately following the sneeze burst?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the perspective shown from a first-person viewpoint, as if the viewer is experiencing the sneeze themselves?",
+      "Does the visual depict rapid inhalation through the nose or mouth, suggesting an impending sneeze?",
+      "Are the facial features, such as the nose and mouth, visibly distorted or tense during the buildup to the sneeze?",
+      "Is there a sudden, explosive motion of the head or body at the moment the sneeze erupts?",
+      "Are the eyes shown to be closed or squinting tightly during the sneeze eruption?"
+    ]
+  },
+  {
+    "prompt_en": "For a first-person video under the shower, create a subjective auditory experience: the sound of water hitting the body and surrounding walls forms an immersive, noisy white-noise environment that almost completely blocks out external sounds.",
+    "prompt_vision": "First-person view under a shower, water streaming down in front of the eyes, droplets hitting the chest and surrounding tiled walls.",
+    "prompt_audio": "Loud, immersive white noise of shower water hitting body and walls, drowning out nearly all external sounds.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of water hitting the body clearly audible and consistent throughout the video?",
+      "Does the sound of water create a white-noise effect that immerses the listener?",
+      "Are external sounds almost completely blocked out by the noise of the water?",
+      "Is the sound of water hitting the surrounding walls present and contributing to the immersive experience?",
+      "Can the sound of water be heard continuously without noticeable interruptions or distortions?"
+    ],
+    "auxiliary_info_vision": [
+      "Is water visibly flowing from the showerhead in the video frame?",
+      "Does the video show water droplets hitting the body or skin surfaces?",
+      "Are there visible splashes or streams of water on the surrounding walls?",
+      "Is the lighting consistent with an indoor shower environment?",
+      "Can the water flow be seen moving downward due to gravity?",
+      "Are parts of the body visibly wet or covered in water droplets?",
+      "Does the video show steam or condensation forming on nearby surfaces?"
+    ]
+  },
+  {
+    "prompt_en": "Create an auditory dynamic shift for a first-person swimming video with the head alternately emerging from and submerging into the water: muffled sounds underwater, and at the moment the head surfaces to breathe, include the sound of your rapid breath and clear ambient environmental noises.",
+    "prompt_vision": "First-person view of swimming, with the head alternately emerging from and submerging into water.",
+    "prompt_audio": "Muffled underwater sounds while submerged; upon surfacing, sudden clear ambient environmental noises and a sharp, rapid inhalation.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include muffled sounds when the head is submerged underwater?",
+      "Is there a clear transition from muffled underwater sounds to clearer sounds when the head surfaces?",
+      "Can you hear the sound of rapid breathing when the head emerges from the water?",
+      "Are ambient environmental noises clearly audible when the head is above water?",
+      "Is there a noticeable change in sound quality or timbre between underwater and above-water audio?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the head visibly submerged underwater with bubbles or ripples around it when the underwater scene is shown?",
+      "Does the head visibly emerge from the water with droplets and splashes when transitioning to the surface scene?",
+      "Are there clear visual cues of water movement or ripples when the head moves through the water?",
+      "Is the water surface visibly disturbed when the head breaks through it to breathe?",
+      "Can the face be seen with water droplets on it when the head is above the water surface?"
+    ]
+  },
+  {
+    "prompt_en": "Create a subjective audio experience for a video of a person wrapped in a blanket, sitting by a warm fireplace: the foreground features the cozy crackling sounds of burning firewood, while the background includes the character's steady, relaxed breathing.",
+    "prompt_vision": "A person wrapped in a blanket, sitting by a warm fireplace.",
+    "prompt_audio": "Cozy crackling sounds of burning firewood in the foreground, with steady, relaxed breathing in the background.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the crackling sounds of burning firewood in the foreground?",
+      "Is the character's breathing audible and steady in the background?",
+      "Are the crackling sounds of the firewood consistent with a warm fireplace setting?",
+      "Can the breathing be heard softly, indicating a relaxed state?",
+      "Is there an absence of prominent noise or distortion that would disrupt the cozy atmosphere?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the person visually depicted as being wrapped in a blanket by the fireplace?",
+      "Does the scene include a visible fireplace with burning firewood?",
+      "Are the flames in the fireplace visually represented with warm colors like orange and yellow?",
+      "Is the lighting in the scene consistent with the glow of a fireplace, casting warm and soft shadows?"
+    ]
+  },
+  {
+    "prompt_en": "For a first-person video of someone with a cold, representing their auditory experience: background sounds should feel slightly muffled (as if ears are blocked), accompanied by the character's heavy nasal voice and occasional sniffling.",
+    "prompt_vision": "First-person view, hands sniffing or wiping nose, blurred foggy visuals, muffled sounds, conveying cold symptoms.",
+    "prompt_audio": "Muffled background sounds, heavy nasal breathing, occasional sniffling, and a congested, nasal voice when speaking.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Are the background sounds slightly muffled to reflect the sensation of blocked ears?",
+      "Does the character's voice have a heavy nasal quality consistent with having a cold?",
+      "Are there occasional sniffing sounds present to indicate the character's condition?",
+      "Is the timing of the sniffing sounds natural and not overly frequent or infrequent?",
+      "Does the audio maintain synchronization between the character's lip movements and their nasal voice?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the visual representation of the character's face consistent with symptoms of a cold, such as redness around the nose or watery eyes?",
+      "Are the lighting and color tones in the video adjusted to convey a subdued or sickly atmosphere, such as softer or cooler hues?",
+      "Can the spatial relationships in the video, such as the proximity of tissues or medicine, visually suggest the character is managing their cold?",
+      "Is the character's body language, such as slouched posture or slow movements, visually indicative of feeling unwell?"
+    ]
+  },
+  {
+    "prompt_en": "Create a subjective auditory experience for a video of a person holding their breath underwater or in a tense situation: external sounds completely fade out, while in the foreground, a low-frequency heartbeat and ear pressure sound gradually intensify, representing oxygen deprivation.",
+    "prompt_vision": "A person holding their breath underwater or in a tense situation, with no visible external activity.",
+    "prompt_audio": "External sounds fade out completely; low-frequency heartbeat and ear pressure sounds gradually intensify, conveying oxygen deprivation.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio feature a low-frequency heartbeat sound that gradually intensifies during the scene?",
+      "Is there an ear pressure sound that becomes more prominent as the scene progresses?",
+      "Are external sounds completely faded out or absent throughout the scene?",
+      "Does the audio maintain a subdued and quiet atmosphere to match the tension of holding breath underwater or in a tense situation?",
+      "Can the heartbeat and ear pressure sounds be distinctly perceived as foreground elements without distortion or noise?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the person visibly holding their breath with facial expressions indicating tension or effort?",
+      "Are there visual cues, such as bubbles or water distortion, indicating the underwater environment?",
+      "Is the lighting and color grading adjusted to emphasize the tense atmosphere, such as muted tones or dim lighting?",
+      "Are there visible physical signs, like the person's chest or body movements, showing the strain of holding their breath?",
+      "Is the spatial relationship between the person and their surroundings framed to highlight isolation or focus on the individual?",
+      "Are textures, such as water ripples or skin details, rendered clearly to enhance the realism of the scene?"
+    ]
+  }
+]

@@ -1,0 +1,1757 @@
+[
+  {
+    "prompt_en": "There are trees and rocks surrounding the church. In the scene, the faint sound of the church bell can be heard, slow and solemn; the wind passes through the forest, rustling the leaves, intertwining with the bell chime; occasionally, a few birds chirp from a distance, accentuating the tranquility of the environment.",
+    "prompt_vision": "Trees and rocks surrounding a church.",
+    "prompt_audio": "Faint, slow, and solemn church bell ringing; wind rustling through leaves; distant bird chirps.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Can the rustling of leaves be heard as the wind passes through the forest, intertwining with the bell chime?",
+      "Are the bird chirps occasional and distant, enhancing the tranquility of the environment?",
+      "Does the audio maintain a sense of tranquility without any unexpected loud or disruptive sounds?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there trees visible surrounding the church?",
+      "Are there rocks visible surrounding the church?",
+      "Is the church depicted in a tranquil and still state without visible motion?",
+      "Are the leaves on the trees shown as rustling or slightly moving, indicating wind passing through?",
+      "Are there birds visible in the scene, positioned at a distance from the church?"
+    ]
+  },
+  {
+    "prompt_en": "On a sunny meadow, two cows graze leisurely against a backdrop of blue sky and distant woods. The audio should include gentle wind sounds, occasional crisp bird calls from afar, subtle chewing noises as the cows eat grass, and soft footsteps of hooves on the grass from time to time. The sound field should convey an open, spacious environment, with directional cues for wind and birdsong matching the position of the woods and sky in the scene. Overall volume should be soft and the rhythm calm and unhurried.",
+    "prompt_vision": "Two cows grazing leisurely in a sunny meadow with a blue sky and distant woods in the background.",
+    "prompt_audio": "Gentle wind sounds, occasional crisp bird calls from afar, subtle chewing noises, and soft hoofsteps on grass; open and spacious sound field with directional cues matching the woods and sky; soft volume and calm, unhurried rhythm.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include gentle wind sounds that match the open, spacious environment of a meadow?",
+      "Are there occasional crisp bird calls that seem to originate from a distance, matching the position of the woods and sky?",
+      "Can subtle chewing noises be heard as the cows eat grass, with appropriate timing and frequency?",
+      "Are soft footsteps of hooves on grass audible from time to time, matching the leisurely pace of grazing cows?",
+      "Does the sound field convey an open, spacious environment with directional cues for wind and birdsong?",
+      "Is the overall volume soft, contributing to a calm and unhurried rhythm?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there two cows visible in the meadow?",
+      "Is the sky depicted as blue in the background?",
+      "Is there a visible meadow with grass where the cows are grazing?",
+      "Are the cows shown in a leisurely grazing pose?",
+      "Is there a depiction of distant woods in the background?",
+      "Is the lighting consistent with a sunny day, with clear shadows and highlights?"
+    ]
+  },
+  {
+    "prompt_en": "A gentle breeze brushes past the ancient stone walls and the church gates, carrying with it the distant rustling of leaves. Occasionally, birds fly by, their crisp chirps echoing across the empty church courtyard. From behind the gate comes the deep tolling of a bell, seemingly from afar, creating an atmosphere of solemn tranquility. Faint footsteps intermittently weave through the ambient sounds, as if someone is walking along the cobblestone path, gradually fading into the distance.",
+    "prompt_vision": "Ancient stone walls and church gates surround an empty courtyard with a cobblestone path; birds fly by occasionally.",
+    "prompt_audio": "Distant rustling of leaves, crisp bird chirps echoing, deep tolling of a faraway bell, and faint intermittent footsteps on cobblestones gradually fading.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the sound of a gentle breeze that matches the described atmosphere?",
+      "Are the distant rustling sounds of leaves audible and consistent with the breeze?",
+      "Can the crisp chirps of birds be heard occasionally, echoing as described?",
+      "Is there a deep tolling bell sound that appears to come from behind the gate and sounds distant?",
+      "Is Do the footsteps gradually fade into the distance as described?"
+    ],
+    "auxiliary_info_vision": [
+      "Are the ancient stone walls visible in the scene?",
+      "Is the church gate present in the visual content?",
+      "Can birds be seen flying by in the image or video?",
+      "Are leaves visibly rustling due to the breeze?",
+      "Is the bell visible behind the gate?",
+      "Are footsteps depicted on the cobblestone path?",
+      "Does the scene convey a sense of tranquility through visual stillness?"
+    ]
+  },
+  {
+    "prompt_en": "A group of motorcyclists is riding on the highway, with a backdrop of rolling mountains. The motorcycle engines emit a deep and continuous rumble; the sound of nearby vehicles is clear and powerful, while the distant ones gradually fade, naturally diminishing with distance. The wind rushes past the ears, mixed with occasional bird calls, in harmony with the open mountain environment. The engine sound echoes slightly in the valleys, and when accelerating, the RPM rises, making the sound sharper, in sync with the riders' handling rhythm.",
+    "prompt_vision": "A group of motorcyclists riding on a highway with rolling mountains in the background.",
+    "prompt_audio": "Deep, continuous motorcycle engine rumble; clear and powerful nearby vehicle sounds fading with distance; rushing wind; occasional bird calls; slight echo of engine sound in valleys; rising RPM with acceleration producing a sharper tone in sync with rider handling.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the deep and continuous rumble of motorcycle engines audible throughout the scene?",
+      "Does the sound of nearby vehicles remain clear and powerful, while distant vehicle sounds naturally diminish with distance?",
+      "Can the rushing wind be heard distinctly as it passes by the ears?",
+      "Are occasional bird calls audible, harmonizing with the open mountain environment?",
+      "Is there a slight echo of the engine sound in the valleys?",
+      "Will the sound of the motorcycle engines become sharper and increase in pitch when accelerating, in sync with the riders' handling rhythm?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there multiple motorcyclists visible riding on the highway?",
+      "Are the motorcycles in motion with visible wheels rotating?",
+      "Is the backdrop composed of rolling mountains?",
+      "Are the motorcyclists wearing appropriate riding gear such as helmets and jackets?",
+      "Is the wind visually represented, such as by hair, clothing, or dust being blown?",
+      "Are the motorcycles positioned on the highway in a way that suggests forward movement?",
+      "Are the motorcycles visibly accelerating, such as through changes in speed or posture of the riders?"
+    ]
+  },
+  {
+    "prompt_en": "In a mountain meadow, a group of elk stand and lie leisurely against a backdrop of towering mountains. A gentle breeze rustles through, occasionally accompanied by distant birdsong. The soft footsteps and subtle breathing of the elk are distinctly audible in the tranquil environment. The soundscape should convey a natural sense of space, with the positioning of wind and birdsong consistent with the mountains and sky in the scene, while the elk's movement sounds should synchronize precisely with their positions in the frame.",
+    "prompt_vision": "A group of elk standing and lying leisurely in a mountain meadow with towering mountains in the background.",
+    "prompt_audio": "Gentle breeze rustling, distant birdsong, soft footsteps, and subtle breathing of elk, all spatially aligned with the visual scene to convey a natural sense of space.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Are the soft footsteps of the elk audible and synchronized with their movements in the frame?",
+      "Is the subtle breathing of the elk distinctly audible in the tranquil environment?",
+      "Does the gentle breeze produce rustling sounds that are consistent with the described natural setting?",
+      "Are the distant birdsong sounds positioned appropriately to convey their origin from the mountains or sky in the scene?",
+      "Is the soundscape free of unnatural noise or distortion that would disrupt the tranquil environment?",
+      "Can the audio convey a natural sense of spatial positioning for the elk, breeze, and birdsong relative to the visual scene?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there elk visible in the mountain meadow, with some standing and others lying down?",
+      "Are the elk positioned leisurely in a way that suggests calmness and relaxation?",
+      "Is there a backdrop of towering mountains visible behind the meadow?",
+      "Does the visual scene suggest a gentle breeze, such as movement in grass or fur?",
+      "Are the elk's bodies still or minimally moving, consistent with a tranquil environment?"
+    ]
+  },
+  {
+    "prompt_en": "In the tropical forest, flames burn fiercely with crackling sounds, intertwining with the surrounding ambient noises. Occasional rustling of leaves in a gentle breeze and distant bird calls punctuate the background. The sound of the fire has a strong sense of spatial localization, with its volume and sound field shifting dynamically along with changes in the scene, revealing the rhythmic movement of the flames.",
+    "prompt_vision": "Fierce flames burning in a tropical forest, with rhythmic movement of fire amid dense foliage.",
+    "prompt_audio": "Crackling fire sounds with strong spatial localization and dynamic shifts in volume and sound field, accompanied by gentle leaf rustling and distant bird calls.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a crackling sound accompanying the flames in the audio?",
+      "Does the audio include ambient noises typical of a tropical forest setting?",
+      "Are there occasional rustling leaf sounds in the audio, suggesting a gentle breeze?",
+      "Can distant bird calls be heard intermittently in the background of the audio?",
+      "Is the sound of the fire spatially localized, with its position shifting dynamically in the audio?",
+      "Does the volume of the fire sound change in accordance with the rhythmic movement of the flames?"
+    ],
+    "auxiliary_info_vision": [
+      "Are flames visibly present in the tropical forest scene?",
+      "Is there visible movement of flames indicating a dynamic and rhythmic pattern?",
+      "Can the flames be seen to burn fiercely, suggesting intense brightness and activity?",
+      "Are leaves visibly rustling, indicating the presence of a gentle breeze?",
+      "Is there visible evidence of birds in the scene, such as flying or perched birds?"
+    ]
+  },
+  {
+    "prompt_en": "Fireworks burst in the night sky, accompanied by thunderous explosions, with sound waves radiating outward from the center and gradually fading in volume. The high-frequency crackles intertwine with deep rumbles during the explosions, creating a three-dimensional spatial sensation. Occasional faint sounds of wind in the background enhance the atmosphere of the night.",
+    "prompt_vision": "Fireworks bursting in the night sky with visible light trails and expanding bursts.",
+    "prompt_audio": "Loud, thunderous explosions with high-frequency crackles and deep rumbles creating a three-dimensional spatial effect, accompanied by faint wind sounds in the background.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include thunderous explosions that match the visual bursts of fireworks?",
+      "Are the sound waves from the explosions radiating outward and gradually fading in volume?",
+      "Is there a combination of high-frequency crackles and deep rumbles during the explosions?",
+      "Can the audio create a three-dimensional spatial sensation with the fireworks' sounds?",
+      "Are there occasional faint sounds of wind in the background to enhance the night atmosphere?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visible burst of fireworks in the night sky?",
+      "Are the fireworks depicted with varying colors and patterns?",
+      "Does the visual representation include radiating waves or effects from the center of the explosions?",
+      "Are the fireworks explosions accompanied by visible high-frequency crackles and sparks?",
+      "Is the night sky dark and free of any bright daylight elements?",
+      "Are the fireworks bursts shown with a three-dimensional spatial layout in the sky?",
+      "Does the visual suggest occasional faint movement or disturbance in the air, implying wind?"
+    ]
+  },
+  {
+    "prompt_en": "In an open outdoor scene, a tank is firing shells, the explosive blasts echoing throughout the space, accompanied by deep rumbles and vibrations. A gentle wind blows from afar, occasionally intermingling with birdsong, creating a soundscape where nature intertwines with machinery. The sound of explosions should synchronize with the flames in the scene, gradually decreasing in volume and resonating beneath the vast sky.",
+    "prompt_vision": "An open outdoor scene with a tank firing shells, producing visible flames and smoke, under a vast sky.",
+    "prompt_audio": "Explosive blasts with deep rumbles and vibrations, synchronized with visual flames, gradually decreasing in volume; gentle wind and occasional birdsong intermingle, creating a soundscape where nature and machinery coexist.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the sound of the tank firing shells include deep rumbles and vibrations as described?",
+      "Are the explosive blasts accompanied by echoes that spread throughout the open outdoor space?",
+      "Can the sound of explosions synchronize accurately with the visual flames in the scene?",
+      "Is the volume of the explosions gradually decreasing after each blast as described?",
+      "Are the gentle wind sounds occasionally intermingling with birdsong in the audio?",
+      "Does the soundscape effectively combine the mechanical sounds of the tank with the natural elements like wind and birdsong?",
+      "Are the explosive blasts resonating beneath the vast sky, creating a sense of spatial depth?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a tank visible in the scene?",
+      "Are there visible explosive blasts occurring near the tank?",
+      "Can flames be seen accompanying the explosions from the tank?",
+      "Is there any visible smoke or debris resulting from the tank firing?",
+      "Does the scene show any movement or disturbance in the environment due to the explosions?",
+      "Are there any visible signs of wind affecting elements like smoke or dust in the scene?",
+      "Is the sky visible above the scene, suggesting an outdoor setting?"
+    ]
+  },
+  {
+    "prompt_en": "In a winter forest covered in snow, two foxes stand facing each other. Trees stand still in the background, occasionally swaying slightly as a gentle breeze passes through. The ambient sounds include distant bird calls and rustling wind. The foxes' movements are accompanied by soft footsteps and the subtle crunch of snow. The sound field should convey spatial depth, with wind gradually approaching from afar, bird calls positioned deep within the scene, and the foxes' sounds synchronized with their movements, moderately balanced in volume and natural in rhythm.",
+    "prompt_vision": "Two foxes standing facing each other in a snow-covered winter forest, with still trees in the background occasionally swaying slightly from a gentle breeze.",
+    "prompt_audio": "Distant bird calls, rustling wind approaching from afar, soft synchronized fox footsteps, subtle snow crunching, all rendered with spatial depth and natural rhythm.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Are the soft footsteps of the foxes synchronized with their movements, matching the subtle crunch of snow underfoot?",
+      "Does the ambient sound include distant bird calls that are positioned deep within the scene, creating a sense of spatial depth?",
+      "Is the rustling wind audible, with its sound gradually approaching from afar, enhancing the spatial depth of the sound field?",
+      "Are the foxes' sounds moderately balanced in volume, ensuring they are neither too loud nor too quiet compared to the ambient sounds?",
+      "Can the gentle breeze be heard occasionally swaying the trees, contributing to the overall ambient soundscape?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there two foxes standing facing each other?",
+      "Is the ground covered in snow?",
+      "Are there trees in the background that appear still?",
+      "Do the trees occasionally sway slightly as if moved by a gentle breeze?",
+      "Are the foxes' movements visually synchronized with the appearance of soft footsteps on snow?",
+      "Is there a visible indication of a gentle breeze passing through the scene, such as slight movement of tree branches or snow particles?",
+      "Do the foxes appear to be standing still, with only subtle movements that suggest a calm interaction?"
+    ]
+  },
+  {
+    "prompt_en": "In the architectural corridor at the edge of this desert, a gentle breeze stirs, carrying faint sounds of sand grains rubbing together, along with occasional low howls of wind sweeping across distant dunes. Within the corridor, the wind echoes softly between arches, creating a subtle reverberation that enhances the sense of space. In the background, bird calls occasionally drift in from afar, adding a touch of life. The entire sound field should synchronize with the visual changes in light and shadow, and as the viewpoint shifts, the spatial positioning of the sounds should change accordingly.",
+    "prompt_vision": "Architectural corridor at the edge of a desert, with shifting light and shadow, arches casting dynamic patterns as the viewpoint moves.",
+    "prompt_audio": "Faint rustling of sand grains, occasional low wind howls from distant dunes, soft echoing breeze between arches with subtle reverberation, and sporadic distant bird calls; all spatialized to match visual perspective shifts.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include faint sounds of sand grains rubbing together as described in the prompt?",
+      "Does the wind echo softly between the arches within the corridor, creating a subtle reverberation as specified?",
+      "Are bird calls occasionally audible in the background, adding a touch of life as described?",
+      "Does the spatial positioning of the sounds change appropriately as the viewpoint shifts in the video?",
+      "Is the synchronization between the sound field and the visual changes in light and shadow accurately maintained?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there visible architectural arches in the corridor?",
+      "Is there evidence of a desert environment visible at the edge of the corridor?",
+      "Does the lighting in the corridor create visible changes in light and shadow?",
+      "Can the gentle breeze be visually inferred through subtle movement of sand or other lightweight elements?",
+      "Are the shadows within the corridor consistent with the spatial layout of the arches?"
+    ]
+  },
+  {
+    "prompt_en": "On a frozen lake surface, cracks in the ice expose patches of open water, where several white waterbirds are scattered or gathered on the ice and water. The background audio includes the gentle sound of wind blowing across the ice, occasional faint cracking sounds from the ice, and the flapping wings and soft calls of the birds echoing through the space. The sound field should convey the expansive openness of the lake, with sound source localization matching the positions of the bird groups in the scene.",
+    "prompt_vision": "On a frozen lake surface, cracks in the ice expose patches of open water, with several white waterbirds scattered or gathered on the ice and water.",
+    "prompt_audio": "Gentle wind blowing across the ice, occasional faint cracking sounds from the ice, and flapping wings with soft bird calls echoing through an expansive open space; sound source localization matches the positions of the bird groups.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Are there occasional faint cracking sounds that correspond to the ice on the lake?",
+      "Can the flapping wings of the birds be heard in the audio?",
+      "Are the soft calls of the birds present and echoing through the space as described?",
+      "Does the sound field convey the expansive openness of the lake?",
+      "Are the sound source positions of the bird groups accurately localized in the audio?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there visible cracks in the ice on the lake surface?",
+      "Can patches of open water be seen through the cracks in the ice?",
+      "Are there white waterbirds present on the ice and in the water?",
+      "Are some of the waterbirds scattered while others are gathered together?",
+      "Is the ice surface visibly frozen, indicating a lack of large-scale motion?",
+      "Are the waterbirds predominantly white in color?",
+      "Does the scene convey a sense of openness with visible expanses of ice and water?"
+    ]
+  },
+  {
+    "prompt_en": "The exterior of a detached house is shown in a quiet rural setting, surrounded by green grass and trees, with the sounds of birdsong and a gentle breeze in the background.",
+    "prompt_vision": "The exterior of a detached house in a quiet rural setting, surrounded by green grass and trees.",
+    "prompt_audio": "Birdsong and a gentle breeze in the background.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there birdsong audible in the background when the house exterior is shown?",
+      "Does the audio include the sound of a gentle breeze when the rural setting is depicted?",
+      "Are the sounds of birdsong continuous throughout the scene of the house exterior?",
+      "Is the overall audio quiet, reflecting the rural setting described?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the house depicted as detached from other buildings?",
+      "Are there green grass and trees visible surrounding the house?",
+      "Does the setting appear quiet and rural based on the visual elements?",
+      "Is the house exterior shown without any visible motion, suggesting stillness?",
+      "Are the trees depicted with leaves that appear to be gently swaying, indicating a breeze?"
+    ]
+  },
+  {
+    "prompt_en": "Fireworks burst in the night sky, accompanied by deafening explosions and brilliant lights. The sounds of fireworks echo from all directions, creating an immersive, three-dimensional audio experience. Each explosion features varying tones and volumes, sometimes deep and mellow, sometimes sharp and intense. The audience's gasps and cheers synchronize with the rhythm of the fireworks, forming a spectacular feast for both the eyes and ears. Occasionally, the gentle rustling of a breeze in the background enhances the atmosphere of the scene.",
+    "prompt_vision": "Fireworks bursting in the night sky with brilliant lights, audience watching and reacting with gasps and cheers, gentle breeze rustling in the background.",
+    "prompt_audio": "Deafening fireworks explosions with varying tones and volumes—deep and mellow to sharp and intense—echoing from all directions, audience gasps and cheers synchronized with the bursts, gentle rustling breeze in the background.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Are the sounds of fireworks synchronized with their visual bursts in the night sky?",
+      "Does the audio include varying tones and volumes for each explosion, ranging from deep and mellow to sharp and intense?",
+      "Can the echoes of the fireworks be heard from multiple directions, creating a three-dimensional sound field?",
+      "Are the audience's gasps and cheers synchronized with the rhythm of the fireworks?",
+      "Is there occasional gentle rustling of a breeze audible in the background?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there visible fireworks bursting in the night sky?",
+      "Is there a visible audience reacting to the fireworks?",
+      "Can the fireworks be seen exploding at different heights in the sky?",
+      "Are there visible trails or sparks following the fireworks explosions?",
+      "Is the night sky dark, providing contrast to the fireworks?",
+      "Are there visible clouds of smoke forming after the fireworks explode?"
+    ]
+  },
+  {
+    "prompt_en": "In this vast valley, the wind gently sweeps through the grass and trees, occasionally accompanied by birdsong from afar. The mountain echoes enhance the depth of the natural soundscape, creating a serene and expansive atmosphere. As the clouds drift across the sky, the rhythm and volume of the wind shift in harmony with the changing scenery above.",
+    "prompt_vision": "A vast valley with grass and trees, mountains in the distance, and clouds drifting across the sky.",
+    "prompt_audio": "Gentle wind sweeping through grass and trees, distant birdsong, and mountain echoes creating a serene natural soundscape with shifting rhythm and volume.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the sound of wind sweeping through grass and trees with varying rhythm and volume?",
+      "Are there occasional distant bird songs audible in the audio?",
+      "Can the audio convey a sense of depth through mountain echoes?",
+      "Is the overall soundscape serene and expansive, matching the described atmosphere?",
+      "Will the audio reflect changes in wind dynamics as clouds drift across the sky?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the grass visibly swaying due to the wind?",
+      "Are the trees showing signs of movement from the wind?",
+      "Can clouds be seen drifting across the sky?",
+      "Are the mountains visible in the background?",
+      "Is there a sense of calmness and stillness in the overall scene?",
+      "Are the trees and grass predominantly green in color?",
+      "Is the sky predominantly blue with clouds visible?"
+    ]
+  },
+  {
+    "prompt_en": "In a lush forest, water cascades down from between the rocks, forming a small waterfall. The sound of water is crisp and continuous, accompanied by the gentle rustling of leaves and occasional bird calls. The waterfall's soundscape is centered in the frame, with the clear, bright timbre of flowing water varying in volume according to the speed of the current. In the background, the soft murmur of a stream contrasts with the sound of the waterfall, creating a naturally harmonious acoustic environment. The rhythm shifts with the natural flow of the water, while the ambient sounds align with changes in the visual perspective.",
+    "prompt_vision": "A lush forest with water cascading between rocks, forming a small waterfall. The visual perspective shifts naturally, revealing a background stream.",
+    "prompt_audio": "Crisp, continuous sound of flowing water from a waterfall with varying volume based on current speed, gentle rustling of leaves, occasional bird calls, and a soft murmuring stream in the background creating a harmonious, rhythmically shifting soundscape.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of water cascading from the waterfall crisp and continuous throughout the scene?",
+      "Does the audio include the gentle rustling of leaves as described?",
+      "Are there occasional bird calls present in the audio?",
+      "Is the waterfall's soundscape centered in the audio frame, with the sound of flowing water having a clear, bright timbre?",
+      "Does the volume of the waterfall's sound vary according to the speed of the current?",
+      "Is there a soft murmur of a stream in the background that contrasts with the sound of the waterfall?",
+      "Is Do the ambient sounds align with changes in the visual perspective, maintaining a naturally harmonious acoustic environment?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a small waterfall visible with water cascading down between rocks?",
+      "Are the rocks surrounding the waterfall clearly visible and positioned naturally?",
+      "Is the water flowing down the waterfall depicted with varying speeds in different sections?",
+      "Are there visible signs of a lush forest, such as trees or dense greenery, surrounding the waterfall?",
+      "Is there a stream visible in the background of the scene?",
+      "Does the water appear clear and bright as it flows down the waterfall?",
+      "Are the leaves in the forest depicted as gently rustling or still, indicating calmness?"
+    ]
+  },
+  {
+    "prompt_en": "Inside the car, raindrops continuously tap against the windows, producing a clear and dense ticking sound, accompanied by wind howling outside, creating an auditory environment surrounded by rain. The interior space acoustics contrast with the external rainfall, occasionally punctuated by faint breathing sounds and rustling of clothing inside the vehicle. The rhythm of the raindrops is random and natural, while the wind intensity varies, alternately rising and fading, realistically simulating changing weather conditions.",
+    "prompt_vision": "Raindrops streak car windows, blurring outside view; dim interior shows seats and dashboard, minimal movement.",
+    "prompt_audio": "Clear, dense ticking of random raindrops on windows, howling wind outside varying in intensity, faint breathing, and subtle clothing rustles inside the car.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a clear and dense ticking sound from raindrops tapping against the windows?",
+      "Does the audio include the sound of wind howling outside the car?",
+      "Can faint breathing sounds be heard inside the vehicle?",
+      "Are there rustling sounds of clothing audible inside the car?",
+      "Is the rhythm of the raindrops random and natural, without a fixed pattern?",
+      "Does the intensity of the wind sound vary, rising and fading to simulate changing weather conditions?",
+      "Are the interior sounds, like breathing and clothing rustling, contrasting with the external sounds of rain and wind?"
+    ],
+    "auxiliary_info_vision": [
+      "Are raindrops visible on the car windows?",
+      "Is the interior of the car depicted as stationary with no visible motion?",
+      "Are the windows of the car visibly wet or streaked due to rain?",
+      "Can the wind outside be inferred visually through the movement of nearby objects or trees visible through the windows?",
+      "Are the car seats or interior elements visible and stationary, indicating the car is not in motion?",
+      "Are the raindrops on the windows randomly distributed rather than forming a uniform pattern?",
+      "Does the lighting inside the car appear consistent with an enclosed space, without direct sunlight or bright external light?"
+    ]
+  },
+  {
+    "prompt_en": "In a rainy night scene, raindrops fall onto the glass window, creating clear droplet patterns, with blurred city lights in the background. The sound of rain should be clearly audible, featuring distinct dripping and flowing water sounds, occasionally accompanied by the low hum of distant vehicles passing by. The audio field should contrast the quiet interior with the bustling rainy night outside, and the rhythm of the rain should match the density of droplets seen in the visual.",
+    "prompt_vision": "Raindrops falling on a glass window creating clear droplet patterns, with blurred city lights in the background on a rainy night.",
+    "prompt_audio": "Clear and distinct rain sounds with dripping and flowing water, occasionally accompanied by the low hum of distant passing vehicles; quiet interior contrasting with bustling rainy night outside; rain rhythm matching droplet density.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of rain clearly audible, featuring distinct dripping and flowing water sounds?",
+      "Does the audio include the low hum of distant vehicles passing by, as described?",
+      "Can the audio field contrast the quiet interior with the bustling rainy night outside?",
+      "Is the rhythm of the rain sound matching the density of droplets seen in the visual?"
+    ],
+    "auxiliary_info_vision": [
+      "Are raindrops visibly falling onto the glass window, creating clear droplet patterns?",
+      "Is the background showing blurred city lights?",
+      "Is the scene set during nighttime, as indicated by the presence of city lights?",
+      "Are the raindrops on the window stationary or moving slowly, suggesting a calm interior?",
+      "Is there a visible contrast between the clear droplet patterns on the window and the blurred city lights in the background?"
+    ]
+  },
+  {
+    "prompt_en": "On a snowy night, the street is illuminated by streetlights as snowflakes gently fall, surrounded by complete silence. Faint sounds of wind brushing past buildings come from afar, occasionally interrupted by distant car horns. The subtle sound of snow touching the ground can be heard, creating a peaceful and romantic atmosphere.",
+    "prompt_vision": "On a snowy night, the street is illuminated by streetlights as snowflakes gently fall.",
+    "prompt_audio": "Complete silence with faint sounds of wind brushing past buildings from afar, occasionally interrupted by distant car horns and the subtle sound of snow touching the ground.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Are the distant car horns audible only occasionally, as described in the prompt?",
+      "Is the sound of snowflakes touching the ground subtle and gentle, contributing to the peaceful atmosphere?",
+      "Is there an overall sense of silence, with only the described faint sounds present, creating the implied quietness of the scene?",
+      "Does the audio convey a peaceful and romantic atmosphere through the combination of subtle and distant sounds?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the street covered in snow, indicating a snowy night?",
+      "Are streetlights visible, illuminating the street?",
+      "Can snowflakes be seen gently falling through the air?",
+      "Is there a visual indication of calmness, such as absence of moving vehicles or people?",
+      "Are the buildings visible, suggesting a street setting?"
+    ]
+  },
+  {
+    "prompt_en": "In the desert, a gentle breeze brushes across, causing sand grains to slide softly along the ground with a faint rustling sound. The wind echoes through the open expanse, occasionally producing a subtle humming as it passes through barbed wire. The overall soundscape is vast and empty, with soft-toned, moderate-volume winds moving at a slow pace, creating a serene atmosphere.",
+    "prompt_vision": "Desert landscape with sand grains sliding along the ground, barbed wire stretching across the open expanse under a gentle breeze.",
+    "prompt_audio": "Faint rustling of sand, subtle humming wind through barbed wire, soft-toned moderate-volume breeze, vast and empty soundscape, slow-paced serene wind.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a faint rustling sound from sand grains sliding along the ground?",
+      "Does the gentle breeze produce a subtle humming sound as it passes through barbed wire?",
+      "Can the wind echo through the open expanse, contributing to the vast and empty soundscape?",
+      "Are the winds soft-toned and moderate in volume, matching the serene atmosphere?",
+      "Will the overall soundscape maintain a sense of vastness and emptiness, with slow-paced winds?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there visible movement of sand grains sliding softly along the ground?",
+      "Can the barbed wire be seen vibrating slightly as the wind passes through it?",
+      "Are the sand grains visibly disturbed by the gentle breeze?",
+      "Is the overall scene visually calm and serene, with no rapid movements?",
+      "Does the barbed wire appear to be in an open desert expanse?"
+    ]
+  },
+  {
+    "prompt_en": "On a snowy night, neon lights flicker along city streets as pedestrians walk across snow-covered sidewalks and cars drive over slippery roads. In the background, the sound of wind blends with the soft rustle of falling snowflakes, occasionally punctuated by the low hum of car engines and the crunch of tires rolling over snow. Footsteps echo faintly on the snowy ground, interwoven at times with distant bird calls and the whispering wind. The soundscape should convey a sense of expansive space typical of a city night, with sound source localization matching the shifts in visual perspective.",
+    "prompt_vision": "On a snowy night, neon lights flicker along city streets; pedestrians walk across snow-covered sidewalks and cars drive over slippery roads.",
+    "prompt_audio": "Wind blending with soft rustling of falling snowflakes, occasional low hum of car engines, crunch of tires on snow, faint echoing footsteps, distant bird calls, and whispering wind, creating an expansive urban night soundscape with spatially localized audio sources.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the sound of wind blending with the soft rustle of falling snowflakes?",
+      "Are the footsteps faintly audible and synchronized with the visual depiction of pedestrians walking on snowy sidewalks?",
+      "Does the sound of car engines and the crunch of tires rolling over snow match the movement of cars on slippery roads?",
+      "Can distant bird calls be heard occasionally, as described in the prompt?",
+      "Is the sound field expansive, conveying a sense of space typical of a city night?",
+      "Are the audio sources localized appropriately to match the shifts in visual perspective?",
+      "Does the flickering of neon lights produce subtle electrical or buzzing sounds consistent with their visual behavior?"
+    ],
+    "auxiliary_info_vision": [
+      "Are neon lights visible flickering along the city streets?",
+      "Is there snow visibly covering the sidewalks where pedestrians are walking?",
+      "Are pedestrians walking across the sidewalks with visible footsteps in the snow?",
+      "Are cars driving over roads that appear slippery and snow-covered?",
+      "Is the snow visibly falling through the air against the night backdrop?",
+      "Are the streets and sidewalks illuminated by the neon lights in the scene?",
+      "Are the pedestrians dressed in clothing appropriate for cold, snowy weather?"
+    ]
+  },
+  {
+    "prompt_en": "In this lush forest, a stream trickles over rocks, creating a natural backdrop of water sounds. The flowing water should have clear spatial positioning, exhibiting a shift in the sound field from near to far. Gentle bird calls accompany the scene, occasionally heard from the treetops, with a crisp yet soft timbre. The overall volume should remain natural, never overpowering the ambient sounds, and the rhythm should vary with the speed of the water flow, creating a serene yet vivid atmosphere.",
+    "prompt_vision": "A lush forest with a stream flowing over rocks, surrounded by tall trees with birds in the treetops.",
+    "prompt_audio": "Trickling stream sounds with clear spatial movement from near to far, accompanied by gentle, crisp yet soft bird calls from above; natural ambient volume and varying rhythmic flow matching water movement.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of the stream trickling over rocks clearly audible throughout the scene?",
+      "Does the audio exhibit a shift in the sound field of the flowing water from near to far?",
+      "Are gentle bird calls occasionally heard, matching the described crisp yet soft timbre?",
+      "Is the overall volume of the audio natural and not overpowering the ambient sounds?",
+      "Does the rhythm of the water flow vary, contributing to a serene yet vivid atmosphere?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visible stream flowing over rocks in the scene?",
+      "Are the rocks in the stream clearly visible and positioned naturally within the forest setting?",
+      "Does the water in the stream appear to flow gently, with visible motion and varying speed?",
+      "Are there trees visible in the forest, suggesting treetops where birds might perch?",
+      "Can the forest be visually identified as lush, with dense greenery and vegetation?"
+    ]
+  },
+  {
+    "prompt_en": "Simulate the sound of raindrops gently tapping on glass, with a spatially immersive sound field that conveys the movement of rain from distance to near. The timbre should be crisp yet soft, at a moderate volume, with an irregular but natural rhythm. Background ambient sounds should include a light breeze to enhance the atmosphere of a rainy day.",
+    "prompt_vision": "Raindrops falling on a glass surface, with no visible source of wind or additional elements.",
+    "prompt_audio": "Gentle, irregular raindrops tapping crisply but softly on glass, spatially moving from distance to near, accompanied by a light breeze; moderate volume, natural rhythm, immersive sound field.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of raindrops tapping on glass present and clearly audible throughout the simulation?",
+      "Does the audio convey a spatially immersive sound field that represents the movement of rain from a distance to near the listener?",
+      "Is the timbre of the raindrops crisp yet soft, as described in the prompt?",
+      "Is the volume of the raindrop sounds moderate, neither too loud nor too quiet?",
+      "Is the rhythm of the raindrop sounds irregular but natural, avoiding mechanical repetition?",
+      "Are there background ambient sounds of a light breeze present to enhance the rainy day atmosphere?",
+      "Does the overall audio maintain a balance between raindrop sounds and ambient breeze, without one overpowering the other?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visual representation of raindrops on a glass surface, with varying sizes and transparency to indicate the gentle tapping effect?",
+      "Does the scene include a spatial arrangement where raindrops appear to move from distant areas to closer proximity on the glass surface?",
+      "Are the textures of the raindrops rendered with a crisp yet soft appearance, showing subtle reflections and refractions of light?",
+      "Is there a visual indication of a light breeze, such as gently swaying trees or rippling water, to complement the rainy atmosphere?"
+    ]
+  },
+  {
+    "prompt_en": "In the scene, rain continuously strikes the water surface, creating dense bubbles and ripples. The audio should feature clear raindrop sounds—crisp and rhythmic—accompanied by faint crackling noises from bursting bubbles. The sound field should convey a spatial progression of rain moving from distance to near, creating an immersive, enveloping effect. Faint distant wind can be subtly heard in the background, enhancing the natural atmosphere.",
+    "prompt_vision": "Rain continuously strikes the water surface, creating dense bubbles and ripples.",
+    "prompt_audio": "Clear, crisp, and rhythmic raindrop sounds with faint crackling from bursting bubbles; spatial progression of rain moving from distance to near; faint distant wind subtly audible in the background.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio feature crisp and rhythmic raindrop sounds that match the continuous striking of rain on the water surface?",
+      "Are faint crackling noises from bursting bubbles audible in the audio?",
+      "Is there a spatial progression in the sound field that conveys rain moving from distance to near, creating an immersive effect?",
+      "Can faint distant wind be subtly heard in the background, enhancing the natural atmosphere?",
+      "Are the raindrop sounds enveloping and immersive, contributing to the overall sound field?"
+    ],
+    "auxiliary_info_vision": [
+      "Are raindrops visibly striking the water surface in the scene?",
+      "Does the water surface show dense bubbles forming due to the rain?",
+      "Are ripples clearly visible spreading outward from the points where raindrops hit the water?",
+      "Is the lighting consistent with the appearance of rain and water ripples, without overly bright or unnatural highlights?",
+      "Are the bubbles visibly bursting on the water surface?"
+    ]
+  },
+  {
+    "prompt_en": "Generate a natural environment audio that captures the gentle flowing sound of a stream, with water sounds varying according to the speed and direction of the water flow in the visual scene. Emphasize detailed audio effects when water hits rocks and moss-covered surfaces. Include subtle bird chirping in the background to create a forest atmosphere suggestive of early morning or evening. The sound field should convey the spatial sense of the stream, with water sounds gradually moving from the left to the right of the scene, and volume adjusting according to the shot's perspective—closer water sounds clearer, distant ones softer.",
+    "prompt_vision": "Forest stream flows left to right over mossy rocks, detailed ripples up close, winding into shaded woods under soft morning light.",
+    "prompt_audio": "Gentle flowing stream sounds with dynamic water textures reflecting speed and direction, detailed splashes and gurgles as water hits rocks and mossy surfaces, subtle background bird chirping, spatial audio panning water sounds from left to right, with volume and clarity modulated by proximity—clear and present when close, softer and more ambient when distant.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include gentle flowing water sounds that vary according to the speed and direction of the water flow depicted in the visual scene?",
+      "Are detailed audio effects present when water interacts with rocks and moss-covered surfaces?",
+      "Is subtle bird chirping included in the background to suggest a forest atmosphere?",
+      "Does the sound field convey a spatial sense of the stream, with water sounds gradually moving from the left to the right of the scene?",
+      "Does the volume of the water sounds adjust appropriately based on the shot's perspective, with closer water sounding clearer and distant water sounding softer?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the visual scene depicting a stream with water flowing gently, showing variations in speed and direction?",
+      "Are there visible rocks and moss-covered surfaces in the stream where water interacts, suggesting detailed audio effects?",
+      "Does the visual composition include elements that suggest a forest atmosphere, such as trees or foliage, to complement the subtle bird chirping?",
+      "Is there a clear spatial relationship in the visual scene, with the stream's flow moving from the left to the right, indicating a corresponding audio movement?",
+      "Are there visual cues indicating different perspectives, such as close-up shots of the stream, to suggest varying audio clarity and volume?"
+    ]
+  },
+  {
+    "prompt_en": "On a cold winter day, the harbor was covered in thick snow, with a distant sailboat moored quietly. The wind echoed through the air, gently brushing against the sails and blending with the soft sound of falling snowflakes. The seawater lapped gently against the hull, creating a low, rhythmic murmur, while occasional calls of seabirds drifted from afar, adding a touch of life. The overall soundscape evoked a serene yet slightly chilly atmosphere, as if time had stood still in this moment.",
+    "prompt_vision": "A snowy harbor on a cold winter day with a distant sailboat moored quietly, thick snow covering the surroundings, and a still, serene atmosphere.",
+    "prompt_audio": "Gentle wind brushing against sails, soft falling snowflakes, low rhythmic lapping of seawater against a boat hull, and occasional distant seabird calls.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of wind present and does it gently brush against the sails as described?",
+      "Does the audio include soft sounds resembling falling snowflakes?",
+      "Is there a low, rhythmic murmur corresponding to seawater lapping against the hull?",
+      "Are occasional distant calls of seabirds included in the audio?",
+      "Does the overall soundscape evoke a serene and slightly chilly atmosphere as described?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the harbor covered in thick snow?",
+      "Is there a sailboat moored in the distance?",
+      "Are the sails of the sailboat visibly affected by the wind, such as slightly moving or fluttering?",
+      "Is the seawater gently lapping against the hull of the sailboat?",
+      "Are there visible snowflakes falling in the scene?",
+      "Are there seabirds present in the distance?"
+    ]
+  },
+  {
+    "prompt_en": "At the misty edge of a cliff, a gentle breeze brushes by, carrying soft rustling sounds and faint bird calls from afar. Raindrops lightly tap on the umbrella surface with a delicate pattering, while occasional rolling stones echo up from below the cliff, creating a vast and mysterious soundscape. The overall tone is cool and clear, moderately loud, with a slow rhythm—the ambient sounds perfectly complementing the fog and the rugged cliffs in the scene.",
+    "prompt_vision": "Misty cliff edge with fog enveloping rugged cliffs, a person holding an umbrella as rain lightly falls.",
+    "prompt_audio": "Soft rustling breeze, faint distant bird calls, delicate pattering of raindrops on an umbrella, occasional echoing rumbles of rolling stones from below the cliff; cool, clear, moderately loud, slow rhythm.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a gentle breeze sound present, characterized by soft rustling noises?",
+      "Are faint bird calls audible, suggesting distance and subtlety?",
+      "Does the sound of raindrops tapping on an umbrella have a delicate pattering quality?",
+      "Can occasional rolling stones be heard echoing from below the cliff, contributing to the soundscape?",
+      "Is the overall tone of the audio cool and clear, with a moderately loud volume?",
+      "Does the ambient sound maintain a slow rhythm, complementing the described scene?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there visible mist at the edge of the cliff?",
+      "Does the umbrella appear wet or have visible raindrops on its surface?",
+      "Can the cliff be seen as rugged in texture and form?",
+      "Are stones visibly rolling or positioned in a way that suggests recent movement?",
+      "Is the overall scene visually cool in tone, suggesting a misty or foggy atmosphere?"
+    ]
+  },
+  {
+    "prompt_en": "In the scene, rain continuously falls onto the water surface, creating dense bubbles and ripples. The audio should feature clear raindrop sounds accompanied by subtle popping noises as bubbles burst, creating an immersive rainy atmosphere. The rainfall sound should have a stereo effect, conveying a sense of spatial depth as raindrops move from distance to near, with volume varying according to the intensity of the rain. Faint wind sounds can be added in the background to enhance the realism of the natural environment.",
+    "prompt_vision": "Rain continuously falls onto a water surface, creating dense bubbles and ripples.",
+    "prompt_audio": "Clear raindrop sounds with subtle popping noises as bubbles burst; stereo rainfall with spatial depth, varying volume based on rain intensity; faint background wind sounds.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include clear raindrop sounds that match the visual of rain falling onto the water surface?",
+      "Are there subtle popping noises in the audio that correspond to bubbles bursting on the water surface?",
+      "Is there a stereo effect in the rainfall sound that conveys spatial depth, with raindrops moving from distance to near?",
+      "Does the volume of the rainfall sound vary according to the intensity of the rain depicted in the scene?",
+      "Can faint wind sounds be heard in the background to enhance the realism of the natural environment?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there visible rain falling onto the water surface?",
+      "Are there dense bubbles forming on the water surface due to the rain?",
+      "Are there visible ripples on the water surface caused by the raindrops?",
+      "Can bubbles be seen bursting on the water surface?",
+      "Is the water surface visibly disturbed by the continuous rainfall?",
+      "Are the raindrops visibly creating a pattern of movement on the water surface?"
+    ]
+  },
+  {
+    "prompt_en": "In a dense forest, rain falls gently, creating crisp sounds of droplets accompanied by the rustling of leaves being soaked. The sound of rain hitting tree branches is clearly audible, while distant bird calls echo occasionally, adding depth to the space. Faintly in the background, the low murmur of wind passing through the trees can be heard, with distinct layers of sound that vividly convey the natural atmosphere of a forest in the rain.",
+    "prompt_vision": "A dense forest during rainfall, with wet leaves and tree branches glistening under the gentle rain.",
+    "prompt_audio": "Gentle rain falling with crisp droplet sounds, rustling soaked leaves, audible rain hitting tree branches, occasional distant bird calls, and a faint low murmur of wind moving through the trees, creating layered natural forest ambiance.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of rain droplets clearly audible, creating a crisp sound as they fall?",
+      "Does the audio include the sound of leaves rustling as they are soaked by the rain?",
+      "Is the sound of rain hitting tree branches distinctly audible?",
+      "Are distant bird calls occasionally heard, adding depth to the audio space?",
+      "Can the low murmur of wind passing through the trees be faintly heard in the background?",
+      "Are there distinct layers of sound that convey the natural atmosphere of a forest in the rain?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there visible rain falling in the forest scene?",
+      "Are the tree branches visibly wet from the rain?",
+      "Can the leaves be seen moving slightly as if being soaked by rain?",
+      "Are there visible droplets on the leaves or branches?",
+      "Is the forest scene densely populated with trees?",
+      "Are there any visible signs of wind movement in the trees, such as swaying branches?",
+      "Is the overall lighting in the scene consistent with a rainy atmosphere, such as diffused or overcast lighting?"
+    ]
+  },
+  {
+    "prompt_en": "On a calm lake surface, a white sailboat moves slowly, with distant mountains and a blue sky in the background. The audio should include gentle lapping water sounds, subtle creaking or fabric rustling noises from the moving sailboat, and occasional soft breezes. The sound field should convey a sense of open space, with the directions of the water and wind sounds consistent with the position of the sailboat and surrounding environment in the scene.",
+    "prompt_vision": "On a calm lake surface, a white sailboat moves slowly, with distant mountains and a blue sky in the background.",
+    "prompt_audio": "Gentle lapping water sounds, subtle creaking and fabric rustling from the sailboat, occasional soft breezes; spatial audio conveying open space with directional consistency relative to the sailboat and environment.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Are the gentle lapping water sounds audible and consistent with the movement of the sailboat on the calm lake surface?",
+      "Does the audio include subtle creaking or fabric rustling noises that correspond to the slow movement of the sailboat?",
+      "Can occasional soft breezes be heard, matching the described calm and open environment?",
+      "Is the sound field conveying a sense of open space, with appropriate spatial positioning of water and wind sounds relative to the sailboat?",
+      "Are the directions of the water and wind sounds consistent with the visual position of the sailboat and surrounding environment in the scene?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a white sailboat visible on the calm lake surface?",
+      "Are distant mountains visible in the background?",
+      "Is the sky in the background blue?",
+      "Does the sailboat appear to be moving slowly across the lake?",
+      "Is the surface of the lake calm, with no large waves or disturbances?",
+      "Is the sailboat's sail visible, suggesting movement?",
+      "Are there no other boats or large objects on the lake surface?"
+    ]
+  },
+  {
+    "prompt_en": "In this oceanic scene, natural wave sounds are presented with a broad and deep sound field, where the flow of water is clearly audible, accompanied by occasional calls of seabirds. The timbre should be soft and layered, the volume moderate, and the rhythm varying with the rise and fall of the waves. The ambient sound should include a gentle breeze passing through, enhancing spatial perception and the dynamic quality of the scene.",
+    "prompt_vision": "Ocean waves rolling onto a shore under an open sky, with seabirds flying overhead and a gentle breeze moving across the water's surface.",
+    "prompt_audio": "Natural ocean waves with a broad, deep sound field, soft and layered timbre, moderate volume, and varying rhythm matching wave motion; occasional seabird calls; gentle breeze enhancing spatial ambiance.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of waves audible with a broad and deep sound field, matching the described flow of water?",
+      "Does the audio include occasional calls of seabirds with a soft and layered timbre?",
+      "Is the volume of the audio moderate, avoiding excessive loudness or quietness?",
+      "Does the rhythm of the wave sounds vary naturally with the rise and fall of the waves?",
+      "Is a gentle breeze audible in the ambient sound, contributing to spatial perception and dynamic quality?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the oceanic scene visually depicted with waves that appear broad and deep, suggesting a vast expanse of water?",
+      "Are seabirds visually present in the scene, positioned in a way that suggests occasional calls, enhancing the natural setting?",
+      "Does the visual composition include elements that suggest a gentle breeze, such as swaying trees or rippling water surfaces, to enhance spatial perception?",
+      "Are the waves visually represented with varying heights and movements, indicating a dynamic rhythm that aligns with the rise and fall of the ocean?"
+    ]
+  },
+  {
+    "prompt_en": "In this ocean scene, create gentle sounds of waves accompanied by occasional calls of seabirds. The sound field should have a spacious, immersive quality, as if one is standing on the surface of the sea. The timbre should be clear and natural, with moderate volume and a rhythm that varies with the ebb and flow of the waves. Include distant wind sounds in the ambient audio to enhance the sense of tranquility.",
+    "prompt_vision": "Ocean scene with waves and seabirds, viewed as if standing on the surface of the sea.",
+    "prompt_audio": "Gentle waves with occasional seabird calls, distant wind, spacious and immersive sound field, clear and natural timbre, moderate volume, rhythm varying with wave ebb and flow, tranquil ambiance.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the audio dominated by gentle wave sounds with a rhythm that varies to reflect the ebb and flow of the sea?",
+      "Are occasional calls of seabirds present and clearly audible, without being overly frequent or intrusive?",
+      "Does the sound field have a spacious and immersive quality, giving the impression of standing on the surface of the sea?",
+      "Is the timbre of the wave sounds and seabird calls clear and natural, without noticeable distortion or artificiality?",
+      "Is the volume of the audio moderate, avoiding excessive loudness or inaudibility?",
+      "Are distant wind sounds included in the ambient audio, contributing to the tranquil atmosphere without overpowering other elements?",
+      "Is Do all audio elements blend harmoniously, maintaining a sense of tranquility and avoiding abrupt or jarring transitions?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the ocean scene visually depicted with gentle waves that appear to ebb and flow naturally?",
+      "Are seabirds visually present in the scene, positioned to suggest occasional calls?",
+      "Does the visual composition of the scene convey a spacious and immersive quality, as if one is standing on the surface of the sea?",
+      "Is there a visual representation of distant wind, such as subtle movement in the water or clouds, enhancing the sense of tranquility?"
+    ]
+  },
+  {
+    "prompt_en": "Over the sea at sunset, waves gently lap against the surface, accompanied by a soft breeze, creating a serene and expansive soundscape. The rhythm of the waves should synchronize with the rising and falling motion visible in the scene, with a tone that is gentle and rich in layers. Occasionally, the calls of distant seabirds can be heard in the background, enhancing the sense of space.",
+    "prompt_vision": "Sunset over sea, waves gently lapping, soft breeze, warm light, serene expansive scene, rhythmic wave motion.",
+    "prompt_audio": "Gentle, layered soundscape of ocean waves lapping in rhythmic synchronization with their visual motion, accompanied by a soft breeze and occasional distant seabird calls enhancing spatial depth.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of waves synchronized with the visible rising and falling motion of the sea in the video?",
+      "Does the audio include a gentle and layered tone of waves lapping against the surface?",
+      "Is there a soft breeze audible that complements the serene soundscape?",
+      "Are the calls of distant seabirds present in the background, enhancing the sense of space?",
+      "Is the overall audio volume consistent with a serene and expansive soundscape, without sudden loud noises?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the sunset visible over the sea, creating a warm color palette in the sky?",
+      "Are the waves gently lapping against the surface, showing a rhythmic rising and falling motion?",
+      "Does the scene depict a soft breeze, indicated by subtle movement on the water's surface?",
+      "Are distant seabirds visible in the scene, contributing to the sense of space?"
+    ]
+  },
+  {
+    "prompt_en": "A picnic scene on the grass, with a gentle breeze and occasional bird calls in the background. Blades of grass sway softly in the wind. Sounds of human activity include the rustling of paper and light cutting noises, blending into the natural soundscape to create a serene atmosphere. The timbre is soft, volume moderate, and rhythm slow, with precise sound source localization. Environmental sounds are synchronized with objects and actions in the scene, enhancing the visual experience.",
+    "prompt_vision": "A picnic scene on the grass with blades of grass swaying softly in a gentle breeze. Visible human activity includes handling paper and light cutting actions.",
+    "prompt_audio": "Soft timbre, moderate volume, slow rhythm bird calls, rustling paper, light cutting sounds, and gentle breeze, with precise sound source localization and synchronization to visual elements.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a gentle breeze sound that matches the visual movement of the grass blades swaying?",
+      "Are there occasional bird calls that blend into the background without overpowering other sounds?",
+      "Does the rustling of paper sound soft and match the visual actions of human activity?",
+      "Is there a light cutting noise that is synchronized with the visual action of cutting?",
+      "Are the environmental sounds, such as the breeze and bird calls, synchronized with the visual elements to enhance the scene?",
+      "Is the overall volume of the audio moderate, contributing to a serene atmosphere?",
+      "Can the sound sources be precisely localized, allowing for a clear distinction between different auditory elements in the scene?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there blades of grass visible in the scene?",
+      "Is the grass swaying softly as if moved by a gentle breeze?",
+      "Are there objects or items typically associated with a picnic visible, such as a blanket or food containers?",
+      "Are there people or human figures engaged in picnic-related activities visible in the scene?",
+      "Is the lighting consistent with an outdoor setting, such as natural daylight?"
+    ]
+  },
+  {
+    "prompt_en": "In a tranquil forest, a stream flows gently, its water sounds clearly audible, accompanied by occasional bird calls and the soft rustling of leaves in the breeze. The sound field should convey a sense of space: the stream's sound spreads outward from the center of the scene to both sides, bird calls are positioned deep within the background, and the wind sounds are soft and subtly vary with the movement of the leaves. The overall timbre should be natural and mellow, with moderate volume and steady rhythm, while the ambient sounds must match the visual framing.",
+    "prompt_vision": "A tranquil forest with a gently flowing stream at the center, surrounded by trees with leaves moving softly in the breeze.",
+    "prompt_audio": "Gentle flowing water sounds spreading from center to sides, occasional distant bird calls in the background, soft rustling leaves varying subtly with breeze, natural mellow timbre, moderate volume, steady rhythm.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of the stream clearly audible and spreading outward from the center of the scene to both sides?",
+      "Are the bird calls positioned deep within the background, creating a sense of spatial depth?",
+      "Does the soft rustling of leaves vary subtly with the movement of the breeze?",
+      "Is the overall timbre of the audio natural and mellow, without harsh or artificial tones?",
+      "Is the volume of the ambient sounds moderate, neither too loud nor too quiet?",
+      "Does the rhythm of the stream's flow remain steady throughout the scene?",
+      "Are the ambient sounds synchronized with the visual framing, maintaining consistency between audio and video elements?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visible stream flowing gently through the forest scene?",
+      "Are there trees with leaves that appear to be softly rustling in the breeze?",
+      "Can birds be seen in the background, suggesting their calls originate from there?",
+      "Is the lighting in the forest scene soft, contributing to a tranquil atmosphere?",
+      "Are the leaves on the trees visibly moving in a way that suggests a gentle breeze?",
+      "Does the stream appear to be the central visual element in the scene?",
+      "Are there no signs of rapid or turbulent water movement in the stream, indicating a gentle flow?"
+    ]
+  },
+  {
+    "prompt_en": "Generate an audio of a natural forest scene, including the sound of a gently flowing stream and a small waterfall. The water sounds should have depth, clearly detailing the nearby flow while echoing softly in the distance. Add subtle rustling of leaves and occasional bird calls in the background, with spatial positioning so that the birds appear to come from different directions. The overall soundscape should create a serene atmosphere, with moderate volume, smooth and natural rhythm, and a harmonious balance between water and ambient sounds.",
+    "prompt_vision": "A natural forest scene with a gently flowing stream and a small waterfall, surrounded by trees with rustling leaves and birds perched at various locations.",
+    "prompt_audio": "Gently flowing stream with a small waterfall, water sounds having depth and soft distant echoes, subtle rustling of leaves, occasional bird calls spatially positioned from different directions, moderate volume, smooth natural rhythm, harmonious balance between water and ambient sounds.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of the gently flowing stream continuous and clearly audible throughout the audio?",
+      "Does the small waterfall produce a distinct sound that is separate from the stream, with a sense of depth and echo?",
+      "Are the rustling leaves audible at a subtle level, contributing to the overall serene atmosphere?",
+      "Is Do the bird calls occur occasionally and come from different spatial directions, enhancing the sense of a natural forest environment?",
+      "Is there a harmonious balance between the water sounds and the ambient sounds, without any one element overpowering the others?",
+      "Can the overall soundscape be described as having a smooth and natural rhythm, contributing to a serene atmosphere?"
+    ],
+    "auxiliary_info_vision": [
+      "Does the visual representation of the forest scene include a gently flowing stream with visible water movement and a small waterfall cascading naturally?",
+      "Are the leaves in the forest depicted with subtle textures and realistic rustling movements that suggest a gentle breeze?",
+      "Can the spatial positioning of birds in the visual scene be identified, with their locations appearing to vary naturally across different areas of the forest?",
+      "Is the lighting in the forest scene soft and diffused, contributing to a serene and harmonious atmosphere consistent with the natural setting?",
+      "Are the water textures and reflections detailed enough to convey depth, with the stream and waterfall visually distinct yet blending seamlessly into the environment?",
+      "Does the composition of the forest scene balance the visual elements of water, foliage, and open spaces to create a tranquil and immersive visual experience?"
+    ]
+  },
+  {
+    "prompt_en": "Generate a natural ambient soundscape emphasizing the dynamic variations of flowing water, incorporating crisp sounds of water splashing against rocks, accompanied by occasional bird calls coming from a distance, creating a sense of space in a mountain stream environment. The water sounds should be directional, reflecting the visual flow trajectory of the water, with volume adjusted according to changes in camera framing, ensuring audio field consistency with the visual scene.",
+    "prompt_vision": "A mountain stream with water flowing dynamically over rocks, splashing crisply, surrounded by natural terrain and distant trees.",
+    "prompt_audio": "Directional flowing water with dynamic variations, crisp splashes against rocks, occasional distant bird calls, volume modulated to match camera framing and visual flow trajectory.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of flowing water dynamically varied to reflect changes in the visual flow trajectory?",
+      "Does the audio include crisp sounds of water splashing against rocks, as expected in a mountain stream environment?",
+      "Are the bird calls present and do they sound like they are coming from a distance, creating a sense of space?",
+      "Is the volume of the water sounds adjusted according to changes in camera framing, ensuring consistency with the visual scene?",
+      "Can the directionality of the water sounds be perceived, matching the visual flow of the stream?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the visual representation of flowing water dynamic, showing variations in movement and direction?",
+      "Are the rocks depicted with textures that visually complement the splashing water?",
+      "Does the visual composition include birds positioned at a distance to create a sense of spatial depth?",
+      "Is the lighting consistent with a natural mountain stream environment, enhancing the clarity of water and surrounding elements?",
+      "Are the spatial relationships between the water, rocks, and birds visually coherent, reflecting a realistic mountain stream setting?",
+      "Can the visual flow trajectory of the water be clearly identified, aligning with the directional movement depicted?"
+    ]
+  },
+  {
+    "prompt_en": "This is a picture depicting a thunderstorm, with lightning and a tornado in the scene.",
+    "prompt_vision": "A thunderstorm with lightning and a tornado in the scene.",
+    "prompt_audio": "Loud thunderclaps, howling wind, and rumbling storm sounds.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a sound of thunder accompanying the depiction of a thunderstorm in the scene?",
+      "Does the audio include the sound of wind that would be expected with a tornado?",
+      "Can the sound of rain be heard, which is commonly associated with thunderstorms?",
+      "Are the sounds of lightning strikes synchronized with visual flashes of lightning in the scene?",
+      "Will the audio maintain a consistent level of intensity that matches the visual depiction of a stormy environment?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there visible lightning in the picture?",
+      "Does the image show a tornado?",
+      "Are dark storm clouds present in the scene?",
+      "Is the lightning bolt bright and distinct against the sky?",
+      "Does the tornado appear to be touching the ground?",
+      "Are there signs of strong winds, such as debris or bent trees?",
+      "Is the sky predominantly gray or dark in color?"
+    ]
+  },
+  {
+    "prompt_en": "Generate an audio scene featuring the sound of powerful waves crashing against a seawall, accompanied by howling wind and distant, low rumbles of thunder. The water sounds should have depth and layers, including subtle splashes and deep rolling swells. The wind should dynamically shift in intensity and direction, reflecting the movement of clouds in the visual scene, with a strong sense of spatiality. Overall volume should rise and fall with the impact of the waves, creating a tense and irregular rhythm. Include distant calls of seabirds in the ambient soundscape, with their perceived positions matching the changes in visual perspective.",
+    "prompt_vision": "Stormy seascape, waves crash against seawall, dark clouds sweep sky, seabirds fly along coastline",
+    "prompt_audio": "Powerful waves crashing against a seawall with layered water sounds including deep rolling swells and subtle splashes; howling wind shifting dynamically in intensity and direction; distant low rumbles of thunder; ambient distant seabird calls with spatial positioning matching visual perspective; overall volume rising and falling with wave impacts to create a tense, irregular rhythm.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the sound of powerful waves crashing against a seawall with varying intensity and depth?",
+      "Are there subtle splashes and deep rolling swells layered within the water sounds?",
+      "Is the howling wind dynamically shifting in intensity and direction, creating a sense of spatial movement?",
+      "Will the overall volume rise and fall in sync with the impact of the waves, creating a tense and irregular rhythm?",
+      "Are distant, low rumbles of thunder present in the audio scene?",
+      "Can distant calls of seabirds be heard, with their perceived positions matching changes in visual perspective?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visual representation of powerful waves crashing against a seawall, with visible splashes and rolling swells?",
+      "Are there dynamic visual cues indicating the shifting intensity and direction of the wind, such as moving clouds or swaying trees?",
+      "Can the visual scene depict distant flashes or lighting effects that suggest the presence of thunder?",
+      "Are seabirds visually present in the scene, with their positions changing to match the perspective shifts in the visual composition?",
+      "Does the lighting in the scene change to reflect the rise and fall of wave impacts, creating a tense and irregular visual rhythm?",
+      "Is there a clear visual indication of spatial depth, such as layers of waves and clouds, enhancing the scene's dimensionality?"
+    ]
+  },
+  {
+    "prompt_en": "Under the night sky, a volcano is erupting, with lava flowing down its slopes accompanied by deep rumbles and occasional cracking sounds. The wind echoes through the mountains, while leaves rustle softly in the breeze. Faint bird calls can be heard in the distance, creating a tense yet natural atmosphere. The audio should convey the powerful impact of the volcanic eruption, with low-frequency rumbles interwoven with high-frequency cracks, and precisely positioned wind and bird sounds enhancing the visual intensity of the scene.",
+    "prompt_vision": "Under the night sky, a volcano erupts with lava flowing down its slopes, surrounded by mountains and trees with rustling leaves.",
+    "prompt_audio": "Deep low-frequency volcanic rumbles interwoven with sharp high-frequency cracking sounds, echoing wind through mountains, soft rustling leaves, and faint distant bird calls, creating a tense natural atmosphere with precisely spatialized audio elements.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Are there occasional high-frequency cracking sounds interwoven with the low-frequency rumbles?",
+      "Can the sound of wind be heard echoing through the mountains, enhancing the scene's intensity?",
+      "Are there soft rustling sounds of leaves in the breeze present in the audio?",
+      "Is there a faint presence of bird calls in the distance, contributing to the natural atmosphere?",
+      "Does the audio convey a sense of powerful impact through the combination of rumbles and cracks?",
+      "Are the wind and bird sounds precisely positioned to enhance the visual intensity of the scene?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there visible lava flowing down the slopes of the volcano?",
+      "Are there visible eruptions occurring at the top of the volcano?",
+      "Is the night sky visible above the erupting volcano?",
+      "Are there any visible signs of wind, such as moving leaves or swaying trees?",
+      "Is the volcano visibly emitting smoke or ash?",
+      "Are there any visible birds in the scene, possibly silhouetted against the sky?",
+      "Is the lighting consistent with a nighttime setting, with the glow of the lava providing illumination?"
+    ]
+  },
+  {
+    "prompt_en": "In this scene, flames burn fiercely in the darkness, accompanied by crackling sounds and occasional low rumbles. The sound field of the flames should have a strong sense of space, as if radiating outward from the center of the scene. The timbre should convey the intensity and dynamism of the fire, with volume fluctuating according to the strength and weakness of the flames. Faint wind sounds should be present in the background, enhancing the dynamic effect of the fire.",
+    "prompt_vision": "Flames burning fiercely in darkness, radiating from the center of the scene.",
+    "prompt_audio": "Crackling fire sounds with low rumbles, dynamic volume fluctuations matching flame intensity, faint background wind enhancing spatial depth and movement.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include crackling sounds that match the intensity and dynamism of the flames?",
+      "Are occasional low rumbles present in the audio, complementing the fierce burning of the flames?",
+      "Does the sound field of the flames convey a strong sense of space, radiating outward from the center of the scene?",
+      "Is the timbre of the flames' audio consistent with their described intensity and dynamism?",
+      "Does the volume of the flames fluctuate appropriately according to their described strength and weakness?",
+      "Are faint wind sounds present in the background, enhancing the dynamic effect of the fire?"
+    ],
+    "auxiliary_info_vision": [
+      "Are flames visibly burning in the scene?",
+      "Is the scene predominantly dark, highlighting the flames?",
+      "Is there a visible central point from which the flames seem to radiate outward?",
+      "Are there any visual indications of wind, such as flickering flames or moving smoke?",
+      "Is there a visible contrast between the bright flames and the surrounding darkness?"
+    ]
+  },
+  {
+    "prompt_en": "In this scene filled with flames and intense glowing light, create realistic sound effects of burning fire. The sound of the flames should have a strong sense of space, spreading outward from the center of the image, with rich, layered, and full-bodied tones. Accompany the crackling of fire with subtle airflow sounds to enhance the dynamic feel of the scene. The volume should vary irregularly in sync with the intensity of the flames, mimicking the natural flickering rhythm. Ensure the sound effects are perfectly synchronized with the visual changes in light and shadow, enhancing the integration of visual and auditory elements.",
+    "prompt_vision": "Scene filled with flames and intense glowing light, with dynamic changes in light and shadow radiating from the center.",
+    "prompt_audio": "Realistic burning fire sounds with strong spatialization spreading outward, rich layered full-bodied tones, crackling flames, subtle airflow sounds, and irregular volume variations synced to flame intensity and flickering rhythm.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a strong sense of spatial audio, with the sound of flames spreading outward from the center of the image?",
+      "Are the tones of the burning fire rich, layered, and full-bodied?",
+      "Does the crackling of fire include subtle airflow sounds to enhance the dynamic feel of the scene?",
+      "Is the volume of the fire sound varying irregularly in sync with the intensity of the flames?",
+      "Are the sound effects perfectly synchronized with the visual changes in light and shadow?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there visible flames in the scene, with intense glowing light emanating from them?",
+      "Is the light from the flames spreading outward from the center of the image, creating a radiant effect?",
+      "Does the scene show variations in the intensity of the flames, with brighter and dimmer areas visible?",
+      "Are shadows cast by the flames visible, dynamically changing in sync with the flickering light?",
+      "Is there a clear visual indication of airflow, such as smoke or subtle movement of surrounding objects affected by the fire?"
+    ]
+  },
+  {
+    "prompt_en": "In the volcanic eruption scene, lava gushes out accompanied by deep rumbling sounds and the roar of scorching air currents. In the background, faint wind can be heard from distant mountains, occasionally interspersed with the cracking sounds of rocks breaking apart. The sound of flowing lava contrasts with the natural ambient noises, creating a soundscape that conveys both the overwhelming power of the lava eruption and the vastness of the natural environment.",
+    "prompt_vision": "Volcanic eruption with lava gushing out, distant mountains in the background, rocks breaking apart.",
+    "prompt_audio": "Deep rumbling sounds, roar of scorching air currents, faint wind from distant mountains, cracking sounds of rocks breaking apart, flowing lava sounds contrasting with natural ambient noises.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a deep rumbling sound accompanying the lava gushing out?",
+      "Can the roar of scorching air currents be heard during the volcanic eruption?",
+      "Are faint wind sounds audible from distant mountains in the background?",
+      "Does the audio include occasional cracking sounds of rocks breaking apart?",
+      "Is the sound of flowing lava distinct from the natural ambient noises?",
+      "Will the soundscape convey both the overwhelming power of the lava eruption and the vastness of the natural environment?"
+    ],
+    "auxiliary_info_vision": [
+      "Is lava visibly gushing out in the volcanic eruption scene?",
+      "Are there visible air currents suggesting scorching heat in the scene?",
+      "Can the scene depict rocks visibly breaking apart?",
+      "Is the lava flow visually contrasting with the surrounding environment?",
+      "Are distant mountains visible in the background of the scene?"
+    ]
+  },
+  {
+    "prompt_en": "This is a video showcasing natural landscapes, with mountains and rivers in the background.",
+    "prompt_vision": "Natural landscapes with mountains and rivers in the background",
+    "prompt_audio": "faint natural sound, faint river flowing sound and wind sound,faint bird sound",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there ambient sound that matches the natural landscape, such as gentle wind or flowing water sounds?",
+      "Does the audio include the sound of a river flowing when the river is visible in the video?",
+      "Are the sounds of birds or wildlife present when the video shows a natural landscape?",
+      "Is the audio free from unnatural noise or distortion that would not be expected in a natural landscape setting?",
+      "Does the soundscape change appropriately when transitioning between different scenes, such as from mountains to rivers?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there mountains visible in the background of the video?",
+      "Is there a river flowing in the background of the video?",
+      "Does the video show natural landscapes without any man-made structures?",
+      "Can the mountains be seen clearly without any significant occlusion?",
+      "Is the river's water visibly moving or flowing?",
+      "Are the landscapes depicted in the video free from any visible human activity?"
+    ]
+  },
+  {
+    "prompt_en": "Generate a natural soundscape featuring the sound of flowing water moving from the left to the right of the scene, accompanied by faint dripping water and occasional bird calls heard from a distance. Leaves gently rustle in a soft breeze, with wind sounds that are gentle and spatial, conveying the depth and tranquility of a forest. The volume is layered distinctly, with the water flow as the primary element and bird calls and wind as secondary, creating an overall slow and peaceful rhythm that evokes a serene natural atmosphere.",
+    "prompt_vision": "Serene forest with stream flowing left to right, shaded trees, rustling leaves, light breeze, calm tranquil environment evoking peaceful depth.",
+    "prompt_audio": "Flowing water moving spatially from left to right, faint dripping water sounds, occasional distant bird calls, and soft, gentle wind rustling through leaves. The water is the dominant layer, with bird calls and wind as subtle background elements, creating a slow, peaceful, and immersive natural soundscape.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the sound of flowing water move audibly from the left to the right of the scene?",
+      "Are faint dripping water sounds present in the audio?",
+      "Can occasional bird calls be heard from a distance?",
+      "Is there a gentle rustling sound of leaves in the breeze?",
+      "Is Do the wind sounds convey a spatial depth and tranquility?",
+      "Is the volume of the flowing water distinctly layered as the primary element?",
+      "Are the bird calls and wind sounds layered as secondary elements, contributing to a slow and peaceful rhythm?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there visible flowing water moving from the left to the right of the scene?",
+      "Are there faint water droplets or dripping visible in the scene?",
+      "Are there birds visible in the distance or perched in the scene?",
+      "Are leaves visibly rustling gently in response to a soft breeze?",
+      "Does the lighting in the scene suggest a calm and tranquil atmosphere?",
+      "Are the objects in the scene stationary or moving slowly, consistent with a peaceful rhythm?",
+      "Is the spatial layout of the scene consistent with a forest environment, such as trees or foliage?"
+    ]
+  },
+  {
+    "prompt_en": "Autumn leaves dance in the wind, sunlight spills onto the streets, and shadows of trees dapple the ground.",
+    "prompt_vision": "Autumn leaves blowing in the wind, sunlight illuminating the streets, dappled shadows of trees on the ground.",
+    "prompt_audio": "rustling leaves and gentle breeze",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the sound of rustling leaves match the visual movement of autumn leaves dancing in the wind?",
+      "Is the ambient sound consistent with a gentle breeze implied by the dancing leaves?",
+      "Are the audio cues of leaves falling or brushing against the ground synchronized with their visual descent?",
+      "Is there an absence of prominent noise or distortion that would contradict the calm atmosphere implied by the scene?"
+    ],
+    "auxiliary_info_vision": [
+      "Are autumn leaves visibly moving in the wind?",
+      "Is sunlight visibly illuminating the streets?",
+      "Are shadows of trees clearly visible on the ground?",
+      "Do the autumn leaves appear to be in motion due to the wind?",
+      "Is the sunlight creating distinct areas of brightness on the streets?",
+      "Are the shadows of trees creating a dappled pattern on the ground?"
+    ]
+  },
+  {
+    "prompt_en": "In this autumn forest, a gentle breeze brushes against the leaves, creating a soft rustling sound, while birds sing in the distance, their calls shifting between clarity and faintness with the changing wind. Sunlight filters through the foliage, casting dappled shadows on the ground, occasionally accompanied by the subtle creak of swaying branches. The overall soundscape evokes a serene and natural atmosphere, with spatial audio positioning aligned precisely with the shifting patterns of light and shadow in the scene.",
+    "prompt_vision": "Sunlight filters through autumn foliage, casting dappled shadows; leaves rustle, branches sway gently in the breeze.",
+    "prompt_audio": "Soft rustling of leaves, distant bird calls shifting in clarity and faintness, subtle creaking of swaying branches, all forming a serene natural soundscape with spatial audio aligned to light and shadow patterns.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a soft rustling sound from the leaves when the breeze brushes against them?",
+      "Are the bird calls audible, with their clarity and faintness shifting as the wind changes?",
+      "Does the audio include subtle creaking sounds from swaying branches?",
+      "Is the overall soundscape serene and natural, matching the described atmosphere?",
+      "Are the spatial audio positions aligned with the shifting patterns of light and shadow in the scene?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there leaves visibly moving due to a gentle breeze?",
+      "Is sunlight filtering through the foliage creating dappled shadows on the ground?",
+      "Are branches visibly swaying slightly in the breeze?",
+      "Is the lighting consistent with an autumn forest setting, with warm tones and soft shadows?",
+      "Are the leaves predominantly in autumn colors such as red, orange, and yellow?",
+      "Is the overall scene visually calm and serene, with no rapid or abrupt movements?",
+      "Are the birds visible in the scene, even if they are not the main focus?"
+    ]
+  },
+  {
+    "prompt_en": "Generate an audio scene depicting the natural environment of a mountain town in spring. The background features a gentle breeze rustling through grass, birdsong from a distance, and occasional soft murmuring of a stream. The soundscape is spacious and well-layered. Volume varies with perspective: the nearby wind and birdsong are clear, while the distant stream sounds softer. The rhythm is naturally smooth and slow, creating a peaceful and harmonious atmosphere.",
+    "prompt_vision": "A serene mountain town in spring with rolling green hills, scattered wildflowers, and distant snow-capped peaks under a clear blue sky.",
+    "prompt_audio": "Gentle breeze rustling through grass, clear nearby birdsong, and soft distant murmuring of a stream; spacious, well-layered soundscape with smooth, slow rhythm and natural volume variation by distance.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of a gentle breeze rustling through grass present and consistent throughout the audio scene?",
+      "Are distant bird sounds audible and varied in pitch and frequency, creating a natural birdsong ambiance?",
+      "Does the occasional soft murmuring of a stream sound distant and quieter compared to the nearby wind and birdsong?",
+      "Are the audio elements layered in a way that creates a spacious and harmonious soundscape?",
+      "Does the volume of the audio vary appropriately with perspective, making nearby sounds clearer and distant sounds softer?",
+      "Is the rhythm of the audio naturally smooth and slow, contributing to a peaceful atmosphere?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visual representation of a mountain town with lush greenery indicating spring season?",
+      "Are there visual elements such as birds depicted in the scene, suggesting their presence through birdsong?",
+      "Does the visual scene include a stream, with visual cues indicating its soft murmuring sound?",
+      "Can the visual composition suggest a spacious and layered environment, enhancing the perception of depth and tranquility?",
+      "Are lighting and shadows used effectively to convey the gentle breeze and peaceful atmosphere of the mountain town?"
+    ]
+  }
+]

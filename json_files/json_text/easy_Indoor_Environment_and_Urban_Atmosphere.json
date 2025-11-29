@@ -1,0 +1,1525 @@
+[
+  {
+    "prompt_en": "The café is filled with customers, with a constant low hum of conversation in the background and the occasional hiss of the coffee machine releasing steam.",
+    "prompt_vision": "A busy café filled with customers seated at tables, a coffee machine on the counter.",
+    "prompt_audio": "Constant low hum of conversation, occasional hiss of a coffee machine releasing steam.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a constant low hum of conversation audible in the background throughout the scene?",
+      "Does the audio include the occasional hiss sound of the coffee machine releasing steam?",
+      "Are the sounds of conversation and the coffee machine hiss distinct and identifiable?",
+      "Is the volume of the conversation hum consistent with a busy café environment?",
+      "Can the hiss of the coffee machine be heard at intervals, rather than continuously?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there visible customers seated or standing inside the café?",
+      "Is there a coffee machine present in the café scene?",
+      "Can steam be seen coming from the coffee machine?",
+      "Are the customers engaged in activities that suggest conversation, such as talking or gesturing?",
+      "Is the café interior visibly busy or crowded with people?"
+    ]
+  },
+  {
+    "prompt_en": "The library reading room was quiet and spacious, with only the low hum of the air conditioner and the faint sound of pages turning in the distance.",
+    "prompt_vision": "A quiet and spacious library reading room with people reading, bookshelves, and an air conditioner.",
+    "prompt_audio": "Low hum of an air conditioner and faint sound of pages turning in the distance.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a low hum sound consistent with an air conditioner throughout the audio?",
+      "Are the sounds of pages turning faint and occurring intermittently in the audio?",
+      "Does the audio maintain a quiet atmosphere without any sudden loud or intrusive sounds?",
+      "Are the faint sounds of pages turning positioned to suggest distance within the sound field?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the library reading room depicted as spacious with ample open space visible?",
+      "Are there visible books or shelves indicating the presence of a library setting?",
+      "Is the air conditioner visually present in the room, suggesting its operation?",
+      "Are there people visible in the room engaged in reading or turning pages?",
+      "Is the lighting in the room soft and conducive to a quiet atmosphere?",
+      "Are the tables and chairs arranged in a manner that suggests a reading room environment?",
+      "Is the overall scene devoid of any visible motion, indicating a quiet and still atmosphere?"
+    ]
+  },
+  {
+    "prompt_en": "In the open office, the sound of typing keyboards rises and falls, interspersed with occasional mouse clicks.",
+    "prompt_vision": "An open office with people working at desks, hands moving over keyboards and occasionally clicking mice.",
+    "prompt_audio": "Rising and falling sounds of typing keyboards interspersed with occasional mouse clicks.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the sound of typing keyboards with varying intensity or volume over time?",
+      "Are there occasional mouse clicks audible in the audio?",
+      "Is there a noticeable rise and fall in the frequency or pitch of the keyboard typing sounds?",
+      "Can the audio-visual model maintain synchronization between the visual action of typing and the corresponding keyboard sounds?",
+      "Is the overall sound field consistent with an open office environment, with typing and clicking sounds coming from multiple directions?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there visible keyboards being typed on by people in the open office?",
+      "Can the hands of individuals be seen actively typing on keyboards?",
+      "Are there visible computer mice being clicked by individuals in the open office?",
+      "Is the spatial layout of the office open, with desks and people working visible?",
+      "Are the individuals seated at desks while interacting with computers?"
+    ]
+  },
+  {
+    "prompt_en": "The train station hall was bustling with people coming and going, the public address system echoing through the space, accompanied by the constant sounds of footsteps and rolling luggage wheels.",
+    "prompt_vision": "A bustling train station hall filled with people moving in various directions, some carrying luggage with rolling wheels.",
+    "prompt_audio": "Public address system announcements echoing through the space, constant footsteps, and rolling luggage wheels.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Are the sounds of footsteps present and continuous throughout the bustling train station hall scene?",
+      "Does the audio include the distinct rolling sounds of luggage wheels moving across the floor?",
+      "Can the audio convey a sense of crowd activity through overlapping sounds such as footsteps, luggage wheels, and ambient chatter or movement noise?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there people visible in the train station hall?",
+      "Is there visible movement of people in the scene, suggesting activity and busyness?",
+      "Can rolling luggage be seen being pulled by individuals in the station hall?",
+      "Are there visible groups or individuals walking in different directions within the station hall?",
+      "Does the scene include a train station hall layout, such as seating areas, ticket counters, or signage?"
+    ]
+  },
+  {
+    "prompt_en": "The subway car travels through the tunnel, its continuous low rumble occasionally interrupted by the clattering sound of rail joints.",
+    "prompt_vision": "A subway car moving through a dark tunnel.",
+    "prompt_audio": "Continuous low rumble with occasional clattering sounds of rail joints.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a continuous low rumble matching the sound of a subway car traveling through a tunnel?",
+      "Is the timing of the clattering sounds intermittent rather than constant, as described?",
+      "Does the low rumble maintain a consistent frequency or pitch throughout the sequence, except when interrupted by clattering sounds?",
+      "Are the clattering sounds distinct and clearly audible over the low rumble?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the subway car visible in the tunnel?",
+      "Are the wheels of the subway car in contact with the rails?",
+      "Does the subway car appear to be in motion within the tunnel?",
+      "Can the interior of the tunnel be seen around the subway car?",
+      "Are there visible rail joints on the tracks?",
+      "Is the lighting inside the tunnel consistent with an underground environment?"
+    ]
+  },
+  {
+    "prompt_en": "In the vegetable market, vendors loudly hawk their goods, with the background filled with the din of crowds talking and the muffled thuds of meat cleavers on cutting boards.",
+    "prompt_vision": "A bustling vegetable market with vendors actively selling produce, crowded with people, and nearby stalls where meat is being chopped on cutting boards.",
+    "prompt_audio": "Loud hawking by vendors, overlapping crowd chatter, and muffled thuds of meat cleavers striking cutting boards.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there audible hawking from vendors in the audio-visual output?",
+      "Does the background contain the sound of crowds talking?",
+      "Are there muffled thuds that suggest meat cleavers hitting cutting boards?",
+      "Is the overall sound environment consistent with a busy market setting?",
+      "Can the audio-visual model maintain synchronization between the vendors' lip movements and their vocalizations?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there visible vendors in the vegetable market scene?",
+      "Is there a display of vegetables in the market?",
+      "Can you see vendors gesturing or pointing towards their goods?",
+      "Are there cutting boards visible in the background?",
+      "Is there a motion of meat cleavers being used on cutting boards?",
+      "Are there visible crowds in the background of the market scene?",
+      "Is there a sense of activity or movement among the people in the market?"
+    ]
+  },
+  {
+    "prompt_en": "The empty church was extremely quiet; a soft cough could produce a long echo, while the distant city noises were muffled by the thick walls.",
+    "prompt_vision": "An empty church with thick walls, no people visible, dim ambient light.",
+    "prompt_audio": "Extremely quiet atmosphere, soft cough producing a long echo, distant city noises muffled.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the church environment depicted as extremely quiet, with minimal ambient noise?",
+      "Does a soft cough produce a long echo within the church?",
+      "Are the distant city noises muffled and not prominently audible due to the thick walls of the church?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the church depicted as empty with no visible people inside?",
+      "Are the walls of the church visibly thick and solid?",
+      "Is the interior of the church visually still, with no signs of motion or activity?",
+      "Are there no visible sources of sound or movement within the church, such as people or animals?"
+    ]
+  },
+  {
+    "prompt_en": "In the museum exhibition hall, footsteps softly echoed on the floor, occasionally accompanied by hushed conversations.",
+    "prompt_vision": "A museum exhibition hall with people walking and talking quietly.",
+    "prompt_audio": "Soft echoing footsteps on a hard floor, occasionally accompanied by hushed conversations.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Are the footsteps softly echoing on the floor with a subdued sound quality?",
+      "Does the audio include occasional hushed conversations that match the described quiet tone?",
+      "Can the footsteps and hushed conversations be heard distinctly without excessive noise or distortion?",
+      "Are the footsteps positioned in the sound field to suggest movement within the hall?",
+      "Is the overall audio volume consistent with a quiet museum environment?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the floor visible in the museum exhibition hall?",
+      "Are there people visible in the museum exhibition hall?",
+      "Can the people be seen walking in the museum exhibition hall?",
+      "Are the people in the museum exhibition hall engaged in quiet conversation?",
+      "Is the lighting in the museum exhibition hall soft and even, without harsh shadows?"
+    ]
+  },
+  {
+    "prompt_en": "The living room TV was on at night, the refrigerator hummed intermittently, and the wall clock ticked steadily.",
+    "prompt_vision": "A living room at night with a TV turned on, a refrigerator, and a wall clock.",
+    "prompt_audio": "TV audio playing, refrigerator humming intermittently, wall clock ticking steadily.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Can the ticking of the wall clock be heard clearly without being drowned out by other sounds?",
+      "Are the intermittent humming sounds of the refrigerator distinguishable from the other background noises?",
+      "Will the TV sound maintain a consistent presence throughout the audio, indicating it is on?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the TV screen visibly illuminated, indicating it is turned on?",
+      "Is the room lighting consistent with a nighttime setting, such as dim or artificial light sources?",
+      "Does the refrigerator appear stationary and closed, with no visible motion or activity?",
+      "Is the wall clock visible and showing a steady, unmoving position of its hands?",
+      "Are there no visible signs of motion or activity in the living room, suggesting a calm and still environment?"
+    ]
+  },
+  {
+    "prompt_en": "Inside the factory workshop, large machines continuously hummed, while conveyor belts emitted a steady, low friction noise as they operated rhythmically.",
+    "prompt_vision": "Inside a factory workshop with large machines and operating conveyor belts.",
+    "prompt_audio": "Continuous humming of large machines and steady, low friction noise from rhythmic conveyor belts.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a continuous humming sound from large machines throughout the scene?",
+      "Is there a steady, low friction noise from conveyor belts that matches their rhythmic operation?",
+      "Are the sounds of the machines and conveyor belts synchronized with any visible movement in the video?",
+      "Is the volume of the humming sound from the machines consistent with their described size and continuous operation?",
+      "Can the audio convey a sense of mechanical activity without any unexpected loud noises or distortions?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there large machines visible inside the factory workshop?",
+      "Can conveyor belts be seen operating in a rhythmic manner?",
+      "Is there visible motion of objects or materials on the conveyor belts?",
+      "Are the large machines stationary while appearing to be actively functioning?",
+      "Does the factory workshop setting include industrial equipment consistent with a manufacturing environment?"
+    ]
+  },
+  {
+    "prompt_en": "The treadmills hummed in the gym, and the weight plates clinked with crisp metallic sounds.",
+    "prompt_vision": "Treadmills and weight plates in a gym",
+    "prompt_audio": "Humming treadmills and crisp metallic clinking of weight plates",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a continuous humming sound that matches the operation of treadmills?",
+      "Are there crisp metallic clinking sounds present that align with weight plates being used?",
+      "Is the humming sound consistent in pitch and volume throughout the treadmill operation?",
+      "Is Do the metallic clinking sounds vary in timing, suggesting intermittent use of weight plates?",
+      "Can the audio distinguish between the treadmill humming and the clinking sounds without distortion or overlap?"
+    ],
+    "auxiliary_info_vision": [
+      "Are the treadmills visibly moving with their belts in motion?",
+      "Is there at least one person using a treadmill, suggesting leg motion?",
+      "Are there weight plates visible, possibly being lifted or moved?",
+      "Can the weight plates be seen clinking together, indicating contact?",
+      "Is there a visible gym setting with exercise equipment present?",
+      "Are the treadmills and weight plates positioned in a gym-like environment?",
+      "Is there a sense of activity or motion in the gym scene, such as people exercising?"
+    ]
+  },
+  {
+    "prompt_en": "The ball rolled down the bowling lane with a dull rumble, and crashed into the pins with a loud bang.",
+    "prompt_vision": "A ball rolling down a bowling lane and colliding with pins at the end.",
+    "prompt_audio": "Dull rumble followed by a loud bang.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a dull rumble sound when the ball rolls down the lane?",
+      "Is there a loud bang sound when the ball crashes into the pins?",
+      "Are the sounds synchronized with the visual movement of the ball rolling and hitting the pins?",
+      "Is the rumble sound continuous as the ball moves down the lane?",
+      "Does the loud bang occur immediately after the ball reaches the pins?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a ball visible rolling down the bowling lane?",
+      "Does the ball appear to be in motion along the lane?",
+      "Are there pins visible at the end of the bowling lane?",
+      "Does the ball make contact with the pins at the end of the lane?",
+      "Are the pins visibly falling or scattering upon impact with the ball?"
+    ]
+  },
+  {
+    "prompt_en": "Children screamed and splashed in the indoor pool, and all the sounds reverberated noticeably among the wet walls.",
+    "prompt_vision": "Children playing and splashing in an indoor pool with wet walls.",
+    "prompt_audio": "Children screaming and splashing sounds reverberating in an enclosed space.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the sound of children screaming?",
+      "Are there splashing sounds present in the audio?",
+      "Can the reverberation of sounds be heard in the audio, indicating an indoor environment?",
+      "Is there a noticeable echo effect in the audio that suggests the presence of wet walls?",
+      "Are the sounds of children and splashing synchronized with the visual actions in the video?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there visible water splashing in the pool area?",
+      "Are there children visibly present in or around the pool?",
+      "Can the children be seen with expressions that suggest they are screaming, such as open mouths?",
+      "Is the pool area visibly indoors, with walls enclosing the space?",
+      "Are there visible reflections or wet surfaces on the walls indicating moisture?"
+    ]
+  },
+  {
+    "prompt_en": "The 24-hour convenience store was empty, the refrigerated display hummed continuously, and the fluorescent lights emitted a faint electrical buzz.",
+    "prompt_vision": "An empty 24-hour convenience store with refrigerated displays and fluorescent lights.",
+    "prompt_audio": "Continuous humming from refrigerated displays and a faint electrical buzz from fluorescent lights.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a continuous humming sound from the refrigerated display throughout the scene?",
+      "Are the fluorescent lights accompanied by a faint electrical buzzing sound?",
+      "Is the overall sound environment consistent with an empty convenience store, with no prominent human or activity noises?",
+      "Can the humming and buzzing sounds be distinguished from each other in terms of their frequency or timbre?",
+      "Is the audio free of unexpected or extraneous noises that would contradict the described quietness of the empty store?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the convenience store visibly empty, with no people present?",
+      "Does the refrigerated display appear to be on, with visible condensation or frost on the glass?",
+      "Are the fluorescent lights visibly on, casting a bright, even light throughout the store?",
+      "Can the refrigerated display be seen with products inside, such as drinks or snacks?",
+      "Are the shelves in the convenience store visibly stocked with various items?",
+      "Is there a visible checkout counter or cashier area in the convenience store?",
+      "Are the aisles in the convenience store clearly defined and unobstructed?"
+    ]
+  },
+  {
+    "prompt_en": "A luxurious hotel lobby plays soft piano music, while suitcase wheels quietly roll across the marble floor.",
+    "prompt_vision": "A luxurious hotel lobby with marble floors and suitcases being wheeled across.",
+    "prompt_audio": "Soft piano music playing, quiet rolling sounds of suitcase wheels on a hard surface.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there soft piano music playing in the background of the hotel lobby scene?",
+      "Are the suitcase wheels audibly rolling across the marble floor with a quiet sound?",
+      "Does the piano music maintain a consistent soft volume throughout the scene?",
+      "Can the sound of suitcase wheels be heard without overpowering the piano music?",
+      "Is the piano music free from distortion or noise?",
+      "Are the suitcase wheel sounds synchronized with the visual movement of the suitcases across the floor?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visible marble floor in the hotel lobby?",
+      "Are there suitcases with visible wheels in the scene?",
+      "Can the suitcase wheels be seen rolling across the floor?",
+      "Are there visual elements indicating the lobby is luxurious, such as ornate furniture or decorations?",
+      "Is the lighting in the lobby soft and evenly distributed?"
+    ]
+  },
+  {
+    "prompt_en": "Before the movie starts, the audience whispers quietly, and the sound of popcorn bags being torn open creates a rustling noise.",
+    "prompt_vision": "Audience sitting in a movie theater before the film begins, some holding popcorn bags.",
+    "prompt_audio": "Quiet whispering and rustling sounds of popcorn bags being opened.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of whispers from the audience quiet and subdued before the movie starts?",
+      "Does the audio include rustling noises from popcorn bags being torn open?",
+      "Are the whispers and rustling noises occurring simultaneously before the movie starts?",
+      "Can the rustling noise from popcorn bags be distinctly heard amidst the whispers?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the audience seated in a theater setting?",
+      "Are people in the audience holding popcorn bags?",
+      "Does the image show people whispering with mouths close to each other's ears?",
+      "Are there visible popcorn bags being torn open?",
+      "Is there a visible rustling motion associated with the popcorn bags?"
+    ]
+  },
+  {
+    "prompt_en": "The bar was filled with the low-frequency vibrations of music, mingling with the clinking of glasses and the din of the crowd.",
+    "prompt_vision": "A crowded bar with people holding glasses, dim lighting, and a visible sound system or DJ setup.",
+    "prompt_audio": "Low-frequency music vibrations, clinking glasses, and a loud, indistinct crowd din.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include low-frequency vibrations consistent with music playing in a bar setting?",
+      "Are there audible clinking sounds of glasses that match the described bar environment?",
+      "Can the low-frequency music, glass clinking, and crowd noise coexist without significant distortion or interference?",
+      "Are the sound levels of the music, glass clinking, and crowd noise balanced to reflect a typical bar atmosphere?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there visible movement of people suggesting a crowded environment?",
+      "Are there glasses visible that appear to be clinking together?",
+      "Can the lighting in the bar be seen as dim or atmospheric, typical of a bar setting?",
+      "Are there visible speakers or sound equipment that might be producing music vibrations?",
+      "Is there a visible bar counter where drinks might be served?",
+      "Are people visibly engaged in conversation or socializing, suggesting a lively atmosphere?",
+      "Does the scene include people holding or drinking from glasses?"
+    ]
+  },
+  {
+    "prompt_en": "As soon as the class ended, the classroom erupted with students making loud noises and the screeching sound of desks and chairs being dragged.",
+    "prompt_vision": "Students quickly leaving a classroom, moving desks and chairs.",
+    "prompt_audio": "Loud student chatter and screeching sounds of desks and chairs being dragged.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include loud noises from students immediately after the class ends?",
+      "Is there a screeching sound of desks being dragged in the audio?",
+      "Can the sound of chairs being dragged be heard clearly in the audio?",
+      "Are the loud noises from students synchronized with the end of the class in the video?",
+      "Is the energy level of the audio high to match the described eruption of noise?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there visible movement of students in the classroom?",
+      "Are desks and chairs visibly being dragged across the floor?",
+      "Can students be seen making gestures or expressions that suggest speaking or shouting?",
+      "Is there a noticeable change in the arrangement of desks and chairs compared to a typical classroom setup?",
+      "Are students' facial expressions consistent with excitement or activity?",
+      "Is there visible interaction between students, such as talking or gesturing to each other?"
+    ]
+  },
+  {
+    "prompt_en": "In the kitchen, the range hood hummed, the hot oil in the pan sizzled, and the chef's knife chopped vegetables in a crisp, rhythmic beat.",
+    "prompt_vision": "A chef chopping vegetables in a kitchen with a range hood and a pan of hot oil on the stove.",
+    "prompt_audio": "Humming range hood, sizzling hot oil, crisp rhythmic chopping of vegetables.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a continuous humming sound from the range hood?",
+      "Is there a sizzling sound from the hot oil in the pan?",
+      "Can the chopping of vegetables be heard with a crisp, rhythmic beat?",
+      "Are the sounds of the range hood, sizzling oil, and chopping knife synchronized with the visual actions?",
+      "Is the volume of the range hood humming consistent throughout the scene?",
+      "Does the sizzling sound maintain a steady frequency or pitch?",
+      "Are the chopping sounds distinct and clear without distortion or noise?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a range hood visible in the kitchen scene?",
+      "Does the range hood appear to be turned on, suggesting it is humming?",
+      "Is there a pan with hot oil visible, indicating sizzling?",
+      "Are vegetables being chopped with a chef's knife visible in the scene?",
+      "Is the chopping action depicted as rhythmic, with consistent spacing between knife movements?",
+      "Are the vegetables visibly being cut into smaller pieces?",
+      "Is the chef's knife shown in motion, suggesting active chopping?"
+    ]
+  },
+  {
+    "prompt_en": "The department store's PA system continuously played promotional announcements, intertwined with the sounds of escalators and people's footsteps.",
+    "prompt_vision": "A busy department store interior with escalators and people walking.",
+    "prompt_audio": "Continuous promotional announcements over a PA system, mixed with the mechanical hum of escalators and the sound of footsteps.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Are the sounds of escalators present and consistent with their operation?",
+      "Can the footsteps of people be heard distinctly and match the expected activity level in a department store?",
+      "Are the promotional announcements free of distortion or noise that would interfere with intelligibility?",
+      "Is Do the footsteps vary in timing and intensity to reflect movement of multiple individuals?",
+      "Is the overall audio mix balanced, ensuring no single sound source overwhelms the others?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there visible escalators in the department store scene?",
+      "Can you see people walking or standing near the escalators?",
+      "Is there a visible PA system or speakers in the department store?",
+      "Are the people in the scene visibly moving, indicating footsteps?",
+      "Does the department store have visible promotional signs or banners?"
+    ]
+  },
+  {
+    "prompt_en": "In the underground parking garage, the lingering sound of a car engine after it was turned off and the distant noise of a door closing echoed faintly among the concrete pillars.",
+    "prompt_vision": "Underground parking garage with concrete pillars, empty car with engine off",
+    "prompt_audio": "Lingering car engine sound after shutdown, distant door closing echo",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the lingering sound of the car engine fade gradually after it is turned off?",
+      "Is the distant noise of a door closing audible and followed by faint echoes among the concrete pillars?",
+      "Are the echoes of the car engine and door closing consistent with the acoustics of a concrete parking garage?",
+      "Is there an absence of prominent background noise that would contradict the described faint echoes?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visible car in the underground parking garage with no signs of motion, indicating the engine has been turned off?",
+      "Are there concrete pillars visible in the underground parking garage?",
+      "Does the scene show a closed door in the distance, suggesting the source of the faint noise described?",
+      "Is the lighting in the parking garage consistent with an underground setting, such as dim or artificial light sources?"
+    ]
+  },
+  {
+    "prompt_en": "In the elevator lobby of an office building, a soft \"ding\" signals the arrival of the elevator, followed by the sound of the doors sliding open and high heels clicking on the floor.",
+    "prompt_vision": "Elevator lobby of an office building with elevator doors opening and a person in high heels stepping out.",
+    "prompt_audio": "Soft 'ding', elevator doors sliding open, high heels clicking on the floor",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a soft 'ding' sound when the elevator arrives?",
+      "Is there a sound of doors sliding open immediately after the 'ding' sound?",
+      "Can you hear the sound of high heels clicking on the floor after the elevator doors open?",
+      "Is the 'ding' sound followed by a brief pause before the doors slide open?",
+      "Are the high heel clicks audible and distinct after the elevator doors have opened?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there an elevator with doors visibly open in the lobby scene?",
+      "Are the elevator doors positioned in a way that suggests they have just slid open?",
+      "Can high-heeled shoes be seen on a person walking in the lobby?",
+      "Are the high heels visually depicted as making contact with the floor?",
+      "Is the lobby visually identifiable as part of an office building, such as through typical design elements like clean lines or professional decor?"
+    ]
+  },
+  {
+    "prompt_en": "In the early morning of a city apartment, the faint sounds of pans clinking and vendors calling out from the breakfast stall downstairs could be heard through the window.",
+    "prompt_vision": "Early morning in a city apartment with an open window overlooking a street with breakfast stalls.",
+    "prompt_audio": "Faint clinking of pans and distant vendors calling out from a breakfast stall.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a faint sound of pans clinking in the audio matching the described early morning scene?",
+      "Can the audio include faint vendor calls that are consistent with a breakfast stall downstairs?",
+      "Does the audio suggest the sounds are coming from outside the apartment, as implied by being heard through the window?",
+      "Is there an absence of prominent or loud noises that would contradict the described faint morning sounds?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a window visible in the city apartment scene?",
+      "Are there pans present in the scene, suggesting clinking sounds?",
+      "Can the lighting in the scene indicate early morning, such as soft or diffused light?",
+      "Are there visible vendors or stalls outside the window in the city apartment scene?",
+      "Does the scene include visual elements that suggest a city apartment, such as buildings or urban structures visible through the window?"
+    ]
+  },
+  {
+    "prompt_en": "At a convenience store late at night, the automatic door slides open with a \"whoosh,\" triggering an electronic welcome message as a customer enters.",
+    "prompt_vision": "A convenience store interior at night, automatic sliding doors opening as a customer enters.",
+    "prompt_audio": "Whoosh of sliding doors followed by an electronic welcome message.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a 'whoosh' sound when the automatic door slides open?",
+      "Is there an electronic welcome message audible immediately after the door opens?",
+      "Is the timing of the 'whoosh' sound synchronized with the visual action of the door sliding open?",
+      "Is the electronic welcome message clearly audible and distinct from other sounds?",
+      "Does the audio maintain a consistent volume level between the 'whoosh' sound and the welcome message?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the automatic door visibly sliding open in the image or video?",
+      "Does the scene depict a convenience store interior or entrance?",
+      "Is the lighting consistent with a late-night setting, such as dim or artificial light?",
+      "Can the customer be seen entering through the automatic door?",
+      "Are there visible elements indicating the store is open, such as illuminated signage or an open door?"
+    ]
+  },
+  {
+    "prompt_en": "In the office break room, the water dispenser made a \"gulping\" sound as it filled, followed by the rustle of a paper cup being picked up.",
+    "prompt_vision": "In an office break room, a water dispenser is filling a paper cup, which is then picked up.",
+    "prompt_audio": "Gulping sound of a water dispenser filling, followed by the rustle of a paper cup being picked up.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a 'gulping' sound when the water dispenser fills?",
+      "Is there a rustling sound when the paper cup is picked up?",
+      "Can the 'gulping' sound be heard before the rustling sound of the paper cup?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a water dispenser visible in the scene?",
+      "Is there a paper cup being held or picked up by a person?",
+      "Can the water dispenser be seen with water flowing into a container or cup?",
+      "Are there visible signs of water movement, such as bubbles or ripples, in the dispenser?",
+      "Is the paper cup visibly made of paper, with a typical disposable cup appearance?"
+    ]
+  },
+  {
+    "prompt_en": "At the subway station gate, passengers swipe their tickets, making a \"beep\" sound as they pass through, mingled with the sounds of backpack zippers and hurried footsteps.",
+    "prompt_vision": "Passengers swiping tickets at a subway station gate, wearing backpacks, moving quickly through the turnstile.",
+    "prompt_audio": "Beeping sounds from ticket scanners, zipping backpacks, and hurried footsteps.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a 'beep' sound when passengers swipe their tickets at the subway station gate?",
+      "Are the sounds of backpack zippers audible as passengers pass through the gate?",
+      "Can hurried footsteps be heard in the audio as passengers move through the subway station gate?",
+      "Is there a clear synchronization between the visual action of ticket swiping and the 'beep' sound?",
+      "Are the sounds of footsteps and zippers distinct and identifiable amidst the other audio elements?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there passengers visibly swiping tickets at the subway station gate?",
+      "Is there a visible gate or turnstile that passengers pass through?",
+      "Can you see passengers carrying backpacks?",
+      "Are there passengers depicted in motion, suggesting hurried footsteps?",
+      "Is there a visible action of passengers moving past the gate after swiping their tickets?"
+    ]
+  },
+  {
+    "prompt_en": "City apartment bathroom, shower water hitting the tiled floor, the moisture in the air giving the sound a slightly muffled and reverberant quality.",
+    "prompt_vision": "City apartment bathroom with tiled floor, shower running, steam rising in the air.",
+    "prompt_audio": "Shower water hitting tiled floor, slightly muffled and reverberant due to moisture in the air.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of shower water hitting the tiled floor present in the audio?",
+      "Does the audio have a slightly muffled quality, suggesting moisture in the air?",
+      "Is there a reverberant effect in the audio, consistent with a bathroom setting?",
+      "Are the sounds of water consistent with a shower, rather than another water source?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there visible water hitting the tiled floor of the shower?",
+      "Are the tiles on the bathroom floor clearly visible?",
+      "Can the moisture in the air be inferred from the appearance of condensation or steam?",
+      "Is the showerhead visible in the scene?",
+      "Are there visible droplets or splashes of water on the tiles?",
+      "Is the lighting in the bathroom consistent with an indoor setting?",
+      "Are the tiles arranged in a typical grid pattern on the floor?"
+    ]
+  },
+  {
+    "prompt_en": "In a corner of a shared office space, a person is taking a call while speaking in a hushed voice, with the constant low hum of an air conditioner in the background.",
+    "prompt_vision": "A person in a shared office space, speaking on a phone call in a corner, with an air conditioner visible in the background.",
+    "prompt_audio": "Hushed voice speaking on a call, with a constant low hum of an air conditioner in the background.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the person's voice hushed and quiet during the call?",
+      "Does the audio include the constant low hum of an air conditioner in the background?",
+      "Can the person's speech be heard clearly despite the hushed tone?",
+      "Are the sounds of the air conditioner and the person's voice balanced in volume, with neither overpowering the other?",
+      "Is there an absence of other prominent noises that would disrupt the quiet office atmosphere?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the person visibly holding or wearing a device that indicates they are on a call, such as a phone or headset?",
+      "Is the person positioned in a corner of the office space?",
+      "Is the person's mouth visibly moving to indicate they are speaking?",
+      "Are other objects or furniture typical of an office space, such as desks or chairs, visible in the background?",
+      "Is the person’s facial expression neutral or focused, without exaggerated emotions?"
+    ]
+  },
+  {
+    "prompt_en": "In the old barbershop in the city, the electric clipper buzzes, occasionally interrupted by the clicking sound of scissors opening and closing.",
+    "prompt_vision": "An old barbershop in the city with a barber using electric clippers and scissors.",
+    "prompt_audio": "Electric clipper buzzing with occasional clicking sounds of scissors opening and closing.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the electric clipper produce a continuous buzzing sound?",
+      "Are there occasional clicking sounds from scissors opening and closing?",
+      "Is the buzzing sound from the electric clipper consistent in pitch?",
+      "Can the clicking sounds of the scissors be heard distinctly over the buzzing of the clipper?",
+      "Is there a clear distinction between the buzzing sound and the clicking sound in terms of timbre?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there an electric clipper visible in the barbershop scene?",
+      "Are scissors visible in the barbershop scene?",
+      "Is the electric clipper shown in a state of operation, such as being held or near a person's head?",
+      "Are the scissors depicted in a position that suggests they are being used, such as near hair or in a hand?",
+      "Is there a person present in the barbershop scene, possibly receiving a haircut?",
+      "Is the interior of the barbershop depicted with typical elements like chairs, mirrors, or barber poles?",
+      "Are there visible hair clippings on the floor or surfaces, suggesting recent haircuts?"
+    ]
+  },
+  {
+    "prompt_en": "In the late-night office building's overtime area, the sound of keyboard typing is sparse and intermittent, and the coffee cup is gently placed on the desk with a soft \"click.\"",
+    "prompt_vision": "Late-night office building overtime area with a coffee cup being gently placed on a desk next to a keyboard.",
+    "prompt_audio": "Sparse and intermittent keyboard typing sounds, followed by a soft click as a coffee cup is set down.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a soft 'click' sound when the coffee cup is gently placed on the desk?",
+      "Can the typing sounds be heard clearly without excessive background noise or distortion?",
+      "Are the typing sounds consistent with the expected frequency and volume for a late-night office environment?",
+      "Is the sound of the coffee cup placement distinct and not overshadowed by other noises?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a coffee cup visibly placed on the desk?",
+      "Is the office building depicted with low lighting, suggesting a late-night setting?",
+      "Are there visible keyboards on desks, suggesting typing activity?",
+      "Are the desks in the overtime area arranged in a typical office layout?",
+      "Is there a visible absence of people actively typing, suggesting sparse activity?"
+    ]
+  },
+  {
+    "prompt_en": "In a city apartment kitchen in the morning, the toaster pops up with a \"ding,\" followed by the rustling sound of spreading butter on bread.",
+    "prompt_vision": "A toaster in a city apartment kitchen pops up, and a hand spreads butter on toast.",
+    "prompt_audio": "Ding, followed by the rustling sound of spreading butter on bread.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a 'ding' sound when the toaster pops up?",
+      "Does the sound of spreading butter on bread follow the toaster's 'ding' sound?",
+      "Can the rustling sound of spreading butter on bread be heard clearly after the toaster pops up?",
+      "Is the sequence of sounds consistent with the described actions in the kitchen?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a toaster visible in the kitchen scene?",
+      "Does the toaster appear to have popped up bread?",
+      "Is there visible butter being spread on a slice of bread?",
+      "Are the kitchen surroundings consistent with a city apartment setting?",
+      "Is the lighting in the scene consistent with morning light?"
+    ]
+  },
+  {
+    "prompt_en": "City apartment balcony, the traffic noise from the street below muffled by the glass window, an occasional horn piercing through.",
+    "prompt_vision": "City apartment balcony with a closed glass window separating it from the street below.",
+    "prompt_audio": "Muffled traffic noise with occasional sharp horn sounds piercing through.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the traffic noise from the street below audibly muffled by the glass window?",
+      "Does an occasional horn sound pierce through the muffled traffic noise?",
+      "Is the overall sound environment consistent with a city apartment balcony setting?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visible glass window on the balcony?",
+      "Are there any vehicles visible on the street below the balcony?",
+      "Is the balcony part of a city apartment building?",
+      "Is the street below the balcony visible from the perspective of the balcony?",
+      "Are there any signs of traffic, such as cars or buses, on the street below?",
+      "Is the balcony railing visible in the scene?"
+    ]
+  },
+  {
+    "prompt_en": "In the photocopy room of an office building, the copier hums and clicks as it operates, emitting a light, crisp friction sound when paper is ejected.",
+    "prompt_vision": "A photocopy room in an office building with a copier operating and ejecting paper.",
+    "prompt_audio": "The copier hums and clicks, emitting a light, crisp friction sound as paper is ejected.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a humming sound from the copier while it operates?",
+      "Are there clicking sounds present during the operation of the copier?",
+      "Can a light, crisp friction sound be heard when the paper is ejected from the copier?",
+      "Is the humming sound continuous throughout the copier's operation?",
+      "Are the clicking sounds synchronized with the copier's operational actions?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a photocopy machine visible in the room?",
+      "Are sheets of paper visibly being ejected from the copier?",
+      "Does the copier appear to be in operation, with visible movement or activity?",
+      "Is there a visible light source illuminating the copier or the room?",
+      "Are there any visible buttons or controls on the copier?",
+      "Is the paper being ejected from the copier visibly crisp and flat?"
+    ]
+  },
+  {
+    "prompt_en": "In the city's old-fashioned telephone booth, a coin dropped with a \"clink,\" and after the dial clicked around, a busy signal was connected.",
+    "prompt_vision": "An old-fashioned telephone booth in a city, with a coin inside the slot and a rotary dial phone.",
+    "prompt_audio": "A coin dropping with a 'clink', followed by the clicking sound of a rotary dial turning, then a busy signal tone.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a distinct 'clink' sound when the coin is dropped in the telephone booth?",
+      "Does the audio include the sound of the dial clicking around as it is turned?",
+      "Is there a busy signal sound after the dialing is complete?",
+      "Are the sounds of the coin drop, dial clicking, and busy signal clearly distinguishable from each other?",
+      "Is the busy signal sound consistent with typical telephone busy signals in terms of frequency and pattern?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a telephone booth visible in the image or video?",
+      "Does the telephone booth have an old-fashioned design?",
+      "Can a coin be seen dropping into the telephone booth?",
+      "Is there a visible dial on the telephone booth's phone?",
+      "Are the dial's numbers or symbols visible as it clicks around?",
+      "Is there any indication of a busy signal being connected, such as a light or display on the phone?"
+    ]
+  },
+  {
+    "prompt_en": "In the dead of night, the fire exit door of an office building creaks open, and footsteps echo in the stairwell.",
+    "prompt_vision": "Fire exit door of an office building opening at night, empty stairwell",
+    "prompt_audio": "Creaking door followed by echoing footsteps in a stairwell",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the sound of a door creaking open when the fire exit door is described as opening?",
+      "Are the footsteps audible and echoing in the stairwell after the door creaks open?",
+      "Is there a noticeable absence of other prominent sounds, suggesting the quietness of night?",
+      "Can the sound of footsteps be heard immediately following the creaking of the door, indicating a continuous sequence of actions?",
+      "Is the echo effect of the footsteps consistent with the acoustics of a stairwell environment?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the fire exit door visibly open in the scene?",
+      "Does the lighting suggest it is nighttime, with minimal or no ambient light?",
+      "Can the footsteps be visually inferred through the motion of legs or shoes on the stairwell steps?",
+      "Are shadows or dim lighting visible near the fire exit door to emphasize the nighttime setting?",
+      "Is the stairwell depicted with visible steps and walls to suggest an enclosed space?",
+      "Does the fire exit door appear to be creaking, with a slightly ajar position or motion implied?"
+    ]
+  },
+  {
+    "prompt_en": "In the entrance of a city apartment, the key turns in the lock with a \"click,\" followed by the sound of the door being pushed open.",
+    "prompt_vision": "A person turning a key in the lock of an apartment door in a city entrance, then pushing the door open.",
+    "prompt_audio": "A metallic click followed by the creaking sound of a door being pushed open.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the sound of a key turning in the lock with a distinct 'click' noise?",
+      "Is there an audible sound of the door being pushed open immediately after the key click?",
+      "Can the sequence of sounds be heard clearly without distortion or noise interference?",
+      "Is the timing between the key click and the door opening sound consistent with a natural sequence of actions?",
+      "Are the sounds of the key click and door opening distinct and recognizable in the audio?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a door visible in the entrance of the city apartment?",
+      "Does the door appear to have a lock mechanism visible on it?",
+      "Is the door shown in a partially open or fully open position after being pushed?",
+      "Can the key be seen inserted into the lock of the door?",
+      "Are the hinges or edges of the door visible as it is being pushed open?"
+    ]
+  },
+  {
+    "prompt_en": "In the office conference room after the meeting, chairs were pushed back with a screech, mingling with the rustling sound of gathering up documents.",
+    "prompt_vision": "Chairs pushed back in an office conference room, people gathering documents.",
+    "prompt_audio": "Screeching chairs mingling with rustling papers.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a screeching sound when chairs are pushed back in the conference room?",
+      "Does the audio include the rustling sound of documents being gathered?",
+      "Can the screeching of chairs and rustling of documents be heard simultaneously?",
+      "Are the sounds of chairs and documents distinct and identifiable?"
+    ],
+    "auxiliary_info_vision": [
+      "Are the chairs visibly pushed back from the conference table?",
+      "Is there a visible pile or stack of documents on the table or in someone's hands?",
+      "Can the chairs be seen in a position that suggests they were recently moved?",
+      "Are there people in the room who appear to be gathering documents?",
+      "Is the lighting in the room consistent with an indoor office setting?"
+    ]
+  },
+  {
+    "prompt_en": "In the apartment building's hallway, a neighbor's door slammed shut with a muffled thud, followed by the elevator's \"ding\" indicating its arrival.",
+    "prompt_vision": "An apartment building hallway with a closed neighbor's door and an elevator with illuminated floor indicator.",
+    "prompt_audio": "A muffled thud of a door slamming shut, followed by a clear 'ding' sound from an elevator signaling its arrival.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a muffled thud sound when the neighbor's door slams shut?",
+      "Is there a 'ding' sound indicating the elevator's arrival after the door slam?",
+      "Is the timing of the 'ding' sound immediately following the muffled thud of the door slam?",
+      "Can the muffled thud of the door slam be distinguished from other potential hallway noises?",
+      "Is the 'ding' sound clear and distinct, matching the typical sound of an elevator arrival?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a door visibly closed with a sense of motion or impact suggesting it was slammed shut?",
+      "Does the door appear to be part of a hallway in an apartment building setting?",
+      "Is there an elevator visible in the hallway with its doors open or about to open, indicating its arrival?",
+      "Can the elevator's arrival be inferred visually, such as through illuminated indicators or open doors?",
+      "Are the lighting conditions consistent with an indoor hallway environment?"
+    ]
+  }
+]

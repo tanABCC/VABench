@@ -1,0 +1,1360 @@
+[
+  {
+    "prompt_en": "As a train approaches at high speed, its horn sounds noticeably higher in pitch, then quickly drops after passing by. This occurs because the motion of the sound source compresses or stretches the sound waves in the air, changing the frequency received by the human ear.",
+    "prompt_vision": "A train moving at high speed approaching and then passing by an observer.",
+    "prompt_audio": "Train horn sounding with a noticeably high pitch as it approaches, then rapidly dropping in pitch as it moves away.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio accurately reflect the train horn sounding higher in pitch as it approaches?",
+      "Is there a noticeable drop in pitch of the train horn after it passes by?",
+      "Can the change in pitch of the train horn be clearly perceived as the train moves past?",
+      "Is the sound of the train horn consistent with the Doppler effect described in the prompt?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the train visibly moving at high speed in the image or video?",
+      "Does the train appear to be approaching the viewer before passing by?",
+      "Can the train's horn be seen in the image or video?",
+      "Are the train's wheels visibly rotating as it moves?",
+      "Is there a visible change in the train's position indicating motion past the viewer?"
+    ]
+  },
+  {
+    "prompt_en": "When observing distant galaxies through a telescope, the characteristic spectral lines in their spectra are shifted toward the red end, indicating that the light source is moving away from the observer. This is evidence that the wavelength of light waves is being stretched by space.",
+    "prompt_vision": "distant galaxies observed through a telescope with spectral lines shifted toward the red end",
+    "prompt_audio": "soft ambient background sound",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the audio-visual model able to produce a sound that represents the stretching of light waves, such as a gradual shift in pitch from higher to lower frequencies?",
+      "Does the model synchronize the visual representation of spectral lines shifting toward the red end with a corresponding change in audio frequency?",
+      "Can the audio-visual model maintain a consistent sound source position that aligns with the visual depiction of distant galaxies moving away?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visible telescope in the scene?",
+      "Are distant galaxies visible in the image?",
+      "Does the image show spectral lines shifted toward the red end?",
+      "Is there a visual representation of light waves being stretched?",
+      "Are the galaxies depicted as moving away from the observer?"
+    ]
+  },
+  {
+    "prompt_en": "We see the bright flash of lightning in the distance before hearing the thunder, because light travels much faster than sound in air, and the time difference between their arrivals indicates how far away the lightning is.",
+    "prompt_vision": "Bright flash of lightning in the distance",
+    "prompt_audio": "Thunder rumbling after a delay",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the sound of thunder occur after the visual flash of lightning, with a noticeable time delay?",
+      "Is the thunder sound consistent with a deep, rumbling or booming timbre typically associated with lightning strikes?",
+      "Does the audio volume of the thunder decrease as the visual flash of lightning is described as being in the distance?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a bright flash of lightning visible in the distance?",
+      "Does the lightning appear to illuminate the surrounding area briefly?",
+      "Is the sky visibly dark or cloudy, suggesting a stormy atmosphere?",
+      "Are there no visible signs of immediate motion or activity in the scene after the lightning flash?",
+      "Is the lightning flash depicted as a sudden and intense burst of light?"
+    ]
+  },
+  {
+    "prompt_en": "When a supersonic aircraft passes by, it suddenly produces a loud boom. This is the result of a shock wave formed when the aircraft exceeds the speed of sound, violently compressing the air ahead and transmitting the wave to the ground where it is heard.",
+    "prompt_vision": "A supersonic aircraft flying through the sky, creating a visible shock wave cone around it.",
+    "prompt_audio": "A sudden, loud sonic boom caused by a shock wave from an aircraft exceeding the speed of sound.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a sudden loud boom when the supersonic aircraft passes by?",
+      "Is the loud boom synchronized with the visual depiction of the aircraft exceeding the speed of sound?",
+      "Can the loud boom be distinctly heard as originating from the position of the aircraft in the video?",
+      "Is the loud boom free from any unexpected noise or distortion that would obscure the shock wave sound?",
+      "Does the audio maintain a quiet or subdued background before the loud boom occurs, implying the suddenness of the event?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visible aircraft in the image or video?",
+      "Does the aircraft appear to be moving at high speed, suggesting supersonic travel?",
+      "Is there any visual indication of a shock wave, such as distortion or compression of air around the aircraft?",
+      "Are there any visible effects on the ground, such as dust or debris being disturbed, that suggest a loud boom has occurred?",
+      "Is the aircraft's nose pointed forward, indicating forward motion?"
+    ]
+  },
+  {
+    "prompt_en": "At the back of the concert hall, one sees the musicians plucking strings or hitting drums before hearing the sound, because sound takes time to travel, and the farther the distance, the more noticeable the delay.",
+    "prompt_vision": "Musicians plucking strings or hitting drums at the back of a concert hall",
+    "prompt_audio": "Delayed sound of string plucks and drum hits due to distance",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a noticeable delay between the visual action of musicians plucking strings and the corresponding sound being heard?",
+      "Does the audio include sounds of strings being plucked that match the visual actions of the musicians?",
+      "Are the sounds of drums being hit synchronized with the visual actions of the musicians, considering the expected delay due to distance?",
+      "Can the sound of plucking strings be distinctly heard after the visual action is observed, indicating the travel time of sound?",
+      "Will the sound of drums be heard after the visual action of hitting them, reflecting the delay caused by distance?"
+    ],
+    "auxiliary_info_vision": [
+      "Are the musicians visibly plucking strings or hitting drums in the image or video?",
+      "Is there a noticeable visual delay between the musicians' actions and any visible audience reactions?",
+      "Can the musicians be seen positioned at the back of the concert hall?",
+      "Are the musicians' hands visibly in motion, indicating the act of playing instruments?",
+      "Is there a clear visual indication of the musicians being engaged in their performance, such as focused expressions or body posture?",
+      "Are the instruments like strings and drums clearly visible in the scene?",
+      "Does the image or video show the musicians in a concert hall setting, as suggested by the prompt?"
+    ]
+  },
+  {
+    "prompt_en": "Shouting in an open valley, you can hear your voice repeated back after a delay. This is because sound waves reflect off distant obstacles, and when the reflected path is long enough, the human ear can distinguish between the original sound and the echo.",
+    "prompt_vision": "A person shouting in an open valley surrounded by distant cliffs or mountains.",
+    "prompt_audio": "A loud shout followed by a distinct echo after a short delay.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a noticeable delay between the original shout and the echo in the audio?",
+      "Does the echo have a similar timbre to the original shout, indicating it is a reflection of the same sound?",
+      "Can the echo be heard at a lower volume compared to the original shout, suggesting it has traveled a longer distance?",
+      "Is the echo clearly distinguishable from the original shout, allowing the listener to perceive it as a separate sound event?",
+      "Are there multiple echoes heard, indicating reflections from various distant obstacles in the valley?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a person depicted with an open mouth, suggesting they are shouting?",
+      "Are there visible distant obstacles in the valley that could reflect sound waves?",
+      "Does the image show a wide, open valley landscape?",
+      "Is the person positioned in a way that suggests they are facing the valley?",
+      "Can the lighting in the image suggest a clear day, allowing for visibility of the valley?",
+      "Are there visual cues indicating sound waves, such as lines or waves emanating from the person?",
+      "Is the person standing still, implying they are focused on listening to the echo?"
+    ]
+  },
+  {
+    "prompt_en": "When water boils, the kettle emits a continuous \"whistling\" sound, caused by periodic steam release and bubble bursts inside the spout, which vibrate the air.",
+    "prompt_vision": "A kettle on a stove with steam rising from its spout as water boils inside.",
+    "prompt_audio": "Continuous whistling sound caused by periodic steam release and bubble bursts",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the kettle emit a continuous whistling sound when the water boils?",
+      "Is the whistling sound characterized by periodic vibrations consistent with steam release and bubble bursts?",
+      "Can the whistling sound be heard clearly without distortion or excessive noise?",
+      "Are the pitch and frequency of the whistling sound consistent with the expected behavior of a boiling kettle?",
+      "Does the sound source position match the kettle's spout where the steam is released?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there visible steam coming out of the kettle's spout?",
+      "Are there bubbles visible inside the kettle?",
+      "Is the kettle's spout open to allow steam to escape?",
+      "Is the kettle positioned on a heat source, such as a stove?",
+      "Is the kettle's handle visible and positioned above the body of the kettle?"
+    ]
+  },
+  {
+    "prompt_en": "When water is poured into a glass, the pitch of the sound produced by tapping the glass wall gradually increases as the water level rises, because the air column inside the glass becomes shorter and its vibration frequency increases accordingly.",
+    "prompt_vision": "Water being poured into a glass, with the water level gradually rising.",
+    "prompt_audio": "Tapping sound on a glass with rising pitch as water fills it.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the sound of water pouring into the glass match the expected auditory characteristics, such as a gentle splashing or trickling sound?",
+      "Is there a noticeable increase in the pitch of the tapping sound as the water level in the glass rises?",
+      "Can the sound of tapping on the glass be clearly heard and distinguished from the sound of pouring water?",
+      "Are the changes in pitch of the tapping sound consistent with the expected increase in vibration frequency as the air column shortens?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there visible water being poured into a glass container?",
+      "Can the water level inside the glass be seen rising as more water is poured?",
+      "Is the glass container visibly transparent, allowing the water level to be seen?",
+      "Does the glass appear to be stationary, without any visible movement or shaking?",
+      "Is the water flow into the glass continuous, without any visible interruption?"
+    ]
+  },
+  {
+    "prompt_en": "When listening to a loudspeaker or horn from a distance, the sound is much quieter than up close, because as sound waves propagate, their energy spreads out in all directions, reducing the amount of acoustic energy received per unit area.",
+    "prompt_vision": "A loudspeaker or horn emitting sound waves that spread out spherically as they travel through the air.",
+    "prompt_audio": "Loudspeaker or horn sound that becomes progressively quieter with increasing distance due to spherical spreading of sound waves.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound from the loudspeaker or horn quieter in the audio when perceived from a distance compared to up close?",
+      "Does the audio demonstrate a decrease in volume as the distance from the sound source increases, consistent with the spreading of sound waves?",
+      "Can the audio capture the effect of reduced acoustic energy per unit area as the listener moves further from the loudspeaker or horn?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the loudspeaker or horn visible in the image or video?",
+      "Is the loudspeaker or horn positioned at a distance from the viewer?",
+      "Does the loudspeaker or horn appear stationary and not in motion?",
+      "Are sound waves visually represented as radiating outward from the loudspeaker or horn?",
+      "Is the loudspeaker or horn depicted as the source of the sound waves?",
+      "Are the sound waves shown diminishing in intensity as they move farther from the loudspeaker or horn?"
+    ]
+  },
+  {
+    "prompt_en": "Before or during a volcanic eruption, a continuous low rumbling can be heard from afar. This sound is caused by underground magma movement and gas release, which generate ground vibrations that propagate through the air as sound waves.",
+    "prompt_vision": "volcanic landscape with smoke or ash plume, possibly glowing lava",
+    "prompt_audio": "continuous low rumbling sound",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include low-frequency sounds that suggest underground magma movement and gas release?",
+      "Can the sound be perceived as coming from afar, indicating the distant nature of the volcanic activity?",
+      "Are the ground vibrations audibly represented in the sound waves, contributing to the overall rumbling effect?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there visible smoke or ash rising from the volcano?",
+      "Are there visible cracks or fissures on the ground near the volcano?",
+      "Is there visible magma or lava flowing from the volcano?",
+      "Are there visible vibrations or shaking of objects near the volcano?",
+      "Is there visible steam or gas being released from the volcano?",
+      "Are there visible rocks or debris being ejected from the volcano?",
+      "Is the sky near the volcano visibly darker due to ash or smoke?"
+    ]
+  },
+  {
+    "prompt_en": "When wind blows past wires, window cracks, or forests, it produces a \"whooshing\" or \"howling\" sound, resulting from vortices and turbulence created as air flows around obstacles, causing fluctuations in air pressure.",
+    "prompt_vision": "Wind blowing past wires, window cracks, or forests",
+    "prompt_audio": "whooshing or howling sound from wind-induced vortices and turbulence",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a 'whooshing' or 'howling' sound when wind blows past wires?",
+      "Does the audio include a 'whooshing' or 'howling' sound when wind blows past window cracks?",
+      "Does the audio include a 'whooshing' or 'howling' sound when wind blows through forests?",
+      "Are the 'whooshing' or 'howling' sounds consistent with fluctuations in air pressure caused by turbulence?",
+      "Can the audio convey variations in pitch or intensity that align with the described vortices and turbulence?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there visible movement of tree branches or leaves indicating wind blowing through a forest?",
+      "Are there visible vibrations or slight movements of wires due to the wind?",
+      "Can cracks in a window be seen, suggesting the wind is interacting with it?",
+      "Is there any visible bending or swaying of trees or plants, indicating the presence of wind?",
+      "Are there any visible distortions or movements in the air around the wires, suggesting turbulence?",
+      "Is there any visible dust or debris being carried by the wind, indicating its direction and presence?"
+    ]
+  },
+  {
+    "prompt_en": "Some high-frequency sounds are completely inaudible to the human ear, yet can be detected by animals or instruments, because the human ear has a limited range of frequency perception, and vibrations beyond this range cannot be recognized by the auditory system.",
+    "prompt_vision": "No visual content described.",
+    "prompt_audio": "High-frequency sounds beyond human hearing range, inaudible to humans but detectable by animals or instruments.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio correctly represent the absence of human-perceivable sounds when high-frequency vibrations are described?",
+      "Can the audio-visual model simulate the presence of high-frequency sounds in a way that is detectable by instruments but remains inaudible to humans?",
+      "Are there no distortions or noise in the audio that would suggest incorrect rendering of high-frequency sounds beyond human hearing range?",
+      "Will the audio remain silent or subdued when high-frequency sounds are described, ensuring they are outside human auditory perception?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visual representation of sound waves showing frequencies beyond the human audible range?",
+      "Are there visual indicators or annotations distinguishing human-audible frequencies from inaudible ones?",
+      "Can the image depict animals or instruments that are capable of detecting high-frequency sounds?",
+      "Are the vibrations or waveforms visually illustrated to indicate their frequency characteristics?",
+      "Is the concept of the human ear's limited frequency perception visually represented, such as through diagrams or charts?"
+    ]
+  },
+  {
+    "prompt_en": "When firecrackers explode, the flash is always seen before the sound is heard, because light travels much faster than sound, resulting in different travel times through air.",
+    "prompt_vision": "Firecrackers exploding with a visible flash of light",
+    "prompt_audio": "Loud bangs from firecrackers heard after a delay",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of the firecrackers heard after the flash is seen in the video?",
+      "Does the audio of the firecrackers match the expected timing delay after the visual flash?",
+      "Can the sound of the firecrackers be clearly identified as originating from the explosion seen in the video?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visible flash of light from the firecrackers exploding?",
+      "Are the firecrackers visibly exploding with sparks or bursts of light?",
+      "Does the flash of light appear before any visual indication of sound waves or vibrations?",
+      "Are the firecrackers shown in a state of explosion rather than being intact or unlit?",
+      "Is the light from the explosion bright and clearly visible in the scene?"
+    ]
+  },
+  {
+    "prompt_en": "When a glass cup shatters, it produces a crisp, loud \"crashing\" sound, which is the result of internal stress being released at the moment of fracture, causing rapid vibrations that propagate through the air as sound waves.",
+    "prompt_vision": "A glass cup shattering into pieces",
+    "prompt_audio": "Crisp, loud crashing sound of breaking glass",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a crisp, loud crashing sound at the moment the glass cup shatters?",
+      "Is the timbre of the crashing sound consistent with the expected vibrations of glass breaking?",
+      "Can the sound of the shattering glass be clearly distinguished from any background noise or distortion?",
+      "Are the vibrations from the glass shattering audible as rapid, sharp sound waves propagating immediately after the fracture?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visible glass cup in the process of shattering?",
+      "Are there visible fragments of glass spreading outward from the point of impact?",
+      "Does the image show the glass cup in a state of fracture with cracks visible?",
+      "Is there a clear depiction of the glass cup breaking apart into multiple pieces?",
+      "Are there visible signs of motion, such as blurred glass pieces, indicating the rapid movement of the fragments?",
+      "Is the glass cup shown in a state of disintegration, with pieces visibly separating from each other?"
+    ]
+  },
+  {
+    "prompt_en": "When a rocket launches, ground observers first see the flames and the ascending vehicle, then hear the loud roar several seconds later, because sound takes time to travel from high altitude back to the ground—the higher the altitude, the longer the delay.",
+    "prompt_vision": "Rocket launching with visible flames and ascending vehicle against the sky",
+    "prompt_audio": "Loud roaring sound of a rocket engine with a noticeable delay after visual launch",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a noticeable delay between the visual sighting of the rocket flames and the onset of the loud roar in the audio?",
+      "Does the audio feature a loud roar that matches the expected sound of a rocket launch after the visual cue?",
+      "Can the loud roar be heard clearly after the initial visual observation of the rocket ascending?",
+      "Is the timing of the loud roar consistent with the expected delay due to sound travel from high altitude?",
+      "Are the flames of the rocket visually synchronized with the eventual onset of the roar in the audio?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the rocket visibly ascending into the sky?",
+      "Are flames visible at the base of the rocket during launch?",
+      "Is there a visible separation between the rocket and the ground as it ascends?",
+      "Does the rocket appear to be moving upwards with visible motion trails or smoke?",
+      "Are the flames bright and intense, suggesting high energy release?",
+      "Is the rocket's body clearly visible and distinct from the flames?",
+      "Is there a visible contrast between the bright flames and the rocket's structure?"
+    ]
+  },
+  {
+    "prompt_en": "When watching fireworks, you see the light effects high in the sky first and then hear the explosion sound; sounds from farther away seem deeper because high-frequency components of sound waves attenuate more quickly during propagation.",
+    "prompt_vision": "Fireworks exploding high in the night sky with bright light effects",
+    "prompt_audio": "Distant explosion sounds with reduced high-frequency components, perceived as deeper booms",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the explosion sound follow the visual light effects with a noticeable delay, indicating the distance of the fireworks?",
+      "Are the explosion sounds deeper when they are farther away, reflecting the attenuation of high-frequency components?",
+      "Is there a clear synchronization between the timing of the visual fireworks and the subsequent sound of explosions?",
+      "Can the sound of the fireworks be heard distinctly without excessive noise or distortion?",
+      "Are the sounds of the fireworks positioned to match the visual location in the sky, creating a coherent audio-visual experience?"
+    ],
+    "auxiliary_info_vision": [
+      "Are the fireworks visually depicted as high in the sky?",
+      "Is there a visible sequence of light effects before any implied sound?",
+      "Can the fireworks be seen with bright, colorful explosions?",
+      "Are the fireworks' light effects shown as expanding outward from a central point?",
+      "Is there an absence of visible sound waves, focusing solely on the visual aspect of fireworks?"
+    ]
+  },
+  {
+    "prompt_en": "When an airplane flies overhead, the engine noise people hear seems to come from behind the aircraft, because sound travels slowly and by the time it reaches the listener, the plane has already moved to a new position.",
+    "prompt_vision": "An airplane flying overhead in the sky.",
+    "prompt_audio": "Airplane engine noise seeming to come from behind the aircraft.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the engine noise appear to originate from a position behind the airplane as it flies overhead?",
+      "Is there a noticeable delay between the visual position of the airplane and the perceived position of the engine noise?",
+      "Can the engine noise be heard continuously as the airplane moves across the sky?",
+      "Is the engine noise consistent with the typical sound of an airplane flying overhead in terms of volume and pitch?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the airplane depicted as flying overhead in the image or video?",
+      "Does the airplane appear to be moving forward in the visual content?",
+      "Can the airplane's engines be seen in the visual representation?",
+      "Are there visible signs of motion indicating the airplane is moving, such as blurred background or motion lines?",
+      "Is the airplane positioned ahead of where the sound source is visually indicated in the scene?"
+    ]
+  },
+  {
+    "prompt_en": "Placing an ear close to a railway track allows one to hear the sound of an approaching train earlier than through air, because solid media transmit sound waves faster and with less energy loss than air.",
+    "prompt_vision": "Person placing ear close to railway track",
+    "prompt_audio": "Distant rumbling train sound transmitted through rail",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the sound of an approaching train when the ear is close to the railway track?",
+      "Is the sound of the approaching train transmitted through the railway track audible before it is heard through the air?",
+      "Can the sound of the train be heard with a lower energy loss when transmitted through the railway track compared to through the air?",
+      "Is there a noticeable difference in the timing of the train sound when heard through the railway track versus through the air?",
+      "Are the sounds transmitted through the railway track characterized by a clearer or more direct quality compared to those through the air?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a person with their ear close to a railway track?",
+      "Is the railway track visible in the image?",
+      "Is the person positioned in a way that suggests they are listening to the track?",
+      "Are the person's facial features or expression indicating concentration or listening?",
+      "Is the railway track shown as a solid, continuous structure?",
+      "Is there an indication of an approaching train, such as visible rails extending into the distance?",
+      "Is the person's body positioned low to the ground, suggesting proximity to the track?"
+    ]
+  },
+  {
+    "prompt_en": "The pitch of a train's whistle is higher when approaching and lower when moving away, and the sound always seems \"slightly delayed\" compared to its visual position, because the motion of the source changes the frequency and sound propagation itself involves a delay.",
+    "prompt_vision": "A train moving along tracks, with its visual position not matching the perceived origin of its sound.",
+    "prompt_audio": "Train whistle with pitch shifting from higher to lower as it passes by, exhibiting a slight delay relative to the train's visual position.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the pitch of the train's whistle increase as it approaches the observer?",
+      "Does the pitch of the train's whistle decrease as it moves away from the observer?",
+      "Is there a noticeable delay between the visual position of the train and the sound of its whistle?",
+      "Can the change in pitch of the train's whistle be perceived as a continuous transition from high to low?",
+      "Are the sound propagation characteristics consistent with the described delay in relation to the train's visual position?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the train visually depicted as moving towards the viewer when the whistle's pitch is higher?",
+      "Is the train visually depicted as moving away from the viewer when the whistle's pitch is lower?",
+      "Does the train appear to be in motion, with visible movement of wheels or smoke from the chimney?",
+      "Is there a visible change in the train's position that corresponds with the change in whistle pitch?",
+      "Are there visual cues indicating the train's direction of motion, such as smoke trailing behind or motion blur?"
+    ]
+  },
+  {
+    "prompt_en": "When an explosion occurs underwater, people on shore first see intense water disturbances or a column of water rising, and then hear the muffled sound of the explosion. This is because sound travels faster in water than in air, but it takes longer for the sound to reach their ears through the air.",
+    "prompt_vision": "Underwater explosion causing a column of water to rise and intense water disturbances visible from shore",
+    "prompt_audio": "Muffled sound of an underwater explosion heard after a delay",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a muffled explosion sound after the visual of water disturbances or a column of water rising is seen?",
+      "Is the timing of the muffled explosion sound delayed relative to the visual cue of the water disturbance, reflecting the slower travel of sound through air?",
+      "Can the muffled explosion sound be clearly distinguished from other potential background noises, ensuring it is the prominent auditory element?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visible column of water rising from the underwater explosion?",
+      "Are there intense water disturbances visible near the site of the explosion?",
+      "Does the water column appear to be higher than the surrounding water surface?",
+      "Are people on the shore visible observing the water disturbances or column of water?",
+      "Is the explosion depicted as occurring underwater with no visible flames or smoke above the surface?"
+    ]
+  },
+  {
+    "prompt_en": "When a tuning fork vibrates, the sound is noticeably weakened or even disappears in certain directions because the sound waves emitted from both sides of the tuning fork interfere and cancel each other at specific angles, forming interference quiet zones.",
+    "prompt_vision": "A tuning fork vibrating in air, with no visible sound waves or interference patterns.",
+    "prompt_audio": "A tuning fork producing a pure tone that fades or disappears at certain angles due to destructive interference, creating quiet zones.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio exhibit noticeable weakening or disappearance of sound in certain directions when the tuning fork vibrates?",
+      "Is there an audible interference pattern where sound waves cancel each other out at specific angles around the tuning fork?",
+      "Can the sound from the tuning fork be heard more clearly in some directions compared to others, indicating interference quiet zones?",
+      "Are there moments when the sound from the tuning fork seems to fade or become inaudible due to interference?",
+      "Is the sound field around the tuning fork consistent with the expected interference pattern, with quiet zones at specific angles?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the tuning fork visibly vibrating in the image or video?",
+      "Are there visible interference quiet zones where the sound waves cancel each other out?",
+      "Does the tuning fork have two prongs that are clearly visible?",
+      "Is there a noticeable absence of sound wave depiction in certain directions around the tuning fork?",
+      "Are the prongs of the tuning fork shown in a position that suggests vibration?",
+      "Is the tuning fork depicted in a way that suggests sound emission from both sides?"
+    ]
+  },
+  {
+    "prompt_en": "Rubbing the rim of a wine glass with a wet finger produces a continuous, steady tone because the friction causes the glass walls to vibrate; these vibrations travel through the glass and the air, forming standing waves that generate a sound at a specific frequency.",
+    "prompt_vision": "A hand rubbing the rim of a wine glass with a wet finger.",
+    "prompt_audio": "A continuous, steady tone produced by rubbing a wine glass rim.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the frequency of the sound produced by the wine glass consistent throughout the audio?",
+      "Can the sound from the wine glass be heard clearly without distortion or noise?",
+      "Are the vibrations from the wine glass audible and sustained as expected when the rim is rubbed?",
+      "Does the sound from the wine glass maintain a consistent volume without abrupt changes?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a wine glass visible in the image or video?",
+      "Is a finger visibly in contact with the rim of the wine glass?",
+      "Does the finger appear wet, suggesting it has been moistened?",
+      "Is the wine glass shown vibrating or resonating, indicating friction-induced motion?",
+      "Are the glass walls visibly vibrating or showing signs of movement?",
+      "Is the wine glass stationary, implying no large-scale movement or displacement?",
+      "Is the finger positioned in a way that suggests it is rubbing the rim of the glass?"
+    ]
+  },
+  {
+    "prompt_en": "When a water droplet falls on a very hot metal surface, it does not evaporate immediately. Instead, it forms a bead that quickly skims across the surface with a hissing sound. This occurs because the bottom of the droplet instantly vaporizes, forming a layer of steam that supports the droplet and slows down heat transfer.",
+    "prompt_vision": "A water droplet forms a bead and skims rapidly across a very hot metal surface.",
+    "prompt_audio": "Hissing sound",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a hissing sound when the water droplet skims across the hot metal surface?",
+      "Is there a sound indicating the initial impact of the water droplet on the metal surface?",
+      "Can the hissing sound be heard continuously as the droplet moves across the surface?",
+      "Is the hissing sound consistent with the expected behavior of steam formation beneath the droplet?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visible water droplet on the metal surface?",
+      "Does the water droplet appear as a bead shape?",
+      "Is the metal surface visibly hot, indicated by steam or heat waves?",
+      "Can the water droplet be seen skimming across the metal surface?",
+      "Is there visible steam beneath the droplet supporting it?"
+    ]
+  },
+  {
+    "prompt_en": "When a liquid in a sealed container is heated and pressurized to its critical state, the gas-liquid interface suddenly disappears, accompanied by a low rumbling sound, because the substance enters a supercritical state where intense density fluctuations generate pressure waves.",
+    "prompt_vision": "A sealed container with a liquid being heated until the gas-liquid interface vanishes as it reaches its critical point.",
+    "prompt_audio": "Low rumbling sound caused by intense density fluctuations generating pressure waves in a supercritical fluid.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a low rumbling sound when the liquid reaches its critical state?",
+      "Is there a noticeable change in sound that corresponds with the disappearance of the gas-liquid interface?",
+      "Can the audio capture the transition to a supercritical state with pressure waves indicated by sound fluctuations?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a sealed container visible in the image or video?",
+      "Does the container appear to be heated, indicated by visual cues such as steam or heat waves?",
+      "Is there any visible change in the liquid level or interface within the container?",
+      "Can the disappearance of the gas-liquid interface be observed?",
+      "Are there any visible signs of pressure, such as bulging or deformation of the container?",
+      "Is there any visual indication of density fluctuations, such as swirling or turbulent patterns within the container?",
+      "Are there any visible pressure waves or disturbances in the surrounding area of the container?"
+    ]
+  },
+  {
+    "prompt_en": "When a propeller rotates at high speed in water, it emits a \"hissing\" or \"clicking\" sound. This occurs because the drop in pressure on the back side of the blades forms bubbles, which then move with the water flow to high-pressure regions and collapse rapidly, generating noise.",
+    "prompt_vision": "A propeller rotating rapidly underwater, with small bubbles forming on the back side of the blades and collapsing as they move through the water flow.",
+    "prompt_audio": "Hissing and clicking sounds caused by cavitation bubbles collapsing near a high-speed underwater propeller.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a hissing sound when the propeller rotates at high speed in water?",
+      "Is there a clicking sound present in the audio when the propeller is in motion?",
+      "Can the sound of bubbles collapsing be heard as the propeller rotates in the water?",
+      "Are the hissing and clicking sounds synchronized with the visual rotation of the propeller?",
+      "Will the audio maintain a consistent level of noise as the propeller continues to rotate at high speed?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the propeller visibly rotating at high speed in water?",
+      "Are bubbles forming on the back side of the propeller blades?",
+      "Can the bubbles be seen moving with the water flow?",
+      "Are the bubbles collapsing in high-pressure regions of the water?",
+      "Is the water visibly disturbed around the propeller due to its rotation?"
+    ]
+  },
+  {
+    "prompt_en": "When an electric arc is generated between high-voltage electrodes, it is accompanied by a blinding flash and a crackling \"zapping\" sound, because the strong electric field ionizes the air to form a conductive channel, through which the current heats the air and causes rapid expansion.",
+    "prompt_vision": "Blinding flash of light between high-voltage electrodes",
+    "prompt_audio": "Crackling zapping sound",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a blinding flash visually synchronized with the crackling sound of the electric arc?",
+      "Can the audio-visual model depict the rapid expansion of air through a noticeable increase in sound energy or volume during the arc event?",
+      "Are the sounds of the electric arc positioned accurately to match the location of the high-voltage electrodes in the visual scene?",
+      "Will the audio remain quiet or subdued before and after the electric arc event, emphasizing the suddenness of the crackling sound?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visible electric arc between high-voltage electrodes?",
+      "Is there a blinding flash of light accompanying the electric arc?",
+      "Are the high-voltage electrodes visibly present in the scene?",
+      "Is the air around the electric arc visibly affected, such as showing distortion or expansion?",
+      "Does the electric arc appear bright and intense in color?"
+    ]
+  },
+  {
+    "prompt_en": "When the opposite poles of two magnets approach each other, they suddenly snap together with a \"click\" sound; when like poles approach, they are difficult to bring into contact and remain nearly silent. This is because the magnetic force is instantly converted into mechanical impact noise upon contact, while repulsion prevents collision from occurring.",
+    "prompt_vision": "Two magnets snapping together when opposite poles approach; two magnets resisting contact when like poles approach",
+    "prompt_audio": "Click sound when magnets snap together; near silence when like poles repel",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a 'click' sound when the opposite poles of the magnets snap together?",
+      "Is there minimal or no sound when like poles of the magnets are brought close to each other?",
+      "Can the 'click' sound be heard immediately upon contact of opposite poles?",
+      "Are the sounds of repulsion absent or very quiet when like poles are near each other?"
+    ],
+    "auxiliary_info_vision": [
+      "Are the two magnets visibly snapping together when opposite poles approach each other?",
+      "Is there visible contact between the magnets when opposite poles meet?",
+      "Are the magnets visibly struggling to come into contact when like poles approach each other?",
+      "Is there a visible gap between the magnets when like poles are near each other?",
+      "Are the magnets visibly stationary after snapping together when opposite poles meet?",
+      "Is there no visible motion of the magnets when like poles are near each other?",
+      "Are the magnets visibly aligned in a way that suggests repulsion when like poles approach each other?"
+    ]
+  },
+  {
+    "prompt_en": "When light shines on the black-and-white vanes inside a vacuum glass bulb, the vanes rotate spontaneously, yet the process is nearly silent. This is because light heats the residual gas molecules near the black surfaces, causing the vanes to turn, while the vacuum lacks a medium for sound transmission.",
+    "prompt_vision": "Light shining on black-and-white vanes inside a vacuum glass bulb causes them to rotate spontaneously.",
+    "prompt_audio": "silent",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the audio nearly silent when the vanes rotate inside the vacuum glass bulb?",
+      "Does the audio lack any prominent sounds indicating the rotation of the vanes?",
+      "Are there no audible sounds of air or gas movement when the vanes rotate?"
+    ],
+    "auxiliary_info_vision": [
+      "Are the vanes inside the vacuum glass bulb black-and-white in color?",
+      "Is the vacuum glass bulb visible in the image or video?",
+      "Can the vanes inside the bulb be seen rotating?",
+      "Is there visible light shining on the vanes inside the bulb?",
+      "Are the black surfaces of the vanes facing the direction of the light source?"
+    ]
+  },
+  {
+    "prompt_en": "A match, when quickly struck against the phosphorus-coated paper, first produces a friction sound, then suddenly ignites with a \"puff\" noise. This occurs because the heat generated by friction ignites the chemical substances in the match head, triggering a rapid oxidation reaction and releasing gas.",
+    "prompt_vision": "A match being struck against phosphorus-coated paper, then igniting with a small flame.",
+    "prompt_audio": "Friction sound followed by a sudden 'puff' noise.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio begin with a friction sound when the match is struck against the paper?",
+      "Is there a sudden 'puff' noise following the friction sound indicating the ignition of the match?",
+      "Can the friction sound be heard before the 'puff' noise in the sequence of events?",
+      "Are the sounds of friction and ignition distinct and clearly separated in the audio?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the match visibly striking against the phosphorus-coated paper?",
+      "Does the match head ignite with visible flames after being struck?",
+      "Are sparks or a brief glow visible during the ignition process?",
+      "Is there visible smoke or gas released after the match ignites?",
+      "Does the match head appear to change color or texture upon ignition?"
+    ]
+  },
+  {
+    "prompt_en": "Popcorn kernels suddenly pop and expand into popcorn when heated, accompanied by a \"pop\" sound, because the internal moisture turns into steam under high pressure, and when the outer shell can no longer withstand it, it ruptures, causing the inner material to rapidly expand.",
+    "prompt_vision": "Popcorn kernels popping and expanding into fluffy popcorn when heated",
+    "prompt_audio": "Rapid series of sharp 'pop' sounds",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a distinct 'pop' sound when the popcorn kernels burst?",
+      "Is there a noticeable increase in volume or energy in the audio when the popcorn kernels pop?",
+      "Can the sound of the 'pop' be clearly associated with the visual moment of the kernel expanding?",
+      "Is the 'pop' sound free from any unexpected noise or distortion that would distract from the popcorn popping?",
+      "Are the 'pop' sounds synchronized with the visual timing of the kernels bursting open?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there visible steam or vapor emanating from the popcorn kernels as they pop?",
+      "Are the popcorn kernels visibly expanding and changing shape during the popping process?",
+      "Does the outer shell of the popcorn kernels appear to rupture or break open as they pop?",
+      "Are the popped popcorn pieces larger in size compared to the unpopped kernels?",
+      "Is there a visible motion or burst effect as the popcorn kernels pop?",
+      "Are the popcorn kernels initially small and hard before they pop?"
+    ]
+  },
+  {
+    "prompt_en": "When a simple pendulum swings, the time required for each complete cycle is nearly constant regardless of the amplitude, and a steady rhythmic creaking sound comes from the suspension point during the swing, because the period of oscillation depends primarily on the length of the pendulum and not on the amplitude.",
+    "prompt_vision": "A simple pendulum swinging back and forth with a steady motion, suspended from a fixed point.",
+    "prompt_audio": "Steady rhythmic creaking sound from the suspension point of a swinging pendulum.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a steady rhythmic creaking sound synchronized with the pendulum's swing cycle?",
+      "Is the creaking sound consistently timed with each complete cycle of the pendulum swing?",
+      "Can the creaking sound be heard coming from the suspension point of the pendulum?",
+      "Is the creaking sound free from distortion or unexpected noise during the pendulum's swing?",
+      "Are the creaking sounds evenly spaced, indicating a constant period of oscillation?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the pendulum visible swinging back and forth in a regular motion?",
+      "Does the pendulum appear to have a fixed length throughout its swing?",
+      "Is the suspension point of the pendulum clearly visible in the image or video?",
+      "Can the pendulum be seen reaching the same height on both sides of its swing?",
+      "Is there any visible indication of the pendulum's steady rhythmic motion, such as consistent spacing between positions in a motion blur effect?"
+    ]
+  },
+  {
+    "prompt_en": "Immerse the sound generator into liquid resin; the sound is initially muffled, but as the resin solidifies, it gradually becomes clear and loud, because solids transmit vibrations more effectively than liquids, improving the efficiency of sound wave propagation.",
+    "prompt_vision": "A sound generator submerged in liquid resin that gradually hardens into a solid.",
+    "prompt_audio": "Muffled sound that gradually becomes clear and loud as the surrounding medium solidifies.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound initially muffled when the generator is immersed in liquid resin?",
+      "Does the sound gradually become clearer as the resin solidifies?",
+      "Will the sound become louder as the resin transitions from liquid to solid?",
+      "Can the change in sound clarity be perceived as the resin solidifies?",
+      "Are the vibrations transmitted more effectively once the resin is solid, resulting in improved sound propagation?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the sound generator visibly immersed in liquid resin?",
+      "Does the resin appear to be in a liquid state initially?",
+      "Can the resin be seen solidifying over time?",
+      "Are there visible changes in the resin indicating a transition from liquid to solid?",
+      "Is the sound generator visually surrounded by solid resin at the end?",
+      "Are there visible vibrations or sound waves emanating from the sound generator once the resin solidifies?"
+    ]
+  },
+  {
+    "prompt_en": "Filmed in slow motion, the archery process clearly shows the arrow shaft bending around the bow after release, accompanied by the \"twang\" of the bowstring snapping back and the \"whoosh\" of the fletching cutting through the air. This occurs because the thrust from the bow causes elastic deformation of the arrow shaft to clear the obstacle.",
+    "prompt_vision": "Slow motion footage of an arrow being released from a bow, showing the arrow shaft bending around the bow.",
+    "prompt_audio": "Twang of the bowstring snapping back followed by the whoosh of fletching cutting through the air.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a distinct 'twang' sound synchronized with the bowstring snapping back after the arrow is released?",
+      "Is the 'whoosh' sound of the fletching cutting through the air present and synchronized with the arrow's movement?",
+      "Can the timing of the 'twang' and 'whoosh' sounds accurately reflect the sequence of the archery process as described?",
+      "Are the sounds of the bowstring and arrow free from noticeable noise or distortion that would detract from their clarity?",
+      "Does the audio maintain consistent energy and volume levels appropriate for the described actions of the bowstring snapping and arrow flying?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the arrow shaft visibly bending around the bow after release?",
+      "Does the video show the bowstring snapping back in slow motion?",
+      "Can the fletching be seen cutting through the air after the arrow is released?",
+      "Is the arrow's motion depicted in slow motion to emphasize the bending and release process?",
+      "Are the visual effects of elastic deformation of the arrow shaft clearly observable?"
+    ]
+  },
+  {
+    "prompt_en": "After cracks appear on the surface of a snow slope, they rapidly expand, followed by the entire snow layer sliding off with a loud \"rumbling\" sound. This occurs because the internal stress within the snowpack exceeds its strength limit, causing brittle fracture and releasing energy that generates sound waves and motion.",
+    "prompt_vision": "Cracks rapidly expanding on a snow slope, followed by the entire snow layer sliding off.",
+    "prompt_audio": "Loud rumbling sound",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a distinct cracking sound at the moment the cracks appear on the snow slope?",
+      "Is there a rapid increase in the intensity or frequency of cracking sounds as the cracks expand?",
+      "Does the audio feature a loud rumbling sound synchronized with the snow layer sliding off?",
+      "Are the cracking sounds and rumbling sounds spatially positioned to match the movement of the snow layer?",
+      "Is the transition from cracking sounds to rumbling sounds smooth and continuous, reflecting the described sequence of events?"
+    ],
+    "auxiliary_info_vision": [
+      "Are cracks visible on the surface of the snow slope?",
+      "Do the cracks rapidly expand across the snow surface?",
+      "Is the entire snow layer visibly sliding off the slope?",
+      "Can the motion of the snow layer be seen as it slides down?",
+      "Is there visible deformation or fracture in the snowpack before sliding?",
+      "Are there visible signs of energy release, such as snow displacement or motion?",
+      "Is the snow surface visibly disturbed or altered after the slide?"
+    ]
+  }
+]

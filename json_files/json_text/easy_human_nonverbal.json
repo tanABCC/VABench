@@ -1,0 +1,2798 @@
+[
+  {
+    "prompt_en": "A child runs through a field of wildflowers on a sunny day, laughing and spinning in circles.",
+    "prompt_vision": "A child running through a field of wildflowers on a sunny day, spinning in circles with arms outstretched.",
+    "prompt_audio": "Child's laughter, light and joyful, with a gentle breeze rustling through wildflowers.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of footsteps audible as the child runs through the field?",
+      "Can you hear the child's laughter clearly as they run and spin?",
+      "Does the audio maintain a consistent outdoor ambiance throughout the scene?",
+      "Are the sounds of the child's movements synchronized with their actions in the video?",
+      "Is there an absence of loud or distracting noises that would not be expected in a field of wildflowers on a sunny day?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the child visibly running with leg motion consistent with running?",
+      "Are there wildflowers present in the field surrounding the child?",
+      "Is the child spinning in circles with their body visibly turning around its axis?",
+      "Is the lighting consistent with a sunny day, with clear directional sunlight and shadows?",
+      "Is the child laughing, with a facial expression showing an open mouth and joyful demeanor?"
+    ]
+  },
+  {
+    "prompt_en": "An elderly man sits on a park bench, looking at a faded old photograph in his hand, a tear rolling down his cheek.",
+    "prompt_vision": "An elderly man sitting on a park bench, holding a faded old photograph, with a tear rolling down his cheek.",
+    "prompt_audio": "soft sound",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the sound of the elderly man sitting on the bench match the expected quietness or subtle rustling of clothing?",
+      "Is there an appropriate sound or silence corresponding to the tear rolling down his cheek?",
+      "Can the audio-visual synchronization accurately depict the elderly man handling the faded old photograph, such as soft paper rustling sounds?",
+      "Are ambient park sounds, if present, subdued enough to not overpower the emotional focus of the scene?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there an elderly man sitting on a park bench?",
+      "Is the man holding a faded old photograph in his hand?",
+      "Is the man looking at the photograph he is holding?",
+      "Is there a visible tear rolling down the man's cheek?",
+      "Is the man's facial expression consistent with sadness or reflection?"
+    ]
+  },
+  {
+    "prompt_en": "In a silent argument, one person slams the table with a fist, their face twisted in anger.",
+    "prompt_vision": "A person slams a table with their fist, face twisted in anger.",
+    "prompt_audio": "sharp thud of a fist hitting a table",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of the fist slamming on the table synchronized with the visual action of the hand hitting the table?",
+      "Does the sound of the fist slamming on the table have an appropriate energy and volume to match the implied force of the action?",
+      "Is the audio environment silent before and after the table slam, except for the sound of the slam itself?",
+      "Does the timbre of the table slam sound consistent with the material of a typical table when struck by a fist?",
+      "Is there no audible distortion or noise unrelated to the described action during the scene?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a person with a face showing an angry expression?",
+      "Is the person's fist visibly making contact with the table?",
+      "Is the table visibly affected by the impact of the fist, such as shaking or objects on it moving?",
+      "Is the person's face twisted in a way that indicates anger, such as furrowed brows or clenched jaw?",
+      "Is the person's arm positioned in a way that suggests they are slamming the table?",
+      "Are there no visible signs of sound, such as musical notes or sound waves, indicating silence?",
+      "Is the person's body posture tense or aggressive, suggesting involvement in an argument?"
+    ]
+  },
+  {
+    "prompt_en": "A person's eyes widen in fear as he or she sees a dark shadow quickly dart past the window.",
+    "prompt_vision": "A person's eyes widen in fear as they see a dark shadow quickly dart past the window.",
+    "prompt_audio": "soft sound",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a sudden sound that matches the movement of the dark shadow darting past the window, such as a whoosh or similar noise?",
+      "Is the audio free of any prominent sounds that would contradict the implied quietness of the scene, such as loud background noise or unrelated activity?",
+      "Can the audio-visual synchronization accurately depict the timing of the shadow's movement with any associated sound?",
+      "Are there no audible vocalizations or sounds from the person, consistent with the prompt not mentioning speech or other reactions?",
+      "Does the audio maintain a subdued or tense atmosphere, aligning with the fear implied in the scene?"
+    ],
+    "auxiliary_info_vision": [
+      "Are the person's eyes visibly wide open, indicating fear?",
+      "Is there a dark shadow visible near the window?",
+      "Does the shadow appear to be moving quickly past the window?",
+      "Can the person's facial expression be interpreted as fearful based on the widened eyes?",
+      "Is the window clearly visible in the scene?"
+    ]
+  },
+  {
+    "prompt_en": "An elderly couple, their wrinkled hands tightly clasped together, slowly dance in their living room.",
+    "prompt_vision": "An elderly couple with wrinkled hands tightly clasped together slowly dancing in their living room.",
+    "prompt_audio": "soft shuffling footsteps and faint creaking floorboards",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there soft music playing that matches the slow dance of the elderly couple?",
+      "Are the sounds of the couple's footsteps on the floor audible and synchronized with their movements?",
+      "Does the audio include gentle rustling of clothing as the couple moves?",
+      "Is there a lack of loud or disruptive noises, maintaining a peaceful atmosphere in the living room?",
+      "Can the sound of the couple's clasped hands be heard when they move or adjust their grip?"
+    ],
+    "auxiliary_info_vision": [
+      "Are the couple's hands visibly wrinkled and clasped together?",
+      "Is the couple positioned in a living room setting?",
+      "Does the couple appear to be slowly dancing?",
+      "Are both individuals visibly elderly?",
+      "Is there a visible sense of closeness or intimacy between the couple?",
+      "Can you see the couple's feet moving in a dance-like motion?",
+      "Is the couple's posture indicative of a dance, such as a slight lean or sway?"
+    ]
+  },
+  {
+    "prompt_en": "A climber reaches the peak, raises both arms toward the sky, and gazes at the breathtaking view.",
+    "prompt_vision": "A climber stands at the peak with both arms raised toward the sky, gazing at the view.",
+    "prompt_audio": "ambient background sound",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a sound of wind or breeze when the climber reaches the peak, suggesting an open and elevated environment?",
+      "Does the audio include the climber's breathing or sigh of relief as they reach the peak, indicating exertion and accomplishment?",
+      "Can the sound of the climber's footsteps be heard as they reach the peak, matching the action of climbing?",
+      "Are there ambient nature sounds present, such as birds or distant wildlife, enhancing the sense of being at a peak?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the climber standing at the peak with both arms raised toward the sky?",
+      "Does the climber's gaze appear directed toward the view?",
+      "Are both of the climber's arms visibly extended upward?",
+      "Is the climber's body facing the direction of the view?",
+      "Can the climber's facial expression be seen as focused on the view?",
+      "Is the climber's pose indicative of reaching a peak, such as standing upright or slightly leaning forward?",
+      "Are the climber's legs visibly supporting their stance at the peak?"
+    ]
+  },
+  {
+    "prompt_en": "A person walks into a pitch-black room, and when the lights come on, a group of friends shouts \"Surprise!\" for his/her birthday.",
+    "prompt_vision": "A person enters a dark room; lights turn on to reveal a group of friends gathered, smiling and holding birthday decorations.",
+    "prompt_audio": "Sudden collective shout of 'Surprise!' followed by cheerful laughter and birthday-themed background music.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include footsteps when the person walks into the room?",
+      "Is there silence or very subdued sounds before the lights come on?",
+      "Does the audio feature a group of voices shouting 'Surprise!' when the lights come on?",
+      "Are the voices synchronized with the moment the lights come on?",
+      "Is there a noticeable change in sound energy or volume when the group shouts 'Surprise!'?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the room initially depicted as pitch-black with no visible light sources?",
+      "Does the person appear to be walking into the room before the lights turn on?",
+      "When the lights come on, are the group of friends visible in the room?",
+      "Are the friends shown shouting or visibly expressing excitement with open mouths or raised hands?",
+      "Is there any indication of birthday-related decorations, such as balloons, banners, or a cake, visible when the lights come on?",
+      "Does the person walking into the room show a surprised facial expression after the lights turn on?"
+    ]
+  },
+  {
+    "prompt_en": "A calm lake at dawn, with a thin mist rising from the surface, and a few birds silently gliding across the water.",
+    "prompt_vision": "A calm lake at dawn with a thin mist rising from the surface and a few birds gliding across the water.",
+    "prompt_audio": "faint but harmonious sound",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the audio predominantly quiet, reflecting the calmness of the lake at dawn?",
+      "Are the sounds of birds' wings flapping or gliding across the water subtle and not prominent?",
+      "Is there an absence of loud or disruptive noises, maintaining the serene atmosphere of the scene?",
+      "Does the audio include a gentle, ambient sound that could represent the thin mist rising from the lake?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a calm lake visible in the image or video?",
+      "Is there a thin mist rising from the surface of the lake?",
+      "Are there a few birds gliding silently across the water?",
+      "Is the lighting consistent with dawn, such as soft and warm tones?",
+      "Are the birds depicted in motion, gliding smoothly without flapping their wings?",
+      "Is the water surface of the lake still and undisturbed?"
+    ]
+  },
+  {
+    "prompt_en": "An athlete falls down and clutches his knee tightly, his face showing an expression of physical pain.",
+    "prompt_vision": "An athlete falls down and clutches his knee tightly, his face showing an expression of physical pain.",
+    "prompt_audio": "sharp grunt or gasp of pain",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a sound of the athlete falling, such as a thud or impact noise, when he hits the ground?",
+      "Does the audio include any vocalizations or expressions of pain, such as groans or cries, when the athlete clutches his knee?",
+      "Is there an absence of unrelated background noise that would distract from the sounds of the fall and expressions of pain?",
+      "Are the sounds of the fall and expressions of pain synchronized with the visual actions of the athlete falling and clutching his knee?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the athlete visibly clutching his knee with his hand?",
+      "Does the athlete's face display an expression of physical pain?",
+      "Is the athlete's body positioned on the ground, indicating he has fallen?",
+      "Are the athlete's legs in a position that suggests he has fallen?",
+      "Is there a visible tension in the athlete's hand as he clutches his knee?",
+      "Can the athlete's facial features be seen clearly enough to identify a pained expression?"
+    ]
+  },
+  {
+    "prompt_en": "A child is sitting in front of a beautifully wrapped gift, eyes shining with excitement, hands ready to tear it open.",
+    "prompt_vision": "A child sitting in front of a beautifully wrapped gift, eyes wide with excitement, hands poised to tear it open.",
+    "prompt_audio": "soft sound",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include any subtle sounds of the child's breathing or movement as they prepare to open the gift?",
+      "Are there any sounds of the child's hands interacting with the gift, such as rustling or tapping?",
+      "Is the ambient noise level low enough to emphasize the sounds of the gift being opened?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a child sitting in front of a gift?",
+      "Are the child's eyes shining with excitement?",
+      "Is the gift beautifully wrapped?",
+      "Are the child's hands positioned as if ready to tear open the gift?"
+    ]
+  },
+  {
+    "prompt_en": "Two people embrace for a long time on a train station platform. One boards the train, and they gaze at each other through the window until the train slowly pulls away.",
+    "prompt_vision": "Two people embracing on a train station platform, one boarding a train, gazing at each other through the window as the train slowly departs.",
+    "prompt_audio": "Ambient train station sounds, distant announcements, low rumble of the train engine starting, wheels on tracks as the train pulls away.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a sound of the train engine starting and gradually increasing in volume as it pulls away?",
+      "Does the audio include ambient sounds typical of a train station, such as distant announcements or the hum of activity, without overpowering the scene?",
+      "Can you hear the subtle sound of footsteps as one person boards the train?",
+      "Is there an absence of loud or disruptive noises during the embrace, allowing for a quiet and intimate moment?",
+      "Are the sounds of the train consistent with its movement, such as the clattering of wheels on tracks as it departs?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there two people embracing on a train station platform?",
+      "Does one person board the train after the embrace?",
+      "Can the person on the train be seen gazing through the window at the other person?",
+      "Is the train visible slowly pulling away from the platform?",
+      "Are both individuals maintaining eye contact through the train window before it departs?"
+    ]
+  },
+  {
+    "prompt_en": "A person walks through a dark forest, the beam of a flashlight cutting through the darkness, he/she anxiously shouting a name.",
+    "prompt_vision": "A person walking through a dark forest with a flashlight beam cutting through the darkness",
+    "prompt_audio": "Anxious shouting of a name",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there the sound of footsteps as the person walks through the forest?",
+      "Does the audio include the sound of a flashlight clicking on or off?",
+      "Can you hear the person anxiously shouting a name?",
+      "Are the footsteps and shouting synchronized with the person's movements and mouth movements?",
+      "Is there an absence of other prominent sounds, indicating the quietness of the forest aside from the person's actions?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a person holding a flashlight?",
+      "Does the flashlight beam visibly illuminate parts of the dark forest?",
+      "Is the person depicted in a walking motion?",
+      "Are the person's facial expressions showing signs of anxiety?",
+      "Is the forest environment depicted as dark?",
+      "Can the flashlight beam be seen cutting through the darkness?"
+    ]
+  },
+  {
+    "prompt_en": "A child playing in the sandbox dug up a unique, colorful seashell and held it up with an expression of surprise.",
+    "prompt_vision": "A child playing in a sandbox holds up a unique, colorful seashell with a surprised expression.",
+    "prompt_audio": "soft rustling of sand and a brief exclamation of surprise",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there an absence of loud or disruptive sounds, suggesting a quiet environment suitable for a child playing in a sandbox?",
+      "Does the audio include the sound of sand being moved or shifted as the child digs in the sandbox?",
+      "Is there a subtle sound of the seashell being picked up or brushed off, indicating the child's interaction with it?",
+      "Can any vocal expression of surprise, such as a gasp or exclamation, be heard from the child upon discovering the seashell?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a child present in the sandbox?",
+      "Is the child holding a colorful seashell?",
+      "Does the child have an expression of surprise on their face?",
+      "Is the seashell visibly unique in appearance?",
+      "Is the child actively engaged in playing within the sandbox?",
+      "Are the child's hands visibly interacting with the sandbox or seashell?"
+    ]
+  },
+  {
+    "prompt_en": "A person opens a container with spoiled food, immediately steps back, and makes a disgusted expression.",
+    "prompt_vision": "A person opens a container with spoiled food, immediately steps back, and makes a disgusted expression.",
+    "prompt_audio": "faint putrid odor implied, ambient sound",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a sound of the container being opened at the beginning of the scene?",
+      "Does the audio include a subtle sound of footsteps as the person steps back?",
+      "Can the disgusted expression be accompanied by a vocal reaction, such as a gasp or exclamation, that matches the timing of the expression?",
+      "Is there an absence of loud or unrelated background noises during the scene, allowing focus on the container opening and the person's reaction?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a person visible in the scene?",
+      "Is the person interacting with a container?",
+      "Does the container appear to be open?",
+      "Is the person stepping back from the container?",
+      "Is the person's facial expression showing disgust?"
+    ]
+  },
+  {
+    "prompt_en": "After a tense search, one person found the lost keys and visibly sighed with relief.",
+    "prompt_vision": "A person finding lost keys and sighing with visible relief",
+    "prompt_audio": "A sigh of relief",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there an audible sigh sound when the person finds the keys?",
+      "Does the sound of the sigh match the timing of the person's visible sigh?",
+      "Can the sigh sound be heard clearly without distortion or noise?",
+      "Is the sigh sound synchronized with the person's lip movements?",
+      "Are there no other prominent sounds when the person sighs, implying a quiet moment?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a person visibly sighing with relief in the image?",
+      "Are the lost keys present in the image?",
+      "Is the person holding the keys in their hand?",
+      "Does the person's facial expression indicate relief?",
+      "Is the person's body posture relaxed, suggesting a release of tension?"
+    ]
+  },
+  {
+    "prompt_en": "A person sits alone at a large, empty dining table set for multiple people, with a vacant gaze.",
+    "prompt_vision": "A person sits alone at a large, empty dining table set for multiple people, with a vacant gaze.",
+    "prompt_audio": "faint but harmonious sound",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the ambient sound minimal or absent, reflecting the emptiness of the setting?",
+      "Does the audio lack any sounds of conversation or dining activity, consistent with the person's solitude?",
+      "Are there no sounds of movement or interaction with the tableware, indicating the person's stillness?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a person sitting at the dining table?",
+      "Is the dining table large and set for multiple people?",
+      "Are the table settings arranged for more than one person?",
+      "Does the person have a vacant gaze?",
+      "Is the dining table empty of food or drink items?",
+      "Are there no other people visible at the dining table?"
+    ]
+  },
+  {
+    "prompt_en": "A marathon runner, although looking exhausted, grits his teeth and continues running toward the finish line.",
+    "prompt_vision": "A marathon runner looking exhausted, gritting his teeth, running toward the finish line.",
+    "prompt_audio": "heavy breathing and rhythmic footsteps on pavement",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the sound of footsteps match the expected rhythm and intensity of a marathon runner's pace?",
+      "Is there an audible sound of breathing or panting that corresponds to the runner's exhaustion?",
+      "Can the sound of gritting teeth be heard distinctly when the runner is shown clenching his jaw?",
+      "Are the footsteps synchronized with the visual motion of the runner's legs?",
+      "Is the overall audio free from unexpected noise or distortion that would distract from the runner's actions?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the runner's facial expression showing gritted teeth?",
+      "Does the runner appear to be in motion with visible leg movement?",
+      "Is the runner's posture indicative of exhaustion, such as slumped shoulders or a weary expression?",
+      "Can the runner be seen moving toward a visible finish line?",
+      "Are the runner's arms swinging in a typical running motion?",
+      "Is the runner wearing typical marathon attire, such as running shorts and a tank top?"
+    ]
+  },
+  {
+    "prompt_en": "A long take, a lone car driving along a country road at sunset.",
+    "prompt_vision": "A lone car driving along a country road at sunset, captured in a long take.",
+    "prompt_audio": "continuous hum of car engine and rolling tires on pavement",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of the car engine audible throughout the scene as the car drives along the road?",
+      "Does the audio include the sound of tires moving on the road surface as the car drives?",
+      "Is there a consistent sound field that matches the car's movement, such as changes in engine pitch or volume as the car accelerates or decelerates?",
+      "Are ambient sounds, such as distant birds or wind, present but not overpowering the sound of the car?",
+      "Is the audio free from unexpected noise or distortion that would not be typical for a country road setting?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a single car visible on the road?",
+      "Is the car in motion along the road?",
+      "Is the road depicted as a country road with natural surroundings?",
+      "Is the lighting consistent with a sunset, showing warm tones?",
+      "Is the car's movement continuous without interruption?",
+      "Are the shadows cast by the car and surroundings consistent with sunset lighting?"
+    ]
+  },
+  {
+    "prompt_en": "A tourist, seeing the Grand Canyon for the first time, was awestruck by its magnificent scale.",
+    "prompt_vision": "Tourist at Grand Canyon edge, wide-eyed, mouth open, surrounded by layered red rocks, vast horizon, clear blue sky.",
+    "prompt_audio": "faint but harmonious sound",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there ambient sound that suggests a vast open space, such as distant echoes or wind?",
+      "Does the audio include subtle sounds of the tourist's breathing or gasping, indicating awe?",
+      "Can the soundscape reflect a quietness or absence of prominent noise, suggesting the tourist's focus on the scenery?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the Grand Canyon depicted with a vast and expansive view?",
+      "Does the tourist appear to be gazing at the Grand Canyon?",
+      "Is the tourist's facial expression one of awe or amazement?",
+      "Are the rock formations of the Grand Canyon visible in the image?",
+      "Is the lighting sufficient to clearly see the details of the Grand Canyon's landscape?"
+    ]
+  },
+  {
+    "prompt_en": "A writer crumples a piece of paper into a ball and throws it toward a trash can already filled with crumpled paper balls.",
+    "prompt_vision": "A writer crumples a piece of paper into a ball and throws it toward a trash can already filled with crumpled paper balls.",
+    "prompt_audio": "crumpling paper, soft thuds of paper balls hitting a trash can",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the sound of paper crumpling occur when the writer crumples the piece of paper?",
+      "Is there a sound of the paper ball being thrown, such as a soft whoosh or rustle?",
+      "Does the paper ball make a sound upon landing in the trash can, such as a soft thud or rustling noise?",
+      "Are the sounds of the crumpling paper and the thrown paper ball free from noticeable distortion or noise?",
+      "Can the position of the sound source shift appropriately as the paper ball moves from the writer's hand to the trash can?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visible piece of paper being crumpled into a ball by the writer?",
+      "Does the trash can contain multiple crumpled paper balls?",
+      "Can the writer be seen throwing the crumpled paper ball toward the trash can?",
+      "Is the motion of the paper ball directed toward the trash can?",
+      "Are the writer's hands visibly engaged in the action of crumpling the paper?"
+    ]
+  },
+  {
+    "prompt_en": "The final page of a thick book was turned, and the reader closed the book with a satisfied smile.",
+    "prompt_vision": "A person closing a thick book with a satisfied smile after turning the final page.",
+    "prompt_audio": "The soft rustle of a book page turning followed by the gentle thud of the book closing.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the sound of the final page turning occur before the book closing sound?",
+      "Is there a distinct sound of the book closing after the page is turned?",
+      "Can the sound of the page turning be heard clearly without distortion or noise?",
+      "Is the sound of the book closing consistent with the expected sound of a thick book being closed?",
+      "Are the sounds of the page turning and book closing synchronized with the visual actions?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visible thick book in the scene?",
+      "Is the book shown with its final page turned?",
+      "Does the reader have a satisfied smile on their face?",
+      "Is the book being closed by the reader?",
+      "Are the reader's hands in contact with the book as it is being closed?"
+    ]
+  },
+  {
+    "prompt_en": "A person is gently watering a small seedling in a flowerpot on the windowsill.",
+    "prompt_vision": "A person gently watering a small seedling in a flowerpot on a windowsill.",
+    "prompt_audio": "soft trickling water",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a sound of water being poured or trickling as the person waters the seedling?",
+      "Does the audio include soft or gentle sounds, avoiding loud or harsh noises?",
+      "Can the sound of water be heard coming from the direction of the flowerpot?",
+      "Are the sounds of watering synchronized with the visual action of the person pouring water?",
+      "Is there an absence of prominent background noise, suggesting a quiet environment while the person waters the seedling?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a person visible in the image or video?",
+      "Is the person holding a watering can or similar tool?",
+      "Is there a small seedling present in a flowerpot?",
+      "Is the flowerpot located on a windowsill?",
+      "Is water visibly flowing from the watering can onto the seedling?",
+      "Is the person's action gentle, implying slow and careful movement?",
+      "Is the windowsill visible in the scene?"
+    ]
+  },
+  {
+    "prompt_en": "A little girl blows out the candles at her birthday party, her friends cheer around her, and she laughs with her eyes curved into crescent moons.",
+    "prompt_vision": "A little girl blowing out birthday candles surrounded by cheering friends, her eyes curved into crescent moons as she laughs.",
+    "prompt_audio": "Cheering voices, laughter, and the sound of blowing out candles.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the sound of blowing air occur when the little girl blows out the candles?",
+      "Are there audible cheers from her friends immediately after the candles are blown out?",
+      "Can the little girl's laughter be heard after her friends cheer?",
+      "Is the laughter synchronized with the visual depiction of her laughing?",
+      "Are the cheers and laughter free from noticeable distortion or noise?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a little girl visible in the scene?",
+      "Are there candles present that appear to be blown out?",
+      "Can you see friends surrounding the little girl?",
+      "Are the friends visibly cheering?",
+      "Is the little girl laughing with her eyes curved into crescent moons?"
+    ]
+  },
+  {
+    "prompt_en": "A little dog was lying in front of the empty doorway, ears drooping and eyes staring blankly in the direction its owner had left.",
+    "prompt_vision": "A small dog lying in front of an empty doorway, ears drooping, eyes staring blankly ahead.",
+    "prompt_audio": "faint but harmonious sound",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the audio predominantly quiet, reflecting the stillness of the scene?",
+      "Are there occasional soft sounds, such as the dog's gentle breathing or slight movements, consistent with a dog lying down?",
+      "Does the audio maintain a consistent low volume, matching the calm and inactive state of the dog?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a little dog visible in the image?",
+      "Is the dog lying down in front of a doorway?",
+      "Are the dog's ears drooping?",
+      "Are the dog's eyes staring blankly?",
+      "Is the doorway empty, with no objects or people visible in it?"
+    ]
+  },
+  {
+    "prompt_en": "A child hides under the covers, eyes peeking out, staring intently at the shifting shadow beneath the bedroom door.",
+    "prompt_vision": "A child hides under the covers with only their eyes peeking out, staring at a shifting shadow beneath the bedroom door.",
+    "prompt_audio": "faint but harmonious sound",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the audio predominantly quiet, reflecting the stillness of the scene?",
+      "Are there no loud or sudden noises that would disrupt the sense of a child hiding quietly?",
+      "Does the audio lack any background music or sounds that would be inconsistent with a quiet bedroom setting?",
+      "Is there an absence of dialogue or vocal sounds, consistent with the child being silent under the covers?",
+      "Can any subtle sounds, such as the rustling of covers, be heard softly, matching the child's hidden position?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a child visible under the covers with their eyes peeking out?",
+      "Are the child's eyes directed towards the shadow beneath the bedroom door?",
+      "Is there a visible shadow shifting beneath the bedroom door?",
+      "Does the child appear to be under the covers without any large body movement?",
+      "Is the bedroom door visible in the scene?",
+      "Are the covers partially covering the child's face, leaving only the eyes visible?"
+    ]
+  },
+  {
+    "prompt_en": "A young mother hums a lullaby softly, gently patting the back of her sleeping baby in her arms, a serene smile on her lips.",
+    "prompt_vision": "A young mother gently patting the back of her sleeping baby in her arms, a serene smile on her lips.",
+    "prompt_audio": "Soft humming of a lullaby",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the sound of gentle patting, consistent with a mother patting a baby's back?",
+      "Is there an absence of loud or disruptive noises, maintaining the serene atmosphere described?",
+      "Does the timing of the humming and patting actions appear synchronized with the visual cues of the mother and baby?",
+      "Is the overall volume of the audio low, reflecting the quietness expected in a scene with a sleeping baby?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the young mother holding a baby in her arms?",
+      "Does the baby appear to be sleeping with eyes closed?",
+      "Is the mother gently patting the baby's back?",
+      "Is there a serene smile visible on the mother's lips?",
+      "Can the mother's mouth be seen in a position suggesting humming?"
+    ]
+  },
+  {
+    "prompt_en": "After scoring the winning goal, the soccer player knelt down and roared toward the sky, while his teammates rushed overly and tackled him in celebration.",
+    "prompt_vision": "A soccer player kneels on the field with arms outstretched, roaring toward the sky, as his teammates rush toward him and tackle him in celebration.",
+    "prompt_audio": "Loud roaring, excited shouting, and chaotic crowd cheers.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of the soccer player roaring audible and synchronized with the moment he kneels down and roars toward the sky?",
+      "Are the sounds of the teammates' footsteps and movement audible as they rush over to the player?",
+      "Does the audio include sounds of physical contact or tackling as the teammates celebrate with the player?",
+      "Is there an increase in crowd noise or cheering audible in the background during the celebration?",
+      "Are the sounds of the celebration, such as shouting or cheering, synchronized with the visual actions of the players?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the soccer player kneeling down on the ground after scoring the goal?",
+      "Is the soccer player roaring or shouting with his face directed upward toward the sky?",
+      "Are the teammates visibly rushing toward the soccer player in celebration?",
+      "Does the scene show the teammates physically tackling or embracing the soccer player?",
+      "Are the soccer player's arms positioned in a way that suggests a celebratory roar or shout?"
+    ]
+  },
+  {
+    "prompt_en": "When the delivery box was opened, a stuffed toy dog suddenly popped out, making the recipient scream in fright before bursting into laughter.",
+    "prompt_vision": "A delivery box being opened, revealing a stuffed toy dog popping out, as a person reacts with a startled expression turning into laughter.",
+    "prompt_audio": "A sudden yelp or scream followed by bursts of laughter.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a sound of a box being opened at the moment the delivery box is opened?",
+      "Is there a sound of a stuffed toy dog popping out immediately after the box is opened?",
+      "Can you hear a scream of fright from the recipient right after the stuffed toy dog pops out?",
+      "Is there a transition from the scream to laughter in the audio, indicating the recipient's change in reaction?",
+      "Are the sounds of the scream and laughter synchronized with the recipient's visible reactions in the video?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a delivery box visible in the scene?",
+      "Does a stuffed toy dog visibly pop out of the delivery box?",
+      "Can the recipient be seen screaming with a frightened facial expression after the toy pops out?",
+      "Is the recipient visibly laughing after their initial scream of fright?",
+      "Does the stuffed toy dog appear to be in motion as it pops out of the box?"
+    ]
+  },
+  {
+    "prompt_en": "The elderly person sits in a rocking chair knitting a sweater, sunlight streaming through the window onto the ball of yarn, while a cat quietly naps by their feet.",
+    "prompt_vision": "Elderly person knits in rocking chair, sunlight on yarn, cat naps at feet.",
+    "prompt_audio": "quiet ambient sounds, soft rhythmic creaking of a rocking chair, gentle clicking of knitting needles, faint purring of a cat",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the sound of the rocking chair match the expected gentle creaking as the elderly person rocks back and forth?",
+      "Is there a soft clicking or scraping sound consistent with knitting needles as the elderly person knits the sweater?",
+      "Are the ambient sounds subdued, with no prominent noise or distortion, matching the quiet atmosphere implied by the napping cat and sunlight streaming through the window?",
+      "Does the cat remain silent or produce only faint, occasional sounds consistent with quiet napping, such as soft breathing or a light purring?",
+      "Is there an absence of unexpected loud or distracting sounds that would disrupt the tranquil scene described in the prompt?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there an elderly person sitting in a rocking chair?",
+      "Is the elderly person engaged in knitting a sweater?",
+      "Is sunlight visibly streaming through a window onto the ball of yarn?",
+      "Is there a cat napping quietly by the elderly person's feet?",
+      "Is the ball of yarn illuminated by sunlight?",
+      "Is the rocking chair stationary with no visible motion?",
+      "Is the cat showing no signs of movement, indicating it is napping quietly?"
+    ]
+  },
+  {
+    "prompt_en": "The chef accidentally cut his finger while chopping vegetables, sucked in a breath sharply, and quickly put his finger into his mouth.",
+    "prompt_vision": "A chef chopping vegetables, suddenly stops and puts his bleeding finger into his mouth.",
+    "prompt_audio": "Sharp intake of breath, followed by silence.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the sound of a knife cutting through vegetables before the accident?",
+      "Is there a sharp inhalation sound when the chef sucks in a breath?",
+      "Can you hear the sound of the chef putting his finger into his mouth?",
+      "Is the sound of the knife cutting vegetables followed by a brief pause before the inhalation sound?",
+      "Are the sounds of chopping and the inhalation clearly distinguishable from each other?",
+      "Is there an absence of background noise that would obscure the sound of the chef's actions?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visible knife in the chef's hand or nearby while chopping vegetables?",
+      "Are there visible vegetables on the cutting surface?",
+      "Is the chef's finger visibly cut or injured?",
+      "Does the chef have his finger in his mouth after the accident?",
+      "Is the chef's facial expression showing signs of pain or surprise?",
+      "Are the chef's other hand or fingers engaged in chopping or holding vegetables?",
+      "Is there a visible motion of the chef sucking in a breath sharply after the accident?"
+    ]
+  },
+  {
+    "prompt_en": "The teenager kept checking his phone screen and unconsciously tapped the table with his fingers, waiting for a reply from the person he liked.",
+    "prompt_vision": "A teenager repeatedly glancing at his phone screen and lightly tapping his fingers on a table.",
+    "prompt_audio": "Soft, rhythmic tapping sounds on a hard surface, occasional subtle phone notification hums.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the sound of fingers tapping on a table at regular intervals?",
+      "Is there an absence of loud or distracting background noises, suggesting a quiet environment?",
+      "Can the sound of a phone screen being tapped or interacted with be heard clearly?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the teenager holding or looking at a phone screen?",
+      "Are the teenager's fingers visibly tapping on the table?",
+      "Is the teenager seated at a table?",
+      "Does the teenager's facial expression suggest anticipation or focus on the phone screen?",
+      "Is the phone screen illuminated, indicating active use?"
+    ]
+  },
+  {
+    "prompt_en": "In the rain, the girl squatted on the wet street, tightly holding the soaked stray cat, her shoulders trembling slightly.",
+    "prompt_vision": "A girl squats on a wet street in the rain, holding a soaked stray cat, her shoulders trembling slightly.",
+    "prompt_audio": "Gentle rain falling, soft muffled sounds of the city, faint shivering breaths.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a sound of rain falling in the background?",
+      "Does the audio include the sound of the girl's breathing or sobbing, indicating her trembling shoulders?",
+      "Can you hear the sound of the cat meowing or making distressed noises?",
+      "Is the sound of the rain consistent with the visual depiction of a wet street?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a girl squatting on a wet street?",
+      "Is the girl holding a stray cat?",
+      "Is the cat visibly soaked?",
+      "Are the girl's shoulders trembling slightly?",
+      "Is there visible rain in the scene?"
+    ]
+  },
+  {
+    "prompt_en": "Visitors saw the real dinosaur skeleton in the museum, their mouths forming an \"O\" shape, and instinctively took two steps back.",
+    "prompt_vision": "Visitors in a museum looking at a real dinosaur skeleton, their mouths open in an 'O' shape, stepping backward.",
+    "prompt_audio": "faint sound",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there an audible gasp or exclamation of surprise when the visitors see the dinosaur skeleton?",
+      "Are the footsteps audible when the visitors take two steps back?",
+      "Does the audio maintain a quiet or subdued background, implying the museum setting?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a dinosaur skeleton visible in the scene?",
+      "Are the visitors' mouths forming an 'O' shape?",
+      "Are the visitors taking two steps back from the dinosaur skeleton?",
+      "Is the dinosaur skeleton displayed in a museum setting?",
+      "Are the visitors facing the dinosaur skeleton?",
+      "Is there a visible distance between the visitors and the dinosaur skeleton indicating they have stepped back?"
+    ]
+  },
+  {
+    "prompt_en": "The little boy took a bite of bitter melon, his face instantly scrunched up, and he immediately spat it out and gulped down plain water.",
+    "prompt_vision": "A little boy bites into a bitter melon, scrunches his face, spits it out, and drinks plain water.",
+    "prompt_audio": "The boy spits out the bitter melon with a disgusted sound and gulps water quickly.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the sound of the boy biting the bitter melon occur at the moment he takes a bite?",
+      "Is there an audible reaction, such as a gasp or grunt, when the boy's face scrunches up?",
+      "Does the sound of spitting occur immediately after the boy reacts to the bitter melon?",
+      "Can the sound of water being gulped down be heard after the boy spits out the bitter melon?",
+      "Are all sounds synchronized with the boy's actions, such as biting, spitting, and drinking water?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the little boy visible taking a bite of bitter melon?",
+      "Does the boy's face appear scrunched up after biting the bitter melon?",
+      "Can you see the boy spitting out the bitter melon?",
+      "Is there plain water visible that the boy gulps down after spitting out the bitter melon?",
+      "Are the boy's facial expressions clearly showing a reaction to the bitter taste?"
+    ]
+  },
+  {
+    "prompt_en": "When the examinee found out that he had passed the important exam, he first froze in disbelief, then suddenly jumped up, cheered, and hugged his family.",
+    "prompt_vision": "A person freezes momentarily, then jumps up, cheers, and hugs their family.",
+    "prompt_audio": "Cheering sounds, excited vocal exclamations, and joyful murmurs.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a moment of silence or minimal sound when the examinee first freezes in disbelief?",
+      "Does the audio include a sudden increase in volume or energy when the examinee jumps up and cheers?",
+      "Can you hear the sound of cheering or a joyful exclamation when the examinee reacts to passing the exam?",
+      "Are there sounds of movement or rustling that correspond to the examinee jumping up?",
+      "Is there an audible indication of physical contact, such as a soft thud or rustling, when the examinee hugs his family?",
+      "Does the audio maintain a positive and celebratory tone throughout the examinee's reaction?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the examinee initially depicted standing still or frozen with a facial expression of disbelief?",
+      "Does the examinee appear to jump up with visible upward motion after the initial stillness?",
+      "Can the examinee be seen cheering with an open-mouthed expression or raised arms after jumping?",
+      "Are the examinee's family members visibly present and engaged in a hugging action with him after he cheers?"
+    ]
+  },
+  {
+    "prompt_en": "During the evening rush hour in the subway, a man in a suit stands alone in the corner, expressionless as he watches the billboards flashing past outside the window.",
+    "prompt_vision": "A man in a suit stands alone in the corner of a subway car during evening rush hour, expressionless, watching billboards flash past the window.",
+    "prompt_audio": "Muffled subway train sounds, distant chatter, and the rhythmic clatter of wheels on tracks.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the faint sound of billboards flashing or electronic display changes, as implied by their visibility outside the window?",
+      "Are the ambient sounds of the subway during rush hour, such as distant chatter or muffled footsteps, present but subdued to match the man's isolated position in the corner?",
+      "Is there an absence of prominent sounds from the man, such as vocalizations or movement noises, consistent with his expressionless and still demeanor?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the man wearing a suit?",
+      "Is the man standing alone in the corner?",
+      "Is the man's facial expression neutral or expressionless?",
+      "Are there billboards visible outside the subway window?",
+      "Is the lighting indicative of evening time, such as dim or artificial lighting?",
+      "Are the billboards outside the window flashing or changing?",
+      "Is the subway interior visible, suggesting a rush hour setting?"
+    ]
+  },
+  {
+    "prompt_en": "The boy wiped the sweat from his forehead, gripped his hiking pole tightly again, and took a firm step forward, staring at the steep mountain path ahead.",
+    "prompt_vision": "A boy wiping sweat from his forehead, gripping a hiking pole, and stepping forward on a steep mountain path.",
+    "prompt_audio": "heavy breathing and crunch of footsteps on gravel, firm footstep sound",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the sound of the boy gripping the hiking pole tightly match the expected subtle friction or material sound?",
+      "Is there an audible sound of the boy's firm step forward, such as a footstep noise consistent with the action?",
+      "Does the audio remain quiet or subdued, without prominent background noise, reflecting the focus on the boy's actions?",
+      "Can the sound of wiping sweat from the forehead be heard, such as a faint rubbing or brushing noise?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the boy visibly wiping sweat from his forehead with one hand?",
+      "Is the boy holding a hiking pole tightly in his other hand?",
+      "Is the boy taking a firm step forward with one leg clearly extended?",
+      "Is the boy staring directly at a steep mountain path ahead?",
+      "Is the boy's facial expression showing determination or focus?"
+    ]
+  },
+  {
+    "prompt_en": "The man returning from a business trip, dragging his suitcase, saw the light on at his doorstep from a distance and unconsciously quickened his pace.",
+    "prompt_vision": "A man dragging a suitcase approaches his doorstep at night, seeing a light on, and unconsciously quickens his pace.",
+    "prompt_audio": "rolling suitcase wheels and footsteps accelerating on pavement",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a sound of a suitcase being dragged as the man returns from his business trip?",
+      "Does the audio include footsteps that increase in frequency as the man quickens his pace?",
+      "Can the sound of the suitcase being dragged be heard consistently while the man is walking?",
+      "Is there an absence of loud or disruptive noises, suggesting a quiet environment as the man approaches his doorstep?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a man visible dragging a suitcase?",
+      "Is the light on at the doorstep visible from a distance?",
+      "Does the man appear to be walking quickly or with increased pace?",
+      "Is the suitcase being dragged behind the man?",
+      "Can the light at the doorstep be seen illuminating the area around it?"
+    ]
+  },
+  {
+    "prompt_en": "An astronomy enthusiast saw Saturn's rings through a telescope for the first time, so excited that their hands trembled, and they kept adjusting the focus to confirm the view.",
+    "prompt_vision": "An astronomy enthusiast looking through a telescope, hands trembling, adjusting the focus knob, with a view of Saturn's rings visible in the eyepiece.",
+    "prompt_audio": "Soft mechanical clicks of telescope focus adjustment, quiet gasps of awe, and subtle hand tremors.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a sound of hands trembling or shaking the telescope, such as a subtle rattling or vibration noise?",
+      "Does the audio include sounds of the telescope being adjusted, like clicks or mechanical noises?",
+      "Can the excitement of the astronomy enthusiast be heard through vocalizations such as gasps or exclamations?",
+      "Is there a quiet or subdued background sound, implying the setting is calm or focused on the telescope viewing?",
+      "Will the audio-visual synchronization reflect the timing of the telescope adjustments with corresponding sounds?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a telescope visible in the scene?",
+      "Are Saturn's rings clearly visible through the telescope?",
+      "Is the astronomy enthusiast's hand visibly trembling?",
+      "Does the astronomy enthusiast appear to be adjusting the focus of the telescope?",
+      "Is the astronomy enthusiast visibly excited, such as through facial expression or posture?"
+    ]
+  },
+  {
+    "prompt_en": "The programmer stared at the screen full of red error messages, tugged his hair in frustration, and slammed his coffee cup down on the desk.",
+    "prompt_vision": "Programmer stares at screen with red error messages, tugs hair, slams coffee cup on desk.",
+    "prompt_audio": "Frustrated sigh, hair tugging sound, coffee cup slamming on a desk.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a sound of the coffee cup being slammed onto the desk, with a noticeable impact noise?",
+      "Does the audio include the sound of the programmer tugging his hair, such as a subtle rustling or brushing sound?",
+      "Are the error messages on the screen accompanied by any alert or notification sounds, like beeps or chimes?",
+      "Is there a quiet ambient sound that suggests the environment is relatively still, aside from the described actions?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the screen displaying red error messages?",
+      "Is the programmer tugging his hair?",
+      "Is the coffee cup being slammed down on the desk?",
+      "Is the programmer's facial expression showing frustration?",
+      "Is the coffee cup visibly on the desk after being slammed?"
+    ]
+  },
+  {
+    "prompt_en": "The doctor saw the post-operative patient open their eyes and smile, leaned tiredly against the wall, and let out a long sigh of relief.",
+    "prompt_vision": "A doctor sees a post-operative patient open their eyes and smile, then leans tiredly against the wall.",
+    "prompt_audio": "A long sigh of relief.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a sound of a long sigh when the patient lets out a sigh of relief?",
+      "Is there a quiet or absent background noise when the patient opens their eyes and smiles?",
+      "Can you hear a subtle sound of the patient leaning against the wall?",
+      "Is the sigh synchronized with the visual action of the patient letting out a sigh?",
+      "Are the sounds of the patient's actions (opening eyes, smiling, sighing) appropriately soft, reflecting the post-operative context?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the patient depicted with their eyes open and smiling?",
+      "Is the doctor shown leaning tiredly against a wall?",
+      "Does the doctor appear to be letting out a long sigh of relief?",
+      "Are the patient's facial features clearly showing a smile?",
+      "Is the doctor positioned close enough to the wall to appear leaning against it?"
+    ]
+  },
+  {
+    "prompt_en": "The elderly man wiped the old phonograph, gently placed a vinyl record on it, and closed his eyes to hum along with the music from his youth.",
+    "prompt_vision": "An elderly man wiping an old phonograph, placing a vinyl record on it, and closing his eyes.",
+    "prompt_audio": "Soft humming along with vintage vinyl record music.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of the vinyl record being placed on the phonograph audible?",
+      "Does the audio include the characteristic crackling or popping sounds of a vinyl record playing?",
+      "Can the music from the phonograph be heard clearly and continuously after the record is placed?",
+      "Is the elderly man's humming synchronized with the music from the phonograph?",
+      "Is the volume of the music from the phonograph appropriate for a quiet, nostalgic setting?",
+      "Are there no unexpected or unrelated background noises during the scene?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there an elderly man visible in the scene?",
+      "Is the elderly man holding a cloth or similar item for wiping the phonograph?",
+      "Is there a phonograph present in the scene?",
+      "Is a vinyl record visible on the phonograph?",
+      "Are the elderly man's eyes closed?",
+      "Is the elderly man's mouth open slightly, suggesting he is humming?"
+    ]
+  },
+  {
+    "prompt_en": "The person who had said the wrong thing flushed crimson in an instant, stared down at their shoe tips, and nervously twisted their fingers in the hem of their clothes.",
+    "prompt_vision": "A person with a crimson-flushed face staring down at their shoe tips, nervously twisting their fingers in the hem of their clothes.",
+    "prompt_audio": "faint but harmonious sound",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there an absence of vocal sounds indicating silence after the person said the wrong thing?",
+      "Are there no additional sounds such as footsteps or movement noises, suggesting the person is standing still?",
+      "Is there no sound of fabric rustling that corresponds to the person nervously twisting their fingers in the hem of their clothes?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the person's face visibly flushed crimson?",
+      "Are the person's eyes directed downward towards their shoe tips?",
+      "Is the person twisting their fingers in the hem of their clothes?",
+      "Are the person's shoes visible in the image?",
+      "Does the person appear to be standing still without large body movement?"
+    ]
+  },
+  {
+    "prompt_en": "Tourists stand in the sprawling subway station, holding a map and looking left and right with a furrowed brow, unsure which way to go.",
+    "prompt_vision": "Tourists standing in a sprawling subway station, holding a map, looking left and right with furrowed brows.",
+    "prompt_audio": "indistinct ambient background",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include ambient sounds typical of a subway station, such as distant train noises or crowd murmurs?",
+      "Are the footsteps of tourists audible when they shift their positions or move slightly while standing?",
+      "Can the rustling of the map be heard as the tourists handle it?",
+      "Is the sound field consistent with the described subway station environment, with no abrupt or out-of-place noises?",
+      "Are the tourists' subtle vocalizations, such as sighs or murmured expressions of confusion, audible?"
+    ],
+    "auxiliary_info_vision": [
+      "Are the tourists holding a map in their hands?",
+      "Is there a visible furrowed brow on the tourists' faces?",
+      "Are the tourists looking left and right?",
+      "Is the subway station depicted as sprawling or expansive?",
+      "Are the tourists standing still, indicating uncertainty?"
+    ]
+  },
+  {
+    "prompt_en": "In the waiting room, the lady kept looking at her watch, her fingers rapidly tapping her knee, and her toes unconsciously tapping along.",
+    "prompt_vision": "A lady in a waiting room repeatedly glances at her watch, her fingers rapidly tapping her knee, and her toes tapping unconsciously.",
+    "prompt_audio": "Rapid finger tapping, subtle toe tapping, ambient waiting room sounds",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a sound of fingers tapping on a knee that matches the visual action of the lady's fingers moving?",
+      "Can the sound of toes tapping be heard and does it synchronize with the visual movement of the lady's toes?",
+      "Is the overall audio environment consistent with a quiet waiting room, with the tapping sounds being the most prominent?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a lady in the waiting room looking at her watch?",
+      "Are the lady's fingers visibly tapping her knee?",
+      "Can the lady's toes be seen tapping along unconsciously?",
+      "Is the lady's watch visible on her wrist?",
+      "Are the lady's legs positioned in a way that allows her toes to tap?"
+    ]
+  },
+  {
+    "prompt_en": "The chef tastes his freshly cooked dish, his eyes light up, and he smiles proudly while giving a thumbs-up.",
+    "prompt_vision": "A chef tastes his freshly cooked dish, eyes lighting up, smiling proudly while giving a thumbs-up.",
+    "prompt_audio": "soft chewing sound followed by a satisfied hum",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the sound of the chef tasting the dish, such as a soft chewing or sipping noise?",
+      "Is there a sound of the chef's expression of delight, like a satisfied sigh or hum?",
+      "Are the sounds of the chef's movements, such as the rustling of clothing or a subtle shift in position, audible?",
+      "Can the audio capture the chef's smile through a gentle exhalation or breath sound?",
+      "Is there synchronization between the chef's thumbs-up gesture and any accompanying sound, such as a subtle hand movement noise?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the chef holding or near a freshly cooked dish?",
+      "Are the chef's eyes visibly lit up or showing excitement?",
+      "Is the chef smiling in a proud manner?",
+      "Is the chef making a thumbs-up gesture with one hand?",
+      "Does the chef appear stationary while tasting the dish?"
+    ]
+  },
+  {
+    "prompt_en": "After spilling a drink and staining someone else's clothes, the teenager stood there flustered, repeatedly apologizing and too nervous to make eye contact.",
+    "prompt_vision": "A flustered teenager standing with head down, avoiding eye contact, near a spilled drink and stained clothing.",
+    "prompt_audio": "Repeated, nervous apologies from a teenager.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the teenager's voice audible and clear when they are apologizing?",
+      "Does the tone of the teenager's voice convey nervousness or flustered emotions?",
+      "Can you hear any background noise that might indicate a public or social setting, such as murmuring or distant chatter?",
+      "Are the apologies synchronized with the teenager's lip movements?",
+      "Is there an absence of loud or distracting noises that would overshadow the teenager's apologies?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visible stain on the other person's clothes?",
+      "Is the teenager's facial expression showing signs of nervousness or embarrassment, such as blushing or averted eyes?",
+      "Are the teenager's hands or arms positioned in a way that suggests they are apologizing, such as being raised or gesturing?",
+      "Is the other person visibly reacting to the stain, such as looking at their clothes or the teenager?",
+      "Is the spilled drink visible on the ground or surface nearby?"
+    ]
+  },
+  {
+    "prompt_en": "A woman returning home late at night heard footsteps behind her, suddenly quickened her pace, and at the same time quietly reached into her bag to feel for her phone.",
+    "prompt_vision": "A woman walking alone at night on a dimly lit street, reaching into her bag while walking quickly.",
+    "prompt_audio": "Footsteps on pavement, muffled rustling from a handbag, tense and quiet breathing.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a sound of footsteps following the woman as she returns home late at night?",
+      "Does the audio include the sound of footsteps quickening as the woman quickens her pace?",
+      "Can the sound of footsteps behind the woman be heard before she quickens her pace?",
+      "Are the footsteps behind the woman audible throughout the scene?",
+      "Is there a quiet or subtle sound when the woman reaches into her bag to feel for her phone?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the woman depicted walking quickly with visible motion in her legs?",
+      "Does the woman have one hand reaching into her bag as if searching for something?",
+      "Are the footsteps behind the woman visually represented by another person or shadow following her?",
+      "Is the scene set at night with low lighting conditions visible?",
+      "Can the woman's facial expression or body posture suggest alertness or concern?"
+    ]
+  },
+  {
+    "prompt_en": "The baby saw a moving toy train for the first time, crawled over to poke it, and then clapped his hands in delighted laughter.",
+    "prompt_vision": "A baby crawling toward a moving toy train and clapping hands with a joyful expression",
+    "prompt_audio": "Delighted baby laughter and soft clapping sounds",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the sound of a toy train moving when the baby sees it?",
+      "Is there a sound of crawling, such as soft shuffling or rustling, when the baby moves towards the train?",
+      "Can you hear the sound of the baby poking the toy train, such as a light tap or click?",
+      "Is there a sound of clapping when the baby claps his hands?",
+      "Does the audio include the sound of the baby laughing after clapping his hands?",
+      "Is the laughter synchronized with the baby's visual expression of delight?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a baby visibly crawling toward a moving toy train?",
+      "Is the toy train depicted as moving with visible motion, such as wheels turning or forward movement?",
+      "Does the baby appear to poke or touch the toy train with their hand?",
+      "Are the baby's hands shown clapping together after interacting with the toy train?",
+      "Does the baby have a facial expression indicating delighted laughter, such as an open mouth and smiling eyes?"
+    ]
+  },
+  {
+    "prompt_en": "The student rested his cheek on one hand while staring at the blackboard, twirling a pen in the other hand, with a blank expression, clearly lost in thought.",
+    "prompt_vision": "A student resting his cheek on one hand, staring at a blackboard, twirling a pen in the other hand, with a blank expression.",
+    "prompt_audio": "soft repetitive clicking or tapping of a pen",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the audio predominantly quiet, reflecting the student's stillness and lack of movement?",
+      "Does the audio lack any prominent sounds of writing or paper rustling, consistent with the student's inactivity?",
+      "Can the sound of the pen twirling be faintly heard, matching the subtle action described?",
+      "Is there an absence of vocalizations or dialogue, aligning with the student's silent contemplation?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the student resting his cheek on one hand?",
+      "Is the student staring at the blackboard?",
+      "Is the student twirling a pen in the other hand?",
+      "Does the student have a blank expression?",
+      "Is the student clearly lost in thought?"
+    ]
+  },
+  {
+    "prompt_en": "Seeing her friend receive an exquisite gift, the young girl curled her lip, lowered her head, and fiddled with her plain old bracelet.",
+    "prompt_vision": "A young girl curls her lip, lowers her head, and fiddles with her plain old bracelet while watching her friend receive an exquisite gift.",
+    "prompt_audio": "faint but harmonious sound",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a sound of the bracelet being fiddled with when the young girl interacts with it?",
+      "Is there an absence of prominent sounds when the young girl lowers her head, indicating a moment of quietness?",
+      "Is there no sound of vocalization from the young girl when she curls her lip, suggesting silence during this action?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the young girl depicted with her lip curled in a visible expression of displeasure or envy?",
+      "Is the young girl shown with her head lowered, indicating a downward gaze or posture?",
+      "Is the young girl visibly holding or touching a plain bracelet on her wrist or hand?",
+      "Is the friend shown receiving a gift that appears visually exquisite or ornate?",
+      "Are the young girl and her friend positioned in a way that suggests they are near each other?",
+      "Does the visual scene include the young girl and her friend as distinct individuals?",
+      "Is the young girl's body language consistent with a sense of discomfort or unease, such as slouched shoulders or a withdrawn posture?"
+    ]
+  },
+  {
+    "prompt_en": "After the little boy secretly ate the cookies and left crumbs, he quietly hid behind the door without making a sound when he saw his mother cleaning up.",
+    "prompt_vision": "A little boy hiding behind a door, crumbs on the floor, a woman cleaning nearby.",
+    "prompt_audio": "faint but harmonious sound",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio remain silent when the boy hides behind the door?",
+      "Is there an absence of sound when the boy moves to hide?",
+      "Are there no audible footsteps or movement sounds as the boy quietly hides?",
+      "Is there no sound of crumbs being disturbed or moved when the boy hides?",
+      "Does the audio lack any vocalizations or speech from the boy as he hides?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a little boy hiding behind a door in the scene?",
+      "Are there visible cookie crumbs left on a surface in the scene?",
+      "Is the boy's posture indicative of hiding, such as crouching or standing close to the door?",
+      "Is the mother depicted cleaning up in the scene, such as wiping or sweeping?",
+      "Does the boy appear quiet and still, without visible motion or noise-making actions?"
+    ]
+  },
+  {
+    "prompt_en": "The little girl held up her perfectly scored test paper for her parents to see, puffing out her small chest with pride, her eyes sparkling with confidence.",
+    "prompt_vision": "A little girl holding up a perfectly scored test paper, puffing out her chest with pride, eyes sparkling with confidence.",
+    "prompt_audio": "faint but harmonious sound or faint paper rustle sound",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the sound of paper rustling or being held as the girl shows her test paper?",
+      "Can the audio-visual synchronization accurately depict the puffing of the girl's chest without any mismatched breathing sounds?",
+      "Are the parents' reactions accompanied by appropriate audible cues, such as soft gasps or murmurs of approval?",
+      "Does the audio remain quiet or subdued, with no unexpected or distracting background noises, to match the calm and focused scene?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the little girl holding up a test paper with visible scoring marks?",
+      "Are the little girl's eyes sparkling, suggesting confidence?",
+      "Is the little girl puffing out her chest in a proud posture?",
+      "Are the parents visibly looking at the test paper held by the little girl?",
+      "Is the test paper positioned in a way that it is clearly visible to the viewer?"
+    ]
+  },
+  {
+    "prompt_en": "An international student, during a video call, saw home-cooked meals made by his parents and suddenly choked up, unable to speak.",
+    "prompt_vision": "International student on video call, tearful, trembling lip, looking at home-cooked meals from parents.",
+    "prompt_audio": "Soft, emotional silence with faint sniffles and a shaky breath.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a moment of silence or reduced audio when the student chokes up and becomes unable to speak?",
+      "Does the audio include any subtle sounds of emotional distress, such as a slight gasp or breath catching, when the student chokes up?",
+      "Can you hear any ambient sounds from the video call, such as faint background noise or the sound of the call connection, before the student chokes up?",
+      "Are the sounds of the video call, such as any background noise or faint voices, consistent with a typical video call environment?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the international student visibly emotional, with facial expressions such as teary eyes or a quivering lip?",
+      "Are there home-cooked meals visible on the screen during the video call?",
+      "Is the student holding or looking at a device that indicates a video call is taking place?",
+      "Does the student's mouth appear slightly open or closed, suggesting an inability to speak?",
+      "Are the student's eyes directed towards the screen, indicating engagement with the video call?",
+      "Is there a visible contrast between the student's location and the home-cooked meals, suggesting they are in different places?"
+    ]
+  },
+  {
+    "prompt_en": "The customer kept comparing the two pieces of clothing, picking them up and putting them down repeatedly, biting her lip as she struggled to make a decision.",
+    "prompt_vision": "A customer repeatedly picking up and putting down two pieces of clothing while biting her lip.",
+    "prompt_audio": "fabric rustling and soft lip-biting sound",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include sounds of clothing being picked up and put down repeatedly, such as rustling or fabric movement noises?",
+      "Is there an audible sound of lip biting, such as a soft click or subtle noise?",
+      "Are the sounds of clothing handling synchronized with the visual actions of picking up and putting down?",
+      "Is the ambient noise level low enough to emphasize the sounds of clothing handling and lip biting?",
+      "Can the audio convey the repetitive nature of the clothing comparison through consistent sound patterns?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the customer holding one piece of clothing in her hand while looking at another piece of clothing?",
+      "Does the customer alternate between picking up and putting down the pieces of clothing?",
+      "Is the customer biting her lip visibly as part of her expression?",
+      "Are the pieces of clothing placed within reach of the customer?",
+      "Is the customer visibly focused on the clothing while making her decision?"
+    ]
+  },
+  {
+    "prompt_en": "After receiving the breakup message, the girl initially cried, then wiped away her tears and calmly deleted the chat history.",
+    "prompt_vision": "A girl crying, then wiping her tears and deleting chat history on her phone.",
+    "prompt_audio": "Soft sobbing, followed by silence.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there an audible sound of crying when the girl initially cries after receiving the breakup message?",
+      "Does the sound of crying stop or diminish when the girl wipes away her tears?",
+      "Is there a noticeable absence of crying or other prominent sounds when the girl calmly deletes the chat history?",
+      "Can the sound of wiping away tears be heard after the initial crying?",
+      "Are there no unexpected loud or disruptive sounds during the scene where the girl deletes the chat history?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the girl visibly crying at the beginning of the scene?",
+      "Does the girl have tears on her face before she wipes them away?",
+      "Is the girl shown wiping her tears with her hand or a tissue?",
+      "Does the girl's facial expression change from sad to calm after wiping her tears?",
+      "Is the girl seen interacting with a mobile device or computer to delete the chat history?",
+      "Are the girl's actions of deleting the chat history depicted calmly without any visible signs of distress?",
+      "Is there a visible transition from crying to calmness in the girl's demeanor?"
+    ]
+  },
+  {
+    "prompt_en": "Upon hearing the good news, the person who had been listless suddenly sat up straight, and hope rekindled in their eyes.",
+    "prompt_vision": "A person sitting up straight with a sudden look of hope in their eyes.",
+    "prompt_audio": "Good news being announced.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a sound of movement or rustling as the person sits up straight?",
+      "Is there a noticeable change in the energy or volume of the person's breathing or vocalizations after hearing the good news?",
+      "Can the audio convey a sense of quietness or absence of prominent sounds before the person hears the good news?",
+      "Are any sounds of excitement or relief present in the audio after the person hears the good news?",
+      "Is there a clear transition in the audio from a subdued or listless state to a more alert or hopeful state?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the person sitting up straight in the image?",
+      "Are the person's eyes open and looking attentive?",
+      "Does the person's facial expression show signs of hope, such as a slight smile or raised eyebrows?",
+      "Is the person's body posture more upright compared to a relaxed or slouched position?",
+      "Can the person's eyes be seen clearly, indicating a change in expression or emotion?"
+    ]
+  },
+  {
+    "prompt_en": "The homeless man curled up in the street corner, oblivious to the passersby's charity and the surrounding noise, staring blankly into the distance.",
+    "prompt_vision": "A homeless man curled up in a street corner, staring blankly into the distance, with passersby nearby.",
+    "prompt_audio": "Surrounding urban noise, indistinct chatter, and footsteps of passersby.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the surrounding noise audible and consistent with a street environment, such as distant traffic or indistinct chatter?",
+      "Does the audio remain quiet or subdued when the homeless man is described as staring blankly into the distance?",
+      "Are there no prominent sounds indicating interaction or acknowledgment from the homeless man toward the passersby?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the man curled up in a street corner?",
+      "Does the man appear oblivious to the passersby?",
+      "Is the man staring blankly into the distance?",
+      "Are there passersby visible near the man?",
+      "Is the man visibly homeless based on clothing style or appearance?"
+    ]
+  },
+  {
+    "prompt_en": "After receiving help from a stranger, the elderly man bowed deeply with his hands clasped together, tears of gratitude in his eyes.",
+    "prompt_vision": "An elderly man bowing deeply with his hands clasped together, tears in his eyes.",
+    "prompt_audio": "soft sound",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a soft sound of the elderly man's clothing rustling as he bows deeply?",
+      "Are there quiet sounds of the elderly man's hands clasping together?",
+      "Is there a subtle sound of the elderly man sniffing or softly sobbing, indicating tears of gratitude?",
+      "Is the overall audio environment quiet, reflecting the solemnity of the moment?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the elderly man bowing deeply with his hands clasped together?",
+      "Are there visible tears in the elderly man's eyes?",
+      "Does the elderly man's facial expression convey gratitude?",
+      "Is the elderly man depicted as elderly, with features such as gray hair or wrinkles?",
+      "Is the elderly man wearing clothing typically associated with older individuals, such as a sweater or cardigan?"
+    ]
+  },
+  {
+    "prompt_en": "When the exam ended and the bell rang, a student suddenly realized he had missed an entire question and slapped his forehead in frustration.",
+    "prompt_vision": "A student slaps his forehead in frustration after the exam ends and the bell rings, realizing he missed an entire question.",
+    "prompt_audio": "School bell ringing, followed by a sharp slap sound and a frustrated sigh.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the sound of the bell ringing occur immediately after the exam ends?",
+      "Is there a distinct slapping sound when the student hits his forehead?",
+      "Can the sound of the bell ringing be clearly distinguished from other potential background noises?",
+      "Is the timing of the slapping sound synchronized with the student's visible action of hitting his forehead?",
+      "Are the sounds of the bell and the slap free from noticeable distortion or noise?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a student visible in the scene?",
+      "Does the student appear to be slapping his forehead?",
+      "Is the student's facial expression showing frustration?",
+      "Can the bell be seen ringing or visually implied in the scene?",
+      "Are the student's clothes typical of a school setting?",
+      "Is the student's hand visibly making contact with his forehead?",
+      "Is there a visible indication that the exam has ended, such as papers or a clock showing the end time?"
+    ]
+  },
+  {
+    "prompt_en": "The child pressed his nose against the glass of the dessert shop window, staring longingly at the cakes inside.",
+    "prompt_vision": "A child pressing his nose against the glass window of a dessert shop, looking at cakes inside.",
+    "prompt_audio": "faint sound",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the faint sound of the child's breathing as he presses his nose against the glass?",
+      "Is there an absence of prominent background noise or loud sounds, implying a quiet environment as the child stares at the cakes?",
+      "Can the sound of the child's movement, such as a soft shuffle or subtle rustle, be heard as he approaches the glass?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a child pressing his nose against a glass window?",
+      "Are there cakes visible inside the shop window?",
+      "Is the child looking through the glass with a longing expression?",
+      "Does the glass window show signs of being pressed against, such as a nose mark?",
+      "Are the cakes positioned in a way that they are visible from the outside through the window?"
+    ]
+  },
+  {
+    "prompt_en": "Hearing the familiar footsteps approaching, the previously alert pet dog immediately wagged its tail and rushed to the door.",
+    "prompt_vision": "A pet dog wagging its tail and rushing toward a door.",
+    "prompt_audio": "Familiar footsteps approaching.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a sound of footsteps approaching that matches the timing of the dog's reaction?",
+      "Does the audio include the sound of a dog's tail wagging or similar movement noises?",
+      "Can the sound of the dog's movement towards the door be heard clearly?",
+      "Is there an absence of unrelated or unexpected loud noises during the sequence?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the pet dog visibly wagging its tail?",
+      "Does the pet dog appear to be in motion towards the door?",
+      "Are the dog's legs in a running position, indicating movement?",
+      "Is the dog's body oriented towards the door?",
+      "Can the dog's ears be seen in an alert or attentive position?"
+    ]
+  },
+  {
+    "prompt_en": "While waiting for the interview results, the job seeker kept adjusting his tie, crossing and uncrossing his legs, and appeared visibly restless.",
+    "prompt_vision": "A job seeker sitting nervously, repeatedly adjusting his tie and crossing and uncrossing his legs while waiting for interview results.",
+    "prompt_audio": "fabric rustling and faint chair creaking",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the sound of the tie being adjusted match the expected subtle fabric rustling or movement noises?",
+      "Are there audible sounds of the legs crossing and uncrossing, such as faint clothing friction or movement noises?",
+      "Is the overall soundscape consistent with the implied quietness of waiting, without prominent background noise or distractions?",
+      "Can the audio convey subtle movements associated with restlessness, such as shifting or fidgeting sounds?",
+      "Are the sounds of physical adjustments synchronized with the visible actions in the video?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the job seeker adjusting his tie?",
+      "Are the job seeker's legs being crossed and uncrossed?",
+      "Does the job seeker appear visibly restless?",
+      "Is the job seeker sitting down?",
+      "Can you see the job seeker's tie clearly?"
+    ]
+  },
+  {
+    "prompt_en": "A music enthusiast sways gently with eyes closed and headphones on, completely immersed in the melody, a smile playing on the lips.",
+    "prompt_vision": "A person sways gently with eyes closed and headphones on, smiling softly.",
+    "prompt_audio": "Melodic music playing through headphones",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the audio output consistent with music playing through headphones, with no external ambient sounds dominating?",
+      "Does the audio maintain a consistent melody that matches the gentle swaying motion described?",
+      "Can the audio be heard clearly as if it is being listened to through headphones, without distortion or noise?",
+      "Is the volume of the music appropriate for a person who is completely immersed, neither too loud nor too soft?",
+      "Are there no unexpected or jarring sounds that would disrupt the immersion of the music enthusiast?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the person wearing headphones visible in the image?",
+      "Are the person's eyes closed?",
+      "Is there a gentle swaying motion of the person's body?",
+      "Is there a visible smile on the person's lips?",
+      "Does the person's facial expression suggest relaxation or enjoyment?",
+      "Is the person's posture indicative of being immersed in music?",
+      "Are the person's arms and hands relaxed, without any tense or abrupt movements?"
+    ]
+  },
+  {
+    "prompt_en": "A camper heard a strange noise outside the tent in the middle of the night, immediately held their breath, and quietly reached for the flashlight used for self-defense.",
+    "prompt_vision": "A camper inside a tent at night, holding their breath and reaching for a flashlight.",
+    "prompt_audio": "Strange noise outside a tent at night, followed by silence.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a strange noise audible outside the tent when the camper hears it?",
+      "Does the audio reflect the camper holding their breath, with a noticeable absence of breathing sounds?",
+      "Can the sound of the camper quietly reaching for the flashlight be heard, with minimal noise?",
+      "Is there a lack of additional prominent sounds indicating silence or stillness in the environment when the camper holds their breath?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the camper inside a tent visible in the scene?",
+      "Is the camper shown holding their breath with minimal visible movement?",
+      "Is the camper depicted quietly reaching for a flashlight?",
+      "Is the flashlight visible near the camper's hand or within reach?",
+      "Is the scene set in nighttime lighting conditions?"
+    ]
+  },
+  {
+    "prompt_en": "Flipping through the graduation album, the middle-aged man pointed at the names in the photo, laughing at first, but suddenly his eyes welled up with tears.",
+    "prompt_vision": "A middle-aged man flipping through a graduation album, pointing at names in a photo, laughing initially, then with tears welling up in his eyes.",
+    "prompt_audio": "Soft laughter turning into a quiet, emotional sniffle.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the sound of pages being flipped as the man goes through the album?",
+      "Is there a sound of laughter that matches the man's initial reaction to the photos?",
+      "Can the audio capture a change in the man's vocal tone or breathing that indicates a shift from laughter to crying?",
+      "Are there subtle sounds of tears or sniffles when the man's eyes well up with tears?",
+      "Is the transition from laughter to tears audibly smooth and natural, reflecting the emotional shift described in the prompt?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a middle-aged man visible in the image?",
+      "Is the man pointing at names in a photo within a graduation album?",
+      "Are the man's facial expressions showing laughter initially?",
+      "Do the man's eyes appear to be welling up with tears after laughing?",
+      "Is the graduation album open and visible in the scene?"
+    ]
+  },
+  {
+    "prompt_en": "Opening the locker, I found a birthday cake hidden inside, a surprise from a friend, and immediately covered my mouth in shock, letting out a delighted scream.",
+    "prompt_vision": "A person opening a locker to reveal a birthday cake hidden inside, covering their mouth in shock with wide eyes and a delighted expression.",
+    "prompt_audio": "A sudden, high-pitched delighted scream followed by muffled gasps of surprise.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the sound of the locker opening occur at the beginning of the audio sequence?",
+      "Is there a sound of a birthday cake being revealed or placed inside the locker?",
+      "Can you hear a gasp or sound of surprise when the mouth is covered in shock?",
+      "Is there a delighted scream audible after the locker is opened and the cake is revealed?",
+      "Are the sounds synchronized with the actions described, such as the scream following the discovery of the cake?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a locker visible in the image or video?",
+      "Is there a birthday cake visible inside the locker?",
+      "Is the person covering their mouth with their hand?",
+      "Does the person appear to be in a state of surprise or shock based on their facial expression?",
+      "Is the locker door open, revealing the contents inside?",
+      "Is the person's mouth open, suggesting a scream or exclamation?",
+      "Is there a visible indication of the cake being a surprise, such as decorations or a note?"
+    ]
+  },
+  {
+    "prompt_en": "An office worker, working late into the night, removes his glasses to rub his eyes, the glow from the computer screen reflecting off his tired face.",
+    "prompt_vision": "An office worker working late at night removes his glasses to rub his eyes, with the glow from the computer screen reflecting off his tired face.",
+    "prompt_audio": "soft keyboard tapping and faint hum of computer fan",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a sound of glasses being removed when the office worker takes them off?",
+      "Does the audio maintain a quiet or subdued atmosphere, reflecting the late-night setting?",
+      "Can you hear subtle sounds of the office worker rubbing his eyes?",
+      "Is there an absence of loud or distracting noises, consistent with the quietness of a late-night office environment?",
+      "Are the sounds synchronized with the visual actions, such as the removal of glasses and rubbing of eyes?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there an office worker visible in the scene?",
+      "Is the office worker depicted without glasses at the moment?",
+      "Is the office worker rubbing his eyes?",
+      "Is there a computer screen visible in the scene?",
+      "Does the computer screen emit a glow?",
+      "Is the glow from the computer screen reflecting off the office worker's face?",
+      "Is the office worker's face showing signs of tiredness?"
+    ]
+  },
+  {
+    "prompt_en": "On the eve of the wedding, the bride tries on her veil repeatedly, smiling foolishly at the mirror, her fingers trembling with nervous excitement.",
+    "prompt_vision": "A bride trying on her veil in front of a mirror, smiling foolishly, her fingers visibly trembling.",
+    "prompt_audio": "soft rustling of fabric and faint nervous exhale",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a sound of fabric rustling as the bride tries on her veil repeatedly?",
+      "Can the audio include soft footsteps or movement sounds as the bride moves around?",
+      "Are there subtle sounds of the bride's fingers trembling or adjusting the veil?",
+      "Is there a quiet ambiance suggesting a calm, indoor setting as the bride smiles at the mirror?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the bride wearing a veil in the image or video?",
+      "Is the bride looking at a mirror in the scene?",
+      "Is the bride smiling in a way that appears exaggerated or playful?",
+      "Are the bride's fingers visibly trembling or showing signs of nervousness?",
+      "Is the bride interacting with the veil, such as adjusting or trying it on?"
+    ]
+  },
+  {
+    "prompt_en": "Years later, when the two old friends met again, they exchanged a smile, and all the past misunderstandings and estrangement vanished in their laughter.",
+    "prompt_vision": "Two elderly friends smiling and laughing together, their faces lit with warmth and reconciliation.",
+    "prompt_audio": "Gentle, heartfelt laughter shared between two people, filled with relief and joy.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the sound of laughter when the two friends meet again?",
+      "Is there an audible exchange of smiles, such as soft chuckles or sighs, when the friends reunite?",
+      "Can the audio capture the absence of any prominent background noise during the moment of laughter, emphasizing the friends' interaction?"
+    ],
+    "auxiliary_info_vision": [
+      "Are both individuals smiling at each other?",
+      "Is there visible laughter between the two individuals?",
+      "Are the two individuals facing each other?",
+      "Is there a sense of closeness or lack of physical distance between the two individuals?",
+      "Are the facial expressions of both individuals indicative of happiness or amusement?"
+    ]
+  }
+]

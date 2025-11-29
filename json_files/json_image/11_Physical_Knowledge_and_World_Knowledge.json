@@ -1,0 +1,1194 @@
+[
+  {
+    "prompt_en": "An airplane flying through the clouds, its engine roar filling the entire soundscape with pitch variations due to the Doppler effect. The sound of the aircraft propagates through the air, gradually decreasing in volume, accompanied by background wind noise and occasional bird calls. The primary sound source is the aircraft's engine, producing a deep, powerful timbre with a steady rhythm. Ambient sounds include wind and faint friction noises from the clouds.",
+    "prompt_vision": "An airplane flying through the clouds.",
+    "prompt_audio": "A deep, powerful engine roar with pitch variations due to the Doppler effect, gradually decreasing in volume, accompanied by wind noise, faint cloud friction sounds, and occasional bird calls.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the sound of an airplane engine with a deep, powerful timbre and steady rhythm?",
+      "Is there a noticeable decrease in the volume of the airplane engine sound as it propagates through the air?",
+      "Are pitch variations present in the airplane engine sound due to the Doppler effect?",
+      "Is there background wind noise accompanying the airplane engine sound?",
+      "Are occasional bird calls audible amidst the airplane engine and wind noise?",
+      "Is there faint friction noise from the clouds audible in the soundscape?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the airplane visible flying through the clouds?",
+      "Are the clouds partially obscuring parts of the airplane?",
+      "Does the airplane have visible engines?",
+      "Is there visible motion suggesting the airplane is flying forward?",
+      "Are the clouds showing signs of movement or deformation due to the airplane's passage?",
+      "Is there visible wind movement in the clouds?",
+      "Are there birds visible in the scene?"
+    ]
+  },
+  {
+    "prompt_en": "Under a gray sky, a large passenger aircraft is flying toward the observer. The roar of its engines fills the entire soundscape, growing louder as the plane approaches. The engine tone is deep and powerful, with a steady rhythm, occasionally accompanied by the whooshing sound of airflow. As the aircraft draws nearer, the Doppler effect is clearly noticeable, with the frequency gradually increasing. There are no other prominent sounds in the environment; the aircraft's sound dominates the scene entirely.",
+    "prompt_vision": "Under a gray sky, a large passenger aircraft flying toward the observer.",
+    "prompt_audio": "Loud, deep, powerful jet engine roar with steady rhythm, whooshing airflow, clear Doppler effect with rising frequency, no other sounds present.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of the aircraft's engines deep and powerful, with a steady rhythm?",
+      "Does the engine sound grow louder as the aircraft approaches the observer?",
+      "Is the whooshing sound of airflow occasionally audible alongside the engine noise?",
+      "Is the Doppler effect noticeable, with the frequency of the engine sound increasing as the aircraft gets closer?",
+      "Are there no other prominent sounds in the environment besides the aircraft's noise?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the sky depicted as gray in the image or video?",
+      "Is there a large passenger aircraft visible flying toward the observer?",
+      "Are the engines of the aircraft visibly running, suggesting motion toward the observer?",
+      "Is the aircraft's nose pointed in the direction of the observer, indicating an approach?",
+      "Are the wings of the aircraft visible and extended outward from the fuselage?",
+      "Is there a visible sense of motion or directionality suggesting the aircraft is approaching?",
+      "Is the aircraft the dominant visual element in the scene, with no other prominent objects or distractions?"
+    ]
+  },
+  {
+    "prompt_en": "Generate a jet aircraft sound effect flying at high altitude, emphasizing the low-frequency rumble of the engines, accompanied by subtle whooshing from airflow and distant reverberation with volume attenuation. Gradually decrease the volume to simulate the Doppler effect as the aircraft moves away from the listener. Include background ambient sounds of high-altitude wind; the overall timbre should be clear yet soft, avoiding any harshness.",
+    "prompt_vision": "A jet aircraft flying high in the sky, distant and receding, with clear atmospheric conditions.",
+    "prompt_audio": "Low-frequency jet engine rumble with subtle airflow whooshing, distant reverberation, and high-altitude wind ambience; volume gradually decreases to simulate Doppler effect as the aircraft moves away; overall timbre is clear and soft without harshness.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a low-frequency rumble that is characteristic of jet engines at high altitude?",
+      "Is there a subtle whooshing sound present that represents airflow around the jet aircraft?",
+      "Are distant reverberations included in the audio, contributing to the sense of high altitude?",
+      "Does the volume of the jet aircraft sound gradually decrease to simulate the Doppler effect as it moves away from the listener?",
+      "Is there ambient sound of high-altitude wind present in the background?",
+      "Is the overall timbre of the audio clear yet soft, avoiding any harshness?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visual representation of a jet aircraft flying at high altitude, with clear depiction of its shape and size?",
+      "Are there visual cues indicating the aircraft's engines, such as visible exhaust trails or engine nacelles, that suggest a low-frequency rumble?",
+      "Is the lighting in the visual scene soft and clear, avoiding harsh contrasts, to match the described timbre?",
+      "Are there visual elements that suggest the aircraft is moving away, such as decreasing size or fading colors, simulating the Doppler effect?"
+    ]
+  },
+  {
+    "prompt_en": "In a clear sky, a large passenger aircraft is flying, its engine roar filling the entire soundscape. As the plane moves, the frequency and volume of the sound gradually change, simulating the Doppler effect. Faint wind noise in the background enhances the realism of the aerial environment.",
+    "prompt_vision": "A large passenger aircraft flying through a clear sky.",
+    "prompt_audio": "Loud engine roar with gradually changing frequency and volume simulating the Doppler effect, accompanied by faint wind noise.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a prominent engine roar that fills the soundscape as described?",
+      "Does the sound of the aircraft's engine change in frequency and volume over time to simulate the Doppler effect as the plane moves?",
+      "Is there faint wind noise present in the background to enhance the aerial environment?",
+      "Are the changes in engine sound frequency and volume smooth and gradual, consistent with the motion of a large passenger aircraft?",
+      "Can the engine roar and wind noise coexist without noticeable distortion or interference?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a large passenger aircraft visible in the sky?",
+      "Is the sky clear without any clouds?",
+      "Are the engines of the aircraft visibly running?",
+      "Is the aircraft in motion, indicating flight?",
+      "Is the aircraft's orientation consistent with forward flight?",
+      "Are there no visible obstructions or objects in the sky besides the aircraft?"
+    ]
+  },
+  {
+    "prompt_en": "A fighter jet flies through the canyon, its jet engine roaring as the sound echoes within the narrow space, creating a strong Doppler effect. The engine noise intensifies and fades with the aircraft's high-speed flight, accompanied by the sound of air being sliced. In the background, faint wind and occasional bird calls can be heard, enhancing the realism of the environment.",
+    "prompt_vision": "A fighter jet flying through a narrow canyon with rocky walls.",
+    "prompt_audio": "Roaring jet engine with strong Doppler effect, intensifying and fading with high-speed flight, slicing air sounds, faint wind, and occasional bird calls.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the jet engine noise clearly audible and does it exhibit a strong Doppler effect as the jet flies through the canyon?",
+      "Does the sound of the jet engine intensify and fade appropriately with the aircraft's high-speed movement?",
+      "Can the sound of air being sliced be distinctly heard as the jet flies through the canyon?",
+      "Are the echoes of the jet engine noise perceptible within the narrow space of the canyon?",
+      "Is there a faint sound of wind in the background, enhancing the realism of the environment?",
+      "Are occasional bird calls audible in the background, contributing to the environmental realism?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the fighter jet visible flying through the canyon?",
+      "Does the jet engine appear to be active with visible exhaust or heat distortion?",
+      "Can the canyon be seen as narrow, suggesting limited space around the jet?",
+      "Are the jet's wings angled or positioned to imply high-speed flight?",
+      "Is there visible motion blur indicating the jet's rapid movement?"
+    ]
+  },
+  {
+    "prompt_en": "In the sky, two aircraft fly at high speed. The jet engines of the modern fighter emit a deep, powerful roar, accompanied by air vibrations and frequency shifts due to the Doppler effect. The engine of the vintage propeller plane produces a higher-pitched humming sound, with the distinct noise of propellers slicing through the air clearly audible. As the two planes pass each other in flight, the sound field continuously shifts with their movement, and volume diminishes with distance. In the background, faint wind rustles and occasional bird calls form an open, spacious ambient soundscape.",
+    "prompt_vision": "Two aircraft flying at high speed in the sky: a modern fighter jet and a vintage propeller plane passing each other.",
+    "prompt_audio": "Deep, powerful roar of jet engines with Doppler effect frequency shifts, higher-pitched humming from a propeller engine, distinct propeller slicing sounds, shifting sound field as planes move, volume decreasing with distance, faint wind rustles, and occasional bird calls creating a spacious ambient soundscape.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a deep, powerful roar from the jet engines of the modern fighter plane?",
+      "Is there a higher-pitched humming sound from the engine of the vintage propeller plane?",
+      "Can the distinct noise of propellers slicing through the air be clearly heard?",
+      "Are there noticeable frequency shifts in the audio due to the Doppler effect as the planes move?",
+      "Does the sound field shift continuously with the movement of the planes?",
+      "Is the volume of the aircraft sounds diminishing as the planes move further away?",
+      "Are faint wind rustles and occasional bird calls present in the background to create an open, spacious ambient soundscape?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there two aircraft visible in the sky?",
+      "Is one of the aircraft a modern fighter jet with visible jet engines?",
+      "Is the other aircraft a vintage propeller plane with visible propellers?",
+      "Are both aircraft depicted as flying at high speed?",
+      "Is there a visible interaction or passing motion between the two aircraft?",
+      "Is the modern fighter jet depicted with visible signs of high-speed flight, such as contrails or blurred motion?",
+      "Is the vintage propeller plane depicted with visible propeller motion, such as spinning blades or motion blur?"
+    ]
+  },
+  {
+    "prompt_en": "Against a blue sky background, a twin-engine fighter jet flies by, accompanied by the roar of its engines and the whooshing of air. The engine sound carries a strong low-frequency vibration, intensifying as the aircraft approaches and then fading as it moves away, clearly demonstrating the Doppler effect. The soundscape is expansive, with volume fluctuating according to the aircraft's distance, creating a powerful rhythmic sensation, as if performing an aerial display. Occasional gusts of wind in the ambient sound enhance the sense of flight speed.",
+    "prompt_vision": "Against a blue sky background, a twin-engine fighter jet flies by.",
+    "prompt_audio": "Roaring jet engines with strong low-frequency vibration, whooshing air, Doppler effect as the aircraft approaches and recedes, fluctuating volume creating a rhythmic sensation, occasional gusts of wind enhancing the sense of speed.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the roar of the fighter jet's engines present and clearly audible throughout the flyby?",
+      "Does the engine sound exhibit a strong low-frequency vibration that intensifies as the jet approaches and fades as it moves away, demonstrating the Doppler effect?",
+      "Is there a noticeable fluctuation in volume corresponding to the aircraft's distance, creating a rhythmic sensation?",
+      "Are occasional gusts of wind audible in the ambient sound, enhancing the sense of flight speed?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a twin?",
+      "Are both engines of the fighter jet visible?",
+      "Is the fighter jet shown in motion, indicating flight?",
+      "Does the visual imply the presence of wind gusts, such as through visible air disturbance or motion blur?",
+      "Is the fighter jet depicted with a clear forward motion direction?",
+      "Are the engines of the fighter jet shown with visual cues of operation, such as exhaust or heat distortion?"
+    ]
+  },
+  {
+    "prompt_en": "Under a clear sky, several jet aircraft are flying in formation, trailing colorful smoke from their exhausts. The roar of the engines echoes through the air, with the frequency and volume changing due to the Doppler effect as the planes move at high speed. The distance and relative velocity between the aircraft influence the distribution of the sound field, creating complex patterns of sound wave interference. Faint sounds of wind blend into the environment, enhancing the sense of dynamic motion in the flight.",
+    "prompt_vision": "Several jet aircraft flying in formation under a clear sky, trailing colorful smoke from their exhausts.",
+    "prompt_audio": "Roaring jet engines with Doppler-shifted frequency and volume, complex sound wave interference patterns, and faint wind sounds.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the roar of the jet engines audible and does it change in frequency and volume due to the Doppler effect as the aircraft move?",
+      "Does the audio include complex patterns of sound wave interference created by the distance and relative velocity between the aircraft?",
+      "Are faint sounds of wind present, blending into the environment to enhance the sense of dynamic motion?",
+      "Is there a noticeable echo of the jet engine sounds as they travel through the air?",
+      "Does the audio maintain a consistent presence of engine noise throughout the sequence, reflecting the continuous flight of the jets?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a clear sky visible above the jet aircraft?",
+      "Are multiple jet aircraft visible flying in formation?",
+      "Is colorful smoke visible trailing from the exhausts of the jet aircraft?",
+      "Are the jet aircraft depicted as moving at high speed?",
+      "Is there visible motion suggesting dynamic flight of the jet aircraft?"
+    ]
+  },
+  {
+    "prompt_en": "On the beach, a crowd gathers to watch an aerial flight performance. The airplane speeds through the sky, accompanied by the roar of its engine, producing a Doppler effect as it moves. Waves gently lap against the shore, while occasional cheers and applause rise from the crowd. The soundscape is expansive, with the aircraft's noise echoing through the air, diminishing in volume as distance increases.",
+    "prompt_vision": "A crowd on a beach watching an airplane performing aerial maneuvers in the sky above.",
+    "prompt_audio": "Roaring airplane engine with Doppler effect, gentle waves lapping on shore, occasional cheers and applause from the crowd, aircraft noise echoing and fading with distance.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the roar of the airplane engine as it speeds through the sky?",
+      "Is there a noticeable Doppler effect in the sound of the airplane engine as it moves?",
+      "Are the sounds of waves gently lapping against the shore present in the audio?",
+      "Can occasional cheers and applause from the crowd be heard in the audio?",
+      "Does the aircraft's noise echo through the air, diminishing in volume as it moves further away?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there an airplane visible in the sky during the aerial flight performance?",
+      "Does the airplane appear to be moving at high speed through the sky?",
+      "Are there visible waves gently lapping against the shore?",
+      "Is there a crowd gathered on the beach watching the aerial flight performance?",
+      "Can the airplane's motion direction be inferred visually, such as through its orientation or trail effects?"
+    ]
+  },
+  {
+    "prompt_en": "On a rural road at night, an ambulance is parked by the side, its blue roof lights flashing and emitting urgent alarm sounds. The distant city lights are faintly visible, and the surroundings occasionally carry soft chirps of insects and rustling wind. The ambulance engine hums low, with occasional faint footsteps heard from inside, accompanied by the sound of doors opening and closing. The soundscape centers around the ambulance; as the warning lights flash, the rhythm of the siren intensifies, creating a tense atmosphere.",
+    "prompt_vision": "An ambulance parked on a rural road at night with flashing blue roof lights, faint distant city lights visible, surrounded by darkness.",
+    "prompt_audio": "Urgent ambulance siren with intensifying rhythm, low engine hum, occasional faint footsteps, doors opening and closing, soft insect chirps, and rustling wind.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of the ambulance's urgent alarm clearly audible and synchronized with the flashing blue roof lights?",
+      "Does the audio include the low hum of the ambulance engine consistently in the background?",
+      "Are the soft chirps of insects and rustling wind occasionally audible, contributing to the rural night ambiance?",
+      "Is there a sound of doors opening and closing that corresponds with the described activity around the ambulance?",
+      "Are the distant city lights represented by a subtle, non-intrusive audio element, such as a faint hum or distant traffic noise?",
+      "Does the rhythm of the siren intensify in a way that enhances the tense atmosphere as described?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the ambulance parked by the side of a rural road?",
+      "Are the blue roof lights of the ambulance visibly flashing?",
+      "Is the ambulance visible with faint distant city lights in the background?",
+      "Is the visual atmosphere tense, with flashing lights contributing to the urgency?",
+      "Are the doors of the ambulance visibly opening and closing?",
+      "Is the ambulance engine visually still, indicating it is not moving?"
+    ]
+  },
+  {
+    "prompt_en": "Above a city shrouded in thick clouds at night, a bright lightning bolt streaks across the sky, followed by a deafening clap of thunder. Over the distant river, the thunder echoes with a deep and expansive soundscape, accompanied by the gentle natural sound of water lapping against the banks. The atmosphere is charged with the energy of the storm, as irregular pulses of thunder arrive in unpredictable rhythms. Pay attention to the distance of the sound source and the delay effect of thunder, accurately matching the time gap between lightning and thunder depicted in the scene, while capturing subtle changes in the surrounding environmental sounds.",
+    "prompt_vision": "A bright lightning bolt streaks across the night sky above a city shrouded in thick clouds, with a distant river visible below.",
+    "prompt_audio": "A deafening clap of thunder follows the lightning with an accurate delay, echoing deeply over the river, accompanied by gentle water lapping against the banks; irregular, unpredictable pulses of thunder roll in with subtle environmental ambience.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a loud thunderclap immediately following the lightning bolt, with a delay matching the depicted distance in the scene?",
+      "Are the echoes of thunder over the distant river rendered with a deep and expansive soundscape, creating a sense of spatial depth?",
+      "Can the audio capture the gentle sound of water lapping against the riverbanks, maintaining a natural and consistent timbre?",
+      "Are the irregular pulses of thunder presented with unpredictable rhythms, matching the chaotic energy of the storm?",
+      "Does the audio accurately reflect subtle changes in the surrounding environmental sounds, such as variations in intensity or texture during the storm?",
+      "Is the timing of thunder delays consistent with the implied distance of the lightning strikes in the scene?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a city visible beneath thick clouds at night?",
+      "Is there a bright lightning bolt streaking across the sky?",
+      "Are the clouds visibly thick and covering much of the sky?",
+      "Is the scene illuminated by the lightning bolt when it strikes?",
+      "Are the surroundings dark except for the light from the lightning?",
+      "Is the river visible in the distance?",
+      "Does the lightning bolt appear above the city and river?"
+    ]
+  },
+  {
+    "prompt_en": "On a stormy night, lightning splits the sky, accompanied by the rumbling of thunder. The sound of thunder arrives from afar, growing louder and deeper with each flash of lightning, powerful and overwhelming, then gradually fading away. Raindrops beat against the roof and windows, creating a continuous background rhythm, occasionally interspersed with gusts of wind. The entire soundscape is filled with the power and dynamic changes of nature.",
+    "prompt_vision": "A stormy night with lightning splitting the sky, rain falling heavily, and wind gusts shaking trees and structures.",
+    "prompt_audio": "Rumbling thunder growing louder and deeper with each lightning flash, powerful and overwhelming, then fading; continuous raindrops beating on roof and windows, interspersed with gusts of wind; dynamic natural soundscape.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a synchronized sound of thunder following each flash of lightning, with the thunder's volume increasing and deepening over time?",
+      "Does the sound of thunder gradually fade away after reaching its peak intensity?",
+      "Is there a continuous background rhythm of raindrops hitting the roof and windows?",
+      "Are there occasional gusts of wind audible, interspersed with the sound of raindrops?",
+      "Is the overall soundscape filled with dynamic changes in volume and intensity, reflecting the power of a stormy night?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there visible lightning splitting the sky?",
+      "Are raindrops visibly hitting the roof and windows?",
+      "Can gusts of wind be seen affecting objects like trees or flags?",
+      "Is the sky dark, suggesting a stormy night?",
+      "Are there visible reflections or water trails on the windows from the rain?",
+      "Does the scene show occasional bright flashes from the lightning?",
+      "Are objects outside visibly swaying or moving due to the wind?"
+    ]
+  },
+  {
+    "prompt_en": "In a long tunnel, vehicles speed through, producing low engine rumbles and the sound of tires gripping the road. The concrete walls reflect sound waves, creating an echoing effect. As the vehicles move, the frequency and volume of the sounds gradually shift, demonstrating the Doppler effect. The environment also features a faint wind noise and occasional dripping water, enhancing the atmosphere of the tunnel.",
+    "prompt_vision": "Vehicles speeding through a long concrete tunnel with visible walls and road surface.",
+    "prompt_audio": "Low engine rumbles, tire friction on road, echoing sounds due to concrete walls, Doppler effect as vehicles pass, faint wind noise, and occasional dripping water.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a low engine rumble sound present when vehicles are described as speeding through the tunnel?",
+      "Does the sound of tires gripping the road accompany the vehicles as they move through the tunnel?",
+      "Are the concrete walls creating an echoing effect by reflecting sound waves?",
+      "Can the frequency and volume of the vehicle sounds be observed to shift, demonstrating the Doppler effect as the vehicles move?",
+      "Is there a faint wind noise present in the tunnel environment?",
+      "Are there occasional dripping water sounds enhancing the atmosphere of the tunnel?"
+    ],
+    "auxiliary_info_vision": [
+      "Are vehicles visually depicted moving at high speed through the tunnel?",
+      "Is the tunnel shown with concrete walls that visually reflect light or sound waves?",
+      "Can the vehicles' motion direction be clearly inferred from their visual movement in the scene?",
+      "Are there visible signs of dripping water within the tunnel environment?",
+      "Is the faint wind visually suggested through subtle movements of objects or debris in the tunnel?",
+      "Are the vehicles' tires visibly gripping the road surface as they move?"
+    ]
+  },
+  {
+    "prompt_en": "On a quiet morning, a red car drives slowly along the coastal highway. Faint sounds of waves and occasional seagull calls come from the background. As the car moves forward, the low hum of the engine gradually grows stronger. Beside the active traffic signal, the sound of wind blowing by can occasionally be heard, creating an overall soundscape of tranquility and dynamic balance.",
+    "prompt_vision": "A red car drives slowly along a coastal highway on a quiet morning, passing an active traffic signal.",
+    "prompt_audio": "Faint waves, occasional seagull calls, a gradually strengthening low engine hum, and intermittent wind sounds creating a tranquil, balanced soundscape.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a low hum of the car engine that gradually grows stronger as the car moves forward?",
+      "Are faint sounds of waves audible in the background?",
+      "Can occasional seagull calls be heard in the background?",
+      "Is the sound of wind blowing by occasionally audible near the traffic signal?",
+      "Does the overall soundscape convey a sense of tranquility and dynamic balance?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the car red in color?",
+      "Is the car moving slowly along the highway?",
+      "Is the highway located near a coast?",
+      "Are the car's wheels visibly rotating as it drives?",
+      "Is the traffic signal active and visible beside the road?"
+    ]
+  },
+  {
+    "prompt_en": "In the scene, the tank's cannon mouth emits a bright flame, instantly accompanied by a deafening explosion, with the sound effect tightly synchronized with the flash of fire. The cannon fire is loud and heavy, with volume matching the scale of the explosion, creating a brief and clear echo in the open field. The tank tracks turn slowly, producing a low metallic friction sound that is in rhythm with the movement of the vehicle. In the background, faint wind can be heard, occasionally mixed with distant bird calls, giving a sense of openness to the environment between the blasts.",
+    "prompt_vision": "Tank in open field fires cannon with bright muzzle flame, tracks slowly turning, metallic motion visible.",
+    "prompt_audio": "Deafening, heavy cannon explosion tightly synchronized with a bright flash, followed by a brief and clear echo. Low metallic friction sounds from the tank tracks in rhythm with movement. Faint wind and occasional distant bird calls in the background.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the explosion sound tightly synchronized with the flash of fire from the tank's cannon?",
+      "Does the volume of the cannon fire match the scale of the explosion, creating a loud and heavy sound?",
+      "Is there a brief and clear echo following the explosion sound in the open field?",
+      "Can a low metallic friction sound be heard in rhythm with the slow turning of the tank tracks?",
+      "Are faint wind sounds audible in the background between the blasts?",
+      "Are distant bird calls occasionally mixed with the faint wind sounds, contributing to the sense of openness?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a bright flame emitted from the tank's cannon mouth?",
+      "Does the tank's cannon fire create a visible explosion?",
+      "Are the tank tracks visibly turning slowly?",
+      "Is there visible movement of the tank in rhythm with the turning tracks?",
+      "Can the open field be visually inferred from the scene's composition?"
+    ]
+  },
+  {
+    "prompt_en": "Generate an audio scene featuring a helicopter flying through the air. The helicopter's rotor produces a regular low-frequency hum accompanied by high-frequency noise from air displacement, with volume changes exhibiting the Doppler effect as distance varies. The background environment is open sky with subtle wind sounds, creating a broad and dynamic sound field. Ensure the audio rhythm synchronizes with the rotor speed and that the sound source position matches the helicopter's movement direction in the visual scene.",
+    "prompt_vision": "A helicopter flying through an open sky, moving steadily across the visual field with clear visibility of its rotors spinning.",
+    "prompt_audio": "Helicopter rotor producing a regular low-frequency hum with high-frequency air displacement noise, volume modulated by Doppler effect as it approaches and recedes, accompanied by subtle ambient wind sounds; audio panning and rhythm synchronized with rotor speed and movement direction.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the helicopter's rotor produce a regular low-frequency hum synchronized with its rotational rhythm?",
+      "Is there high-frequency noise from air displacement accompanying the rotor sound?",
+      "Is Do the volume changes of the helicopter's sound exhibit the Doppler effect as its distance varies?",
+      "Are subtle wind sounds present in the background, creating a broad and dynamic sound field?",
+      "Does the sound source position match the helicopter's movement direction in the visual scene?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the helicopter visually depicted flying through an open sky with clear atmospheric conditions?",
+      "Does the visual scene show spatial movement of the helicopter that matches its directional trajectory?",
+      "Are the lighting and shadows consistent with the helicopter's position and movement in the open sky?",
+      "Is the texture and detail of the helicopter visually clear and realistic, including its rotor blades and body structure?",
+      "Does the visual representation of the sky include subtle elements like gradients or clouds to enhance realism?"
+    ]
+  },
+  {
+    "prompt_en": "In the night sky, an airplane flies at high speed, leaving a long trail behind. The audio should include the roaring sound of the airplane engine, which gradually fades as the plane moves away, demonstrating the Doppler effect. Faint wind noise and occasional sounds of nocturnal insects are present in the background, creating a vast auditory atmosphere of the night sky.",
+    "prompt_vision": "An airplane flying at high speed through the night sky, leaving a long trail behind.",
+    "prompt_audio": "Roaring airplane engine sound gradually fading as the plane moves away, demonstrating the Doppler effect, with faint wind noise and occasional nocturnal insect sounds in the background.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the roaring sound of the airplane engine that matches the high-speed flight described in the prompt?",
+      "Is there a noticeable Doppler effect in the audio, with the airplane engine sound gradually fading as the plane moves away?",
+      "Can faint wind noise be heard in the background, contributing to the auditory atmosphere of the night sky?",
+      "Are occasional sounds of nocturnal insects present in the background, enhancing the night sky ambiance?",
+      "Is the overall soundscape consistent with a vast auditory atmosphere, as described in the prompt?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there an airplane visible in the night sky?",
+      "Does the airplane appear to be flying at high speed?",
+      "Is there a long trail visible behind the airplane?",
+      "Is the scene depicted as occurring during nighttime, with a dark sky?",
+      "Are the airplane's lights visible in the night sky?"
+    ]
+  },
+  {
+    "prompt_en": "In a vast sky, a space shuttle is launching, with massive flames and smoke blasting from its tail. The audio should include a powerful low-frequency rumble accompanied by high-pitched crackling sounds of the flames, and the sound field should convey a sense of ascending gradually away from the ground, demonstrating the Doppler effect. As the shuttle ascends, the volume gradually diminishes, while faint wind noise and distant bird calls are present in the background, creating a sense of expansive space.",
+    "prompt_vision": "A space shuttle launching into a vast sky, with massive flames and smoke blasting from its tail.",
+    "prompt_audio": "Powerful low-frequency rumble with high-pitched crackling flames, Doppler effect as the sound ascends and fades, faint wind noise, and distant bird calls in the background.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a powerful low-frequency rumble during the space shuttle launch?",
+      "Are there high-pitched crackling sounds accompanying the flames from the shuttle's tail?",
+      "Can the sound field convey a sense of the shuttle ascending gradually away from the ground, demonstrating the Doppler effect?",
+      "Will the volume of the shuttle's sounds gradually diminish as it ascends?",
+      "Is there faint wind noise present in the background to create a sense of expansive space?",
+      "Are distant bird calls audible in the background during the shuttle's ascent?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a space shuttle visible in the sky?",
+      "Are massive flames visible blasting from the tail of the space shuttle?",
+      "Is there smoke visible coming from the tail of the space shuttle?",
+      "Does the space shuttle appear to be ascending in the sky?",
+      "Is the direction of the flames and smoke consistent with the shuttle moving upwards?"
+    ]
+  },
+  {
+    "prompt_en": "On a quiet night, the volcano is erupting, spewing molten lava accompanied by deep rumbling and occasional cracking sounds. The flowing lava emits a faint hissing noise, while the air around the crater shimmers with waves of heat. Distant ambient sounds are nearly drowned out by the volcano, leaving only a soft breeze and occasional chirps of nocturnal insects. The sound field exhibits clear spatial depth: the eruption's roar is intense and powerful up close, gradually diminishing with distance, yet its low-frequency components remain distinctly audible far away.",
+    "prompt_vision": "A volcano erupting at night, spewing molten lava, with heat shimmering in the air around the crater.",
+    "prompt_audio": "Deep rumbling and occasional cracking sounds from the eruption, faint hissing of flowing lava, soft breeze, and occasional chirps of nocturnal insects; intense low-frequency roar up close, diminishing with distance but remaining audible far away.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the deep rumbling sound from the volcano consistently present during the eruption?",
+      "Does the audio include occasional cracking sounds that accompany the eruption?",
+      "Can the faint hissing noise of flowing lava be heard amidst the other volcanic sounds?",
+      "Are distant ambient sounds nearly drowned out by the volcano's eruption, leaving only a soft breeze and occasional insect chirps audible?",
+      "Is there a clear spatial depth in the sound field, with the eruption's roar intense and powerful up close, yet diminishing with distance?",
+      "Will the low-frequency components of the eruption remain distinctly audible even from far away?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there visible molten lava being spewed from the volcano?",
+      "Are there visible waves of heat shimmering in the air around the crater?",
+      "Is the volcano erupting with visible intensity and power?",
+      "Is the night scene visually quiet, with no large movements or disturbances apart from the eruption?",
+      "Are there visible signs of a soft breeze, such as gently moving foliage or dust?"
+    ]
+  },
+  {
+    "prompt_en": "In a quiet kitchen environment with subtle background ambient sounds, such as the low-frequency hum of a refrigerator and occasional dripping water. A person in the scene gently moves a glass water bottle, producing faint glass friction sounds and subtle water sloshing. Fruits and vegetables on the table remain still, with occasional soft air movement noises. The overall soundscape is gentle, low in volume, and clear with a natural timbre.",
+    "prompt_vision": "A quiet kitchen with a person gently moving a glass water bottle, fruits and vegetables sitting still on the table.",
+    "prompt_audio": "Low-frequency hum of a refrigerator, occasional dripping water, faint glass friction sounds, subtle water sloshing, and soft air movement noises; overall gentle, low-volume soundscape with natural timbre.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the low-frequency hum of a refrigerator audible in the background throughout the scene?",
+      "Are there occasional dripping water sounds present in the audio?",
+      "Does the movement of the glass water bottle produce faint glass friction sounds?",
+      "Can subtle water sloshing be heard when the glass water bottle is moved?",
+      "Are the ambient sounds, including the refrigerator hum and dripping water, low in volume and clear?",
+      "Is there occasional soft air movement noise audible in the scene?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a glass water bottle visible in the scene?",
+      "Is the person visibly moving the glass water bottle?",
+      "Are the fruits and vegetables on the table stationary?",
+      "Is there visible water inside the glass bottle?",
+      "Is the kitchen environment depicted as quiet and calm?"
+    ]
+  },
+  {
+    "prompt_en": "In a quiet indoor environment, glass bottles and glasses are placed on a smooth tabletop. The ambient sounds include a gentle breeze from outside the window and faint indoor reverberations. Any slight collision should produce a crisp sound of glass against glass, accompanied by subtle water noises. The overall soundscape should be soft, low in volume, and clear in tone.",
+    "prompt_vision": "Glass bottles and glasses on a smooth tabletop in a quiet indoor environment with a window letting in a gentle breeze.",
+    "prompt_audio": "Soft, low-volume soundscape with faint indoor reverberations, subtle water noises, and crisp glass-on-glass collision sounds; overall clear and gentle, including a light breeze from outside.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of glass bottles and glasses being placed on the tabletop clear and distinct, with a crisp tone?",
+      "Does the gentle breeze from outside the window produce a soft, low-volume sound that is audible but not overpowering?",
+      "Are the faint indoor reverberations present, contributing to a subtle echo effect without distorting the clarity of other sounds?",
+      "Will any slight collision between glass bottles and glasses produce a crisp sound of glass against glass, accompanied by subtle water noises?",
+      "Is the overall soundscape soft, low in volume, and clear in tone, without any harsh or loud elements?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there glass bottles visible on the smooth tabletop?",
+      "Are there glasses visible on the smooth tabletop?",
+      "Is the tabletop visibly smooth and free of clutter?",
+      "Are the glass bottles and glasses positioned in a way that suggests they could collide slightly?",
+      "Is the indoor environment depicted as quiet, with no visible signs of disturbance or motion?"
+    ]
+  },
+  {
+    "prompt_en": "Fireworks burst in the night sky, accompanied by explosive sounds and fading reverberations, creating a wide sound field with volume gradually decreasing over distance. The rhythm is irregular yet full of dynamism, set against background ambient noises including distant low-frequency crowd cheers and occasional gusts of wind.",
+    "prompt_vision": "Fireworks bursting in the night sky",
+    "prompt_audio": "Explosive sounds with fading reverberations, irregular dynamic rhythm, distant low-frequency crowd cheers, and occasional gusts of wind",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include explosive sounds that match the visual bursts of fireworks?",
+      "Are there fading reverberations following the explosive sounds of the fireworks?",
+      "Is there a wide sound field created by the fireworks, with volume decreasing as if over distance?",
+      "Is the rhythm of the fireworks' sounds irregular yet dynamic?",
+      "Can you hear distant low-frequency crowd cheers in the background?",
+      "Are there occasional gusts of wind audible in the audio?"
+    ],
+    "auxiliary_info_vision": [
+      "Are fireworks visibly bursting in the night sky with bright colors and light effects?",
+      "Is the night sky dark and free of daylight elements?",
+      "Are the fireworks displayed in irregular patterns of bursts and explosions?",
+      "Can the fireworks be seen emitting trails or sparks as they explode?",
+      "Are the fireworks visually fading after the bursts, leaving trails or smoke?",
+      "Is the lighting of the fireworks bright enough to contrast against the dark sky?",
+      "Are there occasional gusts visually indicated, such as movement of smoke or particles in the air?"
+    ]
+  },
+  {
+    "prompt_en": "On the racetrack, two high-speed racing cars are engaged in an intense competition. The audio should feature the Doppler effect of engine roars changing with the direction and speed of the cars, sharp tire screeches varying rhythmically, and background sounds including crowd cheers and distant wind. The sound field should reflect the distance and positional relationship between the cars, with volume dynamically adjusted as the cars approach or move away from the microphone.",
+    "prompt_vision": "Two high-speed racing cars competing on a racetrack.",
+    "prompt_audio": "Engine roars with pronounced Doppler effect, sharp rhythmic tire screeches, crowd cheers, and distant wind; dynamic volume and spatial positioning reflecting cars' movement relative to the microphone.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio feature the Doppler effect with engine roars changing in pitch as the cars move relative to the microphone?",
+      "Are sharp tire screeches present, varying rhythmically with the cars' movements?",
+      "Is there a background sound of crowd cheers audible in the audio?",
+      "Can distant wind sounds be heard in the background, contributing to the ambient soundscape?",
+      "Does the sound field accurately reflect the positional relationship between the cars, with volume adjustments as they approach or move away from the microphone?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there two racing cars visible on the racetrack?",
+      "Is there visible motion indicating high speed for both racing cars?",
+      "Are the racing cars positioned close to each other, suggesting an intense competition?",
+      "Is there visible tire smoke or skid marks indicating sharp tire screeches?",
+      "Are the racing cars' positions changing relative to each other, suggesting dynamic movement?",
+      "Is there visible evidence of a racetrack environment, such as track markings or barriers?"
+    ]
+  },
+  {
+    "prompt_en": "Generate an audio scene where a train is stopped on the tracks in a cold mountainous town. The background features faint wind sounds and distant bird calls. Occasionally, the train emits metallic clinking noises and low mechanical rumbling. Slight footsteps are heard on the ground, and the sound field has spatial depth with volume decreasing over distance. Ensure all sound sources in the audio maintain physical consistency with the objects in the visual scene.",
+    "prompt_vision": "Train stopped on tracks in snowy mountain town, person walking on gravel beside, peaks surround.",
+    "prompt_audio": "Faint wind blowing through mountainous terrain, distant bird calls, occasional metallic clinking and low mechanical rumbling from the stationary train, subtle footsteps on gravel with spatial depth and realistic volume attenuation over distance.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a faint wind sound in the background that suggests a cold mountainous environment?",
+      "Are there distant bird calls audible in the background, contributing to the ambient soundscape?",
+      "Does the train occasionally emit metallic clinking noises that are consistent with a stationary train on tracks?",
+      "Is there a low mechanical rumbling sound from the train that matches its stationary state?",
+      "Are slight footsteps audible on the ground, suggesting movement near the train?",
+      "Does the sound field exhibit spatial depth with volume decreasing over distance, providing a sense of physical consistency?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the train visually depicted as stationary on the tracks in a cold mountainous town, with details such as snow or frost on the ground or train surfaces?",
+      "Are the mountains in the background visually consistent with a cold environment, featuring elements like snow-covered peaks or misty air?",
+      "Can faint visual cues, such as swaying trees or drifting snow, suggest the presence of wind in the scene?",
+      "Does the train show visual signs of emitting metallic clinking noises or low mechanical rumbling, such as slight vibrations or moving parts like pistons or wheels?",
+      "Are there visible footsteps or disturbances in the snow or ground that correspond to the sound of slight footsteps, maintaining spatial consistency with the scene?"
+    ]
+  },
+  {
+    "prompt_en": "On a stormy night, lightning streaks across the sky above the sea, accompanied by the rumbling of thunder. The sound of thunder rolls in from afar, gradually intensifying until it becomes deafening. The crashing of waves against rocks persists in the background, occasionally interwoven with howling wind. The entire soundscape brims with raw natural power and motion, as the delay of thunder synchronizes with the flashes of lightning, creating an atmosphere both tense and magnificent.",
+    "prompt_vision": "Lightning streaks across the stormy night sky above the sea, illuminating crashing waves and rocky shores.",
+    "prompt_audio": "Rumbling thunder rolls in from afar, intensifying to a deafening roar, interwoven with crashing waves and howling wind, synchronized with lightning flashes.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of thunder initially distant and gradually increasing in volume until it becomes deafening?",
+      "Does the audio include the sound of waves crashing against rocks in the background?",
+      "Is there a howling wind sound present that occasionally interweaves with the other sounds?",
+      "Does the timing of the thunder sound synchronize with the visual flashes of lightning?",
+      "Are the sounds of thunder, waves, and wind distinct and identifiable within the audio mix?",
+      "Is the overall soundscape filled with a sense of raw natural power and motion?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there visible lightning streaking across the sky?",
+      "Is the sky depicted as stormy with dark clouds?",
+      "Are the waves visibly crashing against rocks?",
+      "Is the sea shown as turbulent or in motion?",
+      "Can the wind be inferred visually through movement of objects like water spray or clouds?",
+      "Are the flashes of lightning synchronized with visible changes in brightness or illumination?",
+      "Is the overall scene visually tense and dynamic, reflecting the described stormy atmosphere?"
+    ]
+  },
+  {
+    "prompt_en": "On a pitch-black night, the distant sky is split by lightning, accompanied by the rumbling of thunder. The flash of lightning is brief and bright, while the thunder rolls in from afar, gradually intensifying and shaking the soul. In the surrounding environment, wind howls fiercely, power poles sway slightly in the gusts, and the occasional hum of vibrating wires can be heard. The entire soundscape brims with the power and dynamism of nature, as the low-frequency rumbles of thunder contrast sharply with the high-frequency whistling of the wind.",
+    "prompt_vision": "Pitch-black night with distant lightning splitting the sky, power poles swaying slightly in strong wind.",
+    "prompt_audio": "Rumbling thunder gradually intensifying, fierce howling wind, occasional hum of vibrating wires, low-frequency thunder contrasting with high-frequency wind whistling.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a brief and bright flash of light synchronized with the initial sound of thunder?",
+      "Does the rumbling of thunder start softly and gradually intensify, creating a sense of distance and power?",
+      "Can the sound of thunder be heard with low-frequency rumbles that contrast with the high-frequency whistling of the wind?",
+      "Are there occasional humming sounds that suggest vibrating wires in the wind?",
+      "Is Do the power poles sway slightly in the wind without producing any additional unexpected noises?",
+      "Is the overall soundscape dynamic, with a clear distinction between the thunder's low frequencies and the wind's high frequencies?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a brief and bright flash of lightning visible in the distant sky?",
+      "Are power poles swaying slightly in the gusts of wind?",
+      "Is the surrounding environment depicted as dark, consistent with a pitch?",
+      "Can the movement of the power poles be observed as a result of the wind?",
+      "Is the sky visibly split by the lightning flash?",
+      "Are the wires shown vibrating slightly due to the wind?",
+      "Is the overall scene dynamic, with visible signs of wind and lightning activity?"
+    ]
+  },
+  {
+    "prompt_en": "On a stormy night, lightning splits the sky, accompanied by deep rumbles of thunder and gradually spreading echoes. The volume of the thunder diminishes with distance, and the time difference between the flash of lightning and the arrival of thunder reflects the disparity between the speed of light and the speed of sound. In the background, the howling wind is faintly audible, occasionally interspersed with the sound of raindrops striking the ground, creating a realistic natural soundscape.",
+    "prompt_vision": "On a stormy night, lightning splits the sky.",
+    "prompt_audio": "Deep rumbles of thunder with gradually spreading echoes, diminishing in volume with distance; faint howling wind occasionally interspersed with the sound of raindrops striking the ground.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the sound of deep rumbles of thunder that gradually diminish in volume over time?",
+      "Is there a time delay between the visual flash of lightning and the corresponding thunder sound?",
+      "Are the echoes of thunder audible and do they spread gradually after the initial rumble?",
+      "Is the faint sound of howling wind present in the background throughout the audio?",
+      "Are the occasional sounds of raindrops striking the ground clearly audible and distinct?",
+      "Does the overall audio create a cohesive and natural soundscape that matches the described stormy night setting?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there visible lightning splitting the sky?",
+      "Are there visible raindrops striking the ground?",
+      "Is the sky dark, suggesting a stormy night?",
+      "Can the wind be inferred from the movement of trees or other objects?",
+      "Are there visible clouds in the sky indicating stormy weather?"
+    ]
+  },
+  {
+    "prompt_en": "On a pitch-black night, lightning splits the sky over the distant sea, accompanied by the rumbling of thunder. The sound of lightning carries from afar, gradually fading as it travels through the air. The low-frequency vibrations of thunder reverberate across the ocean surface, creating a deep and powerful soundscape. Occasionally, the gentle lapping of waves against the shore can be heard, contrasting with the thunder. The entire scene is filled with the power of nature and a quiet, tense serenity.",
+    "prompt_vision": "Pitch-black night with lightning splitting the sky over the distant sea.",
+    "prompt_audio": "Rumbling thunder with low-frequency vibrations reverberating across the ocean, gradually fading with distance, accompanied by gentle lapping of waves against the shore.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the sound of thunder include low-frequency vibrations that reverberate across the ocean surface, creating a deep and powerful soundscape?",
+      "Is the sound of lightning initially sharp and loud, gradually fading as it travels through the air?",
+      "Can the gentle lapping of waves against the shore be heard occasionally, contrasting with the thunder?",
+      "Are the sounds of thunder and lightning synchronized with their visual occurrences in the distant sea?",
+      "Is the overall audio consistent with a quiet yet tense serenity, without excessive noise or distortion?",
+      "Does the audio avoid any prominent sounds that would contradict the implied stillness of the scene apart from the described elements?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there visible lightning splitting the sky over the sea?",
+      "Is the sky predominantly dark, indicating a pitch-black night?",
+      "Are the waves visibly lapping gently against the shore?",
+      "Is the ocean surface visible, reflecting the lightning?",
+      "Are there visible low-frequency vibrations or disturbances on the ocean surface due to thunder?"
+    ]
+  },
+  {
+    "prompt_en": "On a quiet night, lightning splits the clouds in the distant sky, accompanied by rolling thunder that echoes across the open water, creating a deep and vast soundscape. The flash of lightning reflects on the water's surface, adding to the atmosphere's mystery. The volume of the thunder gradually diminishes with distance, occasionally interwoven with faint wind rustles and the soft lapping of waves.",
+    "prompt_vision": "Lightning splits the clouds in the distant night sky, its flash reflecting on the open water's surface.",
+    "prompt_audio": "Rolling thunder echoes across the water, gradually diminishing with distance, interwoven with faint wind rustles and soft lapping waves.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of rolling thunder synchronized with the visual flash of lightning in the distant sky?",
+      "Does the thunder's volume gradually diminish over time to match the described distance effect?",
+      "Are faint wind rustles audible intermittently, as described in the prompt?",
+      "Can the soft lapping of waves be heard consistently in the background?",
+      "Is the overall soundscape free of any unexpected noise or distortion that would disrupt the quiet night atmosphere?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visible flash of lightning in the sky?",
+      "Does the lightning appear to split the clouds?",
+      "Can the reflection of the lightning be seen on the water's surface?",
+      "Are the clouds visibly present in the sky?",
+      "Is the water surface shown to be calm with soft wave patterns?"
+    ]
+  },
+  {
+    "prompt_en": "On a stormy night lit by flashes of lightning, bolts streak across the sky, accompanied by deafening thunder. The volume of the thunder gradually diminishes with distance, its deep rumble echoing between buildings. Occasionally, the sound of raindrops tapping on rooftops and windows can be heard, creating a natural rhythm. The entire soundscape is filled with crackling electrical discharges and a tense atmosphere hanging in the air.",
+    "prompt_vision": "Stormy night with lightning bolts streaking across the sky, illuminating buildings and rooftops.",
+    "prompt_audio": "Deafening thunder that gradually diminishes with distance, deep rumbling echoes between buildings, raindrops tapping on rooftops and windows in a rhythmic pattern, crackling electrical discharges, and a tense atmospheric soundscape.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of thunder synchronized with the visual appearance of lightning bolts in the sky?",
+      "Does the thunder have a deep rumble that echoes between buildings, creating a sense of distance and space?",
+      "Can the sound of raindrops tapping on rooftops and windows be heard intermittently, contributing to a natural rhythm?",
+      "Are crackling electrical discharges audible, enhancing the tense atmosphere described?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the sky visibly dark, indicating a stormy night?",
+      "Are there visible lightning bolts streaking across the sky?",
+      "Can flashes of lightning be seen illuminating the scene intermittently?",
+      "Are raindrops visibly tapping on rooftops and windows?",
+      "Is there visible evidence of electrical discharges, such as sparks or flashes?"
+    ]
+  },
+  {
+    "prompt_en": "Beside a sunlit mountain railway, a gentle breeze rustles the leaves, occasionally accompanied by distant birdsong. Faint metallic clinks echo along the tracks, as if a train were slowly approaching from afar. The ambient soundscape includes soft rustling foliage and occasional insect chirps, creating a serene natural atmosphere. The sound field is spacious, with natural timbre, moderate volume, and a relaxed rhythm.",
+    "prompt_vision": "Sunlit mountain railway surrounded by trees with leaves rustling in a gentle breeze.",
+    "prompt_audio": "Distant birdsong, faint metallic clinks echoing along tracks, soft rustling foliage, occasional insect chirps, spacious sound field, natural timbre, moderate volume, relaxed rhythm.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of rustling leaves present and gentle, matching the described breeze?",
+      "Are distant bird sounds occasionally audible, blending naturally into the soundscape?",
+      "Does the faint metallic clinking sound occur intermittently, suggesting a train slowly approaching?",
+      "Is the ambient soundscape spacious, with soft rustling foliage and occasional insect chirps?",
+      "Are the sounds of foliage and insects moderate in volume, contributing to the serene atmosphere?",
+      "Does the overall audio maintain a relaxed rhythm, without abrupt or jarring elements?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there visible sunlight illuminating the mountain railway?",
+      "Are the leaves visibly rustling due to the gentle breeze?",
+      "Can the railway tracks be seen beside the mountain?",
+      "Is there a visible train slowly approaching along the tracks?",
+      "Are the leaves visibly moving in a gentle manner, indicating a breeze?"
+    ]
+  },
+  {
+    "prompt_en": "In the nighttime volcanic eruption scene, the roaring sounds of flames and lava bursting forth are filled with deep rumbles, accompanied by occasional cracking noises. The soundscape around the crater is rich with echoes, enhancing the impact of the eruption. Faint wind and distant ocean waves can be heard in the background, adding a sense of vastness to the environment. The flowing lava emits a soft hissing sound, warm and heavy in timbre. As the flames flicker, the volume and rhythm alternately rise and fall, creating a natural dynamic variation.",
+    "prompt_vision": "Nighttime volcanic eruption with flames and lava bursting from the crater, glowing lava flows, and flickering firelight illuminating the dark landscape.",
+    "prompt_audio": "Roaring flames and deep rumbles of lava bursting forth, occasional cracking noises, echoing soundscape, faint wind, distant ocean waves, soft hissing from flowing lava, and dynamic variations in volume and rhythm of the flames.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include roaring sounds of flames and lava bursting forth with deep rumbles?",
+      "Are occasional cracking noises present in the audio to accompany the eruption?",
+      "Is the soundscape around the crater enriched with echoes that enhance the impact of the eruption?",
+      "Can faint wind sounds and distant ocean waves be heard in the background to convey a sense of vastness?",
+      "Does the flowing lava emit a soft hissing sound with a warm and heavy timbre?",
+      "Are the volume and rhythm of the flames' flickering sounds alternately rising and falling to create natural dynamic variation?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there visible lava flowing from the volcano?",
+      "Are flames visible flickering around the volcanic crater?",
+      "Is the scene set during nighttime with low lighting conditions?",
+      "Does the lava appear to glow with a warm color?",
+      "Are there visible sparks or small eruptions occurring around the crater?",
+      "Is there a visible contrast between the bright lava and the dark surroundings?",
+      "Are the flames visibly changing in size or intensity, suggesting dynamic variation?"
+    ]
+  }
+]

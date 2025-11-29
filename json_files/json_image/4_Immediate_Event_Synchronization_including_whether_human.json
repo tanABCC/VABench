@@ -1,0 +1,826 @@
+[
+  {
+    "prompt_en": "Inside an industrial workshop, a worker is performing welding work. During the welding process, the electric arc emits sharp crackling sounds and high-pitched buzzing noises, accompanied by the clinking of metal. As the welding sparks splash, transient popping sounds synchronize with the flashing of the sparks. In the background, there is a deep humming noise from operating machinery and occasional sounds of tools dropping, making the entire sound field full of industrial environmental reverberation.",
+    "prompt_vision": "Inside an industrial workshop, a worker is performing welding work, with sparks splashing from the electric arc and metal pieces nearby.",
+    "prompt_audio": "Sharp crackling and high-pitched buzzing from an electric arc, synchronized popping sounds with flashing sparks, clinking of metal, deep humming from machinery, occasional tool drops, all within a reverberant industrial environment.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include sharp crackling sounds and high-pitched buzzing noises during the welding process?",
+      "Are there clinking metal sounds present in the audio?",
+      "Is there a synchronization between the transient popping sounds and the flashing of the welding sparks?",
+      "Can the deep humming noise from operating machinery be heard in the background?",
+      "Are there occasional sounds of tools dropping in the audio?",
+      "Is the entire sound field filled with industrial environmental reverberation?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the worker wearing protective gear such as a welding helmet and gloves?",
+      "Are there visible welding sparks being emitted from the welding area?",
+      "Is there a visible electric arc present during the welding process?",
+      "Are there any visible tools or machinery in the background of the workshop?",
+      "Is the worker's body positioned in a way that suggests active welding, such as leaning forward or holding a welding torch?",
+      "Are there visible reflections or highlights on nearby surfaces caused by the welding sparks?",
+      "Is the lighting in the workshop consistent with the presence of welding, such as bright flashes from the sparks?"
+    ]
+  },
+  {
+    "prompt_en": "On a quiet night, a sparkler burns in the dark, crackling softly. Sparks fly, accompanied by faint popping sounds, creating a delicate soundscape. Pay attention to the synchronization between the sound and visual of the sparks' instantaneous burst, as well as the fading sound effect as the sparks dissipate.",
+    "prompt_vision": "A sparkler burning in the dark, emitting bright sparks that burst instantaneously and fade away.",
+    "prompt_audio": "Soft crackling and faint popping sounds synchronized with the visual bursts of sparks, fading as the sparks dissipate.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the crackling sound of the sparkler soft and consistent throughout the burning process?",
+      "Are the faint popping sounds synchronized with the visual bursts of sparks?",
+      "Does the audio include a fading sound effect as the sparks visually dissipate?",
+      "Can the sound of the sparkler be distinctly heard without any unexpected noise or distortion?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the sparkler visibly burning in the dark with sparks flying?",
+      "Are the sparks visibly bursting in synchronization with the implied sound of faint popping?",
+      "Do the sparks appear to dissipate visually as the implied sound effect fades?",
+      "Is the sparkler emitting visible sparks that create a dynamic visual effect?",
+      "Are the sparks visibly bright against the dark background, suggesting a nighttime setting?"
+    ]
+  },
+  {
+    "prompt_en": "In front of an ancient wooden door, a hand grasps a heavy metal door knocker and gently taps against the door panel. The contact between the knocker and the wooden door produces a deep, rich metallic sound, accompanied by a subtle vibration noise from the door itself. The ambient environment features faint wind sounds and distant bird chirps, together creating a calm and rustic atmosphere. The knocking rhythm is slow yet powerful, with moderate volume and distinct transient characteristics. The sound of the knocker contacting the door is synchronized with the motion of the hand.",
+    "prompt_vision": "A hand grasping a heavy metal door knocker in front of an ancient wooden door, gently tapping it against the door panel.",
+    "prompt_audio": "Deep, rich metallic knocking sound with subtle wood vibration, slow yet powerful rhythm, moderate volume, distinct transients, accompanied by faint wind and distant bird chirps.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of the metal door knocker deep and rich in timbre when it contacts the wooden door?",
+      "Does the audio include a subtle vibration noise from the door when the knocker strikes it?",
+      "Are faint wind sounds present in the background, contributing to the ambient environment?",
+      "Can distant bird chirps be heard, enhancing the calm and rustic atmosphere?",
+      "Is the knocking rhythm slow yet powerful, with moderate volume and distinct transient characteristics?",
+      "Is the sound of the knocker contacting the door synchronized with the motion of the hand?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a hand visible grasping a heavy metal door knocker in front of an ancient wooden door?",
+      "Does the hand appear to gently tap the metal door knocker against the wooden door panel?",
+      "Can the motion of the hand be seen as synchronized with the contact of the knocker against the door?",
+      "Is the wooden door depicted as ancient, with visible signs of age such as weathering or patina?",
+      "Are the visual elements consistent with a calm and rustic atmosphere, such as stillness in the environment and absence of rapid motion?"
+    ]
+  },
+  {
+    "prompt_en": "Inside an industrial workshop, a worker is using an angle grinder to polish metal, accompanied by the shrill sound of grinding and the crackling of metal sparks. The high-speed rotation of the grinder produces a continuous humming noise, while the flying sparks emit brief popping sounds. There is a slight background noise in the environment, likely coming from the operation of other machinery. Special attention should be paid to the transient sound effects when the grinder starts and stops, as well as the rhythm of the sparks synchronizing with the visual scene.",
+    "prompt_vision": "Inside an industrial workshop, a worker uses an angle grinder to polish metal, with visible flying sparks and machinery in the background.",
+    "prompt_audio": "Shrill grinding sound, continuous humming from high-speed rotation, brief popping sounds from sparks, subtle background machinery noise, distinct transient sounds when grinder starts and stops, rhythmic spark pops synchronized with visual sparks.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the shrill sound of grinding when the worker uses the angle grinder on metal?",
+      "Is there a continuous humming noise corresponding to the high-speed rotation of the angle grinder?",
+      "Are brief popping sounds audible that match the visual appearance of flying metal sparks?",
+      "Is there slight background noise present, suggesting the operation of other machinery in the workshop?",
+      "Are transient sound effects present when the angle grinder starts and stops, matching the visual cues?",
+      "Does the rhythm of the sparks' popping sounds synchronize with their visual occurrence in the scene?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the worker visibly holding an angle grinder?",
+      "Are sparks visibly flying from the metal being polished?",
+      "Is the angle grinder visibly rotating at high speed?",
+      "Is the metal visibly being polished or altered by the grinder?",
+      "Are there visible sparks that appear to pop briefly?",
+      "Is there visible machinery in the background contributing to the scene?"
+    ]
+  },
+  {
+    "prompt_en": "Generate an audio scene featuring the sound of a key inserting into and turning a door lock, accompanied by crisp metallic collision sounds and low-frequency clicking sounds of the lock's mechanical mechanism, emphasizing tight synchronization between transient events and visual cues; the background environment is an indoor space with slight reverberation, moderate volume, and the sound field centered in the mix.",
+    "prompt_vision": "Key inserted into door lock, turned, showing mechanical movement; indoor, neutral lighting, minimal background.",
+    "prompt_audio": "Key inserting into a door lock followed by turning motion, crisp metallic collision sounds, low-frequency clicking from the lock's internal mechanism, tight synchronization between audio transients and visual actions, slight indoor reverberation, moderate volume, centered sound field.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a sound of a key inserting into the door lock at the moment the visual cue shows the key approaching the lock?",
+      "Does the audio include crisp metallic collision sounds when the key makes contact with the lock?",
+      "Are there low-frequency clicking sounds synchronized with the visual cue of the lock's mechanical mechanism turning?",
+      "Is the sound field centered in the mix, ensuring the key and lock sounds are perceived as coming from the central position?",
+      "Will the audio exhibit slight reverberation consistent with an indoor space when the key and lock sounds occur?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the visual representation of a key being inserted into a door lock clearly depicted with appropriate alignment to the lock's keyhole?",
+      "Does the visual show the metallic texture of the key and lock with realistic reflections and highlights?",
+      "Are the mechanical components of the lock, such as pins or tumblers, visibly moving in synchronization with the key's turning motion?",
+      "Is the indoor environment visually represented with appropriate lighting and slight indications of reflective surfaces to suggest reverberation?",
+      "Is the visual clarity sufficient to distinguish the detailed movements of the key and lock mechanism without blurring or distortion?"
+    ]
+  },
+  {
+    "prompt_en": "Generate a sound effect for a robot vacuum cleaner operating in a quiet indoor environment, emphasizing the low-frequency humming of the motor, the airflow sound of the vacuum, and occasional transient sounds from collisions with the floor or walls. The sound field should be close to the ground, with moderate volume, and the rhythm should vary with the robot's movement speed. Ambient sounds should include subtle indoor reverberation and faint friction noises from wooden floors.",
+    "prompt_vision": "A robot vacuum cleaner operating on wooden floors in a quiet indoor room, viewed from a low angle near the ground.",
+    "prompt_audio": "Low-frequency motor hum, steady airflow suction, occasional transient bump sounds from collisions with walls or furniture, subtle wooden floor friction noises, moderate volume, close-mic perspective with light indoor reverberation, rhythm varying with movement speed.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a low-frequency humming sound that represents the motor of the robot vacuum cleaner?",
+      "Is there an airflow sound present that corresponds to the vacuum function of the robot?",
+      "Are there occasional transient sounds that suggest collisions with the floor or walls?",
+      "Is the sound field positioned close to the ground, reflecting the robot vacuum's operation?",
+      "Does the volume of the audio remain moderate throughout the sequence?",
+      "Is there a variation in rhythm that matches the movement speed of the robot vacuum cleaner?",
+      "Are there subtle indoor reverberation effects present in the audio?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the visual representation of the robot vacuum cleaner depicted with a sleek, modern design that suggests advanced technology?",
+      "Are there visual cues, such as motion lines or dust particles, indicating the movement and cleaning action of the robot vacuum cleaner on the floor?",
+      "Does the scene include visual elements that suggest a quiet indoor environment, such as soft lighting and minimal clutter?",
+      "Are there visual indications of the robot vacuum cleaner's interaction with the floor, such as slight reflections or shadows that suggest proximity to the ground?"
+    ]
+  },
+  {
+    "prompt_en": "In a quiet indoor environment, the sound of liquid being poured into a porcelain cup, accompanied by subtle water flow sounds and slight clinking of the cup. There may be faint ambient background noises, such as birds chirping outside the window or a gentle breeze, creating a peaceful atmosphere. The transient sounds of the liquid pouring are synchronized with the visual, emphasizing the subtle changes as the liquid meets the bottom of the cup.",
+    "prompt_vision": "Liquid being poured into a porcelain cup indoors, with subtle visual changes as the liquid meets the bottom of the cup.",
+    "prompt_audio": "Sound of liquid pouring into a porcelain cup, subtle water flow, slight clinking of the cup, faint birds chirping outside, and gentle breeze in the background.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of liquid pouring into the porcelain cup audible and synchronized with the visual depiction of the liquid flow?",
+      "Does the audio include subtle water flow sounds that match the visual of liquid being poured?",
+      "Are there slight clinking sounds of the porcelain cup when the liquid is poured?",
+      "Can faint ambient background noises, such as birds chirping or a gentle breeze, be heard to create a peaceful atmosphere?",
+      "Is the overall sound environment quiet, with no prominent or disruptive noises?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a porcelain cup visible in the scene?",
+      "Is liquid visibly being poured into the porcelain cup?",
+      "Can the liquid be seen flowing into the bottom of the cup?",
+      "Are there subtle ripples or changes in the liquid surface as it fills the cup?",
+      "Does the pouring liquid appear to cause a slight clinking interaction with the cup?",
+      "Is the indoor environment visually calm and quiet, with no visible signs of disturbance or motion?",
+      "Are there any faint visual cues suggesting a window or an opening where outdoor light might enter?"
+    ]
+  },
+  {
+    "prompt_en": "In a quiet room, a floor lamp stands in a corner, casting soft light onto the white brick wall. When the lamp is turned on, the faint hum of the electric current becomes particularly noticeable in the silent environment. Occasionally, the bulb emits a subtle buzzing sound, accompanied by transient changes in the current. The room's acoustic space feels vast and echoing, amplifying even the smallest sounds. The switching sound of the lamp turning on and off is slight, yet the synchronization of these transient sounds with the visual changes is especially important.",
+    "prompt_vision": "Floor lamp in corner, soft light on white brick wall, switching on off causes transient changes",
+    "prompt_audio": "Faint hum of electric current, subtle buzzing from the bulb, slight switching sound of the lamp turning on and off, all amplified in a vast, echoing acoustic space.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a faint hum of the electric current audible when the lamp is turned on?",
+      "Does the bulb emit a subtle buzzing sound occasionally, reflecting transient changes in the current?",
+      "Is the switching sound of the lamp turning on and off slight but audible?",
+      "Are the transient sounds synchronized with the visual changes of the lamp turning on and off?",
+      "Can the room's acoustic space amplify even the smallest sounds, making them more noticeable?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a floor lamp standing in a corner of the room?",
+      "Is the floor lamp casting soft light onto a white brick wall?",
+      "Does the light from the lamp create a visible illumination on the wall when turned on?",
+      "Are there transient changes in the brightness of the lamp when the bulb emits a buzzing sound?",
+      "Does the lamp visually turn on and off in synchronization with the switching sound?"
+    ]
+  },
+  {
+    "prompt_en": "In a quiet indoor environment, a robot vacuum cleaner is operating on the floor, producing gentle mechanical and vacuuming sounds. A person's finger lightly touches the vacuum's button, creating a brief clicking sound. Occasionally, faint ambient noises such as wind outside the window or distant traffic can be heard in the background. The vacuum's sound is evenly distributed in the space, with moderate volume and steady rhythm. The moment the finger touches the button is perfectly synchronized with the clicking sound, emphasizing the tight audio-visual synchronization of this transient event.",
+    "prompt_vision": "In a quiet indoor environment, a robot vacuum cleaner operates on the floor. A person's finger lightly touches the vacuum's button.",
+    "prompt_audio": "Gentle mechanical and vacuuming sounds with moderate volume and steady rhythm, a brief clicking sound synchronized with the finger pressing the button, and faint ambient noises of wind and distant traffic in the background.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the vacuum cleaner producing gentle mechanical and vacuuming sounds throughout the scene?",
+      "Does the audio include a brief clicking sound perfectly synchronized with the visual moment when the finger touches the vacuum's button?",
+      "Can faint ambient noises such as wind outside the window or distant traffic be heard occasionally in the background?",
+      "Is the vacuum's sound evenly distributed in the space with a moderate volume?",
+      "Is the rhythm of the vacuum's sound steady throughout the scene?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the robot vacuum cleaner visible on the floor?",
+      "Does the robot vacuum cleaner appear to be in motion?",
+      "Is there a visible finger touching the button on the robot vacuum cleaner?",
+      "Is the button on the robot vacuum cleaner visibly pressed when the finger touches it?",
+      "Are there no visible large movements or disturbances in the indoor environment, suggesting quietness?",
+      "Is the robot vacuum cleaner's movement smooth and consistent, indicating a steady rhythm?",
+      "Is the lighting in the room even, without dramatic shadows or highlights, suggesting a calm indoor setting?"
+    ]
+  },
+  {
+    "prompt_en": "At the moment an ancient wooden door slowly opens, the hinges emit a faint creaking sound, accompanied by ambient noises from the outside street, including the distant rumble of vehicle engines and occasional tire friction. The sound field from outside gradually spreads in, blending with the rustling of leaves stirred by a gentle breeze, creating a tranquil yet slightly mysterious atmosphere. The rhythm of the door's opening and closing synchronizes with changes in the external soundscape, with transient events such as the door's knocking sound seamlessly integrating with the surrounding noises, forming a harmonious sonic landscape.",
+    "prompt_vision": "An ancient wooden door slowly opening, revealing a view of a quiet street with trees rustling in a gentle breeze.",
+    "prompt_audio": "Faint creaking hinges, distant vehicle engine rumbles, occasional tire friction sounds, rustling leaves, and a soft knocking sound from the door, all blending into a tranquil and slightly mysterious ambient soundscape.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the sound of the door hinges include a faint creaking noise that matches the slow opening motion of the door?",
+      "Are ambient noises from the outside street, such as the distant rumble of vehicle engines and occasional tire friction, audible and appropriately blended into the soundscape?",
+      "Can the rustling of leaves stirred by a gentle breeze be heard, contributing to the tranquil yet slightly mysterious atmosphere?",
+      "Does the sound field from outside gradually spread in as the door opens, creating a seamless transition between indoor and outdoor audio elements?",
+      "Are transient events like the knocking sound of the door synchronized with changes in the external soundscape?",
+      "Is the rhythm of the door's opening and closing reflected in the timing and dynamics of the surrounding ambient noises?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the ancient wooden door visibly opening slowly with hinges attached?",
+      "Are the hinges on the door visibly aged or weathered?",
+      "Is the door made of wood with a visibly ancient appearance, such as cracks or worn textures?",
+      "Are the leaves outside visibly rustling, indicating movement caused by a gentle breeze?",
+      "Is the door visibly knocking against its frame during its motion?"
+    ]
+  },
+  {
+    "prompt_en": "In a self-service laundry room, several large drum washing machines are in operation, producing a low mechanical hum and occasional sounds of water flow. The rhythmic movement of the rotating drums combines with the subtle echoes in the environment, creating a regular background noise. Pay attention to the transient sound changes when the machines start and stop, as well as the faint noises caused by clothes colliding inside the drums.",
+    "prompt_vision": "Several large drum washing machines operating in a self-service laundry room.",
+    "prompt_audio": "Low mechanical hum, occasional water flow sounds, rhythmic rotating drum noises with subtle echoes, transient sound changes as machines start and stop, faint clothes-colliding sounds inside drums.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a low mechanical hum present throughout the operation of the washing machines?",
+      "Are there occasional sounds of water flow accompanying the operation of the washing machines?",
+      "Can the rhythmic movement of the rotating drums be heard as part of the background noise?",
+      "Are there subtle echoes in the environment contributing to the overall soundscape?",
+      "Will there be transient sound changes when the washing machines start and stop?",
+      "Are faint noises caused by clothes colliding inside the drums audible during operation?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there several large drum washing machines visible in the laundry room?",
+      "Are the drum washing machines shown to be in operation with visible rotation?",
+      "Can the rhythmic movement of the rotating drums be observed?",
+      "Are clothes visibly colliding inside the rotating drums?",
+      "Is the laundry room environment depicted with subtle echoes or reflections consistent with its interior?"
+    ]
+  },
+  {
+    "prompt_en": "Inside an ancient stone house, a wooden door is half open, revealing the coastline and small islands outside. Waves gently lap against the shore, wind whistles through the door crack, and occasionally seabirds can be heard calling. The wooden door swings slightly, creaking in rhythm with the waves. The indoor space feels acoustically enclosed, making sounds outside seem more open and expansive.",
+    "prompt_vision": "Inside an ancient stone house, a wooden door is half open, revealing the coastline and small islands outside.",
+    "prompt_audio": "Waves gently lapping against the shore, wind whistling through the door crack, occasional seabird calls, and a wooden door creaking rhythmically.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the sound of waves gently lapping against the shore?",
+      "Can the sound of wind whistling through the door crack be heard?",
+      "Are seabirds occasionally calling in the audio?",
+      "Does the wooden door creak in rhythm with the waves?",
+      "Is there a contrast between the enclosed indoor acoustics and the more open, expansive sounds from outside?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a wooden door that is half open?",
+      "Can the coastline be seen through the open door?",
+      "Are small islands visible beyond the coastline?",
+      "Does the wooden door appear to swing slightly?",
+      "Is the door made of wood?",
+      "Are waves visible gently lapping against the shore?",
+      "Is the indoor space visually enclosed, suggesting an ancient stone house?"
+    ]
+  },
+  {
+    "prompt_en": "In a quiet hotel room, the door is slowly pushed open, the doorknob emitting a faint metallic scraping sound, accompanied by a slight creak from the door hinge. The ambient noise inside the room is soft, possibly including the gentle hum of the air conditioner and the subtle rustling of curtains swaying slightly. As the door opens, the soundscape gradually transitions from the corridor outside to the serene atmosphere within the room.",
+    "prompt_vision": "A hotel room door slowly opening, revealing a quiet interior with curtains slightly swaying and an air conditioner unit visible.",
+    "prompt_audio": "Faint metallic scraping from a doorknob, slight creaking of a door hinge, gentle hum of an air conditioner, subtle rustling of curtains, transitioning from corridor sounds to a serene indoor ambiance.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a faint metallic scraping sound when the doorknob is turned?",
+      "Does the door hinge emit a slight creak as the door is slowly pushed open?",
+      "Is the ambient noise inside the room soft, including a gentle hum that could be from an air conditioner?",
+      "Are there subtle rustling sounds that suggest curtains swaying slightly?",
+      "Does the audio transition smoothly from the corridor sounds to the quieter atmosphere of the room as the door opens?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the door visibly opening slowly in the hotel room?",
+      "Are the curtains in the hotel room swaying slightly?",
+      "Is the air conditioner visible in the hotel room?",
+      "Is the door hinge visible as the door opens?",
+      "Is the doorknob visible on the door as it is pushed open?"
+    ]
+  },
+  {
+    "prompt_en": "On a quiet night, the yellow wooden door gently opened, accompanied by a faint creaking sound from the hinges. The light outside the door softly flickered, emitting a subtle hum of electric current. Occasionally, the distant sound of wind and rustling leaves could be heard, creating a serene and mysterious atmosphere. At the moment the door opened, the audio and visual elements were perfectly synchronized, capturing the transient characteristics of the door's movement.",
+    "prompt_vision": "A yellow wooden door opening gently on a quiet night, with soft flickering light outside.",
+    "prompt_audio": "Faint creaking hinges, subtle electric hum from flickering light, distant wind and rustling leaves.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a faint creaking sound from the hinges when the yellow wooden door gently opens?",
+      "Does the audio include a subtle hum of electric current when the light outside the door softly flickers?",
+      "Can the distant sound of wind and rustling leaves be heard occasionally, contributing to the serene atmosphere?",
+      "Are the audio and visual elements perfectly synchronized at the moment the door opens, capturing the transient characteristics of the door's movement?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the wooden door yellow in color?",
+      "Does the door appear to be gently opening in the scene?",
+      "Are the hinges of the door visibly present and stationary while the door moves?",
+      "Is there a soft flickering light visible outside the door?",
+      "Is the light outside the door emitting a subtle glow?",
+      "Are the surroundings visually calm and still, reflecting a quiet night?",
+      "Is the door's movement visually smooth and transient?"
+    ]
+  },
+  {
+    "prompt_en": "Generate an audio clip of a vacuum cleaner in operation, emphasizing the motor sound, suction noise, and airflow. The sound field should be centered, with a low-frequency, mechanical tone. The volume should dynamically adjust according to the vacuum's movements. The rhythm should feature continuous suction sounds combined with occasional transient impacts. Ambient sounds should include carpet friction and slight indoor background noise. Transient events, such as the vacuum hitting the edge of the floor, must be synchronized with visual cues.",
+    "prompt_vision": "A vacuum cleaner moving across a carpeted floor, occasionally bumping into edges or furniture.",
+    "prompt_audio": "Centered sound field with a low-frequency mechanical motor tone, continuous suction and airflow noise, dynamic volume changes matching movement, occasional transient impact sounds synchronized with physical bumps, carpet friction texture, and subtle indoor ambient background noise.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a continuous low-frequency mechanical tone representing the vacuum cleaner's motor sound?",
+      "Are suction noises and airflow sounds consistently present and centered in the sound field?",
+      "Does the volume dynamically adjust in response to the vacuum's movements, such as changes in speed or direction?",
+      "Are transient impact sounds, such as the vacuum hitting the edge of the floor, synchronized with corresponding visual cues?",
+      "Is there audible carpet friction noise when the vacuum cleaner is in motion?",
+      "Does the audio include slight indoor background noise to match the described ambient environment?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the vacuum cleaner visually depicted with a clear representation of its motor and suction components?",
+      "Are the visual cues of the vacuum's movement synchronized with the depicted changes in volume and rhythm?",
+      "Does the visual representation include elements that suggest airflow, such as dust or particles being moved?",
+      "Are there visual indicators of transient impacts, such as the vacuum hitting the edge of the floor, that align with the described audio events?",
+      "Is there a visual depiction of carpet texture that corresponds with the described friction sounds?",
+      "Are there visual elements that suggest an indoor environment, consistent with the slight background noise described?"
+    ]
+  },
+  {
+    "prompt_en": "In a quiet washing machine room, the machine emits a faint humming noise when starting up, and there is a subtle clicking sound when the cursor switches options on the display. Clothes rotating inside the washing machine produce a continuous slight frictional sound, accompanied by occasional water flow noises. As the washing cycle begins, the humming and water sounds gradually increase, creating an enclosed spatial audio effect. When the start button is pressed, there should be a clear tactile feedback sound, synchronized precisely with the visual response upon pressing.",
+    "prompt_vision": "A washing machine in a quiet room, with a display showing options and a start button being pressed, causing the machine to begin its cycle.",
+    "prompt_audio": "Faint humming noise as the washing machine starts up, subtle clicking sounds when the cursor switches display options, continuous slight frictional sound from clothes rotating, occasional water flow noises, gradually increasing humming and water sounds creating an enclosed spatial audio effect, and a clear tactile feedback sound synchronized with pressing the start button.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a faint humming noise emitted by the washing machine when starting up?",
+      "Does the cursor switching options on the display produce a subtle clicking sound?",
+      "Can the continuous slight frictional sound of clothes rotating inside the washing machine be heard?",
+      "Are there occasional water flow noises accompanying the clothes rotation sound?",
+      "Will the humming and water sounds gradually increase as the washing cycle begins, creating an enclosed spatial audio effect?",
+      "Is there a clear tactile feedback sound synchronized precisely with the visual response upon pressing the start button?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the washing machine visually present in the room?",
+      "Does the washing machine display show options that can be switched?",
+      "Are clothes visibly rotating inside the washing machine during the cycle?",
+      "Is water visibly flowing or splashing inside the washing machine during the cycle?",
+      "Does the washing machine visually show a change when the start button is pressed?",
+      "Are the clothes inside the washing machine visibly wet during the water flow phase?",
+      "Is the start button visually pressed with a clear tactile feedback action?"
+    ]
+  },
+  {
+    "prompt_en": "In a bright laundry room, a washing machine is running, accompanied by the gentle sound of machinery and occasional water flow. A person is pouring detergent into the detergent dispenser of the washing machine, and the sound of the bottle cap tapping against the dispenser is clearly audible. There are subtle background ambient sounds, such as distant footsteps and slight echoes within the room. A soft clicking sound is produced when the machine's control knob is turned, and all sounds are synchronized with the visual actions.",
+    "prompt_vision": "In a bright laundry room, a person pours detergent into the dispenser of a running washing machine and turns the machine's control knob.",
+    "prompt_audio": "Gentle machinery hum, occasional water flow, bottle cap tapping against dispenser, soft clicking of control knob, distant footsteps, and slight room echoes.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of the washing machine running, including gentle machinery noise and occasional water flow, present and synchronized with the visual operation of the machine?",
+      "Is the sound of the bottle cap tapping against the detergent dispenser clearly audible and synchronized with the visual action of pouring detergent?",
+      "Are subtle background ambient sounds, such as distant footsteps and slight echoes within the room, present and appropriately subdued?",
+      "Is a soft clicking sound produced when the machine's control knob is visually turned?",
+      "Are all sounds synchronized with their corresponding visual actions in the scene?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a washing machine visible in the scene?",
+      "Is the washing machine visibly in operation, suggesting movement or vibration?",
+      "Is there a person visible pouring detergent into the washing machine's detergent dispenser?",
+      "Is the detergent bottle visible in the person's hand while pouring?",
+      "Is the washing machine's control knob visible being turned by the person?",
+      "Is the lighting in the room bright, indicating a well?",
+      "Are there visible signs of water flow, such as water entering the washing machine?"
+    ]
+  },
+  {
+    "prompt_en": "In a quiet environment, the door handle is slowly turned, accompanied by a faint metallic rubbing sound and the deep creak of the wooden door. A crisp click is heard when the lock disengages, followed by the door opening slowly, bringing a faint breeze and distant natural ambient sounds.",
+    "prompt_vision": "A door handle is slowly turned, and the wooden door opens gradually, revealing a faint breeze and distant natural surroundings.",
+    "prompt_audio": "Faint metallic rubbing sound, deep creak of a wooden door, crisp click of a lock disengaging, followed by distant natural ambient sounds.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a faint metallic rubbing sound when the door handle is turned slowly?",
+      "Does the audio include a deep creak sound when the wooden door is opened?",
+      "Is there a crisp click sound when the lock disengages?",
+      "Can you hear the door opening slowly after the lock clicks?",
+      "Are there faint distant natural ambient sounds audible after the door opens?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the door handle visibly turning slowly?",
+      "Does the door handle appear metallic in texture or color?",
+      "Is the wooden door visibly creaking as it opens?",
+      "Can the lock mechanism be seen disengaging with a visible click?",
+      "Is the door opening slowly with no sudden movements?",
+      "Are objects near the door subtly affected by the faint breeze, such as slight movement of curtains or papers?",
+      "Does the wooden door have visible grain or texture consistent with wood material?"
+    ]
+  },
+  {
+    "prompt_en": "Generate a quiet outdoor ambient soundscape featuring low-frequency vibrations of gentle wind passing over wires, occasional distant bird calls or rustling leaves, with emphasis on transient sounds of metal components on utility poles swaying slightly in the wind. The overall volume should be low, with clear and natural timbre, and a wide, evenly distributed sound field.",
+    "prompt_vision": "Utility poles with metal components swaying slightly in gentle wind, surrounded by trees with rustling leaves, under a calm open sky.",
+    "prompt_audio": "Low-frequency wind hum over wires, occasional distant bird calls, subtle rustling leaves, and transient metallic creaks from swaying utility pole components; low volume, natural timbre, wide and even sound field.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of gentle wind passing over wires present with low-frequency vibrations?",
+      "Are occasional distant bird calls or rustling leaves audible in the soundscape?",
+      "Can transient sounds of metal components on utility poles swaying slightly in the wind be heard?",
+      "Is the overall volume of the soundscape low, maintaining a quiet ambiance?",
+      "Does the soundscape have a clear and natural timbre throughout?",
+      "Is the sound field wide and evenly distributed across the audio experience?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visual representation of utility poles with metal components that appear to sway slightly in the wind?",
+      "Are there visual elements depicting wires gently vibrating as if influenced by wind?",
+      "Can distant birds be seen in the background, suggesting occasional calls?",
+      "Are leaves visibly rustling, indicating movement consistent with wind?",
+      "Does the scene have a wide and evenly distributed composition, suggesting a broad sound field?",
+      "Is the lighting soft and natural, enhancing the quiet and serene outdoor ambiance?"
+    ]
+  },
+  {
+    "prompt_en": "On the busy city streets, neon lights flicker at night, accompanied by the footsteps of pedestrians and the occasional sound of passing vehicles. The giant mechanical crab decorations on the street might emit mechanical operating noises. The environment is filled with the hustle and bustle of the city, with occasional distant music and shop announcements. Pay attention to transient events, such as the synchronization of the crab's mechanical movements with corresponding sound effects, as well as occasional cheers or laughter from the crowd.",
+    "prompt_vision": "Busy city streets at night with flickering neon lights, giant mechanical crab decorations, and pedestrians walking by.",
+    "prompt_audio": "Footsteps of pedestrians, passing vehicles, mechanical operating noises from crab decorations, distant music, shop announcements, occasional cheers and laughter from the crowd.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Are the footsteps of pedestrians audible amidst the city sounds?",
+      "Is there an occasional sound of passing vehicles present in the audio?",
+      "Is Do the mechanical crab decorations emit mechanical operating noises?",
+      "Is there distant music audible in the background?",
+      "Are shop announcements occasionally heard in the audio?",
+      "Is there synchronization between the mechanical movements of the crab and the corresponding sound effects?",
+      "Are there occasional cheers or laughter from the crowd audible in the audio?"
+    ],
+    "auxiliary_info_vision": [
+      "Are neon lights visibly flickering in the scene?",
+      "Is it nighttime in the visual depiction?",
+      "Are pedestrians visible on the busy city streets?",
+      "Can giant mechanical crab decorations be seen on the street?",
+      "Are the mechanical crabs visibly moving in synchronization with their mechanical design?"
+    ]
+  },
+  {
+    "prompt_en": "In a quiet courtyard, a gentle breeze softly rustles the potted green plants on the windowsill, occasionally creating a faint rustling sound of leaves. Birdsong echoes from afar, creating a serene atmosphere. Suddenly, the wooden gate is pushed open slightly, producing a soft creaking sound, momentarily breaking the courtyard's tranquility. Shortly after, the gate is gently closed again, restoring the peaceful quiet as before.",
+    "prompt_vision": "A quiet courtyard with potted green plants on a windowsill, a wooden gate slightly opening and then closing gently.",
+    "prompt_audio": "Soft rustling of leaves, distant birdsong, a brief creaking sound from a wooden gate, followed by a return to quiet.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a faint rustling sound of leaves when the breeze softly moves the potted green plants on the windowsill?",
+      "Does the birdsong echo from afar, contributing to the serene atmosphere?",
+      "Is there a soft creaking sound when the wooden gate is pushed open slightly?",
+      "Does the creaking sound momentarily interrupt the quietness of the courtyard?",
+      "Is the peaceful quiet restored after the wooden gate is gently closed again?"
+    ],
+    "auxiliary_info_vision": [
+      "Are the potted green plants visibly moving due to the breeze?",
+      "Is the wooden gate shown being pushed open slightly?",
+      "Does the wooden gate appear to be gently closed after being opened?",
+      "Are the plants located on a windowsill in the courtyard?",
+      "Is there an absence of large body movement in the courtyard, indicating stillness?"
+    ]
+  },
+  {
+    "prompt_en": "Inside the bowling alley, the bowling balls produce a deep rolling sound as they move, accompanied by crisp collision noises when the balls hit the pins. The environment features slight reverberation, with soft and slow-tempo background music. Occasionally, the sound of shoes scuffing against the floor can be heard on the lanes, creating a wide and three-dimensional sound field. Special attention is given to synchronizing the sound effects with the visual of the ball hitting the pins, emphasizing the transient characteristics of the impact sound.",
+    "prompt_vision": "Inside a bowling alley, a bowling ball rolls down the lane and strikes the pins.",
+    "prompt_audio": "Deep rolling sound of bowling balls, crisp collision noises when hitting pins, slight reverberation, soft slow-tempo background music, occasional scuffing of shoes on the lane floor, wide and three-dimensional sound field, transient impact sounds synchronized with visual pin hits.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a deep rolling sound when the bowling balls move?",
+      "Are there crisp collision noises when the balls hit the pins?",
+      "Is there slight reverberation present in the environment?",
+      "Is there soft and slow-tempo background music audible?",
+      "Can the sound of shoes scuffing against the floor be heard occasionally?",
+      "Is the sound field wide and three-dimensional?",
+      "Is the sound of the ball hitting the pins synchronized with the visual impact?"
+    ],
+    "auxiliary_info_vision": [
+      "Are bowling balls visible rolling down the lanes?",
+      "Are pins visibly knocked over when the bowling balls hit them?",
+      "Is the motion of the bowling balls smooth and continuous?",
+      "Are the bowling balls visibly colliding with the pins upon reaching the end of the lane?",
+      "Are the lanes visibly reflective or polished, suggesting a typical bowling alley surface?",
+      "Are the bowling balls visibly different in color or design?",
+      "Are the pins arranged in a triangular formation before being hit?"
+    ]
+  }
+]

@@ -1,0 +1,310 @@
+[
+  {
+    "prompt_en": "On a large outdoor music festival night, lights flicker on stage as the music pulses powerfully. In the foreground, the crowd's cheers intertwine with the background music, creating a rich sound field. The rhythm is intense, with deep, resonant bass that spreads from the center of the stage throughout the venue, accompanied by lighting changes. Environmental sounds include the footsteps of the crowd, occasional cheers, and applause, building up an enthusiastic atmosphere. The timbres are diverse, with high-frequency electronic tones contrasting sharply against low-frequency rhythms, forming a clearly layered sound field where foreground and background sound sources are distinctly separated.",
+    "prompt_vision": "A large outdoor music festival at night with flickering stage lights and a cheering crowd in the foreground.",
+    "prompt_audio": "Powerful pulsing music with deep resonant bass, high-frequency electronic tones, crowd cheers, applause, footsteps, and distinct layered sound sources creating an enthusiastic atmosphere.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include powerful music with deep, resonant bass that spreads from the center of the stage throughout the venue?",
+      "Are the crowd's cheers and applause audible and intertwined with the background music, contributing to a rich sound field?",
+      "Is there a clear distinction between high-frequency electronic tones and low-frequency rhythms, forming a layered sound field?",
+      "Is Do the environmental sounds include footsteps of the crowd that contribute to the enthusiastic atmosphere?",
+      "Are the lighting changes synchronized with the rhythm of the music?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there visible stage lights flickering in sync with the music?",
+      "Is there a visible crowd in the foreground of the scene?",
+      "Are there visible lighting changes occurring on stage?",
+      "Is the scene set during nighttime?",
+      "Are there visible people in the crowd showing signs of cheering or applauding?",
+      "Is there a visible stage in the background of the scene?",
+      "Are there visible signs of an outdoor setting, such as open sky or natural elements?"
+    ]
+  },
+  {
+    "prompt_en": "This is a picture of urban traffic congestion, showing many vehicles traveling on the road.",
+    "prompt_vision": "Urban traffic congestion with many vehicles traveling on the road.",
+    "prompt_audio": "car engine, urban traffic sound",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a continuous sound of engines running from multiple vehicles?",
+      "Are there intermittent honking sounds typical of urban traffic?",
+      "Can the sound of tires on pavement be heard consistently?",
+      "Is there a general background noise level that suggests a busy urban environment?",
+      "Are there occasional sounds of brakes being applied by vehicles?",
+      "Does the audio include the sound of vehicles accelerating and decelerating?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there multiple vehicles visible on the road?",
+      "Is there a sense of crowdedness or congestion among the vehicles?",
+      "Are the vehicles positioned close to each other, indicating heavy traffic?",
+      "Can you see different types of vehicles, such as cars, buses, or trucks?",
+      "Is the road surface visible beneath the vehicles?",
+      "Are the vehicles oriented in a direction that suggests they are traveling on the road?"
+    ]
+  },
+  {
+    "prompt_en": "At a fire rescue scene, the siren of the fire truck is sharp and clear in the foreground, accompanied by the forceful sound of water jets and the crackling of flames. In the background, distant wind and occasional rustling leaves create a tense atmosphere. The firefighters' footsteps and the clinking of their equipment are distinctly layered within the sound field, with all audio elements clearly separated in space to avoid masking distortion.",
+    "prompt_vision": "Firefighters at a fire rescue scene with a fire truck, water jets spraying, and flames visible.",
+    "prompt_audio": "Sharp and clear fire truck siren in the foreground, forceful water jets, crackling flames, distant wind, occasional rustling leaves, distinct footsteps of firefighters, and clinking equipment, all spatially separated to avoid masking distortion.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the siren of the fire truck sharp and clear in the foreground of the audio?",
+      "Does the audio include the forceful sound of water jets?",
+      "Can the crackling of flames be heard distinctly in the audio?",
+      "Are distant wind sounds present in the background, contributing to the atmosphere?",
+      "Is there occasional rustling of leaves audible in the background?",
+      "Are the footsteps of firefighters clearly audible and distinct within the sound field?",
+      "Does the audio include the clinking of firefighters' equipment, distinctly layered without masking distortion?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a fire truck visible in the foreground?",
+      "Are there visible water jets being used by firefighters?",
+      "Can flames be seen in the scene?",
+      "Are firefighters present in the scene?",
+      "Is there visible equipment being carried or used by the firefighters?",
+      "Are the firefighters' footsteps visible on the ground?",
+      "Are leaves visibly rustling in the background?"
+    ]
+  },
+  {
+    "prompt_en": "On the sea surface, the foreground is a large cargo ship, while in the background, several other vessels are sailing in the distance. The audio should include the deep, low-frequency engine noise of the foreground cargo ship, with a slow yet powerful rhythm, accompanied by occasional metallic clanking sounds. In the background, the engine sounds of the distant ships are softer, with surrounding ocean waves and a gentle breeze creating a spacious marine soundscape. Each sound source should be clearly layered, with distinct spatial separation between foreground and background elements to avoid masking distortion.",
+    "prompt_vision": "On the sea surface, a large cargo ship in the foreground with several other vessels sailing in the distance.",
+    "prompt_audio": "Deep, low-frequency engine noise of a foreground cargo ship with a slow, powerful rhythm, occasional metallic clanking sounds; softer engine sounds of distant ships, ocean waves, and a gentle breeze creating a spacious marine soundscape with clear spatial separation between foreground and background audio elements.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the deep, low-frequency engine noise of the foreground cargo ship present with a slow yet powerful rhythm?",
+      "Are there occasional metallic clanking sounds accompanying the cargo ship's engine noise?",
+      "Is the engine noise of the distant ships softer compared to the foreground cargo ship?",
+      "Can the surrounding ocean waves be heard, contributing to the marine soundscape?",
+      "Is there a gentle breeze audible, adding to the spaciousness of the soundscape?",
+      "Are the sound sources clearly layered with distinct spatial separation between the foreground and background elements?",
+      "Is there an absence of masking distortion between the different sound elements?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a large cargo ship prominently visible in the foreground on the sea surface?",
+      "Are there several other vessels visible sailing in the distance in the background?",
+      "Does the cargo ship in the foreground appear stationary or moving slowly, without visible high-speed motion?",
+      "Are the distant vessels clearly smaller in visual size compared to the foreground cargo ship?",
+      "Is the sea surface visible, with no large waves or disturbances affecting the ships?"
+    ]
+  },
+  {
+    "prompt_en": "In an outdoor night scene, fireworks burst in the sky, accompanied by crisp explosive sounds and crackling sparks. The cheers and applause of the crowd echo in the background, creating a lively atmosphere. In the foreground, individual audience sounds such as footsteps and clothing rustling are clearly audible. The sound field is well-layered, with the firework sounds in the background separated from the foreground voices and actions, avoiding masking distortion.",
+    "prompt_vision": "An outdoor night scene with fireworks bursting in the sky, a crowd in the background, and individuals in the foreground.",
+    "prompt_audio": "Crisp explosive sounds and crackling sparks from fireworks in the background, echoing cheers and applause of the crowd, and clearly audible foreground sounds of footsteps and clothing rustling; well-layered sound field with distinct separation between background firework sounds and foreground audience actions.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Are the fireworks accompanied by crisp explosive sounds and crackling sparks?",
+      "Is the sound of cheers and applause from the crowd audible in the background, contributing to a lively atmosphere?",
+      "Can individual audience sounds like footsteps and clothing rustling be clearly heard in the foreground?",
+      "Is the sound field well-layered, with firework sounds in the background separated from foreground voices and actions?",
+      "Does the audio avoid masking distortion between the fireworks and the foreground sounds?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the scene set outdoors at night?",
+      "Are fireworks visibly bursting in the sky?",
+      "Can crackling sparks be seen accompanying the fireworks?",
+      "Is there a visible crowd in the foreground?",
+      "Are the fireworks visually distinct from the foreground elements?",
+      "Is there a sense of liveliness in the scene, as implied by the crowd's presence?",
+      "Is the lighting consistent with a night scene, with fireworks providing illumination?"
+    ]
+  },
+  {
+    "prompt_en": "At a large concert venue, the foreground features the audience's cheers and applause, while the background is filled with the band's performance. The bass drum delivers a strong rhythmic pulse, and the guitar tone is bright. The soundstage is wide, with clear separation and layering between the audience's voices and the band's music, creating a strong sense of space. The ambient sounds include occasional footsteps and slight clothing rustles, with an overall moderate volume that generates an energetic, lively atmosphere.",
+    "prompt_vision": "A large concert venue with an audience in the foreground and a performing band in the background.",
+    "prompt_audio": "Audience cheers and applause in the foreground, band performance in the background with a strong rhythmic bass drum and bright guitar tone; wide soundstage with clear separation between audience and music, occasional footsteps and clothing rustles, moderate volume, energetic and lively atmosphere.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the audience's cheering and applause clearly audible in the foreground of the audio mix?",
+      "Does the bass drum produce a strong rhythmic pulse that is distinct and consistent?",
+      "Is the guitar tone bright and distinguishable within the band's performance?",
+      "Are the audience's voices and the band's music separated and layered clearly to create a wide soundstage?",
+      "Can occasional footsteps and slight clothing rustles be heard as ambient sounds in the background?",
+      "Is the overall volume moderate, contributing to an energetic and lively atmosphere?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the audience visible in the foreground of the image or video?",
+      "Are people in the audience clapping or cheering?",
+      "Is the band performing visible in the background?",
+      "Are musical instruments, such as a bass drum and guitar, visible on stage?",
+      "Is the guitar visually identifiable as being played?",
+      "Does the scene convey a sense of a large concert venue with spatial separation between the audience and the band?",
+      "Are the audience members wearing clothing appropriate for a concert setting?"
+    ]
+  },
+  {
+    "prompt_en": "A large indoor concert scene with dazzling stage lights and enthusiastic audience waving their hands. The audio features a multi-source layered presentation: the foreground consists of powerful electronic music beats, with clear and strong bass and bright yet non-aggressive high frequencies; the background includes audience cheers and applause, delivering a wide and well-defined soundstage. Sound source localization is precise, with the main audio source at the center of the stage standing out, and a strong surround sensation from the ambient sounds around. The overall volume dynamics are rich, avoiding masking distortion.",
+    "prompt_vision": "A large indoor concert scene with dazzling stage lights and an enthusiastic audience waving their hands.",
+    "prompt_audio": "Powerful electronic music beats with strong bass and bright, non-aggressive high frequencies in the foreground; audience cheers and applause in the background creating a wide, well-defined soundstage; precise sound source localization with the main audio source centered on stage and strong surround sensation from ambient sounds; rich volume dynamics without masking distortion.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the electronic music in the foreground characterized by clear and strong bass?",
+      "Are the high frequencies in the electronic music bright yet non-aggressive?",
+      "Does the audio feature audience cheers and applause in the background?",
+      "Is the sound source localization precise, with the main audio source at the center of the stage?",
+      "Is there a strong surround sensation from the ambient sounds around the concert scene?",
+      "Are the overall volume dynamics rich, avoiding masking distortion?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there dazzling stage lights visible in the concert scene?",
+      "Is there a large audience visible in the concert scene?",
+      "Are members of the audience waving their hands?",
+      "Is the main stage located centrally in the concert scene?",
+      "Are the stage lights creating a bright and visually dynamic atmosphere?",
+      "Is the audience positioned around the stage, suggesting a surround sensation?",
+      "Does the scene appear to be indoors, with no visible outdoor elements?"
+    ]
+  },
+  {
+    "prompt_en": "In a dazzling indoor concert setting, the foreground features enthusiastic audience cheers and applause, while the background consists of the band's performance on stage, including clear guitar, drum beats, and synthesizer sounds. The sound field is well-layered, with instruments and audience sounds never overpowering each other. The volume dynamically fluctuates with the rhythm, creating a strong sense of liveliness. The ambient sound subtly includes footsteps and occasional object collisions, resulting in an overall spatial audio impression with clear separation between foreground and background.",
+    "prompt_vision": "A dazzling indoor concert with an enthusiastic audience in the foreground and a band performing on stage in the background.",
+    "prompt_audio": "Enthusiastic audience cheers and applause in the foreground; clear guitar, drum beats, and synthesizer sounds from the band in the background; well-layered sound field with dynamic volume fluctuations matching the rhythm; subtle ambient sounds of footsteps and occasional object collisions; clear spatial separation between foreground and background audio elements.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the background audio include distinct guitar, drum beats, and synthesizer sounds from the band's performance?",
+      "Can the sound field be perceived as well-layered, with instruments and audience sounds not overpowering each other?",
+      "Are the volume levels dynamically fluctuating with the rhythm to create a lively atmosphere?",
+      "Will the ambient sound include subtle footsteps and occasional object collisions?",
+      "Is there a clear separation between foreground audience sounds and background band performance in the spatial audio impression?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visible band performing on stage in the background?",
+      "Are there visible audience members in the foreground showing enthusiasm through gestures like clapping or cheering?",
+      "Can you see musical instruments such as guitars and drums being played by the band on stage?",
+      "Are the audience members visibly facing towards the stage where the band is performing?",
+      "Is there a visible separation between the audience area and the stage area in the scene?",
+      "Are the band members visibly engaged in playing their instruments, suggesting active performance?",
+      "Is the indoor concert setting well-lit, highlighting both the audience and the band on stage?"
+    ]
+  }
+]

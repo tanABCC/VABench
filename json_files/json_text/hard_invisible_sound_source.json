@@ -1,0 +1,1209 @@
+[
+  {
+    "prompt_en": "He was crossing the street when his steps suddenly froze. In terror, he turned his head toward the left side of the frame — a sharp, ear-piercing car horn suddenly blared from offscreen left, urgent and rapidly approaching, accompanied by the lingering screech of brakes, as if it would crash into the lens in the next second.",
+    "prompt_vision": "Man frozen mid-step, head turned left, eyes wide with terror, reacting to imminent offscreen collision.",
+    "prompt_audio": "A sharp, ear-piercing car horn blaring from offscreen left, urgent and rapidly approaching, accompanied by the lingering screech of brakes.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a sound of footsteps that abruptly stops when his steps freeze?",
+      "Does the audio include a sharp, ear-piercing car horn blaring from the left side of the sound field?",
+      "Is the car horn sound urgent and rapidly approaching, suggesting increasing intensity or volume?",
+      "Is there a lingering screech of brakes accompanying the car horn, indicating an imminent stop?",
+      "Does the screech of brakes sound as if it is coming from the left side of the sound field?",
+      "Is there an absence of other prominent sounds, emphasizing the suddenness and urgency of the car horn and screeching brakes?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the man visibly standing still in the middle of the street, indicating his steps have frozen?",
+      "Is the man's head turned towards the left side of the frame, showing his reaction to the sound?",
+      "Can the man's facial expression be seen as terrified, with wide eyes or an open mouth?",
+      "Is there visible motion blur or distortion suggesting the rapid approach of a vehicle from the left side of the frame?",
+      "Are there visual cues, such as tire marks or smoke, indicating the screeching of brakes from the left side of the frame?"
+    ]
+  },
+  {
+    "prompt_en": "She curled up on the sofa reading, her lips just beginning to lift in a smile, when her gaze softened toward the doorway—offscreen, the door lock clicked softly, \"click,\" followed by a familiar voice brimming with cheer bursting into the room: \"I'm back!\"—the voice arrives before the person does, and the warmth of home spills over through the sound waves.",
+    "prompt_vision": "A woman curled up on a sofa reading, lips beginning to lift in a smile, gaze softening toward the doorway.",
+    "prompt_audio": "Soft click of a door lock ('click'), followed by a cheerful, familiar voice exclaiming 'I'm back!'",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of the door lock clicking softly audible before the voice is heard?",
+      "Does the voice sound cheerful and warm when it bursts into the room?",
+      "Can the voice be heard clearly before the person appears on screen?",
+      "Are the sound waves conveying a sense of warmth and familiarity as described?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a woman curled up on a sofa with a book in her hands?",
+      "Are her lips slightly lifted in a smile?",
+      "Is her gaze directed toward the doorway?",
+      "Is the door lock visible in the scene?",
+      "Is the lighting warm and inviting, suggesting a cozy atmosphere?"
+    ]
+  },
+  {
+    "prompt_en": "The two were chatting casually on the lawn when they simultaneously looked up mid-sentence—as a jet streaked straight overhead at a 90-degree angle. The roar of its engine grew louder as it approached, then faded away, its pitch first rising then suddenly dropping due to the Doppler effect, as though a giant bird had flown past their eardrums, carving an arc across the sky with its sound.",
+    "prompt_vision": "Two people sitting on a lawn, looking up suddenly as a jet flies directly overhead at a steep angle, tracing a path across the sky.",
+    "prompt_audio": "Loud jet engine roar growing louder then fading, pitch rising then abruptly dropping due to the Doppler effect, resembling a giant bird's whooshing passage.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the sound of casual chatting before the jet appears?",
+      "Is there a noticeable increase in engine roar volume as the jet approaches overhead?",
+      "Does the pitch of the jet engine sound rise as it approaches and drop as it moves away, consistent with the Doppler effect?",
+      "Is the sound of the jet engine loud enough to suggest it is directly overhead when the two look up?",
+      "Does the audio capture the fading of the jet engine sound as it moves away, simulating distance?"
+    ],
+    "auxiliary_info_vision": [
+      "Are the two people positioned on a lawn in the image or video?",
+      "Is there a jet visible streaking overhead at a 90-degree angle?",
+      "Are the two people looking upwards simultaneously in the image or video?",
+      "Is the jet depicted with motion blur to indicate its fast movement?",
+      "Are the two people shown in a casual pose or attire, suggesting a relaxed conversation?"
+    ]
+  },
+  {
+    "prompt_en": "He was watering the flowers in the backyard, the water stream gentle, yet his expression suddenly turned gloomy. Annoyed, he glared off to the right — the neighbor's dog was barking frantically, its howls piercing through the fence, wild in rhythm and hoarse in tone, like inescapable auditory parasites in city life.",
+    "prompt_vision": "A man watering flowers in a backyard, his expression turning gloomy as he glares to the right toward a fence.",
+    "prompt_audio": "Frantic barking and hoarse, wild howls of a dog piercing through a fence, rhythmic and incessant like auditory parasites in city life.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of water flowing gentle and continuous while he is watering the flowers?",
+      "Does the audio include the sound of a dog barking frantically with a wild rhythm and hoarse tone?",
+      "Can the barking of the neighbor's dog be heard clearly and prominently through the fence?",
+      "Are the dog's howls consistent with a frantic and piercing auditory presence?",
+      "Is there a noticeable change in the audio when the man becomes annoyed and glares off to the right?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a person holding a watering can or hose, directing a gentle stream of water towards flowers?",
+      "Does the person have a gloomy facial expression while watering the flowers?",
+      "Is the person looking or glaring towards the right side of the image or scene?",
+      "Is there a dog visible near a fence, appearing to bark or howl?",
+      "Are the flowers visibly being watered, with water droplets or a stream present?"
+    ]
+  },
+  {
+    "prompt_en": "A group of people sit around staring intently offscreen at a television, suddenly jumping up together in celebration and high-fiving—offscreen, a football shot rings out with a \"Bang!\" and the commentator's voice cracks in a loud scream: \"GOOOAL!!\"—the roaring crowd of ten thousand surges like waves crashing against walls—the victory isn't visible onscreen, but exists in the collective euphoria stirred up by the sound waves.",
+    "prompt_vision": "A group of people sitting around, staring offscreen at a television, then suddenly jumping up in celebration and high-fiving each other.",
+    "prompt_audio": "A football shot with a loud 'Bang!', followed by a commentator screaming 'GOOOAL!!' and the roaring sound of a ten-thousand-person crowd surging like crashing waves.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a loud 'Bang!' sound corresponding to the football shot offscreen?",
+      "Does the commentator's voice crack in a loud scream of 'GOOOAL!!' after the football shot?",
+      "Is there a roaring crowd sound that surges like waves crashing against walls after the goal is scored?",
+      "Can the audio convey a sense of collective euphoria through the combination of the commentator's scream and the crowd's roar?",
+      "Are the sounds of celebration, such as high-fiving, audible when the group of people jumps up?",
+      "Is the timing of the crowd's roar synchronized with the commentator's scream of 'GOOOAL!!'?"
+    ],
+    "auxiliary_info_vision": [
+      "Are the people sitting around staring intently offscreen at the television at the beginning?",
+      "Do the people suddenly jump up together in celebration?",
+      "Are the people high-fiving each other after jumping up?",
+      "Is there visible excitement or euphoria in the facial expressions of the people?",
+      "Are the people looking offscreen throughout the scene?"
+    ]
+  },
+  {
+    "prompt_en": "She was writing intently at her desk when her pen suddenly paused mid-air. Her hand fumbled toward the bag under the table—then a classic cell phone ringtone muffledly emerged from somewhere below, filtered through fabric and wood into a blurred yet persistent sound, like an alarm hidden in the dark, deliberately cutting off thoughts at the peak of concentration.",
+    "prompt_vision": "A woman writing intently at her desk, her pen paused mid-air, hand reaching toward a bag under the table.",
+    "prompt_audio": "A muffled classic cell phone ringtone, filtered through fabric and wood, sounding blurred yet persistent, like an alarm hidden in the dark.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the sound of a pen writing before it pauses?",
+      "Is there a muffled classic cell phone ringtone audible after the pen pauses?",
+      "Can the ringtone sound be heard as if filtered through fabric and wood, creating a blurred effect?",
+      "Does the ringtone persist long enough to disrupt concentration, similar to an alarm?",
+      "Is the ringtone's volume consistent with being emitted from a bag under the table?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a woman sitting at a desk with a pen in her hand?",
+      "Is the pen held in mid-air, indicating a pause in writing?",
+      "Is there a bag visible under the table?",
+      "Does the woman's hand appear to be reaching toward the bag under the table?",
+      "Is the woman's facial expression showing concentration or focus?"
+    ]
+  },
+  {
+    "prompt_en": "The cat curled up at the foot of the stairs pretending to nap, its ears suddenly perking up, pupils fixed downward—the creaking sound of footsteps on wooden stairs came from off-screen, starting faint and growing louder, steady in rhythm. Each step pressed on the cat's nerves as an unknown visitor climbed into the scene with sound.",
+    "prompt_vision": "Cat curled at stairs' base, ears up, eyes down, alert as unseen visitor enters off-screen.",
+    "prompt_audio": "Creaking footsteps on wooden stairs, starting faint and growing louder, steady in rhythm.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a creaking sound of footsteps on wooden stairs that starts faint and grows louder?",
+      "Does the rhythm of the footsteps remain steady as they progress?",
+      "Can the sound of footsteps be heard coming from off-screen before the visitor appears?",
+      "Are the footsteps audibly pressing on the cat's nerves, suggesting a sense of tension or alertness?",
+      "Is there an absence of other prominent sounds, indicating a focus on the footsteps and the cat's reaction?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the cat curled up at the foot of the stairs with its body appearing still as if pretending to nap?",
+      "Are the cat's ears visibly perked up, indicating alertness?",
+      "Are the cat's pupils fixed downward, suggesting focused attention?",
+      "Is there a visible staircase made of wood in the scene?",
+      "Does the cat's posture or expression suggest tension or awareness of the approaching sound?",
+      "Are the footsteps implied visually by the steady movement of an unknown visitor climbing the stairs?",
+      "Is the visitor visually entering the scene from off-screen, matching the described climbing motion?"
+    ]
+  },
+  {
+    "prompt_en": "She sat with her back to us, her shoulders and arms gently swaying rhythmically, the soft glow of the screen in front of her—though the keyboard was out of sight, you could hear the steady, rhythmic tapping of keys, as if each keystroke were telling a story.",
+    "prompt_vision": "A person sitting with their back to the viewer, shoulders and arms swaying gently in rhythm, illuminated by the soft glow of a screen.",
+    "prompt_audio": "Steady, rhythmic tapping of keyboard keys, each keystroke distinct and narrative-like.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a steady, rhythmic tapping sound that corresponds to the described keystrokes?",
+      "Does the tapping sound maintain a consistent rhythm, matching the gentle swaying of her shoulders and arms?",
+      "Can the tapping sound be heard clearly despite the keyboard being out of sight?",
+      "Are the tapping sounds free from any noticeable distortion or noise that would disrupt the rhythm?",
+      "Will the tapping sounds continue throughout the duration of her swaying movements?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a woman sitting with her back facing the viewer?",
+      "Are her shoulders and arms gently swaying in a rhythmic motion?",
+      "Is there a soft glow emanating from a screen in front of her?",
+      "Is the keyboard not visible in the image?",
+      "Does the scene imply a sense of calmness and focus due to the rhythmic tapping of keys?"
+    ]
+  },
+  {
+    "prompt_en": "In the kitchen, her wrist moved in circular motions, though the bowl was hidden by the countertop—you could hear the whisk cutting through the thick batter, that even, steady stirring sound evoking the pleasant moments of baking.",
+    "prompt_vision": "In the kitchen, her wrist moves in circular motions above the countertop, with the bowl hidden from view.",
+    "prompt_audio": "The whisk cuts through thick batter, producing an even, steady stirring sound.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the sound of a whisk cutting through thick batter?",
+      "Is the stirring sound even and steady throughout the sequence?",
+      "Can the sound of whisking evoke a pleasant baking atmosphere?",
+      "Is there an absence of prominent background noise that would distract from the whisking sound?",
+      "Are the sounds synchronized with the implied circular motion of her wrist?"
+    ],
+    "auxiliary_info_vision": [
+      "Is her wrist visibly moving in circular motions?",
+      "Is the countertop visibly obscuring the bowl?",
+      "Can you see her hand holding a whisk?",
+      "Are there visible signs of stirring motion in her wrist or hand?",
+      "Is there an indication of thick batter being mixed, such as visible resistance in her wrist movements?"
+    ]
+  },
+  {
+    "prompt_en": "An elegant hand tilts a teapot as if pouring water, with neither the spout of the teapot nor the cup visible within the frame—the water cascades from above, gently flowing into the bottom of the cup, evoking a sense of serene morning ritual.",
+    "prompt_vision": "Elegant hand tilts teapot, water pours into cup below, soft morning light, serene ritual.",
+    "prompt_audio": "gentle flowing water, quiet ambient stillness",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a sound of water gently pouring, matching the action of tilting a teapot?",
+      "Does the audio maintain a consistent and gentle flow sound throughout the pouring action?",
+      "Is there an absence of any loud or abrupt noises that would disrupt the serene atmosphere?",
+      "Can the sound of pouring water be heard clearly without distortion or noise?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visible hand tilting a teapot?",
+      "Is water visibly cascading from above into the bottom of a cup?",
+      "Does the scene evoke a sense of serene morning ritual through the gentle flow of water?",
+      "Is the spout of the teapot not visible within the frame?",
+      "Is the cup not fully visible within the frame, only showing the bottom part where water flows in?"
+    ]
+  },
+  {
+    "prompt_en": "His hand reached toward the lower right side of the table and gave a gentle pull—immediately followed by a faint creaking sound from the wooden drawer slides, hinting at the trivial yet genuine details of everyday life.",
+    "prompt_vision": "A hand reaching toward the lower right side of a wooden table and pulling a drawer open.",
+    "prompt_audio": "Faint creaking sound from wooden drawer slides.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a faint creaking sound immediately after the hand reaches toward the lower right side of the table?",
+      "Is the creaking sound consistent with wooden drawer slides?",
+      "Can the creaking sound be heard clearly without distortion or noise?"
+    ],
+    "auxiliary_info_vision": [
+      "Is his hand visibly reaching toward the lower right side of the table?",
+      "Does the table have a visible wooden drawer on its lower right side?",
+      "Is the drawer shown being gently pulled open by his hand?",
+      "Are the wooden drawer slides visibly positioned and aligned with the drawer's movement?",
+      "Is there no visible motion in the drawer before his hand interacts with it?"
+    ]
+  },
+  {
+    "prompt_en": "From a first-person perspective, gripping the handle of a supermarket shopping cart, weaving through the aisles—you can hear the sound of the cart's wheels rolling across the smooth tiled floor, and the occasional faint rattling of the metal frame from vibrations, as if taking you on a bustling shopping journey.",
+    "prompt_vision": "First-person view gripping a supermarket shopping cart handle, moving through aisles with smooth tiled floors and shelves stocked with products.",
+    "prompt_audio": "Wheels rolling smoothly on tiled floor, faint intermittent rattling of metal cart frame from vibrations.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of the shopping cart's wheels rolling across a smooth tiled floor audible throughout the video?",
+      "Does the audio include the occasional faint rattling of the shopping cart's metal frame due to vibrations?",
+      "Can the sound of the cart's wheels be heard consistently as the perspective moves through the aisles?",
+      "Are the sounds of the cart's wheels and frame synchronized with the visual movement through the supermarket aisles?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the handle of the shopping cart visible in the foreground from a first-person perspective?",
+      "Does the shopping cart appear to be moving through supermarket aisles with visible shelves on either side?",
+      "Are the wheels of the shopping cart visibly rolling along a smooth tiled floor?",
+      "Is the metal frame of the shopping cart visible and showing slight vibrations consistent with movement?",
+      "Are the aisles depicted as having products or items displayed on the shelves?"
+    ]
+  },
+  {
+    "prompt_en": "A close-up shot captures the guitarist's left hand rapidly pressing along the neck, while the right hand and body of the guitar remain outside the frame—what we hear at this moment is the strumming or arpeggiated chords perfectly synchronized with the chord changes, filling the space with music, as if the entire world were resonating.",
+    "prompt_vision": "Close-up of a guitarist's left hand rapidly pressing along the neck of a guitar, with the right hand and guitar body outside the frame.",
+    "prompt_audio": "Strumming or arpeggiated chords perfectly synchronized with chord changes, filling the space with resonant music.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of strumming or arpeggiated chords synchronized with the visible movements of the guitarist's left hand on the neck?",
+      "Does the audio convey a sense of fullness and resonance, as if filling the space with music?",
+      "Are the chord changes audibly distinct and matching the visual changes in finger positions on the guitar neck?",
+      "Is there an absence of noise or distortion in the audio, allowing the music to be clear and uninterrupted?",
+      "Can the pitch of the chords be heard changing in accordance with the finger movements on the guitar neck?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the guitarist's left hand visibly pressing along the neck of the guitar?",
+      "Does the image show the fingers of the left hand in motion, indicating rapid pressing?",
+      "Is the neck of the guitar visible in the close-up shot?",
+      "Are the strings on the neck of the guitar visibly being pressed or manipulated?",
+      "Is the right hand of the guitarist outside the frame?",
+      "Is the body of the guitar outside the frame in the image?",
+      "Can the motion of the left hand imply rapid chord changes through visible finger movement?"
+    ]
+  },
+  {
+    "prompt_en": "Through the window, the outside world is veiled in rain, with droplets slowly sliding down the glass. Indoors, the gentle tapping of raindrops on the roof and windows creates a sense of safety tinged with mild melancholy, as if nature were softly embracing the interior world.",
+    "prompt_vision": "Rain veils the outside world visible through a window, with droplets slowly sliding down the glass.",
+    "prompt_audio": "Gentle tapping of raindrops on the roof and windows, soft and rhythmic, evoking calm and mild melancholy.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of raindrops tapping on the roof and windows audible in the audio?",
+      "Does the audio maintain a gentle and consistent tapping sound of raindrops throughout the scene?",
+      "Can the sound of raindrops be heard as if they are softly sliding down the glass?",
+      "Is there an absence of loud or harsh noises that would disrupt the sense of safety and melancholy?",
+      "Are the raindrop sounds positioned to create a sense of being indoors, with the sound coming from above and around the listener?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there visible rain outside the window?",
+      "Are there droplets visibly sliding down the glass of the window?",
+      "Is the indoor scene depicted as calm and still, with no large movements?",
+      "Are the raindrops on the window creating a pattern or texture on the glass?",
+      "Is the lighting indoors soft, suggesting a gentle ambiance?"
+    ]
+  },
+  {
+    "prompt_en": "He pressed hard with both hands, slightly leaning forward—then came the sound of the can opener's gears turning and metal cutting through, a victorious noise against the sealed food packaging, heralding the delicious meal about to be revealed.",
+    "prompt_vision": "A person pressing hard with both hands on a can opener, leaning slightly forward, as the device cuts through a sealed metal can.",
+    "prompt_audio": "The mechanical whirring of can opener gears turning, followed by the sharp, crisp sound of metal cutting through a sealed can—victorious and satisfying.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the sound of gears turning when the can opener is used?",
+      "Is there a sound of metal cutting through when the can opener is operated?",
+      "Can the audio convey a sense of victory or accomplishment through the sound of the can opener?",
+      "Are the sounds of the can opener synchronized with the visual action of pressing and leaning forward?",
+      "Is the sound of the can opener prominent and clear, without distortion or excessive noise?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a person pressing down with both hands on a can opener?",
+      "Is the person slightly leaning forward while using the can opener?",
+      "Can the can opener be seen cutting through a metal can?",
+      "Are the gears of the can opener visibly turning?",
+      "Is there a metal can being opened by the can opener?",
+      "Is the can opener positioned over a sealed food packaging?",
+      "Does the scene suggest the anticipation of a meal being revealed?"
+    ]
+  },
+  {
+    "prompt_en": "He was reading in the library when he suddenly looked up in alarm toward the left edge of the frame—the next second, \"Bang!\" A thick book slammed to the floor with a heavy thud. His pupils constricted as he jerked his head upward, and immediately after, \"Boom! Boom! Boom!\" The entire row of bookshelves toppled like dominoes, a chain reaction of collapsing shelves rolling from the left toward the upper left. Dust exploded into the air with the shockwaves.",
+    "prompt_vision": "Man looks up in alarm as book falls, then bookshelves topple left to upper left, dust explodes.",
+    "prompt_audio": "Bang! A heavy thud as a thick book slams to the floor. Boom! Boom! Boom! A chain reaction of collapsing bookshelves, loud crashing and rumbling sounds, dust and debris shaking with low-frequency shockwaves.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a heavy thud sound when the book slams to the floor?",
+      "Does the sound of the book hitting the floor occur immediately after the character looks up in alarm?",
+      "Are there sequential 'Boom' sounds as the bookshelves topple like dominoes?",
+      "Does the sequence of 'Boom' sounds start from the left and move toward the upper left?",
+      "Is there an audible burst or explosion sound when the dust is released into the air with the shockwaves?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a man sitting and reading in the library at the beginning of the scene?",
+      "Does the man look up in alarm toward the left edge of the frame?",
+      "Is there a thick book visibly slamming to the floor with a heavy thud?",
+      "Do the man's pupils constrict as he jerks his head upward?",
+      "Are the bookshelves visibly toppling like dominoes from the left toward the upper left?",
+      "Is there dust visibly exploding into the air as the bookshelves collapse?"
+    ]
+  },
+  {
+    "prompt_en": "She was smiling while talking on the phone, her eyes and eyebrows curving warmly, when suddenly her smile froze and she pressed the receiver tightly against her ear—the muffled yet icy voice of a man came from the other end, slow in pace, each word like a hammer blow: \"...Something happened.\"—bad news needs no dialogue, only the instant the tone pierces the ear, freezing the expression.",
+    "prompt_vision": "A woman smiling while talking on the phone, eyes and eyebrows curved warmly, then her smile freezing as she presses the receiver tightly against her ear.",
+    "prompt_audio": "Muffled, icy male voice speaking slowly, each word heavy and distinct: '...Something happened.'",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a clear and audible sound of a phone conversation when she is talking on the phone?",
+      "Does the audio include the sound of her voice when she is smiling and talking on the phone?",
+      "Is there a noticeable change in her facial expression synchronized with the change in tone of the voice from the phone?",
+      "Does the audio capture the moment her smile freezes, indicated by a change in the tone or pace of the conversation?",
+      "Is the sound of the phone receiver being pressed tightly against her ear audible?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the woman holding a phone receiver against her ear?",
+      "Are the woman's eyes and eyebrows curved in a warm expression?",
+      "Is the woman smiling initially before her expression changes?",
+      "Does the woman's smile freeze as she presses the receiver tightly against her ear?",
+      "Is there a visible change in the woman's facial expression indicating a shift from warmth to tension?",
+      "Is the woman's posture or hand grip on the phone indicative of receiving bad news?",
+      "Are the man's words visually implied through the woman's reaction to the phone call?"
+    ]
+  },
+  {
+    "prompt_en": "He leaned against the tree trunk with his eyes closed, resting for a moment, when suddenly he opened his eyes and the hair on the back of his neck stood on end. In the depths of the forest, first came the sharp snap of a dry branch breaking, then heavy footsteps approaching from afar, and finally a deep animal growl rolling along the ground. Danger was not visible to the eye, but rather advancing relentlessly along the soundwave.",
+    "prompt_vision": "A man leaning against a tree trunk with his eyes closed, then suddenly opening them, his expression tense; dense forest surroundings with no visible threat.",
+    "prompt_audio": "Sharp snap of a dry branch breaking, followed by heavy footsteps approaching from a distance, then a deep animal growl rolling along the ground.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a sharp snapping sound of a dry branch breaking at the beginning of the audio sequence?",
+      "Are there heavy footsteps audible, approaching from a distance after the branch snap?",
+      "Is there a deep animal growl present in the audio, following the footsteps?",
+      "Does the audio convey a sense of danger through the sequence of sounds, as described in the prompt?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a man leaning against a tree trunk with his eyes closed?",
+      "Does the man have his eyes open at some point in the scene?",
+      "Can the man's hair on the back of his neck be seen standing on end?",
+      "Are there visible signs of a broken dry branch in the forest?",
+      "Is there an indication of heavy footsteps approaching, such as disturbed ground or moving foliage?",
+      "Is there a visual representation of a deep animal growl, like vibrations or movement in the ground?"
+    ]
+  },
+  {
+    "prompt_en": "He gazed at the lake's reflection, the sky clear and bright, when suddenly his pupils contracted to pinpricks—not from ripples on the water, but from a sudden \"Whoosh!\" from above the high cliff behind him. A massive boulder tore through the air, its wind pressure slashing against his ears from above and behind. In the next instant, \"Boom!!\" Before water even splashed, terror had already exploded.",
+    "prompt_vision": "Man faces calm lake reflecting sky; massive boulder plummets from cliff behind, moments before impact.",
+    "prompt_audio": "Sudden loud 'Whoosh!' followed immediately by a powerful 'Boom!!'; wind pressure from above and behind; no water splash yet.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a sudden 'Whoosh!' sound from above and behind, indicating the movement of the boulder through the air?",
+      "Does the audio include a 'Boom!!' sound immediately following the 'Whoosh!', suggesting the impact of the boulder?",
+      "Can the sound of wind pressure be heard slashing against the ears, indicating the force of the boulder's movement?",
+      "Is there an absence of water splash sounds before the 'Boom!!', implying the sequence of events described?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the man gazing at the lake's reflection with a clear and bright sky visible?",
+      "Are the man's pupils visibly contracted to pinpricks?",
+      "Is a massive boulder shown tearing through the air from above and behind the man?",
+      "Is there a visible sense of wind pressure or distortion in the air around the boulder as it moves?",
+      "Does the boulder appear to cause an explosive impact before the water splashes?"
+    ]
+  },
+  {
+    "prompt_en": "The soldier squad crouched low and moved forward stealthily. Suddenly, the leader raised his fist, and the entire team instantly squatted down like stones. A hundred meters ahead, a faint yet clear metallic sound—\"ding\"—was heard, possibly from an enemy rifle bolt or a swaying canteen. In the silent battlefield, that single sound served as a command, where silence spoke louder than words.",
+    "prompt_vision": "Soldier squad crouched, moved stealthily; leader raised fist, team instantly squatted like stones on silent battlefield.",
+    "prompt_audio": "A faint yet clear metallic 'ding' sound, possibly from an enemy rifle bolt or a swaying canteen, in an otherwise silent environment.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include subdued or muffled sounds corresponding to the soldiers' stealthy movements as they crouch and move forward?",
+      "Is the overall soundscape predominantly silent, with no prominent background noises, reflecting the silent battlefield described?",
+      "Does the audio accurately convey the sudden stillness of the squad when the leader raises his fist, with no additional movement sounds afterward?",
+      "Can the metallic 'ding' sound be distinctly identified as separate from any other ambient or residual noises in the audio?"
+    ],
+    "auxiliary_info_vision": [
+      "Are the soldiers crouched low as they move forward?",
+      "Is the leader raising his fist visible in the scene?",
+      "Does the squad instantly squat down upon the leader's signal?",
+      "Is there a visible metallic object, such as a rifle bolt or canteen, that could produce a 'ding' sound?",
+      "Are the soldiers depicted in a still and silent pose after hearing the metallic sound?"
+    ]
+  },
+  {
+    "prompt_en": "Children screamed and ran across the playground, the sunlight glaring, when suddenly they all froze, tilting their heads upward in unison—the first muffled thunder rolled out from deep within the clouds with a \"rumble...\", the wind abruptly rising and sweeping away their laughter. Dark clouds had not yet arrived, but their sound advanced first, silencing innocence in the moment just before the thunderclap.",
+    "prompt_vision": "Children frozen mid-run on a sunlit playground, all looking upward; dark clouds approaching in the distance.",
+    "prompt_audio": "Muffled thunder rumbling from distant clouds, wind rising abruptly, children's laughter cut off suddenly.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the sound of children screaming and running at the beginning of the scene?",
+      "Is there a noticeable change in the audio from children's laughter to silence when the thunder begins?",
+      "Can the audio capture the muffled rolling thunder sound described as 'rumble...'?",
+      "Is there an audible increase in wind sound that coincides with the thunder rolling?",
+      "Are the sounds of children's activities absent or significantly reduced when the thunder and wind sounds occur?"
+    ],
+    "auxiliary_info_vision": [
+      "Are the children visibly screaming and running across the playground before freezing in place?",
+      "Is the sunlight glaring on the playground before the children freeze?",
+      "Do the children tilt their heads upward in unison after freezing?",
+      "Is the wind visibly rising and sweeping through the playground after the thunder rolls?",
+      "Are the clouds visible but not yet dark when the thunder sound occurs?"
+    ]
+  },
+  {
+    "prompt_en": "He sat on the interrogation chair, his face as calm as still water, until the name was spoken — in that instant, a sharp, echoing screech of brakes, \"Yiieeaaarrrgh!!\" exploded inside his skull. It lasted only 0.3 seconds and his expression never changed, but his pupils betrayed him: that sound was the death knell from a car crash five years ago.",
+    "prompt_vision": "A man sitting calmly in an interrogation chair, his face expressionless but pupils dilated, recalling a past car crash.",
+    "prompt_audio": "A sharp, echoing screech of brakes followed by a brief, guttural scream 'Yiieeaaarrrgh!!', lasting 0.3 seconds.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a sharp, echoing screech of brakes lasting approximately 0.3 seconds when the name is spoken?",
+      "Is the screeching sound characterized by a high pitch and intense volume, resembling a car crash?",
+      "Can the audio-visual model maintain silence or subdued sound before the name is spoken, reflecting the calmness described?",
+      "Does the audio-visual model synchronize the screeching sound with the moment the name is spoken, ensuring precise timing?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the man sitting on an interrogation chair?",
+      "Is the man's face calm and still?",
+      "Are the man's pupils visibly dilated or showing a change?",
+      "Is there a visual representation of a car crash sound, such as screeching brakes?",
+      "Is the man's facial expression unchanged despite the described sound?",
+      "Is the lighting consistent with an indoor interrogation setting?",
+      "Is the man wearing clothing typical for an interrogation scenario, such as formal or casual attire?"
+    ]
+  },
+  {
+    "prompt_en": "The chef's hands are rapidly chopping, sprinkling salt, and pouring in the lower part of the frame—you can't see the pot, but the knife's \"da da da\" rhythmically minces scallions and ginger, the salt grains \"sha sha\" fall, followed immediately by the sizzle of hot oil releasing its fragrance, and the aroma explodes from the sound waves.",
+    "prompt_vision": "Chef's hands rapidly chopping scallions and ginger, sprinkling salt, and pouring in the lower part of the frame, with no pot visible.",
+    "prompt_audio": "Rhythmic 'da da da' of knife mincing, 'sha sha' sound of salt grains falling, followed by a loud sizzle of hot oil releasing fragrance.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of the knife chopping consistent with a rhythmic 'da da da' pattern?",
+      "Does the sound of salt grains falling resemble a 'sha sha' sound?",
+      "Is there an audible sizzle sound immediately following the salt being sprinkled?",
+      "Can you hear the sizzle of hot oil as if it is releasing fragrance?",
+      "Are the chopping, sprinkling, and sizzling sounds synchronized with the actions described?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visible hand holding a knife in a chopping motion?",
+      "Are scallions and ginger visibly being minced by the knife?",
+      "Can you see salt grains visibly falling from a hand?",
+      "Is there a visible hand pouring a liquid, likely oil, into the frame?",
+      "Are the chef's hands positioned in the lower part of the frame?"
+    ]
+  },
+  {
+    "prompt_en": "A hand repeatedly wipes beneath the frame, alternating pressure—should it be wiping glass, the rubber squeegee produces a smooth \"hiss~\"; should it be scrubbing an iron pot, the steel wool creates an ear-piercing \"squeak!\", the materials revealing themselves on the eardrums.",
+    "prompt_vision": "A hand repeatedly wipes beneath the frame, alternating pressure.",
+    "prompt_audio": "Smooth hiss of a rubber squeegee on glass, alternating with an ear-piercing squeak of steel wool scrubbing an iron pot.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a smooth 'hiss~' sound when the hand is wiping glass with a rubber squeegee?",
+      "Does the audio include an ear-piercing 'squeak!' sound when the hand is scrubbing an iron pot with steel wool?",
+      "Can the audio clearly differentiate between the smooth 'hiss~' and the ear-piercing 'squeak!' based on the material being wiped or scrubbed?",
+      "Is the timing of the sounds synchronized with the hand's wiping motion beneath the frame?",
+      "Are the sounds consistent with alternating pressure during the wiping action, varying in intensity or volume?"
+    ],
+    "auxiliary_info_vision": [
+      "Is a hand visible performing a wiping motion beneath the frame?",
+      "Does the hand alternate pressure while wiping?",
+      "Can the wiping motion visually suggest interaction with a smooth surface like glass?",
+      "Can the wiping motion visually suggest interaction with a rough surface like an iron pot?",
+      "Is the hand holding a rubber squeegee when interacting with a smooth surface?",
+      "Is the hand holding steel wool when interacting with a rough surface?",
+      "Are the materials visually distinguishable based on their interaction with the surfaces?"
+    ]
+  },
+  {
+    "prompt_en": "He yanked the pull cord hard, leaning his body backward to add force — first came the \"click clack\" of a few empty rotations, the engine coughed and struggled, then finally with a \"Boom!\" the old machine roared to life, its vibrations traveling from the floor up through your feet.",
+    "prompt_vision": "A person yanking a pull cord on an old machine, leaning backward with effort, as the machine begins to vibrate and operate.",
+    "prompt_audio": "Click clack of empty rotations, engine coughing and struggling, followed by a loud 'Boom!' as the machine roars to life with strong vibrations.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the sound of a pull cord being yanked, followed by a 'click clack' noise indicating empty rotations?",
+      "Is there a coughing and struggling sound from the engine before it starts?",
+      "Does the audio feature a 'Boom!' sound when the machine roars to life?",
+      "Can the vibrations of the machine be heard or felt through the sound, suggesting movement from the floor upwards?",
+      "Is the engine sound continuous and consistent after the initial start-up noise, indicating the machine is running?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visible pull cord being yanked with force by a person leaning backward?",
+      "Does the machine appear to be an older model, based on visible wear or design?",
+      "Can the vibrations of the machine be inferred through visible shaking or movement of nearby objects?",
+      "Is the person using their body weight to add force to the pull cord action?",
+      "Are there visible signs of the engine struggling before starting, such as smoke or jerky movements?"
+    ]
+  },
+  {
+    "prompt_en": "The tailor's hands deftly guide the fabric across the table, the sewing machine hidden beneath the frame—\"click clack, click clack\"—the stitches fall like raindrops, the motor hums low, the feed dogs engage, the rhythm precise as a heartbeat, the fabric being sewn into the timeline by sound.",
+    "prompt_vision": "A tailor's hands guiding fabric across a table with a sewing machine partially hidden beneath the frame.",
+    "prompt_audio": "Click clack, click clack of sewing machine stitches, low motor hum, rhythmic feed dogs engaging, precise and steady like a heartbeat.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a low humming sound present that corresponds to the sewing machine's motor?",
+      "Can the sound of the feed dogs engaging be heard as part of the sewing process?",
+      "Are the 'click clack' sounds synchronized with the implied rhythm described as precise as a heartbeat?",
+      "Does the audio avoid any unexpected loud noises or distortions that would disrupt the sewing machine's rhythmic operation?"
+    ],
+    "auxiliary_info_vision": [
+      "Are the tailor's hands visibly guiding the fabric across the table?",
+      "Is the sewing machine hidden beneath the table frame?",
+      "Can the stitches be seen falling onto the fabric?",
+      "Is the fabric visibly moving in a precise rhythm?",
+      "Are the feed dogs visibly engaging with the fabric?",
+      "Is the fabric being sewn into a straight line?",
+      "Is there visible motion in the tailor's hands as they guide the fabric?"
+    ]
+  },
+  {
+    "prompt_en": "One hand lifts the tonearm, gently moves it right off-screen, and slowly lowers it—*click*, it locks into place, followed by a *crackle... pop...* as the background noise of frying beans emerges. The vinyl spins, and jazz music rises from the static, as if salvaging melodies from the past.",
+    "prompt_vision": "Hand lifts tonearm from record player, moves right off-screen, lowers with click. Vinyl spins.",
+    "prompt_audio": "A soft click as the tonearm locks, followed by crackling and popping sounds, then the sizzle of frying beans in the background. Jazz music gradually emerges from the static, growing clearer and richer.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a distinct click sound when the tonearm locks into place?",
+      "Does the audio include a crackle and pop sound immediately after the tonearm locks?",
+      "Can the sound of frying beans be heard as background noise after the tonearm locks?",
+      "Is there a transition from static noise to jazz music as the vinyl spins?",
+      "Are the jazz melodies clearly audible and distinct from the static noise?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visible hand lifting the tonearm?",
+      "Does the tonearm move right off-screen?",
+      "Is the tonearm slowly lowered into place?",
+      "Can the vinyl be seen spinning?",
+      "Are there visible indications of jazz music playing, such as a speaker or sound waves?"
+    ]
+  },
+  {
+    "prompt_en": "She squatted down, gently caressing off-screen, a soft smile playing on her lips—the big dog panting happily with \"huff... huff,\" its tail thumping \"pat... pat\" against the floor, a deep, contented \"mrrr~wooo~\" rumbling from its throat, warmth spilling out through the sound waves.",
+    "prompt_vision": "A woman squats down with a soft smile, gently caressing something off-screen; a large dog sits nearby, tail thumping against the floor.",
+    "prompt_audio": "Dog panting 'huff... huff', tail thumping 'pat... pat', deep contented rumble 'mrrr~wooo~'",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the dog's panting audible with a rhythmic 'huff... huff' sound?",
+      "Does the audio include the sound of the dog's tail thumping 'pat... pat' against the floor?",
+      "Are the sounds of the dog synchronized with the visual cues of its actions, such as panting and tail movement?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the woman squatting down in the image?",
+      "Does the woman have a soft smile on her lips?",
+      "Is the big dog visible in the image?",
+      "Is the dog's tail visibly thumping against the floor?",
+      "Can the dog's mouth be seen open, indicating panting?",
+      "Are the woman's hands positioned as if she is caressing something off-screen?"
+    ]
+  },
+  {
+    "prompt_en": "The white coat hovered the pipette, a drop of liquid fell into the beaker off-screen—*a soft \"boop\" as it kissed the surface*, then *\"hiss, hiss, hiss...\"* bubbles surged like a tiny volcano, the chemical reaction smoking within the soundscape, danger hidden beneath the gentle landing.",
+    "prompt_vision": "White coat hovers pipette, liquid drop falls into beaker, bubbles surge, smoke rises from chemical reaction.",
+    "prompt_audio": "A soft 'boop' as a liquid drop hits a surface, followed by a sustained 'hiss, hiss, hiss...' of bubbling and faint chemical fizzing.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a soft 'boop' sound when the drop of liquid falls into the beaker?",
+      "Does the audio include a 'hiss, hiss, hiss' sound to represent the bubbling reaction?",
+      "Can the sound of the bubbling reaction be heard continuously after the drop falls?",
+      "Is there an audible indication of a chemical reaction, such as bubbling or smoking sounds, following the drop's impact?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a white coat visible in the scene?",
+      "Is the pipette positioned above the beaker?",
+      "Can a drop of liquid be seen falling from the pipette?",
+      "Are bubbles visibly surging in the beaker?",
+      "Is there visible smoke emanating from the beaker?",
+      "Are the bubbles forming rapidly like a tiny volcano?",
+      "Is the beaker the focal point of the visual content?"
+    ]
+  },
+  {
+    "prompt_en": "Hands fumble and tear below the frame—\"Rip!\" the tape snaps, \"Crinkle, crinkle,\" the cardboard box is sliced open, \"Rustle, rustle,\" the foam paper balls are pushed aside. The ritual of unpacking is not visual, but rather a layered revelation of excitement through the collusion of fingers and sound waves.",
+    "prompt_vision": "Hands tearing tape, slicing open a cardboard box, and pushing aside foam paper balls below the frame.",
+    "prompt_audio": "Rip! Crinkle, crinkle. Rustle, rustle.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a distinct 'Rip!' sound when the tape snaps?",
+      "Is there a 'Crinkle, crinkle' sound when the cardboard box is sliced open?",
+      "Can the audio capture a 'Rustle, rustle' sound as the foam paper balls are pushed aside?",
+      "Are the sounds of fumbling and tearing audible below the frame?",
+      "Is the sequence of sounds consistent with the described actions of unpacking?",
+      "Does the audio convey a layered revelation of excitement through the described sounds?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there visible movement of hands below the frame indicating fumbling and tearing actions?",
+      "Does the image show a cardboard box that appears to be sliced open?",
+      "Are there foam paper balls visible, suggesting they have been pushed aside?"
+    ]
+  }
+]

@@ -1,0 +1,596 @@
+[
+  {
+    "prompt_en": "On this railway track bathed in the golden light of the setting sun, I could feel the distant rumble of an approaching train growing closer. A slight vibration ran through the tracks, accompanied by a deep, resonant roar. In the surrounding forest, occasional bird calls could be heard, while a gentle breeze rustled the treetops, producing a soft, whispering sound. As the train drew nearer, the soundscape shifted from distant and muffled to intense and powerful, as if the air itself were vibrating. When the train passed by, the volume reached its peak and then gradually faded into the distance, leaving behind a diminishing echo.",
+    "prompt_vision": "Railway track bathed in golden light of the setting sun, surrounded by forest with treetops rustling in a gentle breeze.",
+    "prompt_audio": "Distant rumble of an approaching train growing closer, deep resonant roar, slight vibration in tracks, occasional bird calls, soft whispering rustle of treetops, soundscape intensifying as train nears, peak volume as train passes, then fading echo into distance.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a distant rumble that grows closer as the train approaches?",
+      "Is there a deep, resonant roar accompanying the vibration of the tracks?",
+      "Can occasional bird calls be heard in the surrounding forest?",
+      "Is there a soft, whispering sound produced by the gentle breeze rustling the treetops?",
+      "Does the soundscape shift from distant and muffled to intense and powerful as the train draws nearer?",
+      "Does the volume reach its peak when the train passes by and then gradually fade into the distance?",
+      "Is there a diminishing echo left behind after the train has passed?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the railway track illuminated by the golden light of the setting sun?",
+      "Does the image show a train approaching on the railway track?",
+      "Can the tracks be seen vibrating slightly?",
+      "Are the treetops visibly rustling due to a gentle breeze?",
+      "Will the train appear closer in the image as it approaches?",
+      "Is there a visible echo effect as the train moves away?",
+      "Are the surrounding trees part of a forest setting?"
+    ]
+  },
+  {
+    "prompt_en": "On a vast Antarctic ice field, two penguins walk side by side, surrounded by cold sea winds and the distant murmur of glaciers. The soundscape should convey a sense of open, empty space, with subtle wind sounds and faint echoes of distant ice cracking. The penguins' footsteps should be crisp and light, evenly paced and moderately loud, creating a quiet and lonely atmosphere.",
+    "prompt_vision": "Two penguins walking side by side on a vast Antarctic ice field, surrounded by cold sea winds and distant glaciers.",
+    "prompt_audio": "Open, empty soundscape with subtle wind sounds, faint echoes of distant ice cracking, and crisp, light, evenly paced penguin footsteps that are moderately loud, evoking a quiet and lonely atmosphere.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Are the penguins' footsteps crisp, light, evenly paced, and moderately loud as described?",
+      "Does the audio include subtle wind sounds that convey a sense of cold and open space?",
+      "Are there faint echoes of distant ice cracking present in the soundscape?",
+      "Is the overall soundscape quiet and lonely, with no prominent or intrusive noises?",
+      "Does the audio-visual synchronization ensure the penguins' footsteps align with their walking movements?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there two penguins visible walking side by side on an Antarctic ice field?",
+      "Is the ice field vast and expansive in appearance?",
+      "Are the penguins walking with evenly paced footsteps?",
+      "Do the penguins appear to be surrounded by cold sea winds, indicated by visual cues such as snow or ice particles being blown?",
+      "Are the penguins' bodies visibly unaffected by large movements or disturbances, suggesting a calm walking motion?",
+      "Is the distant presence of glaciers visually implied, such as through visible ice formations or large icy structures in the background?"
+    ]
+  },
+  {
+    "prompt_en": "In a whirlpool filled with books, I felt the sound of pages turning—soft and continuous, as if each book were whispering its own story. The rustling of paper intertwined into a wonderful rhythm, sometimes brisk, sometimes slow, as if guiding me deeper into this vortex of knowledge. The surrounding ambient sounds seemed to be swallowed by the voices of the pages, with only the occasional gentle breeze passing through the gaps between the books, bringing a breath of freshness.",
+    "prompt_vision": "A whirlpool filled with books, with pages visibly turning and a gentle breeze moving through the gaps between them.",
+    "prompt_audio": "Soft, continuous rustling of paper pages turning, creating a rhythmic whisper-like sound that varies in pace from brisk to slow, accompanied by occasional gentle breeze sounds.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a continuous sound of pages turning, soft and whisper-like, throughout the audio?",
+      "Does the audio feature a rhythmic rustling of paper that varies in speed, sometimes brisk and sometimes slow?",
+      "Are the ambient sounds subdued or minimal, allowing the sound of pages to be the dominant audio element?",
+      "Can the sound of a gentle breeze be heard occasionally, passing through the gaps between the books?",
+      "Is the overall audio experience immersive, with the sound of pages creating a sense of being surrounded by a vortex of books?"
+    ],
+    "auxiliary_info_vision": [
+      "Are the books visibly swirling around in a whirlpool motion?",
+      "Is there a visible effect of pages turning within the books?",
+      "Can the books be seen in various orientations, as if caught in a vortex?",
+      "Are there visible gaps between the books where a breeze might pass through?",
+      "Is there a noticeable variation in the speed of the books' motion, suggesting a rhythm?",
+      "Are the books visibly interacting with each other, such as touching or overlapping?",
+      "Is there a visual indication of calmness or stillness in the surrounding environment, contrasting with the motion of the books?"
+    ]
+  },
+  {
+    "prompt_en": "In a cozy room, several red heart-shaped ornaments sway gently, producing faint clinking sounds as a soft breeze brushes past them. The background is bathed in soft light, casting a romantic glow over the ornaments. The tone is warm and tender, as if whispering words of love. The sound field is centered around the ornaments, with moderate volume and a slow, melodious rhythm, swaying like a gentle lullaby.",
+    "prompt_vision": "In a cozy room, several red heart-shaped ornaments sway gently in a soft breeze, with soft light casting a romantic glow over them.",
+    "prompt_audio": "Faint clinking sounds from swaying heart-shaped ornaments, moderate volume, slow melodious rhythm like a gentle lullaby.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a faint clinking sound produced by the swaying heart-shaped ornaments?",
+      "Does the audio feature a soft breeze sound that complements the gentle swaying of the ornaments?",
+      "Is the sound field centered around the ornaments, creating a focused audio experience?",
+      "Is the volume of the audio moderate, matching the cozy and tender atmosphere described?",
+      "Does the audio have a slow, melodious rhythm that resembles a gentle lullaby?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there red heart?",
+      "Is there a visible gentle swaying motion of the ornaments?",
+      "Is the background lighting soft, creating a romantic glow over the ornaments?",
+      "Are the ornaments positioned in a way that suggests they are being brushed by a soft breeze?",
+      "Is the overall tone of the image warm and tender, as suggested by the lighting and colors?"
+    ]
+  },
+  {
+    "prompt_en": "I sit quietly on the rooftop, the cool night air embracing me. The rhythmic sound of waves gently crashing against the rocky shore below is soothing, a perfect contrast to the distant murmur of a light breeze rustling through the grass. The occasional call of a night bird echoes softly in the vast openness, and the faint creak of the wooden beams beneath me adds to the serene night symphony under the starlit sky.",
+    "prompt_vision": "Person sitting on a rooftop at night, starlit sky above, grass and rocky shore visible below, wooden beams beneath.",
+    "prompt_audio": "Rhythmic crashing of waves, soft rustling of breeze through grass, occasional distant bird calls, faint creaking of wooden beams",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the rhythmic sound of waves gently crashing against the rocky shore below present and consistent in timing?",
+      "Can the occasional call of a night bird be heard softly and spaced out, as described?",
+      "Are the faint creaking sounds of wooden beams audible and appropriately subdued?",
+      "Is the overall audio mix free from prominent noise or distortion, maintaining the serene atmosphere?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a person sitting quietly on a rooftop in the scene?",
+      "Are the stars visible in the night sky?",
+      "Is the grass shown gently swaying, indicating a light breeze?",
+      "Are there visible wooden beams beneath the person on the rooftop?",
+      "Is the setting depicted as nighttime with appropriate lighting and shadows?",
+      "Can the rocky shore be seen below the rooftop?",
+      "Are there any birds visible in the distance, suggesting the occasional call of a night bird?"
+    ]
+  },
+  {
+    "prompt_en": "The world is a distant hum, swallowed by the relentless pounding of my heart, each beat a reminder of chaos; the air feels thick with silence, yet echoes of shattering glass and distant cries from a memory long buried reverberate, hauntingly distorted, as if submerged in a sea of dread.",
+    "prompt_vision": "Person clutching chest, wide-eyed with fear, surrounded by broken glass, dim hazy light, surreal air distortions.",
+    "prompt_audio": "Loud, rhythmic heartbeat; faint, distorted shattering glass; muffled, distant cries; low hum fading in and out; underwater-like reverberation",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of a distant hum present in the audio, providing a subtle background layer?",
+      "Does the audio include the sound of a heartbeat, with a prominent and rhythmic pounding?",
+      "Are there echoes of shattering glass audible, contributing to the chaotic atmosphere?",
+      "Can distant cries be heard, adding to the haunting and distorted soundscape?",
+      "Is there a sense of distortion in the audio, as if sounds are submerged or muffled?",
+      "Does the audio convey a thick silence, with minimal other sounds present?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visual representation of shattering glass, such as broken shards or fragments in motion?",
+      "Are there visual elements suggesting distant cries, such as open mouths or distressed facial expressions?",
+      "Does the scene include a sense of chaos, such as disordered or scattered objects?",
+      "Is there a visual depiction of thick or heavy air, such as haze, fog, or distortion effects?",
+      "Are there elements that suggest a memory or past event, such as faded or blurred imagery?",
+      "Is there a visual focus on a heartbeat, such as a pulsating effect or rhythmic motion?",
+      "Are there any visual cues that convey a sense of dread, such as dark tones, shadows, or ominous lighting?"
+    ]
+  },
+  {
+    "prompt_en": "Imagine standing in a dense forest as beams of light pierce through the towering trees. In the distance, you hear the faint crunch of leaves underfoot, echoing eerily in the stillness. The rustling leaves whisper in the gentle breeze, creating a haunting symphony. Each step you take snaps twigs beneath you, resonating with a stark clarity amid the silence. Your heartbeat pulsates in your ears, a steady rhythm against the backdrop of nature's quiet sounds.",
+    "prompt_vision": "Dense forest with towering trees and beams of sunlight piercing through the canopy.",
+    "prompt_audio": "faint crunch of leaves, rustling leaves in breeze, snapping twigs, steady heartbeat thumping in ears",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include faint crunching sounds of leaves underfoot in the distance, matching the described eerie stillness?",
+      "Are there rustling leaf sounds that align with the gentle breeze described in the prompt?",
+      "Can the snapping of twigs underfoot be heard clearly with each step, resonating amid the silence?",
+      "Is the sound of a steady heartbeat audible, matching the described pulsating rhythm against the quiet backdrop?",
+      "Are the described natural sounds free of distortion or noise that would disrupt the immersive forest atmosphere?",
+      "Does the audio maintain a consistent spatial positioning of distant and nearby sounds, such as distant leaf crunches and close twig snaps?",
+      "Are the quiet sounds of nature appropriately balanced in volume to reflect the described stillness and haunting symphony?"
+    ],
+    "auxiliary_info_vision": [
+      "Are beams of light visibly piercing through the trees?",
+      "Is the forest dense with towering trees?",
+      "Can twigs be seen snapping underfoot with each step?",
+      "Are leaves visibly rustling in the gentle breeze?",
+      "Is there a visible stillness in the forest despite the described sounds?"
+    ]
+  },
+  {
+    "prompt_en": "I find myself standing in a dimly lit church. The soft flickering of candlelight casts a warm glow over the aged stone walls, creating an atmosphere of quiet reverence. To my right, I hear the gentle rustle of fabric as someone kneels in prayer, their whispered supplications barely audible. The faint echo of footsteps on the wooden floor tells of another presence, moving slowly, respectful of the sacred space. A distant, soothing hum from a small organ fills the air, intertwining with the soft creak of old wooden benches. The soundscape is serene, enveloping me in a sense of peace and tranquility.",
+    "prompt_vision": "A dimly lit church with flickering candlelight casting a warm glow on aged stone walls, wooden benches, and a small organ in the distance.",
+    "prompt_audio": "gentle rustle of fabric, whispered supplications, faint echo of footsteps on wooden floor, soothing hum from a small organ, soft creak of old wooden benches",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the faint echo of footsteps on a wooden floor, matching the described slow and respectful movement?",
+      "Is there a gentle rustle of fabric audible, corresponding to someone kneeling in prayer?",
+      "Are whispered supplications softly audible, as described in the prompt?",
+      "Can the distant, soothing hum of a small organ be heard, blending into the serene soundscape?",
+      "Are soft creaks from old wooden benches present in the audio, as described?",
+      "Is the overall soundscape serene and tranquil, with no sudden or loud noises disrupting the atmosphere?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the church dimly lit with visible candlelight casting a warm glow on the stone walls?",
+      "Are the stone walls aged and textured, as described in the prompt?",
+      "Is there a person kneeling in prayer with visible fabric folds or movement indicating their posture?",
+      "Are there wooden benches visible, with some showing signs of age such as creaks or wear?",
+      "Can the floor be seen as wooden, with a faint indication of footsteps or movement?",
+      "Is there a small organ visible in the distance, contributing to the serene atmosphere?"
+    ]
+  },
+  {
+    "prompt_en": "The silence around me is thick, yet in my mind, each flicker of the candlelight sends a wave of whispers, like distant echoes of a forgotten lullaby, their soft hums stretching time and space, wrapping me in a cocoon of nostalgia and longing.",
+    "prompt_vision": "A person in a dimly lit room, focused on a flickering candle flame casting soft shadows, surrounded by stillness.",
+    "prompt_audio": "nan",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the audio predominantly silent, reflecting the described thick silence around?",
+      "Does the audio include soft, whisper-like sounds that resemble distant echoes?",
+      "Are the whisper-like sounds in the audio subtle enough to suggest they are imagined rather than physically present?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a candle visible with a flickering flame?",
+      "Does the candlelight cast soft, dynamic shadows on nearby surfaces?",
+      "Are the surroundings visually still, with no visible motion apart from the candle flame?",
+      "Is the lighting predominantly warm, consistent with the glow of candlelight?",
+      "Are there no other visible sources of light apart from the candle?"
+    ]
+  },
+  {
+    "prompt_en": "In the serene depths of the water, I hear the gentle lapping of waves above, creating a soothing rhythm. The soft clatter of pebbles shifting under the current resonates around me, like a distant melody. Subtle echoes of splashing and the muted rush of water envelop me, calming and constant.",
+    "prompt_vision": "Underwater scene with sunlight filtering through the surface, gentle movement of water above, pebbles shifting on the submerged ground.",
+    "prompt_audio": "gentle lapping of waves, soft clatter of pebbles shifting, subtle splashing, muted rush of water, distant melodic echoes",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of gentle waves lapping above consistently audible throughout the audio?",
+      "Does the audio include the soft clatter of pebbles shifting under the current?",
+      "Can subtle echoes of splashing be heard in the audio, contributing to the ambient soundscape?",
+      "Are the sounds of the muted rush of water present and continuous, creating a calming effect?",
+      "Is there an absence of unexpected loud or harsh noises that would disrupt the serene underwater atmosphere?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the scene depicted underwater with a calm and serene atmosphere?",
+      "Are there visible pebbles on the underwater surface?",
+      "Does the water appear to have a gentle current or flow?",
+      "Are there any visual indications of soft ripples or waves on the water's surface above?",
+      "Is the lighting underwater soft and diffused, consistent with a serene environment?",
+      "Are there no signs of rapid or turbulent water movement in the scene?"
+    ]
+  },
+  {
+    "prompt_en": "The clinking of glasses above me reverberates like a haunting melody, each chime stretching into eternity, echoing with the ghostly laughter of nights long past, while the distant murmur of voices fades into a low hum, as if submerged in a sea of forgotten memories.",
+    "prompt_vision": "A dimly lit room with people holding glasses, faint silhouettes of figures in the background, soft ambient lighting suggesting a nostalgic atmosphere.",
+    "prompt_audio": "Clinking glasses with sustained metallic resonance, overlapping distant murmurs of voices blending into a low, fading hum",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio contain the sound of clinking glasses with a reverberating effect?",
+      "Is there an echo effect applied to the clinking sounds, making them stretch into a prolonged chime?",
+      "Can the sound of clinking glasses be perceived as having a melodic quality?",
+      "Are there faint, ghostly laughter sounds accompanying the clinking of glasses?",
+      "Is there a distant murmur of voices present that fades into a low hum?",
+      "Does the low hum of voices sound as if it is submerged or muffled, suggesting a sense of distance?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there glasses visibly clinking together in the image or video?",
+      "Is there a visual indication of glasses being held above the viewer's perspective?",
+      "Does the image or video show glasses that appear to be in motion, suggesting clinking?",
+      "Are the glasses depicted in a way that suggests they are part of a past event or memory?",
+      "Is there a visual representation of an echo effect, such as repeated or blurred images of glasses?",
+      "Are the glasses shown in a manner that implies a haunting or ghostly atmosphere?",
+      "Is there a visual suggestion of a distant or faded setting, consistent with the idea of submerged memories?"
+    ]
+  },
+  {
+    "prompt_en": "The wind presses against me, but all I hear is the hollow roar of my own breath, stretched and distorted like a distant avalanche; faint echoes of a childhood melody rise and fall, tangled with the rhythmic pounding of my heartbeat, each thump reverberating like a drum against the cliffs of my mind.",
+    "prompt_vision": "A person standing against strong wind, face strained, breath visible in cold air, isolated figure near cliff edge or vast open space.",
+    "prompt_audio": "Hollow roaring breath, distorted and stretched; faint echoing melody; rhythmic deep thumping like a drum, muffled and resonant.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of breathing present and does it have a hollow and distorted quality?",
+      "Can faint echoes of a melody be heard rising and falling in the audio?",
+      "Does the audio include the rhythmic sound of a heartbeat, with each thump resembling a drumbeat?",
+      "Are the sounds of breathing, melody, and heartbeat distinct yet intertwined in the audio?",
+      "Is there an absence of wind noise despite the mention of wind pressing against the person?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there visible wind movement affecting objects or elements in the scene, such as hair or clothing being blown?",
+      "Does the visual representation include a person with a calm or introspective facial expression, suggesting internal focus?",
+      "Are there visual elements that suggest the presence of cliffs or rocky formations, aligning with the metaphorical description?",
+      "Is the person's chest visibly moving in a rhythmic manner, indicating the pounding heartbeat described?"
+    ]
+  },
+  {
+    "prompt_en": "The clanging of metal echoes in my mind, each clash reverberating with the ghostly whispers of ancient battles, while my heartbeat pounds in my ears like a war drum, drowning out the distant, muffled voices of the present.",
+    "prompt_vision": "Person in distress, eyes closed, surrounded by faint ghostly warriors clashing with metallic weapons, dim translucent silhouettes like memories.",
+    "prompt_audio": "Clanging metal, resonant and echoing, layered with faint whispers speaking in an ancient tongue, rhythmic low-pitched thudding like a war drum, and very faint, muffled voices in the distance",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of metal clanging present and echoing in the audio?",
+      "Does the audio include reverberations that suggest the clanging is occurring in a resonant space?",
+      "Can the sound of a heartbeat be heard, resembling the rhythm of a war drum?",
+      "Are the distant voices in the audio muffled, as if they are being drowned out by other sounds?",
+      "Is there a clear distinction between the clanging of metal and the sound of the heartbeat in the audio?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there visible metal clashing together, creating the impression of a loud impact?",
+      "Are there sparks or visible effects resulting from the clashing of metal?",
+      "Are there visual elements suggesting ancient battles, such as armor, weapons, or combatants?",
+      "Is there a depiction of a rhythmic motion or object resembling a war drum being struck?",
+      "Are the surroundings visually muted or blurred to suggest the muffled voices of the present?"
+    ]
+  },
+  {
+    "prompt_en": "Submerged in the depths, my heartbeat reverberates in my skull like a distant war drum, each beat stretching time as if the universe holds its breath; the muffled echoes of my mother's lullaby float through the water, distorted and haunting, a ghostly melody that wraps around me like a forgotten embrace.",
+    "prompt_vision": "A person submerged in deep water, surrounded by darkness with faint light filtering from above, floating motionless as if in slow motion.",
+    "prompt_audio": "Muffled, distorted melody of a lullaby with faint vocal tones, slow rhythmic thudding like a distant drum, very low-frequency pulses resembling a heartbeat",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of the heartbeat deep and resonant, resembling a distant war drum?",
+      "Does the heartbeat sound have a rhythmic pattern that stretches time, as if each beat is prolonged?",
+      "Can the lullaby be heard as a muffled and distorted melody, consistent with being underwater?",
+      "Is the lullaby's timbre haunting and ghostly, creating an eerie atmosphere?",
+      "Are the lullaby and heartbeat sounds synchronized with the visual depiction of being submerged?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visual representation of a person submerged underwater?",
+      "Does the scene depict a sense of stillness or calmness, with minimal visible motion?",
+      "Are there visual elements that suggest a heartbeat, such as rhythmic pulsations or vibrations in the water?",
+      "Is there an ethereal or ghostly visual effect to represent the haunting melody?",
+      "Can the water be seen distorting visual elements, creating a dreamlike or surreal appearance?",
+      "Are there visual cues that suggest the passage of time is slowed or stretched?",
+      "Is the lighting in the scene soft or diffused, consistent with an underwater environment?"
+    ]
+  },
+  {
+    "prompt_en": "The silence here is a living thing, pressing against my ears until my heartbeat becomes a thunderous metronome, each beat echoing off unseen walls, while distant, ghostly whispers of forgotten prayers swirl around me like a haunting choir.",
+    "prompt_vision": "A dark, empty space with no visible source of light or movement, evoking isolation and tension.",
+    "prompt_audio": "nan",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the overall audio environment predominantly silent, with minimal background noise?",
+      "Does the sound of a heartbeat have a deep, resonant quality, suggesting it is echoing off walls?",
+      "Can the heartbeat be heard clearly and rhythmically, resembling a metronome?",
+      "Are there faint, distant whispering sounds present, resembling ghostly voices or prayers?",
+      "Is Do the whispering sounds have an ethereal, choir-like quality, suggesting a haunting presence?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the scene visually still, with no apparent motion or activity?",
+      "Are there no visible sources of sound or noise in the scene?",
+      "Is the lighting dim or subdued, creating a quiet and somber atmosphere?",
+      "Are the walls or surroundings depicted as enclosed or confining, suggesting the sound of a heartbeat echoing off them?",
+      "Can ghostly, ethereal figures or shapes be seen faintly in the distance, representing whispers or prayers?"
+    ]
+  },
+  {
+    "prompt_en": "I'm walking down a cobblestone street in a historic European city. The sound of my footsteps echoes softly in the morning quiet. Flags flutter gently in the breeze, and I can hear the distant hum of a fountain splashing water. Occasional conversations and laughter from nearby cafes create a lively yet peaceful ambiance. The soft clatter of a distant tram adds a rhythmic backdrop as I continue down the picturesque street.",
+    "prompt_vision": "Person walking cobblestone street, historic European city, flags fluttering, cafes nearby, tram in distance",
+    "prompt_audio": "soft footsteps on cobblestones, gentle fluttering of flags, distant splashing water from a fountain, faint conversations and laughter, rhythmic clatter of a tram",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of footsteps echoing softly in the audio as described?",
+      "Can the gentle fluttering of flags in the breeze be heard?",
+      "Is there a distant hum of a fountain splashing water present in the audio?",
+      "Are occasional conversations and laughter from nearby cafes audible, contributing to the ambiance?",
+      "Does the audio include the soft clatter of a distant tram as a rhythmic backdrop?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the street surface made of cobblestones?",
+      "Are there flags visible fluttering in the breeze?",
+      "Can the fountain be seen with water splashing?",
+      "Are there people visible having conversations or laughing near cafes?",
+      "Is there a tram visible in the distance?"
+    ]
+  }
+]

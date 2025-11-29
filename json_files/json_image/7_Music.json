@@ -1,0 +1,1877 @@
+[
+  {
+    "prompt_en": "On a quiet field, a cow is lowering its head grazing. The background features a gently rustling forest, accompanied by birdsong and occasional insect sounds. The music centers around soft, acoustic guitar with a slow and soothing rhythm, blending naturally into the ambient sounds. The tone is warm, as if sunlight were shining onto the grass. The volume is moderate, creating a peaceful atmosphere.",
+    "prompt_vision": "A cow grazing on a quiet field with a forest in the background, sunlight shining on the grass.",
+    "prompt_audio": "Gentle rustling of leaves, birdsong, occasional insect sounds, and soft acoustic guitar with a slow, soothing rhythm at moderate volume.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of the cow grazing present and audible in the audio-visual output?",
+      "Does the audio include gentle rustling sounds from the forest in the background?",
+      "Is the acoustic guitar music soft and soothing, blending naturally with the ambient sounds?",
+      "Is the overall volume moderate, contributing to a peaceful atmosphere as described?",
+      "Are occasional insect sounds present and audible in the audio-visual output?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the cow visibly lowering its head toward the grass as if grazing?",
+      "Is the field depicted as quiet and calm with no visible signs of disturbance or motion beyond the cow and forest?",
+      "Are the trees in the background showing gentle movement consistent with rustling leaves?",
+      "Is the lighting warm and suggestive of sunlight shining onto the grass?",
+      "Is the cow's body stationary apart from the grazing motion, indicating a peaceful scene?"
+    ]
+  },
+  {
+    "prompt_en": "In a dimly lit room, a DJ is working the turntables as a vinyl record spins slowly, emitting the classic crackle of analog sound. Faintly in the background, a deep electronic beat and subtle ambient noise can be heard. The music carries a strong melodic and rhythmic feel, with drums and melodies seamlessly intertwining to create an immersive sonic experience.",
+    "prompt_vision": "In a dimly lit room, a DJ is working the turntables with a vinyl record spinning slowly.",
+    "prompt_audio": "Classic vinyl crackle, deep electronic beat, subtle ambient noise, strong melodic and rhythmic feel with seamlessly intertwined drums and melodies creating an immersive sonic experience.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the classic crackle sound associated with a vinyl record spinning?",
+      "Is there a deep electronic beat audible in the background?",
+      "Are subtle ambient noises present alongside the music?",
+      "Does the music feature a strong melodic and rhythmic feel with drums and melodies intertwining?",
+      "Can the audio convey an immersive sonic experience as described in the prompt?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the DJ visibly manipulating the turntables with their hands?",
+      "Are the turntables clearly visible in the dimly lit room?",
+      "Is the vinyl record visibly spinning on the turntable?",
+      "Is the lighting in the room dim, with shadows and low illumination?",
+      "Are the DJ's facial expressions focused or engaged in their work?",
+      "Is the DJ wearing clothing typical for a music performance, such as headphones or casual attire?",
+      "Are the turntables positioned in front of the DJ, allowing them to interact with the equipment?"
+    ]
+  },
+  {
+    "prompt_en": "Describes a scene where a DJ is operating a turntable.",
+    "prompt_vision": "A DJ operating a turntable, hands on vinyl records, surrounded by audio equipment and dim lighting.",
+    "prompt_audio": "Scratching sounds, rhythmic beats, and electronic music mixing from turntables and speakers.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a sound of music playing from the turntable when the DJ operates it?",
+      "Can you hear the characteristic scratching sound when the DJ manipulates the turntable?",
+      "Is the volume of the music consistent with the DJ's actions on the turntable?",
+      "Does the audio include any background noise typical of a DJ setting, such as crowd murmurs or ambient club sounds?",
+      "Are the sounds of the turntable operation synchronized with the DJ's hand movements?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a DJ visibly interacting with a turntable in the scene?",
+      "Are the DJ's hands positioned on or near the turntable controls?",
+      "Is the turntable clearly visible in the scene?",
+      "Does the DJ appear to be focused on the turntable?",
+      "Are there any visible vinyl records on the turntable?",
+      "Is the DJ wearing headphones?",
+      "Is there a mixer or other DJ equipment visible alongside the turntable?"
+    ]
+  },
+  {
+    "prompt_en": "In a vibrant nightclub setting, a DJ is performing live using turntables. The music features strong rhythms and powerful bass, accompanied by scratching sounds and mixing effects from the turntables. The soundstage is wide and the volume is moderate, allowing the audience to fully feel the energy and rhythm of the music. Ambient sounds, such as crowd cheers and footsteps, enhance the atmosphere of the event. The DJ's movements are perfectly synchronized with the musical beats, showcasing professional performance skills.",
+    "prompt_vision": "A DJ performing live in a vibrant nightclub, using turntables, with dynamic movements synchronized to the music, surrounded by an energetic crowd.",
+    "prompt_audio": "Strong rhythmic music with powerful bass, scratching sounds, and turntable mixing effects; wide soundstage at moderate volume, accompanied by ambient crowd cheers and footsteps.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the audio characterized by strong rhythms and powerful bass as described in the prompt?",
+      "Are scratching sounds and mixing effects from the turntables clearly audible in the audio?",
+      "Does the soundstage appear wide, allowing the audience to feel the energy and rhythm of the music?",
+      "Is the volume of the audio moderate, as specified in the prompt?",
+      "Are ambient sounds like crowd cheers and footsteps present in the audio to enhance the atmosphere?",
+      "Is the DJ's movement visually synchronized with the musical beats in the video?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a DJ visibly performing live using turntables?",
+      "Are the DJ's movements synchronized with the musical beats?",
+      "Is the nightclub setting visually vibrant with dynamic lighting?",
+      "Can the turntables be seen in use by the DJ?",
+      "Are there visible crowd members reacting to the DJ's performance?",
+      "Is there evidence of ambient lighting effects enhancing the nightclub atmosphere?",
+      "Are there visual cues indicating the presence of a lively audience, such as people dancing or cheering?"
+    ]
+  },
+  {
+    "prompt_en": "In a room decorated in a classical style, two swordsmen are engaged in a sword fight. The dark wooden background and red walls create a solemn and tense atmosphere. The clashing of swords produces crisp metallic sounds, accompanied by the footsteps and faint breathing of the swordsmen. The music features tense strings, with a fast and taut rhythm that heightens the sense of urgency in the duel. Occasional bass drum beats synchronize with the clashing of blades, creating powerful sound effects.",
+    "prompt_vision": "Two swordsmen duel in a tense, solemn fight amid red walls and dark wood decor.",
+    "prompt_audio": "Crisp metallic clashing of swords, footsteps, faint breathing of swordsmen, tense fast-paced string music with a taut rhythm, and occasional bass drum beats synchronized with blade clashes.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a clear and crisp metallic sound when the swords clash?",
+      "Can the footsteps of the swordsmen be heard distinctly during the fight?",
+      "Is the faint breathing of the swordsmen audible amidst the other sounds?",
+      "Does the music feature tense strings with a fast and taut rhythm?",
+      "Are the bass drum beats synchronized with the clashing of the blades?",
+      "Is the overall audio mix free from noticeable noise or distortion?",
+      "Does the audio convey a sense of urgency and tension consistent with the duel?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there two swordsmen visible in the scene?",
+      "Is the room decorated in a classical style?",
+      "Are the walls of the room red?",
+      "Is there a dark wooden background present?",
+      "Are the swordsmen engaged in a sword fight?",
+      "Is there visible motion indicating the clashing of swords?"
+    ]
+  },
+  {
+    "prompt_en": "In a warm indoor setting, several violins lie quietly on a tabletop, with faint human figures visible in the background. The music begins, with the strings producing clear yet gentle tones, warm in timbre, as if softly speaking. The melody flows smoothly, the rhythm calm and unhurried, blending seamlessly with the tranquility of the surrounding environment. Occasionally, soft footsteps and rustling clothing can be heard, adding a sense of realism to the scene. The music and ambient sounds merge perfectly, creating a harmonious atmosphere.",
+    "prompt_vision": "Several violins lying on a tabletop in a warm indoor setting, with faint human figures in the background.",
+    "prompt_audio": "Clear, gentle violin tones with warm timbre, smooth flowing melody, calm unhurried rhythm, occasional soft footsteps and rustling clothing, all blending into a harmonious ambient soundscape.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the music characterized by clear yet gentle tones with a warm timbre, as described?",
+      "Are the soft footsteps and rustling clothing audible, contributing to the sense of realism?",
+      "Can the music and ambient sounds be heard merging perfectly, creating a harmonious atmosphere as described?",
+      "Is there an absence of prominent or disruptive noise that would detract from the tranquility of the scene?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there several violins lying quietly on a tabletop?",
+      "Is the indoor setting depicted as warm?",
+      "Are faint human figures visible in the background?",
+      "Is there an absence of visible motion from the violins, indicating they lie quietly?",
+      "Is the overall scene visually calm and unhurried, reflecting the described tranquility?",
+      "Are the violins positioned in a way that suggests they are not being played at the moment?"
+    ]
+  },
+  {
+    "prompt_en": "A person is playing a red accordion indoors. The accordion's tone is warm and layered, with deep, powerful bass and crisp, bright treble. The rhythm is steady and rhythmic. The background environment is quiet, with only subtle ambient sounds such as a gentle breeze or slight indoor reverberation. The sound of the accordion is perfectly synchronized with the performer's movements, demonstrating a harmonious interaction between music and performance.",
+    "prompt_vision": "A person playing a red accordion indoors.",
+    "prompt_audio": "Warm, layered accordion tones with deep, powerful bass and crisp, bright treble; steady, rhythmic playing; subtle ambient sounds including gentle breeze and slight indoor reverberation; sound perfectly synchronized with performer's movements.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of the accordion warm and layered, with deep bass and bright treble tones as described?",
+      "Does the accordion's rhythm remain steady and rhythmic throughout the performance?",
+      "Is the sound of the accordion synchronized with the performer's hand and finger movements on the instrument?",
+      "Are the background ambient sounds subtle, such as a gentle breeze or slight indoor reverberation, without overpowering the accordion's music?",
+      "Is there an absence of unexpected noise or distortion in the audio during the performance?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the person holding and playing a red accordion?",
+      "Are the person's hands visibly interacting with the accordion keys and buttons?",
+      "Is the accordion's bellows visibly expanding and contracting during play?",
+      "Is the scene set indoors with no visible outdoor elements?",
+      "Is the accordion red in color without any other dominant color on its body?",
+      "Are the performer's movements synchronized with the visible operation of the accordion?"
+    ]
+  },
+  {
+    "prompt_en": "A musician is playing an acoustic guitar, with the video capturing detailed close-ups of fingers plucking the strings. The audio should convey the warm, wooden tone of the guitar, clear string vibrations, smooth transitions between chords, and subtle sounds of fingers touching the strings. Background ambient noise should be soft and unobtrusive, not interfering with the main melody. The overall rhythm should be steady and expressive.",
+    "prompt_vision": "Close-up shots of a musician's fingers plucking the strings of an acoustic guitar, showing detailed finger movements and string interactions.",
+    "prompt_audio": "Warm, wooden tone of an acoustic guitar with clear string vibrations, smooth chord transitions, subtle finger-touch sounds, soft unobtrusive ambient background noise, steady and expressive rhythm.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the audio conveying the warm, wooden tone of the acoustic guitar?",
+      "Are the string vibrations clear and distinct in the audio?",
+      "Is Do the transitions between chords sound smooth in the audio?",
+      "Can subtle sounds of fingers touching the strings be heard in the audio?",
+      "Is the background ambient noise soft and unobtrusive, not interfering with the main melody?",
+      "Is the overall rhythm steady and expressive in the audio?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the musician visibly playing an acoustic guitar in the video?",
+      "Are the fingers of the musician clearly shown plucking the strings in close-up shots?",
+      "Does the guitar appear to have a wooden texture visible in the video?",
+      "Are the strings visibly vibrating when plucked by the musician?",
+      "Are the transitions between chords visually smooth and continuous in the video?"
+    ]
+  },
+  {
+    "prompt_en": "In a warm indoor setting, a guitarist is intently playing an acoustic guitar with clear and warm tones, accompanied by gentle fingerpicking sounds. The ambient background noise is soft, creating a peaceful atmosphere. The guitar melody flows smoothly, with a relaxed rhythm and naturally harmonious chords. The fingers move flexibly across the strings, producing a moderate volume and a soundstage centered around the guitar, showcasing the perfect interplay between the music and performance.",
+    "prompt_vision": "A guitarist playing an acoustic guitar indoors, fingers moving flexibly across the strings, in a warm and peaceful setting.",
+    "prompt_audio": "Clear and warm acoustic guitar tones with gentle fingerpicking, smooth melody, relaxed rhythm, naturally harmonious chords, moderate volume, centered soundstage, soft ambient background noise.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of the acoustic guitar characterized by clear and warm tones?",
+      "Does the audio include gentle fingerpicking sounds that match the visual of the guitarist playing?",
+      "Is the ambient background noise soft, contributing to a peaceful atmosphere?",
+      "Does the guitar melody flow smoothly with a relaxed rhythm?",
+      "Are the chords produced by the guitar naturally harmonious?",
+      "Is the volume of the guitar moderate, neither too loud nor too soft?",
+      "Is the soundstage centered around the guitar, highlighting the interplay between music and performance?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the guitarist visibly holding and playing an acoustic guitar?",
+      "Are the guitarist's fingers visibly moving across the strings in a fingerpicking style?",
+      "Is the indoor setting visually warm, with lighting that suggests a cozy atmosphere?",
+      "Does the guitar appear to produce a smooth and harmonious melody, as implied by the relaxed performance?",
+      "Are the guitarist's facial expressions or body posture indicative of focused and intent playing?",
+      "Is the acoustic guitar visually the central focus of the scene?"
+    ]
+  },
+  {
+    "prompt_en": "A woman is sitting on a comfortable sofa, holding an acoustic guitar and strumming its strings. The background is a warm indoor environment. The tone should showcase the guitar's clear and mellow qualities, with a soft and gentle rhythm suitable for solo or small indoor performance settings. Ambient sounds include subtle room reverberation and occasional clothing rustles. The soundstage is focused around the guitar, with moderate volume, highlighting the natural flow of melody and harmony.",
+    "prompt_vision": "A woman sitting on a comfortable sofa, holding an acoustic guitar and strumming its strings, in a warm indoor environment.",
+    "prompt_audio": "Clear and mellow acoustic guitar with soft, gentle rhythm; subtle room reverberation and occasional clothing rustles; moderate volume, focused soundstage emphasizing natural melody and harmony.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of the guitar strumming clear and mellow, as expected from an acoustic guitar?",
+      "Does the audio include subtle room reverberation that complements the indoor setting?",
+      "Are the clothing rustles audible occasionally, adding to the ambient sound?",
+      "Is the rhythm of the guitar soft and gentle, suitable for a solo or small indoor performance?",
+      "Is the soundstage focused around the guitar, with the melody and harmony naturally flowing?",
+      "Is the volume of the guitar moderate, ensuring it is neither too loud nor too soft for the setting?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the woman sitting on a sofa?",
+      "Is the woman holding an acoustic guitar?",
+      "Is the woman strumming the strings of the guitar?",
+      "Is the background a warm indoor environment?",
+      "Is the sofa visually comfortable?",
+      "Is the woman's clothing visible and occasionally rustling?",
+      "Is the guitar visually highlighted in the scene?"
+    ]
+  },
+  {
+    "prompt_en": "On a dimly lit indoor stage, a bass and drum duet creates a deep, rhythmically rich musical atmosphere. The bass produces a full and resonant tone, contrasting sharply with the crisp, rhythmic beats of the drums. The strong rhythmic pulse of the drums drives the dynamic shifts within the soundscape, while the harmonies of the bass add depth and layers to the music. Subtle sounds of audience whispers and occasional chair movements can be heard in the environment, enhancing the authenticity of the live performance.",
+    "prompt_vision": "A dimly lit indoor stage with a bass player and a drummer performing a duet.",
+    "prompt_audio": "Deep, resonant bass tones contrasting with crisp, rhythmic drum beats; strong rhythmic pulse driving dynamic shifts; subtle audience whispers and occasional chair movements in the background.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the bass sound full and resonant, contrasting with the crisp beats of the drums?",
+      "Does the drum sound have a strong rhythmic pulse that drives dynamic shifts in the music?",
+      "Can subtle audience whispers be heard in the background, enhancing the live performance atmosphere?",
+      "Are occasional chair movements audible, contributing to the authenticity of the environment?",
+      "Will the harmonies of the bass add depth and layers to the musical atmosphere?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the stage dimly lit?",
+      "Are there visible drums on the stage?",
+      "Is there a bass instrument present on the stage?",
+      "Are the drums being played with visible rhythmic motion?",
+      "Is the bass player visibly producing resonant tones?",
+      "Are there visible audience members whispering or moving chairs?",
+      "Is the lighting creating a contrast between the bass and drums?"
+    ]
+  },
+  {
+    "prompt_en": "In a drummer performance scene under stage lights, the drumbeats are clear, powerful, and rhythmically distinct. The sound combines the bright metallic tones of cymbals, creating a strong sense of groove. Background ambient sounds include subtle audience footsteps and a faint hum from the stage lighting equipment. The audio must be perfectly synchronized with the drummer's movements, accurately reflecting the authentic percussive rhythm and dynamic variations.",
+    "prompt_vision": "A drummer performing under stage lights, with visible drum kit including cymbals, captured in dynamic motion that reflects rhythmic and percussive actions.",
+    "prompt_audio": "Clear, powerful, and rhythmically distinct drumbeats combined with bright metallic cymbal tones, subtle audience footsteps, and a faint hum from stage lighting equipment, all perfectly synchronized to the drummer's movements and dynamic variations.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the audio synchronized with the drummer's movements, accurately reflecting the percussive rhythm and dynamic variations?",
+      "Does the audio include clear, powerful, and rhythmically distinct drumbeats?",
+      "Are the bright metallic tones of cymbals present in the audio, contributing to a strong sense of groove?",
+      "Is there a faint hum from the stage lighting equipment audible in the background?",
+      "Can subtle audience footsteps be heard in the background ambient sounds?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the drummer visibly striking the drums and cymbals with drumsticks?",
+      "Are the stage lights visibly illuminating the drummer and the drum set?",
+      "Can the cymbals be seen vibrating or moving when struck by the drummer?",
+      "Is the drummer's body visibly moving in sync with the rhythm of the drumbeats?",
+      "Are the drumsticks visibly in motion, reflecting the dynamic variations in rhythm?",
+      "Is the drum set clearly visible, including drums and cymbals?",
+      "Are the stage lights casting visible shadows or highlights on the drummer or drum set?"
+    ]
+  },
+  {
+    "prompt_en": "A person wearing red is playing an electronic drum with drumsticks. The scene has dim lighting with red highlights. The drum sound should have a clear percussive feel and electronic tone, with tight and dynamic rhythm. The sound field should reflect a small indoor space with a reverberation effect, while the ambient sound remains quiet, emphasizing only the expressiveness of the drum sounds.",
+    "prompt_vision": "A person wearing red playing an electronic drum kit with drumsticks in dim lighting with red highlights.",
+    "prompt_audio": "Clear percussive electronic drum sounds with tight, dynamic rhythm, expressive articulation, subtle reverberation reflecting a small indoor space, and minimal ambient noise.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the drum sound have a clear percussive feel and electronic tone as described?",
+      "Does the sound field include a reverberation effect that reflects a small indoor space?",
+      "Is the ambient sound quiet, with no prominent noise or distractions, emphasizing the drum sounds?",
+      "Are the drum sounds synchronized with the visual movements of the drumsticks striking the electronic drum?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the person wearing red clothing visible in the scene?",
+      "Are drumsticks visible in the person's hands?",
+      "Is the electronic drum visible in the scene?",
+      "Are there red highlights visible in the dimly lit environment?",
+      "Is the person visibly playing the drum with the drumsticks?",
+      "Is the lighting dim throughout the scene?",
+      "Is the scene visually indicative of a small indoor space?"
+    ]
+  },
+  {
+    "prompt_en": "In an outdoor setting, two people are playing hand drums together, producing crisp and rhythmic beats. The background features subtle natural sounds, such as wind and rustling leaves, creating a harmonious atmosphere. The hand drums have a warm and powerful tone, with a steady yet varied rhythm. As their fingers strike the drums, the sound gradually intensifies, forming a natural soundscape.",
+    "prompt_vision": "Two people playing hand drums outdoors, surrounded by trees and natural scenery.",
+    "prompt_audio": "Crisp and rhythmic hand drum beats with a warm, powerful tone; steady yet varied rhythm that gradually intensifies, accompanied by subtle wind and rustling leaves.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Are the hand drum sounds crisp and rhythmic, matching the described steady yet varied rhythm?",
+      "Does the tone of the hand drums sound warm and powerful as described?",
+      "Can the sound of fingers striking the drums be clearly heard and does it intensify gradually as described?",
+      "Are subtle natural sounds like wind and rustling leaves present in the background, creating a harmonious atmosphere?",
+      "Is the overall audio mix free of noticeable noise or distortion that would detract from the natural soundscape?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there two people visible in the scene?",
+      "Is each person holding a hand drum?",
+      "Can you see the motion of their fingers striking the drums?",
+      "Are the hand drums visible in the image?",
+      "Is there any indication of wind through visible movement of leaves or other elements?",
+      "Do the people appear to be in an outdoor setting?",
+      "Is there a visible sense of rhythm in the way the people are playing the drums?"
+    ]
+  },
+  {
+    "prompt_en": "In a cozy indoor setting, a clarinetist is playing with deep concentration. The music features gentle melodies, with a warm and mellow tone, and a slow, soothing rhythm, as if narrating a long, flowing story. Faint ambient sounds, such as the breeze from a window and distant birdsong, can be heard in the background, creating a peaceful atmosphere. The musician's fingers move nimbly across the instrument, perfectly synchronized with the rhythm of the music.",
+    "prompt_vision": "Clarinetist indoors, deeply concentrated, fingers nimble on keys, cozy room, window open, breeze flowing in.",
+    "prompt_audio": "Gentle, warm, and mellow clarinet melodies with a slow, soothing rhythm, accompanied by faint ambient sounds of a breeze and distant birdsong.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the clarinet's sound warm and mellow in tone, matching the described gentle melodies?",
+      "Does the rhythm of the clarinet music remain slow and soothing throughout, as described?",
+      "Are the faint ambient sounds, such as the breeze and distant birdsong, audible in the background without overpowering the clarinet music?",
+      "Is the clarinetist's finger movement visually synchronized with the rhythm of the music being played?",
+      "Can the audio maintain a peaceful atmosphere by avoiding any sudden loud noises or distortions?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the clarinetist holding a clarinet in their hands?",
+      "Are the clarinetist's fingers visibly moving across the instrument in a nimble manner?",
+      "Is the clarinetist's facial expression showing deep concentration?",
+      "Is the indoor setting visually cozy, with elements that suggest warmth and comfort?",
+      "Is the clarinetist seated or positioned in a way that suggests they are actively playing the instrument?",
+      "Is the lighting in the scene warm and soft, contributing to a peaceful atmosphere?",
+      "Are the clarinetist's movements synchronized with the implied slow and soothing rhythm of the music?"
+    ]
+  },
+  {
+    "prompt_en": "In an indoor setting, a drummer is playing a set of drums, producing crisp and rhythmic sounds as the drumsticks strike the drumheads and cymbals. The drum tones are full-bodied, while the cymbals sound bright and metallic. The overall rhythm is smooth and dynamic. The background environment is quiet, highlighting the expressiveness of the drumming.",
+    "prompt_vision": "A drummer playing a drum set indoors.",
+    "prompt_audio": "Crisp, rhythmic drumming with full-bodied drum tones and bright, metallic cymbal sounds; smooth and dynamic rhythm; quiet background.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Are the drum sounds crisp and rhythmic, matching the strikes of the drumsticks on the drumheads and cymbals?",
+      "Does the sound of the drum tones have a full-bodied quality as described?",
+      "Are the cymbal sounds bright and metallic in timbre?",
+      "Is the overall rhythm of the drumming smooth and dynamic as indicated?",
+      "Is the background environment quiet, without prominent noise or distortion interfering with the drumming?",
+      "Can the expressiveness of the drumming be clearly heard due to the quiet background?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the drummer visibly striking the drumheads and cymbals with drumsticks?",
+      "Are the drumsticks clearly visible in the drummer's hands?",
+      "Is the drummer seated or positioned near a set of drums?",
+      "Are the cymbals visibly present and being struck by the drummer?",
+      "Is the drummer's motion dynamic, suggesting active drumming?",
+      "Are the drumheads visibly part of a complete drum set?",
+      "Is the indoor setting visually quiet, without any distracting motion or activity in the background?"
+    ]
+  },
+  {
+    "prompt_en": "In a warm indoor setting, a drummer is playing jazz, with drumsticks lightly striking the cymbals, producing crisp and rhythmic sounds. There are faint ambient noises in the background, such as the subtle footsteps of the audience and occasional breathing sounds. The drum sounds blend perfectly with the ambient sounds, creating an intimate and natural sound field.",
+    "prompt_vision": "A drummer playing jazz indoors, lightly striking cymbals with drumsticks.",
+    "prompt_audio": "Crisp and rhythmic cymbal strikes blending with faint ambient sounds of subtle audience footsteps and occasional breathing, creating an intimate and natural sound field.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of drumsticks striking the cymbals crisp and rhythmic as described?",
+      "Are the faint ambient noises, such as subtle footsteps and occasional breathing sounds, audible in the background?",
+      "Does the blend of drum sounds and ambient noises create an intimate and natural sound field?",
+      "Is the timing of the drum sounds consistent with the jazz rhythm?",
+      "Are the ambient sounds, like footsteps and breathing, subdued enough to not overpower the drum sounds?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the drummer visibly holding drumsticks in their hands?",
+      "Are the drumsticks visibly striking the cymbals?",
+      "Is the drummer seated or standing in front of a drum set?",
+      "Are the cymbals visibly vibrating or moving slightly when struck?",
+      "Is the lighting warm, suggesting an indoor setting?",
+      "Are there visible signs of an audience, such as people seated or standing nearby?"
+    ]
+  },
+  {
+    "prompt_en": "In a sunlit field, a musician is playing the double bass. The strings are gently plucked, producing a deep and resonant tone. The background features soft natural sounds—gentle breezes and the occasional distant birdsong. The melody of the music harmonizes with the natural environment, its rhythm slow yet rhythmic.",
+    "prompt_vision": "A musician playing a double bass in a sunlit field.",
+    "prompt_audio": "Gently plucked double bass producing deep, resonant tones; soft natural sounds of gentle breezes and occasional distant birdsong; slow, rhythmic melody harmonizing with the environment.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include deep and resonant tones from the double bass being gently plucked?",
+      "Are the natural sounds such as gentle breezes and distant birdsong present in the background?",
+      "Can the melody of the music be heard harmonizing with the natural environment sounds?",
+      "Is the overall soundscape free from any prominent noise or distortion that would disrupt the harmony?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the musician holding a double bass in the sunlit field?",
+      "Are the strings of the double bass visibly being plucked by the musician?",
+      "Is the field brightly lit, suggesting sunlight?",
+      "Does the musician appear to be in a relaxed posture, consistent with playing slow music?",
+      "Is the double bass positioned upright, as is typical when played?"
+    ]
+  },
+  {
+    "prompt_en": "In a dimly lit stage setting, a drummer is playing a full jazz drum kit. The drumsticks strike out crisp rhythms, the bass drum resonates with deep power, the snare drum delivers clear and lively tones, and the cymbals emit bright metallic sounds. The overall rhythm is full of groove, with a wide soundstage and distinct layers of timbre. The background ambient noise is relatively quiet, highlighting the expressiveness of the drum sounds.",
+    "prompt_vision": "A drummer playing a full jazz drum kit on a dimly lit stage.",
+    "prompt_audio": "Crisp drumstick strikes, deep resonant bass drum, clear and lively snare drum, bright metallic cymbals, groovy rhythm with wide soundstage and distinct timbral layers, quiet ambient background.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of the drumsticks striking the drum kit crisp and rhythmically consistent?",
+      "Does the bass drum resonate with a deep and powerful sound?",
+      "Is the snare drum delivering clear and lively tones?",
+      "Are the cymbals emitting bright metallic sounds?",
+      "Is the overall rhythm full of groove with distinct layers of timbre?",
+      "Is the soundstage wide, allowing for clear separation of different drum sounds?",
+      "Is the background ambient noise relatively quiet, emphasizing the expressiveness of the drum sounds?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the stage setting dimly lit?",
+      "Is the drummer visibly playing a full jazz drum kit?",
+      "Are the drumsticks visibly striking the drums?",
+      "Is the bass drum visually resonating with deep power?",
+      "Is the snare drum delivering clear and lively tones?",
+      "Are the cymbals emitting bright metallic sounds?",
+      "Is the background ambient noise visually quiet, allowing the drum sounds to be expressive?"
+    ]
+  },
+  {
+    "prompt_en": "In a warm indoor environment, a musician is gently tapping a traditional hand drum with their fingers, producing crisp and rhythmic sounds. The tone of the drum is warm and rounded, and as the fingers continue to strike, the rhythm gradually quickens, creating a dynamic melody. Faint ambient reverberations can be heard in the background, adding depth to the sound field.",
+    "prompt_vision": "A musician gently tapping a traditional hand drum with their fingers in a warm indoor environment.",
+    "prompt_audio": "Crisp, rhythmic hand drum taps with a warm, rounded tone; rhythm gradually quickens into a dynamic melody with faint ambient reverberations adding depth to the sound field.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of the hand drum crisp and rhythmic as the musician taps it with their fingers?",
+      "Does the tone of the drum sound warm and rounded throughout the performance?",
+      "Can the rhythm of the drum strikes be heard gradually quickening over time?",
+      "Are faint ambient reverberations audible in the background, adding depth to the sound field?",
+      "Is the overall audio experience consistent with a warm indoor environment?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the musician visibly tapping a traditional hand drum with their fingers?",
+      "Are the musician's fingers in motion, indicating a gradual quickening of the rhythm?",
+      "Is the drum visually identifiable as a traditional hand drum?",
+      "Does the musician appear to be in a warm indoor environment, suggested by lighting or decor?",
+      "Are the musician's fingers positioned to suggest they are producing a rhythmic pattern?"
+    ]
+  },
+  {
+    "prompt_en": "In a quiet indoor setting, a guitarist is playing a melody, fingers briskly dancing across the strings, producing clear and warm tones. The background remains subdued, highlighting the guitar's soundstage. The rhythm flows smoothly, with rich harmonies and moderate volume, creating an immersive musical experience.",
+    "prompt_vision": "A guitarist playing indoors, fingers moving quickly over the strings, in a quiet and subdued setting.",
+    "prompt_audio": "Clear and warm guitar tones, smooth rhythm, rich harmonies, moderate volume, immersive soundstage.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the guitar melody clearly audible with warm tones throughout the performance?",
+      "Does the audio maintain a moderate volume, avoiding any abrupt changes in loudness?",
+      "Are the guitar harmonies rich and distinct, enhancing the musical experience?",
+      "Is the background noise minimal, ensuring the guitar sound is prominently highlighted?",
+      "Does the rhythm of the guitar flow smoothly without any noticeable interruptions?",
+      "Is the soundstage of the guitar immersive, providing a sense of depth and presence?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the guitarist visibly playing the guitar with fingers moving across the strings?",
+      "Is the indoor setting visually quiet, with no visible distractions or movement?",
+      "Is the guitar prominently visible, suggesting its importance in the scene?",
+      "Are the guitarist's fingers positioned on the guitar strings, indicating active playing?",
+      "Is the background visually subdued, ensuring focus remains on the guitarist and guitar?"
+    ]
+  },
+  {
+    "prompt_en": "Against a bright yellow background, a close-up shot shows a hand holding a pick, ready to play an electric guitar. The audio should capture the clear sound of the pick making contact with the strings, emphasizing the electric guitar's metallic tone and rich harmonics. The soundstage should demonstrate the guitar's stereo imaging, with moderate volume and a strong rhythmic feel, as if playing a dynamic melody. Background noise should remain quiet to highlight the guitar's sound.",
+    "prompt_vision": "Close-up of a hand holding a guitar pick, poised to play an electric guitar, against a bright yellow background.",
+    "prompt_audio": "Clear sound of a pick striking electric guitar strings, emphasizing metallic tone and rich harmonics; strong rhythmic feel with dynamic melody, moderate volume, distinct stereo imaging, and minimal background noise.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of the pick making contact with the strings clearly audible when the hand plays the electric guitar?",
+      "Does the audio emphasize the electric guitar's metallic tone and rich harmonics?",
+      "Can the soundstage demonstrate the guitar's stereo imaging effectively?",
+      "Is the volume of the guitar moderate, allowing for a strong rhythmic feel?",
+      "Are background noises quiet enough to highlight the guitar's sound prominently?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a bright yellow background visible in the image?",
+      "Is there a close-up shot of a hand holding a pick?",
+      "Is the hand positioned as if ready to play an electric guitar?",
+      "Is the electric guitar visible in the image?",
+      "Is the pick visibly making contact with the guitar strings?"
+    ]
+  },
+  {
+    "prompt_en": "In the music room, with sheet music in the background, a musician is intently playing the recorder, producing smooth and continuous sound. The recorder emits a clear and melodious tone, with moderate volume. The ever-changing rhythm showcases a complex melody. Every note of the recorder is distinctly audible in the sound field, perfectly synchronized with the notes on the sheet music. Faint ambient sounds in the background occasionally emerge, creating a serene indoor atmosphere.",
+    "prompt_vision": "In a music room with sheet music visible in the background, a musician is intently playing the recorder.",
+    "prompt_audio": "Smooth, continuous, clear, and melodious recorder tones at moderate volume, playing a complex and rhythmically changing melody with every note distinctly audible and synchronized with sheet music; faint ambient background sounds occasionally emerge, creating a serene indoor atmosphere.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the recorder's sound smooth and continuous throughout the performance?",
+      "Does the recorder emit a clear and melodious tone with moderate volume?",
+      "Are the notes of the recorder distinctly audible in the sound field without distortion or noise?",
+      "Is the rhythm of the recorder ever-changing, showcasing a complex melody?",
+      "Are the recorder's notes perfectly synchronized with the notes on the sheet music?",
+      "Is Do faint ambient sounds occasionally emerge in the background, contributing to a serene indoor atmosphere?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a musician visibly playing a recorder in the image or video?",
+      "Are sheet music papers visible in the background?",
+      "Does the musician appear focused or intently engaged with the recorder?",
+      "Is the recorder visibly present in the musician's hands?",
+      "Are the musician's fingers positioned on the recorder as if playing notes?",
+      "Is there a serene indoor atmosphere suggested by the visual elements?",
+      "Are the musician's facial expressions consistent with concentration or focus?"
+    ]
+  },
+  {
+    "prompt_en": "In a chamber ensemble rehearsal setting, the drummer is playing a full drum kit. The sound weaves together the deep thud of the bass drum, the crisp snare, and the bright crash of cymbals, creating rich rhythmic layers. The drumming blends with ambient sounds, producing an immersive auditory experience. The drummer's movements are perfectly synchronized with the musical rhythm, showcasing fluid playing technique. Faintly audible in the background are the sounds of other instruments providing accompaniment, enhancing the overall musical atmosphere.",
+    "prompt_vision": "A drummer playing a full drum kit in a chamber ensemble rehearsal setting, with fluid and rhythmically synchronized movements.",
+    "prompt_audio": "Deep thud of a bass drum, crisp snare hits, bright crash cymbals, faint background accompaniment from other instruments, creating rich rhythmic layers and an immersive auditory atmosphere.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of the bass drum deep and distinct in the audio mix?",
+      "Does the snare drum produce a crisp sound that complements the rhythmic layers?",
+      "Are the cymbals producing a bright crash sound that integrates with the drumming?",
+      "Can the drummer's movements be audibly synchronized with the rhythm of the drum sounds?",
+      "Are faint background sounds of other instruments audible, contributing to the musical atmosphere?",
+      "Is the overall audio immersive, with the drumming blending seamlessly with ambient sounds?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a drummer visible playing a full drum kit?",
+      "Are the drummer's movements synchronized with the rhythm, showing fluid technique?",
+      "Can the drum kit be seen with a bass drum, snare, and cymbals?",
+      "Is the drummer's body posture indicative of active playing, such as raised arms or moving legs?",
+      "Are other musicians or instruments visible in the background, suggesting accompaniment?"
+    ]
+  },
+  {
+    "prompt_en": "In a quiet room, the sound of the piano is clear and layered. The performer's fingers dance nimbly across the keys, producing a smooth melody. The tone is warm and mellow, with deep, powerful bass notes and crisp, bright treble notes. The rhythm alternates between gentle and intense, as if telling an engaging story. Occasionally, subtle ambient sounds, such as the breeze outside the window, can be heard in the background, enhancing the sense of a live performance.",
+    "prompt_vision": "A pianist playing in a quiet room with a window, fingers moving nimbly over the piano keys.",
+    "prompt_audio": "Clear and layered piano music with a smooth melody, warm and mellow tone, deep powerful bass notes, crisp bright treble notes, rhythm alternating between gentle and intense, subtle ambient breeze sounds in the background.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the piano sound clear and layered throughout the performance?",
+      "Does the melody produced by the piano have a warm and mellow tone with deep bass notes and crisp treble notes?",
+      "Are the performer's finger movements synchronized with the timing of the piano notes?",
+      "Can the rhythm of the piano alternate between gentle and intense as described?",
+      "Are subtle ambient sounds, such as the breeze outside the window, occasionally audible in the background?",
+      "Is the overall audio free from noise or distortion that would detract from the clarity of the piano or ambient sounds?",
+      "Does the audio convey a sense of a live performance through the combination of piano and ambient sounds?"
+    ],
+    "auxiliary_info_vision": [
+      "Are the performer's fingers visibly moving nimbly across the piano keys?",
+      "Is the piano present in the scene with visible keys being played?",
+      "Does the performer's posture and hand positioning suggest active piano playing?",
+      "Are the piano keys visibly pressed in a manner consistent with alternating gentle and intense rhythm?",
+      "Is the lighting in the room warm and soft, complementing the mellow tone described?",
+      "Are the performer's facial expressions or body language indicative of engagement with the music?",
+      "Is the window visible in the room, suggesting the possibility of a breeze outside?"
+    ]
+  },
+  {
+    "prompt_en": "In a dimly lit room, a musician is playing an electronic synthesizer, fingers nimbly dancing across the keyboard. Faint background lighting creates an immersive musical atmosphere. The synthesizer produces rich harmonies with ever-changing tones, sometimes bright, sometimes deep. The rhythm is strong, accompanied by subtle ambient sounds such as the hum of electricity and the soft clicks of keys, forming a distinctive soundscape unique to modern electronic music.",
+    "prompt_vision": "Musician in dim room playing synth, fingers on keys, faint lights creating immersive atmosphere.",
+    "prompt_audio": "Rich harmonies with ever-changing tones—sometimes bright, sometimes deep—strong rhythm, subtle ambient sounds including the hum of electricity and soft clicks of keys, forming a distinctive modern electronic music soundscape.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include rich harmonies with varying tones that alternate between bright and deep as described?",
+      "Are the synthesizer's tones synchronized with the musician's finger movements on the keyboard?",
+      "Can subtle ambient sounds such as the hum of electricity be heard in the background?",
+      "Are the soft clicks of the synthesizer keys audible during the performance?",
+      "Does the overall soundscape convey a distinctive modern electronic music atmosphere as described?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the room dimly lit with faint background lighting visible?",
+      "Is the musician actively playing the electronic synthesizer with their fingers moving across the keyboard?",
+      "Is the synthesizer visually identifiable as an electronic instrument with a keyboard layout?",
+      "Are the musician's fingers positioned on or near the keys of the synthesizer?",
+      "Is the lighting in the room creating an immersive atmosphere suitable for a musical performance?",
+      "Are the musician's hands visibly in motion, suggesting active playing of the synthesizer?",
+      "Is the synthesizer visually emitting a sense of modern electronic design, such as illuminated buttons or screens?"
+    ]
+  },
+  {
+    "prompt_en": "In a quiet room, a musician is playing the harp. The harp produces a warm and clear tone, with smooth and elegant string melodies accompanied by the soft sound of fingers plucking the strings. The music features a gentle rhythm and rich harmonies, creating a calm and immersive atmosphere. Occasionally, faint ambient sounds can be heard in the background, such as a gentle breeze or distant birdsong, further enhancing the natural feel of the music.",
+    "prompt_vision": "A musician playing a harp in a quiet room.",
+    "prompt_audio": "Warm and clear harp tones with smooth, elegant string melodies, soft finger-plucking sounds, gentle rhythm, rich harmonies, faint ambient breeze and distant birdsong.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the harp producing a warm and clear tone with smooth and elegant string melodies?",
+      "Are the sounds of fingers plucking the harp strings soft and audible?",
+      "Does the music feature a gentle rhythm and rich harmonies that create a calm and immersive atmosphere?",
+      "Can faint ambient sounds like a gentle breeze or distant birdsong be heard occasionally in the background?",
+      "Is the overall audio consistent with the quiet room setting, without prominent noise or distortion?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the musician visibly playing the harp with their fingers plucking the strings?",
+      "Does the harp appear to be the primary focus of the scene with visible strings?",
+      "Is the musician's posture consistent with playing a harp, such as sitting or standing with the harp positioned appropriately?",
+      "Are the harp strings visibly vibrating or in motion, suggesting they are being played?",
+      "Is the musician's facial expression calm and focused, consistent with playing soothing music?"
+    ]
+  },
+  {
+    "prompt_en": "An elderly performer is plucking the strings of a wooden string instrument, producing a warm and textured tone. The melody is slow and lingering, with the background environment quiet, occasionally accompanied by subtle sounds of fingers touching the strings. The overall sound field is centered around the instrument, emphasizing the natural acoustic effects of string vibrations and wooden resonance.",
+    "prompt_vision": "An elderly performer plucking the strings of a wooden string instrument.",
+    "prompt_audio": "Warm and textured tone from a wooden string instrument, slow and lingering melody, quiet background with subtle finger-on-strings sounds, centered sound field emphasizing natural string vibrations and wooden resonance.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of the strings being plucked clearly audible and consistent with the action described?",
+      "Are the subtle sounds of fingers touching the strings occasionally present in the audio?",
+      "Is the melody slow and lingering, as described in the prompt?",
+      "Is the background environment quiet, allowing the focus to remain on the instrument's sound?",
+      "Does the sound field emphasize the natural acoustic effects of string vibrations and wooden resonance, centered around the instrument?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the elderly performer visibly plucking the strings of the wooden string instrument with their fingers?",
+      "Does the wooden string instrument appear to have visible strings that can be plucked?",
+      "Can the instrument be seen producing visible vibrations or resonance effects when the strings are plucked?",
+      "Is the performer depicted in a calm and still manner, consistent with the slow and lingering melody?",
+      "Are the fingers of the performer visibly touching the strings in a subtle manner?",
+      "Is the background environment visually quiet, without any distracting motion or activity?"
+    ]
+  },
+  {
+    "prompt_en": "In an indoor setting, a musician is playing an electronic percussion instrument, using four drumsticks to strike the keys. The tone is crisp and metallic, with a brisk and varied rhythm. The background environment is quiet, occasionally interrupted by faint footsteps and breathing sounds. The sound field is centered around the instrument, with moderate volume, distinct harmonic layers, and the movement of the drumsticks is perfectly synchronized with the rhythm of the notes.",
+    "prompt_vision": "Indoor setting with a musician playing an electronic percussion instrument using four drumsticks, striking the keys with synchronized movements.",
+    "prompt_audio": "Crisp, metallic tones with a brisk and varied rhythm; quiet background occasionally interrupted by faint footsteps and breathing sounds; moderate volume, distinct harmonic layers, sound field centered on the instrument.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of the electronic percussion instrument crisp and metallic as described?",
+      "Are the footsteps and breathing sounds faint and occasional, not overpowering the main instrument sound?",
+      "Is the sound field centered around the electronic percussion instrument, without significant deviation?",
+      "Is the volume of the electronic percussion instrument moderate, neither too loud nor too soft?",
+      "Is the movement of the drumsticks perfectly synchronized with the rhythm of the notes, ensuring accurate audio-visual alignment?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the musician holding four drumsticks?",
+      "Are the drumsticks visibly striking the keys of the electronic percussion instrument?",
+      "Is the musician's movement synchronized with the rhythm of the notes?",
+      "Is the electronic percussion instrument visible in the indoor setting?",
+      "Are the drumsticks in motion, indicating active playing?",
+      "Is the musician's posture indicative of playing an instrument?",
+      "Is the indoor setting free of visible distractions or unrelated activities?"
+    ]
+  },
+  {
+    "prompt_en": "In a dimly lit room, the sound of a piano filled the entire space. Fingers gently slid across the keys, creating an elegant melody. The tone was warm and layered, accompanied by subtle ambient sounds, such as the breeze outside the window and the occasional rustling of leaves. The rhythm was calm and fluid, as if seamlessly blending with the quiet atmosphere of the room.",
+    "prompt_vision": "Dimly lit room, piano, fingers sliding on keys, window with breeze moving curtains, leaves rustling outside.",
+    "prompt_audio": "Warm, layered piano melody with a calm and fluid rhythm, accompanied by subtle ambient sounds of a breeze and occasional rustling leaves.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include subtle ambient sounds like the breeze outside the window?",
+      "Are there occasional rustling leaf sounds present in the audio?",
+      "Is the rhythm of the piano calm and fluid, aligning with the quiet atmosphere?",
+      "Can the sound of fingers gently sliding across the piano keys be heard?",
+      "Is the piano sound filling the entire space, as described?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a piano visible in the dimly lit room?",
+      "Are fingers visibly sliding across the piano keys?",
+      "Is the lighting in the room dim, creating a warm and subtle ambiance?",
+      "Are the leaves outside the window visibly rustling?",
+      "Is the window visible, suggesting the presence of a breeze outside?",
+      "Is the overall atmosphere of the room calm and still, with no large movements?"
+    ]
+  },
+  {
+    "prompt_en": "In a quiet room, the piano keys are gently pressed, producing clear and warm notes. The intervals between each note are even, forming a smooth melody accompanied by faint ambient sounds, such as soft breathing and subtle finger movements on the keys. The tone is warm and layered, with moderate volume, creating a serene and focused atmosphere.",
+    "prompt_vision": "A piano in a quiet room, fingers gently pressing the keys.",
+    "prompt_audio": "Clear and warm piano notes played with even intervals, forming a smooth melody; faint ambient sounds of soft breathing and subtle finger movements on the keys; warm, layered tone with moderate volume.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of piano notes clear and warm when the keys are gently pressed?",
+      "Are the intervals between each piano note even, forming a smooth melody?",
+      "Can faint ambient sounds, such as soft breathing, be heard in the background?",
+      "Are subtle finger movements on the piano keys audibly present?",
+      "Is the tone of the piano warm and layered, with moderate volume?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the piano visible with keys being gently pressed?",
+      "Are the piano keys shown in a sequence that suggests even intervals between notes?",
+      "Can the visual depict a serene and focused atmosphere, possibly through calm lighting or minimal movement?",
+      "Are the fingers visibly moving subtly on the piano keys?",
+      "Is the lighting warm, contributing to the warm tone described?"
+    ]
+  },
+  {
+    "prompt_en": "In a dimly lit indoor setting, a man wearing a white shirt is playing the saxophone. The music is primarily in a jazz style, with the saxophone producing a warm and expressive tone at a moderate volume, complementing the subdued lighting of the environment. There are subtle ambient sounds in the background, such as footsteps and distant whispers, creating an intimate and relaxed atmosphere. The rhythm is slow and smooth, with rich harmonies, and the saxophone melody blends perfectly with the background sounds, forming a natural sound field.",
+    "prompt_vision": "In a dimly lit indoor setting, a man wearing a white shirt is playing the saxophone.",
+    "prompt_audio": "Jazz-style saxophone music with a warm, expressive tone at moderate volume, slow and smooth rhythm, rich harmonies, blended with subtle ambient sounds of footsteps and distant whispers, creating an intimate and relaxed atmosphere.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the saxophone produce a warm and expressive tone that matches the jazz style described?",
+      "Is the saxophone melody at a moderate volume, complementing the subdued lighting of the environment?",
+      "Are there subtle ambient sounds, such as footsteps and distant whispers, audible in the background?",
+      "Does the rhythm of the saxophone music remain slow and smooth, with rich harmonies as described?",
+      "Can the saxophone melody blend naturally with the background sounds to form a cohesive sound field?",
+      "Are the ambient sounds, including footsteps and whispers, free from noticeable distortion or noise?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the man wearing a white shirt visible in the image or video?",
+      "Is the man holding and playing a saxophone?",
+      "Is the indoor setting dimly lit?",
+      "Does the saxophone appear to be producing sound, such as visible breath or finger movement on the keys?",
+      "Is the man's posture consistent with playing the saxophone, such as holding it near his mouth and using his hands on the keys?",
+      "Are the lighting conditions subdued, with no bright or harsh lights visible?",
+      "Is the overall atmosphere visually intimate and relaxed, with no signs of chaotic movement or activity?"
+    ]
+  },
+  {
+    "prompt_en": "A performer is tuning a wooden snare drum outdoors, with an open street environment in the background. The snare drum produces a crisp and bright sound with subtle metallic resonance and a distinct sense of rhythm. The recording subtly captures ambient wind and distant traffic noise, resulting in an overall open and natural sound field.",
+    "prompt_vision": "A performer tuning a wooden snare drum outdoors with an open street environment in the background.",
+    "prompt_audio": "Crisp and bright snare drum sounds with subtle metallic resonance and a distinct sense of rhythm, accompanied by ambient wind and distant traffic noise, creating an open and natural sound field.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the snare drum produce a crisp and bright sound with subtle metallic resonance when tuned?",
+      "Is there a distinct sense of rhythm in the sound produced by the snare drum?",
+      "Can ambient wind noise be subtly heard in the background of the recording?",
+      "Is distant traffic noise present in the audio, contributing to an open and natural sound field?",
+      "Are the sounds of the snare drum and ambient noises balanced to create an overall open sound field?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the performer visibly tuning a wooden snare drum?",
+      "Is the snare drum made of wood and visually distinct from other materials?",
+      "Are the drumsticks or hands positioned in a way that suggests interaction with the snare drum?",
+      "Is the snare drum located outdoors with an open street environment visible in the background?",
+      "Are the drum's metallic components, such as the snare wires or rims, visibly present?",
+      "Is the performer stationary or focused on the snare drum without large body movements?",
+      "Is the snare drum visually intact and not damaged or broken?"
+    ]
+  },
+  {
+    "prompt_en": "In a recording studio, a drummer is preparing to play an energetic drumbeat. Microphones are positioned close to the drum heads, capturing the clear sound of each strike. The rhythm is distinct, with the deep thud of the kick drum contrasting against the crisp snare, creating a strong sense of groove. There is a slight echo in the environment, enhancing the spatial depth of the sound. The drummer's movements are perfectly synchronized with the musical rhythm, demonstrating exceptional playing skills.",
+    "prompt_vision": "A drummer in a recording studio, microphones positioned close to drum heads, focused expression, dynamic playing posture, studio environment with acoustic treatment.",
+    "prompt_audio": "Energetic drumbeat with distinct rhythm, deep kick drum thud, crisp snare hits, slight echo enhancing spatial depth, clear and well-captured percussion sounds.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Are the sounds of the drum strikes clearly audible and distinct, matching the described energetic drumbeat?",
+      "Does the audio include the deep thud of the kick drum and the crisp sound of the snare, creating a contrasting rhythm?",
+      "Can the slight echo in the environment be heard, adding spatial depth to the drum sounds?",
+      "Are the drummer's movements visually synchronized with the timing of the drum sounds?",
+      "Is the rhythm consistent and aligned with the described strong sense of groove?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the drummer visible in the recording studio setting?",
+      "Are there microphones positioned close to the drum heads?",
+      "Is the drummer's body posture indicative of preparing to play the drums?",
+      "Are the drummer's hands or drumsticks positioned near the drum set, ready to strike?",
+      "Are the drum components, such as the kick drum and snare, visually distinguishable?",
+      "Are the drummer's movements synchronized with the implied rhythm of playing?",
+      "Is there a visible spatial arrangement that suggests the presence of an echo in the studio environment?"
+    ]
+  },
+  {
+    "prompt_en": "In a quiet indoor environment, the drummer gently strikes the snare drum, producing crisp and rhythmic beats. The sound of the drum is bright, accompanied by faint ambient noises such as subtle airflow. The drummer's movements are perfectly synchronized with the rhythm, showcasing smooth playing technique.",
+    "prompt_vision": "A drummer playing a snare drum indoors with smooth, synchronized movements.",
+    "prompt_audio": "Crisp, rhythmic snare drum beats with a bright tone, accompanied by faint ambient airflow sounds.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of the snare drum crisp and rhythmic when the drummer strikes it gently?",
+      "Does the drum sound have a bright timbre as described?",
+      "Are faint ambient noises, such as subtle airflow, audible in the background?",
+      "Is the drummer's striking motion visually synchronized with the rhythmic sound of the snare drum?",
+      "Does the audio remain consistent with a quiet indoor environment, avoiding loud or intrusive noises?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the drummer visible in the image or video?",
+      "Is the snare drum being gently struck by the drummer?",
+      "Are the drummer's movements smooth and synchronized with the rhythm?",
+      "Is the drummer's hand or drumstick visibly in motion towards or away from the snare drum?",
+      "Is the indoor environment depicted as quiet, with no visible signs of loud disturbances?",
+      "Is the snare drum visually identifiable in the scene?",
+      "Are there any visible indications of subtle airflow, such as gently moving objects or curtains?"
+    ]
+  },
+  {
+    "prompt_en": "A close-up shot of a drum kit, with drumsticks resting on the snare drum. Surrounding it are other drums and cymbals, all under softly lit ambient lighting. Generate a rhythm-based piece centered around the drum kit, highlighting the crisp sound of the snare drum and the bright, shimmering quality of the cymbals. The rhythm should have a layered and textured feel, with moderate overall volume. The background ambiance may include subtle room reverb.",
+    "prompt_vision": "Drum kit close-up, drumsticks on snare, surrounded by drums and cymbals, soft ambient lighting.",
+    "prompt_audio": "A rhythm-based piece centered around the drum kit, featuring crisp snare drum hits and bright, shimmering cymbals, with layered and textured rhythms at moderate volume and subtle room reverb.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of the snare drum crisp and distinct in the audio?",
+      "Is Do the cymbals produce a bright and shimmering sound quality?",
+      "Is the rhythm of the drum kit layered and textured, as described?",
+      "Is the overall volume of the audio moderate, not too loud or too soft?",
+      "Can subtle room reverb be heard in the background ambiance?",
+      "Are the drumsticks audibly resting on the snare drum at the beginning or end of the piece?",
+      "Does the audio maintain a consistent rhythm throughout the piece?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a close-up shot of a drum kit visible?",
+      "Are drumsticks resting on the snare drum in the image?",
+      "Are other drums and cymbals visible surrounding the snare drum?",
+      "Is the lighting softly lit, creating an ambient effect?",
+      "Are the cymbals depicted with a bright, shimmering appearance?",
+      "Does the snare drum appear prominently in the visual composition?"
+    ]
+  },
+  {
+    "prompt_en": "In a quiet room, a guitar is gently strummed, producing warm and soft tones. The vibration of each string is clearly audible, accompanied by faint sounds of fingers sliding. The soundstage is centered directly in front of the guitar, creating an intimate listening experience. Almost no other ambient sounds are present in the background, except for occasional subtle breathing. The tempo is slow and expressive, with harmonies and melodies intertwining to create a serene atmosphere.",
+    "prompt_vision": "A guitar in a quiet room, being gently strummed by a person, with no other visible activity or distractions.",
+    "prompt_audio": "Gentle guitar strumming with warm, soft tones; clear string vibrations; faint finger sliding sounds; centered soundstage; slow, expressive tempo with intertwining harmonies and melodies; occasional subtle breathing; almost no ambient background noise.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of the guitar strumming warm and soft as described?",
+      "Are the vibrations of each string clearly audible in the audio?",
+      "Can faint sounds of fingers sliding on the guitar strings be heard?",
+      "Is the soundstage centered directly in front of the guitar, creating an intimate listening experience?",
+      "Are there almost no other ambient sounds present in the background?",
+      "Can occasional subtle breathing be heard in the audio?",
+      "Does the tempo of the guitar playing remain slow and expressive, with harmonies and melodies intertwining?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the guitar visibly being strummed in the image or video?",
+      "Are the strings of the guitar visibly vibrating when strummed?",
+      "Can the fingers be seen sliding along the guitar strings?",
+      "Is the guitar positioned centrally in the visual frame?",
+      "Is the person playing the guitar showing a calm facial expression?",
+      "Is the lighting soft and warm, contributing to a serene atmosphere?",
+      "Are there no visible distractions or movements in the background?"
+    ]
+  },
+  {
+    "prompt_en": "Two people are collaborating to play an electric piano. The melody flows smoothly with a layered feel, the rhythm is brisk yet harmonious, the piano tone is clear and full, and the soundstage is evenly distributed. The ambient sound subtly includes slight indoor reverberation, creating a warm and interactive atmosphere.",
+    "prompt_vision": "Two people playing an electric piano together in an indoor setting.",
+    "prompt_audio": "Smooth, layered melody with brisk yet harmonious rhythm; clear and full electric piano tone; evenly distributed soundstage; subtle indoor reverberation creating a warm, interactive atmosphere.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the melody played on the electric piano smooth and layered as described?",
+      "Does the rhythm of the electric piano sound brisk yet harmonious?",
+      "Is the tone of the electric piano clear and full?",
+      "Is the soundstage of the electric piano evenly distributed across the audio field?",
+      "Can the ambient sound include slight indoor reverberation, contributing to a warm atmosphere?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there two people visibly interacting with an electric piano?",
+      "Is the electric piano clearly visible in the scene?",
+      "Are the two people positioned near the piano, suggesting collaboration?",
+      "Is there visible hand movement on the piano keys, indicating playing?",
+      "Does the scene appear to be indoors, suggesting an indoor environment?",
+      "Is there a warm lighting effect, suggesting a cozy atmosphere?",
+      "Are the people visibly focused on the piano, suggesting engagement?"
+    ]
+  },
+  {
+    "prompt_en": "In a quiet room, two people are playing a beautiful melody on the piano. The piano's tone is crisp and layered, accompanied by gentle chords, creating a serene and focused atmosphere. The performers' fingers dance nimbly across the keys, with a smooth and natural rhythm. Occasionally, faint ambient sounds can be heard in the background, such as the breeze outside the window, adding a sense of realism to the music.",
+    "prompt_vision": "Two people playing piano in a quiet room, fingers moving nimbly across the keys, window with breeze visible in the background.",
+    "prompt_audio": "Crisp and layered piano melody with gentle chords, serene and focused atmosphere, faint ambient breeze sounds in the background.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the piano melody audible with a crisp and layered tone as described?",
+      "Are the gentle chords accompanying the melody clearly audible and contributing to a serene atmosphere?",
+      "Can the performers' finger movements be seen to match the smooth and natural rhythm of the piano music?",
+      "Is the room quiet enough to allow faint ambient sounds, like the breeze outside, to be heard occasionally in the background?",
+      "Does the audio maintain a focused atmosphere without any unexpected loud noises or distortions?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there two people visible at the piano?",
+      "Is there a piano present in the scene?",
+      "Are the performers' fingers visibly moving across the piano keys?",
+      "Does the scene appear calm and still, with no large body movements from the performers?",
+      "Is there a window visible in the room?",
+      "Are the performers' facial expressions focused and serene?"
+    ]
+  },
+  {
+    "prompt_en": "In an indoor environment, two hands are playing an electronic synthesizer, with a tone characterized by warm electronic sounds, accompanied by soft bass frequencies and clear high frequencies. The background ambiance remains quiet, with only slight keyboard keypress sounds and finger movement noises. The melody flows smoothly, with rich harmonic layers, and the sound field has a three-dimensional quality, as if the sound were surrounding the performer.",
+    "prompt_vision": "Two hands playing an electronic synthesizer indoors.",
+    "prompt_audio": "Warm electronic tones with soft bass frequencies and clear high frequencies; smooth melody with rich harmonic layers and a three-dimensional sound field; quiet background with slight keyboard keypress sounds and finger movement noises.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the synthesizer producing warm electronic sounds as described in the prompt?",
+      "Are soft bass frequencies present in the audio accompanying the synthesizer?",
+      "Are clear high frequencies audible in the synthesizer's output?",
+      "Is the background ambiance quiet with only slight keyboard keypress sounds and finger movement noises?",
+      "Does the melody flow smoothly with rich harmonic layers as expected?",
+      "Is the sound field three-dimensional, giving the impression of sound surrounding the performer?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there two hands visible playing an electronic synthesizer?",
+      "Is the synthesizer located in an indoor environment?",
+      "Can the hands be seen pressing the keys of the synthesizer?",
+      "Is there visible finger movement on the keyboard?",
+      "Are the keys of the synthesizer visibly depressed during play?"
+    ]
+  },
+  {
+    "prompt_en": "In an indoor environment with a quiet background and only slight ambient noise, a person is playing a hand drum. The drum's bells produce crisp, clear sounds, creating a lively and energetic rhythm. The sound of the hand drum resonates within the room, forming a natural sound field with moderate volume that blends seamlessly with the ambient noise. The performer's movements are synchronized with the musical rhythm, and the drum's tone is bright and pleasant, bringing a cheerful atmosphere.",
+    "prompt_vision": "A person playing a hand drum indoors, their movements synchronized with the rhythm, in a quiet room with subtle ambient light and minimal visual distractions.",
+    "prompt_audio": "Crisp, clear bell sounds from a hand drum producing a lively, energetic rhythm; bright and pleasant tones at moderate volume, resonating naturally in a quiet indoor space with slight ambient noise.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of the hand drum resonating within the room with moderate volume?",
+      "Are the drum's bells producing crisp, clear sounds that create a lively and energetic rhythm?",
+      "Does the drum's tone sound bright and pleasant, contributing to a cheerful atmosphere?",
+      "Is the performer's movement synchronized with the musical rhythm?",
+      "Can the natural sound field of the drum blend seamlessly with the slight ambient noise?",
+      "Is the background noise quiet, allowing the drum sounds to be prominent?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the person visibly playing a hand drum with their hands in motion?",
+      "Does the hand drum have visible bells attached to it?",
+      "Are the performer's movements synchronized with the rhythm of playing the drum?",
+      "Is the indoor environment depicted as quiet with no visible signs of loud disturbances?",
+      "Is the drum visually producing a bright and cheerful tone, such as through its design or color?",
+      "Are the performer's facial expressions or body language conveying a lively and energetic atmosphere?",
+      "Is the ambient lighting in the room moderate and consistent with an indoor environment?"
+    ]
+  },
+  {
+    "prompt_en": "Generate a piece of music featuring the ukulele as the main instrument, with a crisp and bright tone, light and smooth rhythm, and a background ambiance of soft natural indoor lighting. Emphasize the delicate string-plucking texture and the synchronization of finger movements, creating an overall melody that conveys warmth and joy.",
+    "prompt_vision": "Soft natural indoor lighting with warm, gentle illumination.",
+    "prompt_audio": "Ukulele as the main instrument, crisp and bright tone, light and smooth rhythm, delicate string-plucking texture, synchronized finger movements, melody conveying warmth and joy.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the ukulele produce a crisp and bright tone throughout the piece?",
+      "Is the rhythm of the ukulele light and smooth, without abrupt or harsh transitions?",
+      "Can the delicate string-plucking texture of the ukulele be distinctly heard in the audio?",
+      "Are the finger movements on the ukulele synchronized with the plucking sounds in the audio-visual output?",
+      "Is the overall melody conveyed by the ukulele warm and joyful, without discordant or somber tones?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the ukulele visually depicted as the main instrument in the scene, with clear focus on its structure and strings?",
+      "Does the lighting in the scene appear soft and natural, resembling indoor ambiance with warm tones?",
+      "Are the visual elements, such as the ukulele and the player's hands, synchronized to convey a sense of smooth rhythm and joyful melody?",
+      "Is the overall composition of the scene designed to evoke warmth and joy through harmonious visual elements and lighting?",
+      "Are the details of the ukulele, such as its wood grain and bright tone, visually emphasized to enhance the crisp and delicate aesthetic?"
+    ]
+  },
+  {
+    "prompt_en": "In a cozy indoor setting, a musician is playing an electronic percussion instrument, using soft mallets to strike the keys. The tone is crisp and elastic, accompanied by a lively rhythm that fills the entire room. Background ambient sounds are gentle, occasionally punctuated by faint footsteps and the rustle of clothing. The melody and rhythm of the music blend harmoniously, with the mallet movements perfectly synchronized to the notes, creating a smooth and natural performance atmosphere.",
+    "prompt_vision": "A musician playing an electronic percussion instrument indoors, using soft mallets to strike the keys, in a cozy setting.",
+    "prompt_audio": "Crisp and elastic tones from an electronic percussion instrument played with soft mallets, lively rhythm filling the room, gentle ambient sounds with faint footsteps and rustling clothing, harmonious melody and rhythm.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Are the mallet strikes on the electronic percussion instrument synchronized with the notes being played?",
+      "Does the rhythm of the music fill the entire room, creating a lively atmosphere?",
+      "Are the background ambient sounds gentle and occasionally punctuated by faint footsteps and rustling clothing?",
+      "Is the melody and rhythm of the music blending harmoniously, as described?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the musician holding soft mallets in their hands?",
+      "Are the mallets visibly striking the keys of the electronic percussion instrument?",
+      "Is the musician's body posture indicative of playing an instrument, with arms and hands actively engaged?",
+      "Are the keys of the electronic percussion instrument visibly present in the scene?",
+      "Is there a visible sense of rhythm in the musician's movements, suggesting synchronization with the music?",
+      "Is the indoor setting depicted as cozy, with elements like soft lighting or comfortable furnishings?"
+    ]
+  },
+  {
+    "prompt_en": "In a quiet indoor setting, a musician is playing the xylophone. The mallets strike the keys, producing crisp and rhythmic sounds that are warm in tone and penetrating. Occasionally, faint ambient noises can be heard in the background, such as a breeze from a window or distant birdsong, adding depth to the music. The performer's movements are perfectly synchronized with the musical rhythm, demonstrating precise control over the melody.",
+    "prompt_vision": "A musician playing a xylophone indoors, striking the keys with mallets, their movements synchronized with the rhythm.",
+    "prompt_audio": "Crisp, rhythmic xylophone notes with a warm, penetrating tone, accompanied by faint ambient sounds of a breeze and distant birdsong.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of the xylophone crisp and rhythmic, with a warm and penetrating tone when the mallets strike the keys?",
+      "Are the performer's movements synchronized with the rhythm of the xylophone music?",
+      "Can faint ambient noises like a breeze from a window be heard occasionally in the background?",
+      "Can distant birdsong be heard occasionally in the background, adding depth to the music?",
+      "Is the overall audio consistent with a quiet indoor setting, without any prominent or unexpected loud noises?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the musician holding mallets while playing the xylophone?",
+      "Are the mallets visibly striking the keys of the xylophone?",
+      "Is the musician's body movement synchronized with the rhythm of the music?",
+      "Are the xylophone keys visibly being struck in a rhythmic pattern?",
+      "Is there a visible window that could imply a breeze entering the room?",
+      "Are the musician's facial expressions showing concentration or focus?",
+      "Is the indoor setting visually calm and quiet?"
+    ]
+  },
+  {
+    "prompt_en": "In a quiet indoor setting, a performer is playing a vibraphone with two mallets, producing crisp and rhythmic melodies. Each strike is accompanied by a subtle resonance, creating bright and clear tones that alternate between lively and gentle tempos. The performer's movements are perfectly synchronized with the musical rhythm, allowing the sound to reverberate throughout the room and creating an immersive musical experience.",
+    "prompt_vision": "A performer playing a vibraphone indoors with two mallets, moving in sync with the music.",
+    "prompt_audio": "Crisp, rhythmic vibraphone melodies with bright, clear tones and subtle resonance, alternating between lively and gentle tempos.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include subtle resonance accompanying each vibraphone strike, enhancing the immersive experience?",
+      "Are the tempos of the vibraphone melodies alternating between lively and gentle, as described?",
+      "Is the performer's movement visually synchronized with the rhythmic sound of the vibraphone?",
+      "Can the sound of the vibraphone be heard reverberating throughout the room, indicating an immersive musical experience?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the performer holding two mallets while playing the vibraphone?",
+      "Are the mallets visibly striking the vibraphone keys?",
+      "Is the performer making synchronized movements with the rhythm of the music?",
+      "Can the vibraphone keys be seen vibrating or resonating slightly after being struck?",
+      "Is the performer positioned in a quiet indoor setting?",
+      "Are the performer's movements alternating between lively and gentle tempos?"
+    ]
+  },
+  {
+    "prompt_en": "In a quiet indoor environment, the performer gently taps metal bars with a wooden mallet, producing crisp and melodious tones. The timbre is bright and clear, accompanied by subtle ambient sounds such as clothing rustles and breathing. The rhythm is lively and varied, with distinct harmonic layers and moderate volume, creating a relaxed and pleasant atmosphere. The performer's movements are perfectly synchronized with the musical rhythm, showcasing smooth and skillful execution.",
+    "prompt_vision": "A performer indoors gently taps metal bars with a wooden mallet, moving in smooth, skillful synchronization with the rhythm.",
+    "prompt_audio": "Crisp, melodious, bright, and clear tones from metal bars struck with a wooden mallet, moderate volume, lively and varied rhythm with distinct harmonic layers, accompanied by subtle ambient sounds of clothing rustles and breathing.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of metal bars being tapped by a wooden mallet crisp and melodious?",
+      "Does the audio include subtle ambient sounds like clothing rustles and breathing?",
+      "Are the tones produced by the metal bars bright and clear in timbre?",
+      "Is the rhythm of the tapping lively and varied with distinct harmonic layers?",
+      "Are the performer's movements perfectly synchronized with the musical rhythm in the audio-visual output?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the performer holding a wooden mallet?",
+      "Are the metal bars visible in the scene?",
+      "Is the performer tapping the metal bars with the mallet?",
+      "Are the performer's movements smooth and synchronized with the rhythm?",
+      "Is there a visible relaxed and pleasant atmosphere in the indoor environment?"
+    ]
+  },
+  {
+    "prompt_en": "In an antique-style courtyard, a performer is playing the guzheng. The strings of the guzheng glisten in the sunlight as her fingers gently pluck them, producing a melodious and lingering tune. In the background, a gentle breeze rustles the leaves, occasionally accompanied by birdsong, creating a peaceful and natural soundscape. The music flows at a relaxed tempo with beautiful harmonies, as if blending seamlessly with the surrounding environment.",
+    "prompt_vision": "In an antique-style courtyard, a performer plays the guzheng, her fingers gently plucking the strings that glisten in the sunlight.",
+    "prompt_audio": "Melodious and lingering guzheng music at a relaxed tempo with beautiful harmonies, accompanied by a gentle breeze rustling leaves and occasional birdsong, creating a peaceful natural soundscape.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the sound of the guzheng match the expected timbre of a traditional string instrument being plucked gently?",
+      "Are the notes of the guzheng melodious and lingering, consistent with a relaxed tempo and harmonious music?",
+      "Can the rustling of leaves from the gentle breeze be heard in the background, adding to the natural soundscape?",
+      "Are occasional bird sounds present in the audio, complementing the peaceful environment described?",
+      "Does the overall audio blend seamlessly, with the guzheng music harmonizing naturally with the ambient sounds of the breeze and birdsong?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the performer seated in an antique-style courtyard?",
+      "Is the performer playing a guzheng with visible strings?",
+      "Do the strings of the guzheng appear to glisten in sunlight?",
+      "Are the performer's fingers visibly plucking the strings of the guzheng?",
+      "Are there leaves in the background that appear to be rustling gently?",
+      "Is the overall visual scene calm and still, with no rapid or abrupt movements?"
+    ]
+  },
+  {
+    "prompt_en": "The scene displays a hand plucking the strings of an acoustic guitar against a soft indoor background. The generated audio should include clear and warm acoustic guitar plucking sounds with rich, delicate resonance. The rhythm should be lively yet gentle, with moderate volume and a soundstage that reflects natural indoor reverberation. Ensure the plucking movements are perfectly synchronized with the audio, and appropriately add subtle ambient sounds such as finger sliding noise and faint indoor air movement.",
+    "prompt_vision": "A hand plucking the strings of an acoustic guitar against a soft indoor background.",
+    "prompt_audio": "Clear and warm acoustic guitar plucking sounds with rich, delicate resonance; lively yet gentle rhythm; moderate volume; natural indoor reverberation; subtle finger sliding noises; faint indoor air movement.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the audio synchronized with the visual plucking movements of the guitar strings?",
+      "Does the audio include clear and warm acoustic guitar plucking sounds with rich resonance?",
+      "Are the guitar plucking sounds lively yet gentle, with moderate volume?",
+      "Is there a natural indoor reverberation in the soundstage of the guitar audio?",
+      "Can subtle ambient sounds such as finger sliding noise be heard in the audio?",
+      "Are faint indoor air movement sounds present in the background of the audio?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visible hand plucking the strings of an acoustic guitar?",
+      "Are the strings of the guitar visibly vibrating when plucked?",
+      "Is the background of the scene soft and indicative of an indoor setting?",
+      "Does the hand appear to be making gentle and lively plucking motions?",
+      "Is there a visible resonance effect on the guitar body when the strings are plucked?"
+    ]
+  },
+  {
+    "prompt_en": "On a dimly lit stage, an electric guitar is illuminated by a spotlight, its headstock reflecting a rainbow-like glow. The background is silent darkness, with only the sound of the guitar echoing through the space. The guitar plays a rhythmic melody, its tone crisp and bright, accompanied by a subtle reverb effect that creates an ethereal soundscape. Each note synchronizes with changes in light and shadow, as if the music and light are dancing together on stage.",
+    "prompt_vision": "Electric guitar on dark stage, spotlight on headstock casting rainbow glow, light and shadow shift to unseen rhythm",
+    "prompt_audio": "A crisp, bright electric guitar plays a rhythmic melody with subtle reverb, creating an ethereal soundscape; each note echoes through silent space.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of the electric guitar the only audible element, with no background noise or other instruments present?",
+      "Does the electric guitar produce a rhythmic melody with a crisp and bright tone?",
+      "Can the subtle reverb effect be heard, contributing to an ethereal soundscape?",
+      "Are the changes in light and shadow synchronized with each note played by the guitar?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the electric guitar illuminated by a spotlight on the dimly lit stage?",
+      "Does the headstock of the guitar reflect a rainbow-like glow?",
+      "Is the background visually represented as silent darkness?",
+      "Can changes in light and shadow be seen synchronizing with the guitar's rhythmic melody?",
+      "Are the visual effects of light and shadow creating an impression of dancing on stage?"
+    ]
+  },
+  {
+    "prompt_en": "In this classic car scene, the background music should be upbeat jazz, highlighting the brass instruments to echo the metallic texture of the car's front end. The musical rhythm should match the car's elegant design, creating a vintage and luxurious atmosphere. Ambient sounds should include subtle wind and rustling leaves to enhance the natural feel of the scene. Ensure a balanced volume between the music and ambient sounds to create a harmonious sound field.",
+    "prompt_vision": "Classic car with elegant design and metallic front end, set in a natural outdoor environment with trees and leaves.",
+    "prompt_audio": "Upbeat jazz music featuring prominent brass instruments, subtle wind sounds, and rustling leaves; balanced volume between music and ambient sounds for a harmonious, vintage, and luxurious atmosphere.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the background music upbeat jazz with a prominent emphasis on brass instruments?",
+      "Does the rhythm of the music align with the elegant design of the car, contributing to a vintage and luxurious atmosphere?",
+      "Are there subtle wind sounds present in the ambient audio to enhance the natural feel of the scene?",
+      "Are rustling leaves audible in the ambient sounds to complement the scene's natural ambiance?",
+      "Is there a balanced volume between the background music and ambient sounds, ensuring a harmonious sound field?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the car's front end visibly metallic in texture?",
+      "Does the car's design appear elegant and vintage?",
+      "Are there visible signs of wind, such as moving leaves or grass?",
+      "Is the car stationary, indicating a lack of motion in the scene?",
+      "Are the leaves visibly rustling, suggesting subtle wind presence?"
+    ]
+  }
+]

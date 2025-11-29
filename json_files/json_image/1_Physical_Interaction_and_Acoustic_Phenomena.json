@@ -1,0 +1,1747 @@
+[
+  {
+    "prompt_en": "In an industrial setting, two large ventilation fans are in operation. The red fan on the left and the blue fan on the right rotate at different speeds, producing a deep rumble and a high-pitched whistling sound. The metallic construction of the fans gives the sound a metallic tone, which reflects off the surrounding concrete walls, creating echoes. The differing rotation speeds of the fans result in variations in pitch and volume—the sound of the left fan is deeper, while the right fan's sound is sharper. The environment also contains subtle wind noises and occasional metallic clinking sounds.",
+    "prompt_vision": "Red metal fan left, blue metal fan right, rotating at different speeds, concrete walls",
+    "prompt_audio": "Deep rumble from the left fan, high-pitched whistling from the right fan, metallic tonality, echoing off concrete walls, subtle wind noises, occasional metallic clinking sounds.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a deep rumble sound from the left fan that matches its slower rotation speed?",
+      "Is there a high-pitched whistling sound from the right fan that corresponds to its faster rotation speed?",
+      "Can the metallic tone of the fans be heard in the audio, reflecting their metallic construction?",
+      "Are echoes present in the audio, indicating reflection off concrete walls?",
+      "Is there a noticeable difference in pitch between the left and right fans, with the left fan sounding deeper and the right fan sounding sharper?",
+      "Does the audio include subtle wind noises as described in the environment?",
+      "Are occasional metallic clinking sounds audible in the audio?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a red fan located on the left side of the image?",
+      "Is there a blue fan located on the right side of the image?",
+      "Are the two fans rotating at visibly different speeds?",
+      "Is the left fan larger or equal in size compared to the right fan?",
+      "Is the construction of the fans visibly metallic?",
+      "Are there visible concrete walls surrounding the fans?",
+      "Is there any visible indication of wind movement in the environment, such as dust or small debris being moved by the fans?"
+    ]
+  },
+  {
+    "prompt_en": "In an empty industrial corridor, echoes of metal pipes and air currents reverberate through the space. The metal pipes produce crisp yet slightly deep tones, combined with subtle wind sounds, creating a cold and austere atmosphere. Occasionally, the mechanical sounds of an elevator door opening and closing can be heard—sharp and brief in tone. The corridor's smooth walls and floors allow sound to travel quickly and clearly, resulting in distinct echo effects.",
+    "prompt_vision": "An empty industrial corridor with smooth walls and floors, metal pipes running along the walls, and an elevator at one end.",
+    "prompt_audio": "Crisp yet slightly deep tones from metal pipes, subtle wind sounds, sharp and brief mechanical sounds of an elevator door opening and closing, all producing distinct echo effects in a cold and austere acoustic environment.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Are the echoes of metal pipes audible with crisp yet slightly deep tones as described?",
+      "Does the audio include subtle wind sounds that contribute to the cold and austere atmosphere?",
+      "Can the mechanical sounds of an elevator door opening and closing be heard occasionally with sharp and brief tones?",
+      "Are the echo effects distinct and clear, consistent with the smooth walls and floors described in the corridor?",
+      "Is the overall soundscape free of unexpected noise or distortion that would contradict the described empty industrial corridor?"
+    ],
+    "auxiliary_info_vision": [
+      "Are the walls and floors of the corridor smooth and reflective in appearance?",
+      "Is the corridor visually empty, with no visible objects or people present?",
+      "Are there visible metal pipes in the corridor?",
+      "Does the corridor have a cold and austere visual atmosphere, such as muted colors or minimalistic design?",
+      "Can the elevator door be seen opening and closing in the corridor?"
+    ]
+  },
+  {
+    "prompt_en": "In the dimly lit factory environment, the welding process emits sharp high-frequency noise from the arc, accompanied by the faint crackling sound of burning metal sparks. The light from the arc comes with a high-pitched tone, rising and falling in sync with the steady rhythm of the welding work. Sound waves reflect within the metal building, creating a subtle echo effect. Occasionally, the sounds of workers' footsteps and clinking metal tools can also be heard, contrasting with the sound of the arc.",
+    "prompt_vision": "Dimly lit factory with welding arc emitting bright light, sparks flying from burning metal, workers moving with metal tools in a metal building.",
+    "prompt_audio": "Sharp high-frequency welding arc noise with faint crackling sparks, high-pitched tone rising and falling rhythmically, subtle echo from sound reflections, occasional footsteps and clinking metal tools.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the welding process produce sharp high-frequency noise synchronized with the light from the arc?",
+      "Is there a faint crackling sound accompanying the burning metal sparks during the welding process?",
+      "Can the high-pitched tone rise and fall in sync with the steady rhythm of the welding work?",
+      "Are sound waves reflecting within the metal building creating a subtle echo effect?",
+      "Is Do occasional sounds of workers' footsteps contrast with the sharp noise of the welding arc?",
+      "Are clinking metal tools occasionally audible alongside the welding sounds?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there visible welding equipment present in the scene?",
+      "Are there visible sparks emanating from the welding process?",
+      "Is the factory environment dimly lit, with shadows and low light levels?",
+      "Is there a visible arc light from the welding process?",
+      "Are there visible metal tools in the scene?"
+    ]
+  },
+  {
+    "prompt_en": "In an indoor basketball court with a wooden floor, a basketball bounces lightly, producing crisp impact sounds. The rubber surface of the basketball collides with the hard wooden floor, creating short and powerful sounds accompanied by slight echoes. The rhythm of the bouncing ball is strong, and the sound spreads across the empty space, gradually fading away. Pay attention to the positioning of the sound source and the details of the reflected sound, ensuring that the sound propagation matches the spatial characteristics of the court.",
+    "prompt_vision": "An empty indoor basketball court with a wooden floor.",
+    "prompt_audio": "A basketball bouncing lightly on a hard wooden floor, producing crisp, short, and powerful impact sounds with slight echoes that gradually fade; the sound source is localized and reflects the spatial acoustics of the court.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include crisp impact sounds when the basketball bounces on the wooden floor?",
+      "Are the sounds of the basketball bouncing short and powerful, as described?",
+      "Can slight echoes be heard accompanying the impact sounds of the basketball?",
+      "Is the rhythm of the bouncing ball strong and consistent throughout the audio?",
+      "Does the sound of the basketball bouncing spread across the space, gradually fading away?",
+      "Are the sound source positioning and reflected sounds consistent with the spatial characteristics of an indoor basketball court?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a basketball visible on a wooden floor?",
+      "Is the basketball shown in motion, indicating bouncing action?",
+      "Are there visible echoes or reflections of the basketball on the wooden floor?",
+      "Is the basketball depicted with a rubber surface texture?",
+      "Is the indoor basketball court shown as empty, without other objects or people?"
+    ]
+  },
+  {
+    "prompt_en": "On a bright yellow background, a black computer fan is spinning. The fan blades are made of plastic, producing a slight humming sound and the noise of air movement. The fan's rotational speed is moderate, with a low sound frequency and a soft tone. Due to the flat background, the sound spreads evenly without noticeable reflection or interference.",
+    "prompt_vision": "On a bright yellow background, a black computer fan with plastic blades is spinning at a moderate speed.",
+    "prompt_audio": "A soft, low-frequency humming sound with gentle air movement noise, evenly spread without echo or interference.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a slight humming sound from the spinning plastic fan blades?",
+      "Is there a noise of air movement accompanying the fan's rotation?",
+      "Is the sound frequency low, matching the moderate rotational speed of the fan?",
+      "Is the tone of the fan's sound soft, as described?",
+      "Does the sound spread evenly without noticeable reflection or interference, consistent with the flat background?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the background bright yellow?",
+      "Is there a black computer fan present?",
+      "Are the fan blades made of plastic?",
+      "Is the computer fan spinning?",
+      "Is the rotational speed of the fan moderate?"
+    ]
+  },
+  {
+    "prompt_en": "In a quiet, dark environment, a lit lighter emits a faint orange flame, while the steel casing of the lighter produces subtle metallic clicking sounds. Through the stillness, the flame generates a gentle crackling sound, indicating slight flickering, accompanied by faint popping noises in the air. The background is silent, with no other ambient sounds; the focus lies on the dynamic audio effects from the energy transfer during the flame's combustion, with a stable sound source.",
+    "prompt_vision": "In a quiet, dark environment, a lit lighter emits a faint orange flame, with the steel casing visible.",
+    "prompt_audio": "Subtle metallic clicking sounds from the lighter, gentle crackling indicating flame flickering, faint popping noises in the air, no background ambient sounds, stable sound source.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the flame generating a gentle crackling sound indicating slight flickering?",
+      "Does the steel casing of the lighter produce subtle metallic clicking sounds?",
+      "Are faint popping noises audible in the air accompanying the flame?",
+      "Is the background silent with no other ambient sounds present?",
+      "Is the sound source stable, focusing on the dynamic audio effects from the flame's combustion?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a lit lighter with a visible orange flame?",
+      "Is the environment depicted as dark?",
+      "Is the flame shown to be faint, indicating low brightness?",
+      "Is the lighter's casing made of a material that appears metallic?",
+      "Is the flame depicted with slight flickering motion?",
+      "Is there an absence of visible movement in the background, suggesting stillness?"
+    ]
+  },
+  {
+    "prompt_en": "In a quiet indoor environment, the sound of fingers gently turning pages made of thick linen paper, with a warm and soft timbre. A subtle friction noise is produced when fingers touch the paper, with a slow and steady rhythm. There is slight ambient sound in the background, such as distant wind or faint indoor reverberation, creating a wide and soft sound field at a moderate volume, evoking a serene atmosphere.",
+    "prompt_vision": "A quiet indoor environment with no visible movement or activity.",
+    "prompt_audio": "Gentle page-turning sounds of thick linen paper with warm, soft timbre; subtle finger friction noise in a slow, steady rhythm; faint ambient background sounds like distant wind or soft indoor reverberation creating a wide, serene soundscape at moderate volume.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of fingers turning pages made of thick linen paper present with a warm and soft timbre?",
+      "Does the subtle friction noise occur when fingers touch the paper, with a slow and steady rhythm?",
+      "Is there slight ambient sound in the background, such as distant wind or faint indoor reverberation?",
+      "Does the ambient sound create a wide and soft sound field at a moderate volume?",
+      "Is the overall audio evoking a serene atmosphere in the quiet indoor environment?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there visible movement of fingers turning pages made of thick linen paper?",
+      "Are the pages visibly thick and textured, suggesting linen material?",
+      "Is the lighting warm and soft, contributing to a serene atmosphere?",
+      "Are the fingers moving at a slow and steady rhythm while turning the pages?",
+      "Is there a visible absence of large body movement, suggesting a quiet indoor environment?"
+    ]
+  },
+  {
+    "prompt_en": "This is a video about metalworking, featuring scenes with sparks flying.",
+    "prompt_vision": "Metalworking with sparks flying",
+    "prompt_audio": "Clanging metal, hissing sparks, industrial machinery sounds",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Are the sounds of metal being struck or manipulated present during scenes with sparks flying?",
+      "Is there a consistent sound of sparks or crackling noise when sparks are visible?",
+      "Does the audio include the sound of machinery or tools operating during metalworking scenes?",
+      "Can the sound of metal grinding or cutting be heard when sparks are shown?",
+      "Is the volume of the audio appropriate to match the intensity of the visible sparks?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there visible sparks flying in the video?",
+      "Is there metal being visibly worked on or manipulated in the video?",
+      "Can you see tools or machinery typically used in metalworking in the video?",
+      "Is there a visible glow or bright light source that suggests active metalworking?",
+      "Does the video show any metal deformation or cutting as a result of the metalworking process?"
+    ]
+  },
+  {
+    "prompt_en": "Generate a sound effect of using power tools to cut metal in an industrial environment. Emphasize the sharp high-frequency tones of metal friction during the cutting process, the low-frequency background noise of the power tool's mechanical operation, and the subtle crackling sounds of sparks flying. The volume should vary according to the intensity of the cutting force. The sound field should convey a strong, close-up impact as well as the spatial characteristics of reflections from the metal surface. Ambient sound should include slight reverb and a low-frequency hum in the background, with the overall rhythm synchronized to the motion of the tool operation.",
+    "prompt_vision": "Close-up view of a power tool cutting through a metal surface in an industrial setting, with visible sparks flying and strong reflections off the metal.",
+    "prompt_audio": "Sharp high-frequency metal friction sounds, low-frequency mechanical hum of power tool, subtle crackling of sparks, volume modulating with cutting intensity, strong close-up impact with spatial reflections, slight reverb, and synchronized rhythmic tool operation.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include sharp high-frequency tones that match the friction of metal during the cutting process?",
+      "Is there low-frequency background noise that corresponds to the mechanical operation of the power tool?",
+      "Can subtle crackling sounds of sparks flying be heard during the cutting process?",
+      "Does the volume vary appropriately to reflect the intensity of the cutting force?",
+      "Are the spatial characteristics of reflections from the metal surface conveyed in the sound field?",
+      "Is there slight reverb present in the ambient sound to suggest an industrial environment?",
+      "Does the overall rhythm of the audio synchronize with the motion of the tool operation?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the visual representation of the power tool accurately detailed, showing its metallic texture and mechanical components?",
+      "Are the sparks visually depicted with dynamic motion, showing bright, sharp trails and subtle crackling effects as they scatter?",
+      "Does the lighting and reflections on the metal surface convey the high-intensity friction caused by the cutting process?",
+      "Are the spatial relationships between the power tool, the metal being cut, and the surrounding environment visually coherent, showing realistic depth and perspective?",
+      "Is the industrial environment visually detailed, including elements like machinery, metallic surfaces, and slight reverb effects visible through reflections or lighting?",
+      "Are the variations in the cutting force visually represented through changes in the intensity of sparks, tool vibrations, or metal deformation?"
+    ]
+  },
+  {
+    "prompt_en": "In the dark environment, two sparklers burn simultaneously, emitting faint crackling sounds. Sparks fly with slight popping noises, clear and bright in tone. The frequency of the sparks is irregular, sometimes dense, sometimes sparse, creating an unstable rhythm. Due to the openness of the surroundings, the sounds carry a slight echo, enhancing the dynamic effect of the sparks.",
+    "prompt_vision": "In a dark environment, two sparklers burn simultaneously, emitting bright sparks that fly irregularly—sometimes dense, sometimes sparse.",
+    "prompt_audio": "Faint crackling sounds with slight popping noises, clear and bright in tone, irregular in rhythm, with a slight echo due to open surroundings.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include faint crackling sounds corresponding to the sparklers burning?",
+      "Are there slight popping noises that match the bright tone of the sparks flying?",
+      "Is the frequency of the popping noises irregular, reflecting the described dense and sparse occurrences?",
+      "Can a slight echo be heard in the audio, indicating the openness of the surroundings?",
+      "Are the crackling and popping sounds dynamically enhanced by the echo effect?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visible dark environment surrounding the sparklers?",
+      "Are there two sparklers visible in the scene?",
+      "Can you see sparks flying from the sparklers?",
+      "Are the sparks emitted by the sparklers clear and bright in appearance?",
+      "Is there a visible variation in the density of the sparks, sometimes appearing dense and sometimes sparse?",
+      "Do the sparklers appear to be burning simultaneously?"
+    ]
+  },
+  {
+    "prompt_en": "On a quiet night, the campfire blazed vigorously, with soft crackling sounds from the burning wood and a faint whooshing noise from the flickering flames. The heat from the fire caused the air to shimmer slightly, and the occasional popping sound of flying sparks could be heard. The ambient environment was very quiet, with only the gentle rustling of leaves in the breeze. The fire's glow shimmered in the darkness, illuminating the wood's texture, while the sounds varied with the intensity of the flames.",
+    "prompt_vision": "Blazing campfire at night, glowing wood texture, heat waves, sparks flying, dark surroundings, faint rustling leaves in breeze.",
+    "prompt_audio": "Soft crackling of burning wood, faint whooshing of flickering flames, occasional popping of sparks, and gentle rustling of leaves in the breeze, all in a very quiet ambient environment.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a soft crackling sound from the burning wood?",
+      "Can a faint whooshing noise from the flickering flames be heard?",
+      "Are occasional popping sounds of flying sparks audible?",
+      "Is the ambient environment mostly quiet with only gentle rustling of leaves?",
+      "Is Do the sounds vary with the intensity of the flames?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the campfire visibly blazing with large flames?",
+      "Are there visible sparks flying from the campfire?",
+      "Does the fire's glow illuminate the texture of the wood?",
+      "Is the air around the campfire visibly shimmering due to heat?",
+      "Are the flames flickering in the darkness?"
+    ]
+  },
+  {
+    "prompt_en": "A video shows a burning fireplace with flames dancing on the logs, accompanied by crackling sounds.",
+    "prompt_vision": "A burning fireplace with flames dancing on the logs",
+    "prompt_audio": "Crackling sounds of a fireplace",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a crackling sound accompanying the visual of flames in the fireplace?",
+      "Are the crackling sounds synchronized with the visual movement of the flames?",
+      "Does the audio include variations in crackling intensity that match the visual changes in flame activity?",
+      "Is the sound of crackling consistent with the typical sound of burning wood?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there visible flames on the logs in the fireplace?",
+      "Is there visible movement of the flames, suggesting they are dancing?",
+      "Is there a visible fireplace structure surrounding the logs?",
+      "Are the logs visibly positioned within the fireplace?",
+      "Is there visible light emitted from the flames, illuminating the surrounding area?"
+    ]
+  },
+  {
+    "prompt_en": "In a quiet forest, flames burn the wood with crisp crackling sounds, accompanied by a faint breeze. The sound of the flames has a warm tone, varying in volume as the intensity of the fire changes. The type of wood influences the timbre of the flames, creating different acoustic effects. The rhythm of the fire is irregular, occasionally punctuated by the sound of sparks popping and flying embers. Ambient sounds include subtle rustling leaves and distant bird calls, creating a natural sound field.",
+    "prompt_vision": "A quiet forest with flames burning wood, sparks popping, and embers flying. Subtle movement of leaves and distant birds are present in the natural setting.",
+    "prompt_audio": "Crisp crackling flames with a warm tone, varying in volume and timbre based on wood type, irregular rhythm with occasional popping sparks, subtle rustling leaves, and distant bird calls creating a natural ambient soundscape.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of flames accompanied by a crisp crackling noise?",
+      "Does the volume of the flame sounds vary with the intensity of the fire?",
+      "Can the timbre of the flame sounds change based on the type of wood burning?",
+      "Are there occasional popping sounds from sparks and flying embers?",
+      "Is there a faint breeze sound present in the audio?",
+      "Are there subtle rustling leaf sounds in the background?",
+      "Are distant bird calls audible, contributing to the natural sound field?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there visible flames burning the wood?",
+      "Can sparks be seen popping and flying from the fire?",
+      "Is there visible movement of embers due to the fire?",
+      "Are the flames irregular in shape or movement, reflecting an irregular rhythm?",
+      "Is there any visible indication of a breeze, such as slight movement of leaves or smoke?",
+      "Are the flames and embers the primary source of light in the scene?",
+      "Is the wood visibly affected by the fire, such as charring or changing shape?"
+    ]
+  },
+  {
+    "prompt_en": "Brilliant fireworks appear in the pitch-black night sky, emitting crisp and bright cracking sounds as the sparks burst. Accompanied by the splattering sparks, the sounds of fission rhythmically spread outward, creating a dynamic and vibrant sound field. The timbre of each spark varies slightly depending on its material, with sharp metallic tones interweaving with softer popping sounds. The reflection of noise becomes more pronounced in the open environment, conveying a lively and festive atmosphere.",
+    "prompt_vision": "Brilliant fireworks in a pitch-black night sky, with splattering sparks bursting outward.",
+    "prompt_audio": "Crisp, bright cracking sounds; rhythmic fission-like bursts; sharp metallic tones interwoven with softer popping sounds; pronounced reflections in an open environment creating a lively, festive soundscape.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Are the cracking sounds of the fireworks synchronized with the visual bursts of sparks in the night sky?",
+      "Does the audio include a variety of timbres, such as sharp metallic tones and softer popping sounds, corresponding to different spark materials?",
+      "Can the rhythmic fission sounds be heard spreading outward, contributing to a dynamic sound field?",
+      "Is there a noticeable reflection of noise that enhances the lively and festive atmosphere in the open environment?",
+      "Will the audio convey a vibrant sound field that matches the visual display of fireworks in the pitch-black night sky?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there visible fireworks in the night sky?",
+      "Is the sky depicted as pitch-black?",
+      "Do the fireworks display bright sparks?",
+      "Are there visible bursts of sparks in the scene?",
+      "Can different colors be seen in the fireworks display?",
+      "Are the fireworks shown as dynamic and vibrant?",
+      "Is there a visible contrast between the bright fireworks and the dark sky?"
+    ]
+  },
+  {
+    "prompt_en": "On a sunny golf course, a golf club is about to strike a golf ball. The sound of the wind generated during the swing should match the material of the club; the metallic sound should be crisp and powerful. When the club hits the ball, the sound of the ball flying should change according to its speed and direction, gradually decreasing in volume. There should be subtle wind sounds and distant bird chirps in the environment to create an open sound field. Pay attention to whether the sound of the club making contact with the ball is synchronized with the visual.",
+    "prompt_vision": "On a sunny golf course, a golf club is about to strike a golf ball.",
+    "prompt_audio": "Crisp and powerful metallic whoosh during the swing, sharp impact sound synchronized with club-ball contact, ball flight sound changing with speed and direction and gradually decreasing in volume, subtle wind sounds, and distant bird chirps creating an open sound field.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the sound of the club making contact with the ball synchronize with the visual of the strike?",
+      "Can the sound of the ball flying change according to its speed and direction, gradually decreasing in volume?",
+      "Are there subtle wind sounds present in the environment to create an open sound field?",
+      "Are distant bird chirps audible in the environment to enhance the open sound field?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a golf club visibly positioned close to a golf ball, indicating an imminent strike?",
+      "Is the golf club made of a material that visually suggests it could produce a metallic sound when swung?",
+      "Is the golf ball clearly visible on the ground, ready to be struck by the club?",
+      "Is the lighting in the scene consistent with a sunny day, with bright and clear illumination?",
+      "Is there a visible indication of wind, such as grass or leaves gently moving, suggesting a breezy environment?",
+      "Are there any visible birds in the distance, consistent with the mention of bird chirps in the environment?"
+    ]
+  },
+  {
+    "prompt_en": "Generate a sound effect of a golf club hitting a golf ball, emphasizing a crisp, metallic impact sound, accompanied by the whoosh of the club swinging through the air and a subtle whistling sound as the ball flies away. The background environment is outdoor grassland, including natural ambient sounds such as a gentle breeze and distant bird chirps. The volume should be moderate, and the rhythm should reflect the instantaneous power of the swing. The sound spatial positioning should accurately represent the contact point between the club and the ball, as well as the direction in which the ball travels.",
+    "prompt_vision": "A golf club striking a golf ball on an outdoor grassland, with natural ambient surroundings.",
+    "prompt_audio": "Crisp metallic impact of golf club hitting ball, whoosh of club swing, subtle whistling as ball flies away, gentle breeze, distant bird chirps, moderate volume, instantaneous rhythm, spatial audio positioning reflecting contact point and ball trajectory.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the sound effect include a crisp, metallic impact sound when the golf club hits the golf ball?",
+      "Is there a whoosh sound accompanying the swing of the golf club through the air?",
+      "Can a subtle whistling sound be heard as the golf ball flies away?",
+      "Are there natural ambient sounds such as a gentle breeze and distant bird chirps in the background?",
+      "Is the volume of the sound effect moderate, reflecting the instantaneous power of the swing?",
+      "Does the sound spatial positioning accurately represent the contact point between the club and the ball?",
+      "Is the direction of the ball's travel represented in the sound spatial positioning?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the golf club visually depicted swinging through the air before hitting the golf ball?",
+      "Does the golf ball appear stationary on the grass before being struck by the golf club?",
+      "Is the golf club shown making contact with the golf ball during the swing?",
+      "Is the golf ball visibly flying away in the direction of the swing after being hit?",
+      "Are the grass and outdoor environment visually present in the scene?"
+    ]
+  },
+  {
+    "prompt_en": "At a quiet winter dock, ice floats on the water, occasionally emitting faint cracking sounds. The wooden structure of the dock may produce a deep resonant hum, while the movement of the ice creates subtle ripples across the water's surface. A gentle breeze should be audible, softly blowing through the dock and adding a crisp, chilly atmosphere. The overall soundscape should convey a sense of openness and tranquility, with low volume and a slow rhythm, emphasizing natural environmental sounds.",
+    "prompt_vision": "A quiet winter dock with ice floating on the water, subtle ripples on the surface, and a wooden structure under a crisp, chilly atmosphere.",
+    "prompt_audio": "Faint cracking sounds from ice, a deep resonant hum from the wooden dock, gentle breeze blowing softly, all at low volume with a slow rhythm conveying openness and tranquility.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of faint cracking from the ice occasionally audible in the audio?",
+      "Does the audio include a deep resonant hum that could be attributed to the wooden structure of the dock?",
+      "Can the gentle breeze be heard softly blowing through the dock, contributing to the soundscape?",
+      "Are the subtle ripples created by the movement of the ice audible in the audio?",
+      "Is the overall volume of the audio low, matching the tranquil and quiet setting described?",
+      "Does the audio convey a sense of openness and tranquility through its slow rhythm and emphasis on natural environmental sounds?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there visible ice floating on the water near the dock?",
+      "Are there subtle ripples visible on the water's surface caused by the movement of the ice?",
+      "Is the dock made of wooden structures visible in the scene?",
+      "Does the dock appear stationary and not in motion?",
+      "Are the ice pieces visibly separated and not forming a continuous sheet?",
+      "Is the overall scene visually calm with no fast or abrupt movements?",
+      "Does the lighting suggest a crisp and chilly atmosphere, such as soft or diffused light?"
+    ]
+  },
+  {
+    "prompt_en": "At the lofty peaks of the snow-capped mountains, a gentle breeze blows through the thin air, echoing with deep and prolonged whistling sounds. The hard texture of the rocks causes the wind to reverberate through the valleys, creating a crisp and ethereal tone. Occasionally, snow slides down with a faint rustling sound, soft in volume, as if coming from a distant place. The overall soundscape is vast and open, with a slow and natural rhythm, as if time has come to a standstill here.",
+    "prompt_vision": "Snow-capped mountain peaks with rocky terrain and occasional snow sliding down slopes.",
+    "prompt_audio": "Deep, prolonged whistling wind echoing through valleys, faint rustling of distant snow slides, crisp and ethereal tones, vast open soundscape with slow natural rhythm.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include deep and prolonged whistling sounds that echo through the thin air?",
+      "Is there a crisp and ethereal tone created by the wind reverberating through the valleys?",
+      "Can the sound of snow sliding down be heard as a faint rustling sound, soft in volume?",
+      "Are the sounds in the audio indicative of a vast and open soundscape?",
+      "Will the audio convey a slow and natural rhythm, suggesting a sense of time standing still?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there visible snow on the peaks of the mountains?",
+      "Are the mountains depicted with a snow?",
+      "Can the gentle breeze be inferred from the movement of snow or other elements?",
+      "Is there any visible snow sliding down the mountain slopes?",
+      "Are the rocks shown with a hard texture that suggests sound reverberation?",
+      "Does the scene convey a sense of stillness or lack of motion in the overall landscape?",
+      "Are the valleys depicted in a way that suggests sound can echo through them?"
+    ]
+  },
+  {
+    "prompt_en": "In a dimly lit pottery workshop, hands are shaping clay on a spinning potter's wheel. The rotation of the wheel produces a deep, humming sound, accompanied by the subtle, rustling noise of the clay rubbing against the palms. Occasionally, the environment echoes with the sound of dripping water and distant clinking of tools, creating an atmosphere of focused tranquility. The fine tactile sensation of fingers meeting clay is expressed through sound, with the audio field centered around the potter's wheel, conveying a warm and soft tone at a moderate volume, its rhythm varying with the movement of the hands.",
+    "prompt_vision": "In a dimly lit pottery workshop, hands shape clay on a spinning potter's wheel.",
+    "prompt_audio": "Deep humming sound of a spinning potter's wheel, subtle rustling of clay against palms, occasional dripping water, distant clinking of tools, warm and soft tone at moderate volume, rhythm varying with hand movements.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a deep, humming sound produced by the spinning potter's wheel?",
+      "Does the audio include a subtle, rustling noise from the clay rubbing against the palms?",
+      "Can the sound of dripping water be heard occasionally in the environment?",
+      "Are there distant clinking sounds of tools echoing in the workshop?",
+      "Is the audio field centered around the potter's wheel, conveying a warm and soft tone?",
+      "Does the rhythm of the sound vary with the movement of the hands shaping the clay?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a potter's wheel visible in the scene?",
+      "Are hands shown shaping clay on the spinning potter's wheel?",
+      "Is the clay visibly deforming or changing shape as the hands work on it?",
+      "Is the lighting in the workshop dimly lit?",
+      "Are there visible water droplets or signs of dripping water in the environment?",
+      "Are there tools visible in the workshop, possibly in the background or nearby?",
+      "Is the potter's wheel visibly rotating?"
+    ]
+  },
+  {
+    "prompt_en": "In a machining workshop, metal lathes rotate at high speed, emitting a continuous mechanical humming sound. The friction between metals is clearly audible, accompanied by occasional sparking noises. The sound field is filled with high-frequency vibrations from the metal, which reflect off the workshop's metal walls, creating echoes. When gloves come into contact with metal surfaces, they produce slight friction sounds, rhythmically synchronized with the lathes' rotational speed. Throughout the ambient sound of the environment, low-frequency mechanical vibrations intertwine with high-frequency friction noises, forming an industrial timbre.",
+    "prompt_vision": "A machining workshop with metal lathes rotating at high speed, sparks occasionally flying, gloves touching metal surfaces, and metal walls reflecting light.",
+    "prompt_audio": "Continuous mechanical humming, high-frequency metal friction, occasional sparking sounds, rhythmic glove-on-metal friction synchronized with lathe rotation, low-frequency mechanical vibrations, and echoing high-frequency reflections creating an industrial timbre.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a continuous mechanical humming sound from the metal lathes rotating at high speed?",
+      "Are the friction sounds between metals clearly audible?",
+      "Is Do occasional sparking noises occur amidst the other workshop sounds?",
+      "Are high-frequency vibrations from the metal present and do they create echoes by reflecting off the workshop's metal walls?",
+      "Is Do the friction sounds from gloves contacting metal surfaces synchronize rhythmically with the lathes' rotational speed?",
+      "Is there a combination of low-frequency mechanical vibrations and high-frequency friction noises creating an industrial timbre?"
+    ],
+    "auxiliary_info_vision": [
+      "Are the metal lathes visibly rotating at high speed?",
+      "Is there visible sparking occurring due to the friction between metals?",
+      "Can gloves be seen making contact with metal surfaces?",
+      "Are the metal walls of the workshop visible?",
+      "Is there visible evidence of high-frequency vibrations affecting the metal surfaces?"
+    ]
+  },
+  {
+    "prompt_en": "Fireworks bursting in the night sky are accompanied by powerful explosive sounds that gradually increase in volume. The low-frequency rumble conveys a strong sense of energy. The sound of the fireworks spreads through the air, creating a rich sound field layered with high-frequency crackles, forming a multi-dimensional auditory experience. In the distance, faint exclamations from the crowd and the subtle breeze brushing through the environment enhance the sense of presence at the scene.",
+    "prompt_vision": "Fireworks bursting in the night sky with a crowd in the distance and a subtle breeze moving through the environment.",
+    "prompt_audio": "Powerful explosive sounds gradually increasing in volume, low-frequency rumbles, high-frequency crackles, faint crowd exclamations, and a subtle breeze creating a rich, multi-dimensional sound field.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include powerful explosive sounds that gradually increase in volume as the fireworks burst?",
+      "Is there a low-frequency rumble present that conveys a strong sense of energy?",
+      "Can the sound of the fireworks be heard spreading through the air, creating a rich sound field?",
+      "Are there high-frequency crackles layered within the sound of the fireworks, contributing to a multi-dimensional auditory experience?",
+      "Is there a presence of faint exclamations from the crowd in the distance?",
+      "Does the audio include the subtle sound of a breeze brushing through the environment?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there visible fireworks bursting in the night sky?",
+      "Do the fireworks display bright and colorful explosions?",
+      "Is the night sky dark, providing contrast to the fireworks?",
+      "Are the fireworks visually accompanied by trails or sparks?",
+      "Does the visual representation of the fireworks suggest motion outward from the burst point?",
+      "Are there faint indications of a distant crowd in the scene, such as silhouettes or small figures?",
+      "Is there visual evidence of a subtle breeze, such as movement in nearby objects or smoke trails from the fireworks?"
+    ]
+  },
+  {
+    "prompt_en": "In the dark environment, several clusters of bright fireworks bloom, with crisp crackling sounds clearly audible in the air. The sparks, rubbing against the air, emit lively and sharp popping noises, with the sound varying in intensity along with the brightness of the sparks. High-frequency sounds concentrate with the vigorous bursting of sparks, and the overall ambient audio highlights the vast night sky, creating a sense of sound spreading out and subtle echoes, enhancing a unique festive atmosphere.",
+    "prompt_vision": "In a dark environment, several clusters of bright fireworks bloom in the night sky.",
+    "prompt_audio": "Crisp crackling and sharp popping sounds from fireworks, with high-frequency bursts varying in intensity, accompanied by subtle echoes and a spacious ambient soundscape.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include lively and sharp popping noises that vary in intensity with the brightness of the sparks?",
+      "Can high-frequency sounds be heard concentrating during the vigorous bursting of sparks?",
+      "Is there a sense of sound spreading out in the audio, suggesting the vastness of the night sky?",
+      "Are subtle echoes present in the audio, enhancing the festive atmosphere?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there visible clusters of bright fireworks in the dark environment?",
+      "Do the fireworks appear to bloom with visible sparks?",
+      "Can the brightness of the sparks be seen varying in intensity?",
+      "Are the fireworks visually concentrated in the night sky?",
+      "Is there a visible sense of motion or bursting in the fireworks display?"
+    ]
+  },
+  {
+    "prompt_en": "In a quiet indoor environment, a hand gently pulls open a drawer with a metal handle, producing a slight sliding sound and metallic friction. The drawer is made of wood, with a soft and mellow tone. The sound field is focused near the drawer, at a moderate volume and slow pace. Background noise is nearly absent, emphasizing the relationship between the drawer's sliding sound and its material.",
+    "prompt_vision": "A hand gently pulls open a wooden drawer with a metal handle in a quiet indoor environment.",
+    "prompt_audio": "Soft sliding sound with metallic friction, mellow wooden tone, moderate volume, slow pace, minimal background noise.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a slight sliding sound when the drawer is pulled open?",
+      "Does the metallic friction sound occur when the metal handle is used?",
+      "Is the sound of the drawer opening focused near the drawer itself?",
+      "Is the volume of the drawer's sound moderate, not too loud or too quiet?",
+      "Does the wooden drawer produce a soft and mellow tone when opened?",
+      "Is the pace of the drawer opening slow, matching the gentle action described?",
+      "Is background noise nearly absent, emphasizing the drawer's sound?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the drawer made of wood with a soft and mellow tone visible in the image or video?",
+      "Is the handle of the drawer made of metal and clearly visible?",
+      "Is the hand gently pulling the drawer open visible in the scene?",
+      "Does the drawer appear to be sliding open at a slow pace?",
+      "Is the indoor environment quiet and free of visible distractions or motion in the background?"
+    ]
+  },
+  {
+    "prompt_en": "In a quiet medical environment, a drawer is gently pulled open, producing a soft sliding sound, accompanied by the slight friction noise of gloves touching the metal handle. The ambient sounds are nearly silent, with only faint air-conditioning operation noise and occasional footsteps. The items inside the drawer are neatly arranged, made of various materials, possibly creating slight tapping sounds. The overall soundscape is steady, low in volume, slow in rhythm, with almost imperceptible reverberation.",
+    "prompt_vision": "A neatly arranged drawer in a quiet medical environment, containing items made of various materials, being gently pulled open by gloved hands.",
+    "prompt_audio": "Soft sliding sound of a drawer opening, slight friction noise of gloves on metal, faint air-conditioning hum, occasional distant footsteps, subtle tapping sounds from drawer contents, steady low-volume soundscape with slow rhythm and almost imperceptible reverberation.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a soft sliding sound when the drawer is gently pulled open?",
+      "Does the sound of gloves touching the metal handle produce a slight friction noise?",
+      "Is the ambient sound nearly silent with only faint air-conditioning noise?",
+      "Are occasional footsteps audible in the background?",
+      "Is Do the items inside the drawer create slight tapping sounds when the drawer is opened?",
+      "Is the overall soundscape steady and low in volume?",
+      "Is there almost imperceptible reverberation present in the audio?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the drawer visibly open with a metal handle being touched by gloves?",
+      "Are the items inside the drawer neatly arranged?",
+      "Does the drawer appear to be in a quiet medical environment?",
+      "Is there an absence of visible motion indicating a calm and steady environment?"
+    ]
+  },
+  {
+    "prompt_en": "In a quiet indoor environment, the sound of hands moving paper, the subtle noise of paper rubbing, accompanied by the delicate sound of fingers touching the paper. The background ambiance is soft, possibly with faint air movement. The paper's texture influences the tone, producing gentle high frequencies. The rhythm of the finger movements is slow, with low volume, and the soundstage is centered in the mix.",
+    "prompt_vision": "Hands slowly moving and touching paper indoors, with soft ambient lighting and still surroundings.",
+    "prompt_audio": "Gentle high-frequency sounds of paper rubbing and fingers delicately touching paper, slow rhythm, low volume, centered soundstage, with faint air movement in the background.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the subtle noise of paper rubbing?",
+      "Can the delicate sound of fingers touching the paper be heard?",
+      "Is the background ambiance soft, possibly with faint air movement?",
+      "Are the gentle high frequencies influenced by the paper's texture present in the audio?",
+      "Is the rhythm of the finger movements slow and at a low volume?",
+      "Is the soundstage centered in the mix as described?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there visible paper being moved by hands in the scene?",
+      "Are fingers visibly touching and interacting with the paper?",
+      "Does the paper appear to have a textured surface?",
+      "Are the hands moving the paper in a slow and deliberate manner?",
+      "Is the indoor environment depicted as quiet and calm, with no visible signs of disturbance or motion?"
+    ]
+  },
+  {
+    "prompt_en": "In a space adorned with blue and white tiles, sound reflects off the smooth surfaces, creating crisp and bright echoes. The hard material of the tiles emphasizes high-frequency sounds, making the overall sound field open and clear. There may be subtle ambient sounds such as wind or dripping water, adding a sense of ethereal spaciousness. The rhythm of the sound should resonate with the symmetry of the tile patterns, forming a kind of ordered interference of sound waves.",
+    "prompt_vision": "A space adorned with blue and white tiles, featuring smooth, hard surfaces and symmetrical tile patterns.",
+    "prompt_audio": "Crisp, bright echoes with emphasized high-frequency sounds; subtle ambient sounds of wind or dripping water; rhythmic sound waves forming ordered interference.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio contain crisp and bright echoes that reflect off smooth surfaces?",
+      "Are high-frequency sounds emphasized due to the hard material of the tiles?",
+      "Can subtle ambient sounds like wind or dripping water be heard, adding ethereal spaciousness?",
+      "Does the rhythm of the sound resonate with the symmetry of the tile patterns, forming ordered interference?"
+    ],
+    "auxiliary_info_vision": [
+      "Are the tiles predominantly blue and white in color?",
+      "Is there a visible symmetry in the tile patterns?",
+      "Is there any visible indication of wind, such as moving objects or slight disturbances?",
+      "Is there any visible indication of dripping water, such as droplets or small puddles?",
+      "Are the tiles arranged in a way that suggests an ordered pattern or design?"
+    ]
+  },
+  {
+    "prompt_en": "On a quiet city street, footsteps distinctly echo on the rough asphalt surface. The sound of soles rubbing against the ground is accompanied by a slight reverberation, while the occasional rustling of leaves in a gentle breeze adds to the ambient soundscape. The shoes are made of soft fabric and stiff rubber, producing evenly spaced steps of moderate volume, with the reflected sounds gradually fading away along the empty street.",
+    "prompt_vision": "Empty asphalt road, trees with gently moving leaves, person walks alone in soft fabric and stiff rubber shoes.",
+    "prompt_audio": "Distinct footsteps echoing on rough asphalt, soles rubbing against the ground with slight reverberation, occasional rustling of leaves in a gentle breeze, evenly spaced steps of moderate volume, reflected sounds gradually fading.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a distinct echo of footsteps on the asphalt surface?",
+      "Does the sound of soles rubbing against the ground include a slight reverberation?",
+      "Can the rustling of leaves be heard occasionally in the audio?",
+      "Are the footsteps evenly spaced with moderate volume?",
+      "Will the reflected sounds of footsteps gradually fade away?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visible person walking on the street, with their feet making contact with the ground?",
+      "Are the shoes visible, made of soft fabric and stiff rubber?",
+      "Is the street surface visibly rough, suggesting asphalt texture?",
+      "Are the footsteps evenly spaced, indicating a consistent walking pace?",
+      "Is there a visible absence of other people or vehicles on the street, suggesting it is empty?",
+      "Are there leaves visible, possibly moving slightly, indicating a gentle breeze?"
+    ]
+  },
+  {
+    "prompt_en": "On the cracked dry soil surface, simulate a natural sound field under arid conditions. Emphasize the relationship between the rough texture of the soil and its timbre, presenting low-frequency, muffled sounds. Add subtle rustling noises caused by a gentle breeze sweeping across the ground, reflecting the environment's silence and vast emptiness. The sound source should include faint soil particle friction sounds, with low volume and slow rhythm, creating a tranquil atmosphere.",
+    "prompt_vision": "Cracked dry soil surface under arid conditions, with a gentle breeze sweeping across the barren, vast landscape.",
+    "prompt_audio": "Low-frequency, muffled sounds with subtle rustling from a gentle breeze; faint soil particle friction sounds at low volume and slow rhythm, evoking silence and emptiness.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the audio characterized by low-frequency, muffled sounds that reflect the rough texture of the cracked dry soil?",
+      "Does the audio include subtle rustling noises that suggest a gentle breeze sweeping across the ground?",
+      "Are the rustling noises consistent with the implied silence and vast emptiness of the environment?",
+      "Can faint soil particle friction sounds be heard, contributing to the tranquil atmosphere?",
+      "Is the rhythm of the soil particle friction sounds slow, aligning with the tranquil atmosphere described?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the cracked dry soil surface visible with a rough texture?",
+      "Are there visible signs of a gentle breeze sweeping across the ground, such as slight movement of soil particles?",
+      "Does the visual representation suggest a tranquil atmosphere with no large movements or disturbances?",
+      "Are soil particles visibly present on the surface, indicating potential friction sounds?",
+      "Is the lighting consistent with an arid environment, without any signs of moisture or wetness?"
+    ]
+  },
+  {
+    "prompt_en": "The sound of footsteps on a wooden path produces a steady, slightly muffled tone when the soles of the shoes make contact with the wooden planks. This is accompanied by a soft rustling sound from the surrounding leaves gently swaying. The rhythm of the footsteps synchronizes naturally with the pace, changing as the pace varies. Occasionally, faint and crisp distant bird calls can be heard within the ambient soundscape, seemingly coming from afar. The overall sound field feels natural and open, with no noticeable reflections or interference in the sound propagation.",
+    "prompt_vision": "A person walking on a wooden path surrounded by trees with gently swaying leaves.",
+    "prompt_audio": "Steady, slightly muffled footsteps on wooden planks, soft rustling of leaves, occasional faint and crisp distant bird calls, natural and open soundscape with no noticeable reflections or interference.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a steady, slightly muffled tone produced by footsteps on a wooden path when the soles of the shoes make contact with the wooden planks?",
+      "Does the rhythm of the footsteps synchronize naturally with the pace, changing as the pace varies?",
+      "Is there a soft rustling sound from the surrounding leaves gently swaying?",
+      "Can faint and crisp distant bird calls be heard occasionally within the ambient soundscape?",
+      "Is Do the bird calls seem to come from afar?",
+      "Is the overall sound field natural and open, with no noticeable reflections or interference in the sound propagation?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visual representation of a wooden path with visible planks that could produce sound when walked upon?",
+      "Are there leaves depicted in the scene that appear to be gently swaying, suggesting movement?",
+      "Can the visual composition suggest a natural and open environment, with elements like trees or open sky?",
+      "Does the lighting in the scene appear natural, enhancing the feeling of an outdoor environment?"
+    ]
+  },
+  {
+    "prompt_en": "A young man dressed in casual clothes is walking down a city street with a backpack on his shoulder, holding a skateboard in his hand. His light footsteps echo on the concrete ground, and the soles of his shoes produce a steady, rhythmic rustling sound as they rub against the surface. The background is a white brick wall, with occasional gentle breezes creating subtle air movement sounds. The wooden material of the skateboard reflects a slightly lower-pitched vibration sound.",
+    "prompt_vision": "Young man in casual clothes walks city street with backpack, holding skateboard, white brick wall background.",
+    "prompt_audio": "Light footsteps echoing on concrete, steady rhythmic rustling from shoe soles rubbing against the ground, subtle air movement sounds from gentle breezes, and a slightly lower-pitched vibration sound from the wooden skateboard.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Are the young man's footsteps audible with a light echo effect on the concrete ground?",
+      "Does the sound of the soles of his shoes produce a steady, rhythmic rustling sound as they rub against the surface?",
+      "Can the gentle breezes be heard creating subtle air movement sounds in the background?",
+      "Is there a slightly lower-pitched vibration sound reflecting the wooden material of the skateboard?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the young man wearing casual clothes visible in the scene?",
+      "Does the young man have a backpack on his shoulder?",
+      "Is the young man holding a skateboard in his hand?",
+      "Is the background a white brick wall?",
+      "Are the soles of the young man's shoes visibly in contact with the concrete ground?",
+      "Is the skateboard made of wooden material visible in the scene?"
+    ]
+  },
+  {
+    "prompt_en": "In a city street scene, simulate the sound of a pedestrian wearing leather boots walking across a zebra crossing. The contact between the boots and the ground produces crisp, footsteps sounds, with a slightly hard timbre and a touch of low frequency. The background environment includes mild urban traffic noise, such as distant vehicle rumble and occasional tire friction sounds. The sound field should convey a sense of open space, and the rhythm of footsteps should be synchronized with the walking pace shown in the visual. The volume should be moderate, avoiding overly abrupt sounds. Pay attention to the propagation and reflection effects of the footsteps, ensuring they match the ground material (asphalt pavement).",
+    "prompt_vision": "A pedestrian walking across a zebra crossing on an urban street with asphalt pavement.",
+    "prompt_audio": "Crisp footsteps with a slightly hard timbre and subtle low-frequency content, produced by leather boots on asphalt, synchronized to a natural walking pace. Mild urban background traffic including distant vehicle rumble and occasional tire friction. Open-space acoustics with realistic propagation and ground reflection, moderate volume, no abrupt transients.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the rhythm of the footsteps synchronized with the walking pace shown in the visual?",
+      "Does the background include mild urban traffic noise, such as distant vehicle rumble and occasional tire friction sounds?",
+      "Is the sound field conveying a sense of open space, consistent with the described city street scene?",
+      "Are the footsteps sounds moderate in volume, avoiding overly abrupt or excessively loud sounds?",
+      "Is Do the propagation and reflection effects of the footsteps match the expected interaction with asphalt pavement?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a pedestrian visible wearing leather boots?",
+      "Are the pedestrian's footsteps synchronized with their walking pace?",
+      "Is the pedestrian walking across a zebra crossing?",
+      "Is there visible urban traffic, such as vehicles in the background?",
+      "Does the scene convey a sense of open space, with visible elements suggesting a city street?",
+      "Is the ground material visibly asphalt pavement?",
+      "Are the pedestrian's footsteps visually moderate in impact, avoiding abrupt movements?"
+    ]
+  },
+  {
+    "prompt_en": "In a woodworking shop, a craftsman is planing a piece of wood. The plane produces a deep friction sound as it contacts the wood, accompanied by the soft rustling of wood shavings falling. The hardness of the wood and the material of the plane influence the tone, creating a warm and steady pitch. The craftsman maintains a steady rhythm, his hand movements synchronized with the sound of planing. Occasionally, faint clinking sounds from other tools can be heard in the background, creating a busy yet focused working atmosphere.",
+    "prompt_vision": "A craftsman in a woodworking shop planing a piece of wood, with wood shavings falling nearby and other tools visible in the background.",
+    "prompt_audio": "Deep friction sound of a plane on wood, soft rustling of wood shavings falling, warm and steady pitch influenced by wood hardness and plane material, steady rhythmic planing, faint clinking of tools in the background.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a deep friction sound when the plane contacts the wood?",
+      "Does the sound of wood shavings falling have a soft rustling quality?",
+      "Is the tone of the planing sound warm and steady, influenced by the hardness of the wood and the material of the plane?",
+      "Are the craftsman's hand movements synchronized with the sound of planing?",
+      "Can faint clinking sounds from other tools be heard occasionally in the background?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the craftsman holding a plane tool in his hand?",
+      "Are wood shavings visibly falling from the piece of wood being planed?",
+      "Is the craftsman's hand moving in a steady, rhythmic motion?",
+      "Is the piece of wood being visibly altered or smoothed by the planing action?",
+      "Are there other tools visible in the background of the woodworking shop?",
+      "Is the craftsman focused on the task of planing the wood?",
+      "Is the plane tool in contact with the wood, suggesting active planing?"
+    ]
+  },
+  {
+    "prompt_en": "In the woodworking shop, the electric saw emits a sharp cutting sound when slicing through wood, accompanied by a faint rustling noise from flying wood chips. The sound of the electric saw has a metallic timbre, bright and piercing, with a relatively high volume. The rhythm remains steady and continuous during the cutting process. Occasionally, sounds of tool collisions and faint footsteps can be heard in the environment, creating an overall soundscape full of mechanical operation.",
+    "prompt_vision": "A woodworking shop with an electric saw cutting through wood, wood chips flying, and various tools nearby.",
+    "prompt_audio": "Sharp, bright, piercing electric saw with metallic timbre, steady and continuous rhythm, faint rustling of wood chips, occasional tool collisions, and faint footsteps; overall mechanical soundscape.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the electric saw emit a sharp cutting sound with a metallic timbre when slicing through wood?",
+      "Is the sound of the electric saw bright and piercing with a relatively high volume?",
+      "Does the rhythm of the saw remain steady and continuous during the cutting process?",
+      "Can a faint rustling noise from flying wood chips be heard accompanying the saw?",
+      "Are there occasional sounds of tool collisions in the environment?",
+      "Can faint footsteps be heard in the background, contributing to the mechanical operation soundscape?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there an electric saw visibly cutting through wood?",
+      "Are wood chips visibly flying in the air during the cutting process?",
+      "Is the electric saw depicted with a metallic appearance?",
+      "Are there visible tools that could collide with each other in the scene?",
+      "Is there a person or people visible in the scene who could be making footsteps?",
+      "Is the wood being visibly sliced or altered by the saw?",
+      "Are there any visible signs of mechanical operation, such as moving parts or machinery?"
+    ]
+  },
+  {
+    "prompt_en": "In an environment filled with crushed plastic bottles, simulate the crisp sounds produced when the bottles are squeezed and rubbed. The sound field should exhibit the high-frequency reflections and slight reverberation characteristic of plastic material. The tone should reflect the lightness of plastic, with moderate volume and irregular rhythm, simulating the sounds of bottles colliding and rolling against each other. The ambient sound should include subtle wind noise to enhance the sense of space.",
+    "prompt_vision": "Crushed plastic bottles scattered on the ground, some partially overlapping, in an open outdoor area with faint wind movement.",
+    "prompt_audio": "Crisp, high-frequency sounds of plastic bottles being squeezed and rubbed, with light, irregular rhythms simulating collisions and rolling; moderate volume, slight reverberation, and subtle wind noise in the background.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include crisp sounds when the plastic bottles are squeezed and rubbed?",
+      "Are there high-frequency reflections and slight reverberation characteristic of plastic material present in the sound field?",
+      "Is the tone of the audio reflective of the lightness of plastic?",
+      "Does the rhythm of the audio sound irregular, simulating bottles colliding and rolling against each other?",
+      "Is there subtle wind noise present in the ambient sound to enhance the sense of space?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there visible crushed plastic bottles scattered throughout the environment, with clear textures and irregular shapes indicative of deformation?",
+      "Does the lighting in the scene highlight the reflective and translucent properties of the plastic bottles, emphasizing their material characteristics?",
+      "Can the spatial arrangement of the crushed plastic bottles suggest interactions such as collisions or rolling movements, with overlapping and varied positions?",
+      "Are there subtle visual cues, such as dust or small debris, that enhance the realism of the environment and suggest the presence of wind?"
+    ]
+  },
+  {
+    "prompt_en": "In a quiet room, the floor is scattered with many plastic bottles. A gentle breeze passes through, causing slight friction and tapping sounds among the bottles. The plastic bottles produce crisp and ethereal tones that reflect off the walls, creating a faint echo effect. Occasionally, a bottle rolls, producing a deep, rolling sound with an irregular but gentle rhythm.",
+    "prompt_vision": "A quiet room with many plastic bottles scattered on the floor.",
+    "prompt_audio": "Crisp, ethereal tapping and friction sounds from plastic bottles, faint echo, occasional deep rolling sounds with irregular gentle rhythm.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the audio consistent with a quiet room, with no prominent background noise or unrelated sounds?",
+      "Does the gentle breeze cause slight friction and tapping sounds among the plastic bottles?",
+      "Are the tones produced by the plastic bottles crisp and ethereal in quality?",
+      "Can faint echo effects be heard as the tones reflect off the walls?",
+      "Does the occasional rolling of a bottle produce a deep, rolling sound with an irregular but gentle rhythm?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there plastic bottles visibly scattered across the floor in the room?",
+      "Is there no visible motion in the room except for occasional rolling of a plastic bottle?",
+      "Can the rolling bottle be seen moving with an irregular but gentle rhythm?",
+      "Are the plastic bottles visibly interacting with each other, such as slight movements or tapping caused by the breeze?",
+      "Is the room visually quiet, with no signs of human activity or other disturbances?"
+    ]
+  },
+  {
+    "prompt_en": "Generate an audio scene that captures the sound of a plastic bottle being squeezed or crumpled, emphasizing the brittle and elastic characteristics of the plastic material. The tone should be crisp with a slight rebound sensation. The volume should be moderate with momentary dynamic changes. The sound field should be focused on the location of the bottle, with ambient noise kept quiet to highlight the main sound source. The rhythm should simulate the natural frequency of hand movements, and the propagation and reflection of sound should conform to the acoustic characteristics of an indoor environment.",
+    "prompt_vision": "A plastic bottle being squeezed and crumpled by hand in an indoor environment.",
+    "prompt_audio": "Crisp, brittle, and elastic crumpling sounds of a plastic bottle with moderate volume, momentary dynamic shifts, slight rebound textures, and natural hand-movement rhythm; recorded in a quiet indoor space with realistic acoustic propagation and minimal ambient noise.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of the plastic bottle being squeezed or crumpled present and clearly audible?",
+      "Does the sound exhibit brittle and elastic characteristics that match the expected behavior of plastic material?",
+      "Is the tone of the sound crisp with a slight rebound sensation as described?",
+      "Is the volume moderate with momentary dynamic changes corresponding to the squeezing or crumpling action?",
+      "Is the sound field focused on the location of the bottle, with minimal ambient noise interfering?",
+      "Does the rhythm of the sound match the natural frequency of hand movements during the squeezing or crumpling action?",
+      "Does the propagation and reflection of the sound align with the acoustic characteristics of an indoor environment?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the plastic bottle visually depicted as being squeezed or crumpled, with clear deformation in its shape to indicate pressure being applied?",
+      "Are the textures of the plastic bottle, such as its glossy or semi-transparent surface, visually detailed to emphasize its brittle and elastic characteristics?",
+      "Is the lighting focused on the bottle, highlighting its contours and the changes in its shape during the squeezing action?",
+      "Is the indoor environment visually represented with appropriate elements, such as walls or furniture, to suggest the setting where the sound propagation and reflection occur?",
+      "Are the dynamic changes in the bottle's shape during the squeezing action visually synchronized with the implied rhythm of hand movements?"
+    ]
+  },
+  {
+    "prompt_en": "In a sunny outdoor environment, a hand firmly squeezes a plastic bottle, producing a crisp, audible crunching sound. The background features soft natural sounds, such as the rustling of leaves in the breeze. The plastic material of the bottle causes the squeezing sound to have a high-pitched, brittle tone, rhythmically following the hand's movements, with volume varying according to the intensity of the squeeze. The sound travels through the open space with slight reverberation, enhancing the sense of openness in the environment.",
+    "prompt_vision": "A hand squeezing a plastic bottle in a sunny outdoor environment with trees or foliage in the background.",
+    "prompt_audio": "Crisp, high-pitched, brittle crunching sounds from a plastic bottle being rhythmically squeezed, with volume varying by squeeze intensity, accompanied by soft rustling leaves in the breeze and slight reverberation from the open space.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the volume of the crunching sound varying according to the intensity of the hand's squeeze?",
+      "Are soft natural sounds, such as the rustling of leaves, present in the background?",
+      "Does the crunching sound rhythmically follow the hand's movements?",
+      "Is there slight reverberation in the sound, enhancing the sense of openness in the environment?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the hand visibly squeezing the plastic bottle with noticeable deformation of the bottle's shape?",
+      "Is the plastic bottle made of transparent or semi-transparent material, allowing its texture to be visible?",
+      "Is the outdoor environment brightly lit, indicating sunny conditions?",
+      "Are shadows cast by the hand and bottle consistent with sunlight direction?",
+      "Does the hand appear to grip the bottle firmly, with fingers visibly pressing into the surface?",
+      "Is the bottle positioned in a way that suggests it is being actively squeezed rather than passively held?",
+      "Are the surroundings visually indicative of an outdoor environment, such as natural elements like grass, trees, or open space?"
+    ]
+  },
+  {
+    "prompt_en": "The sound of tearing paper, accompanied by a slight rustling of paper debris, originates from the center of the frame. The tone is crisp with a subtle sandy texture, moderate in volume, and the soundstage is focused at the tearing point. The paper's material affects the subtlety of the tone, while the surrounding environment is quiet with no other interfering sounds.",
+    "prompt_vision": "Paper being torn at the center of the frame, with small paper debris visible.",
+    "prompt_audio": "Crisp tearing paper sound with subtle sandy texture, moderate volume, focused soundstage at the tearing point, accompanied by slight rustling of paper debris; quiet environment with no other sounds.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of tearing paper crisp with a subtle sandy texture as described?",
+      "Does the tearing sound originate from the center of the frame?",
+      "Is the volume of the tearing sound moderate, without being too loud or too soft?",
+      "Can the rustling of paper debris be heard alongside the tearing sound?",
+      "Is the soundstage focused at the tearing point, without spreading beyond it?",
+      "Are there no other interfering sounds present in the surrounding environment?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there visible paper being torn in the center of the frame?",
+      "Does the tearing action result in visible paper debris or fragments around the tearing point?",
+      "Is the paper visibly textured or showing material characteristics that could imply a sandy tone?",
+      "Is the tearing motion clearly centered and focused within the frame?",
+      "Are there no other visible objects or actions interfering with the tearing process?"
+    ]
+  },
+  {
+    "prompt_en": "Generate an audio related to a light blue crepe paper material, emphasizing the texture and dynamic changes of the paper. The timbre should convey a thin and dry quality, with pitch matching the paper's delicate texture. The volume should reflect the energy variations when the paper is touched or crumpled. The sound field should simulate a close-up paper-handling environment, with rhythms incorporating irregular crinkling, folding, or tapping movements. The ambient sound should remain quiet, highlighting only the sound of the paper, with sound propagation and reflections consistent with the paper's sound-absorbing characteristics.",
+    "prompt_vision": "light blue crepe paper being gently crumpled, folded, and tapped in close-up, showing its thin, dry, and textured surface",
+    "prompt_audio": "thin, dry, delicate crinkling and tapping sounds of crepe paper with irregular rhythms, soft dynamic variations, close-mic'd with minimal ambient reflection, emphasizing high-frequency fragility and subtle pitch shifts",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include sounds of crinkling, folding, or tapping movements that match the described dynamic changes of the light blue crepe paper?",
+      "Is the timbre of the audio thin and dry, consistent with the texture of the crepe paper material?",
+      "Does the pitch of the audio reflect the delicate texture of the crepe paper as described?",
+      "Is the volume of the audio appropriately varied to match the energy changes when the paper is touched or crumpled?",
+      "Does the sound field simulate a close-up environment, with the paper-handling sounds clearly localized and prominent?",
+      "Are ambient sounds quiet, with no prominent background noise interfering with the focus on the paper sounds?",
+      "Is Do the sound reflections and propagation in the audio align with the paper's sound-absorbing characteristics?"
+    ],
+    "auxiliary_info_vision": [
+      "Is []?"
+    ]
+  },
+  {
+    "prompt_en": "In a dimly lit workshop, a craftsman is sharpening a tool against a rapidly spinning metal grinding wheel. The wheel, made of hard metal, emits a sharp and continuous grinding sound, accompanied by faint sparks and the sound of tiny metal particles flying off. A subtle friction noise occurs as the craftsman's fingers make contact with the tool, irregular in rhythm but full of focus. The entire soundscape is dominated by the rotating sound of the grinding wheel—intense, directional, and clearly localized. Occasionally, soft breathing and the rustling of clothing can be heard in the background, low in volume but distinctly audible.",
+    "prompt_vision": "Craftsman in dim workshop sharpens tool on spinning metal grinding wheel, sparks flying, hands steady, focused.",
+    "prompt_audio": "Sharp, continuous grinding sound from a metal wheel, faint sparks hissing, irregular friction noise from fingers on tool, soft breathing, and low rustling of clothing in the background; intense, directional, and clearly localized grinding dominates the soundscape.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the sound of tiny metal particles flying off accompany the grinding noise?",
+      "Can the friction noise from the craftsman's fingers be heard, irregular in rhythm?",
+      "Is the rotating sound of the grinding wheel intense and clearly localized?",
+      "Are faint sparks audible alongside the grinding sound?",
+      "Will soft breathing be occasionally heard in the background, low in volume?",
+      "Is the rustling of clothing distinctly audible, despite being low in volume?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the workshop dimly lit, with low lighting levels?",
+      "Is there a craftsman visible sharpening a tool against a metal grinding wheel?",
+      "Are faint sparks visible near the spinning grinding wheel?",
+      "Is the grinding wheel visibly rotating rapidly?",
+      "Are tiny metal particles visibly flying off the tool as it is sharpened?",
+      "Is the craftsman wearing clothing that shows subtle movement, such as rustling?",
+      "Is the craftsman's focus visible through his hand movements or posture?"
+    ]
+  },
+  {
+    "prompt_en": "In a quiet room, hold a metal bowl in hand and use a wooden mallet to gently rub the rim of the bowl, producing a sustained and clear resonant sound. The metal material of the bowl gives the sound a bright and lingering tone, with its pitch subtly adjusted by the intensity of the rubbing. The sound spreads throughout the room, and the reflections from the walls enrich the sound field. Pay attention to the synchronization between hand movements and the sound, ensuring that the rhythm of rubbing matches the changes in tone.",
+    "prompt_vision": "A person holding a metal bowl in one hand and gently rubbing its rim with a wooden mallet in a quiet room.",
+    "prompt_audio": "Sustained, clear, resonant metallic tone with bright, lingering quality; pitch subtly modulated by rubbing intensity; enriched by room reflections; rhythm of sound synchronized with hand movements.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the resonant sound produced by rubbing the rim of the metal bowl sustained and clear?",
+      "Does the sound have a bright and lingering tone due to the metal material of the bowl?",
+      "Can the pitch of the sound be subtly adjusted by varying the intensity of the rubbing?",
+      "Are the reflections from the walls enriching the sound field throughout the room?",
+      "Is there synchronization between the hand movements and the sound, with the rhythm of rubbing matching the changes in tone?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a metal bowl being held in a hand?",
+      "Is a wooden mallet being used to rub the rim of the bowl?",
+      "Is the hand movement synchronized with the visible action of rubbing the bowl?",
+      "Is the metal bowl visibly reflecting light, indicating its material?",
+      "Are the hand movements gentle, suggesting a careful and controlled action?",
+      "Is the room depicted as quiet, with no visible signs of disturbance or motion?",
+      "Is the bowl's rim being rubbed in a manner that suggests a continuous action?"
+    ]
+  },
+  {
+    "prompt_en": "Generate an audio scene centered around a wooden mallet striking a brass singing bowl. The bowl should produce a clear, bright tone with a long, lingering sustain, at a medium-low pitch. The volume should gradually increase with the intensity of the strike and then naturally decay. The sound field should convey a sense of resonance within the bowl's cavity, accompanied by subtle ambient sounds such as faint indoor reverberation, creating an overall atmosphere of quiet focus.",
+    "prompt_vision": "A wooden mallet striking a brass singing bowl on a wooden surface in a quiet indoor space.",
+    "prompt_audio": "A clear, bright, medium-low pitch tone from a brass singing bowl with long, lingering sustain, volume swelling with strike intensity then naturally decaying, rich resonance within the bowl's cavity, subtle indoor reverberation, overall atmosphere of quiet focus.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the sound of a wooden mallet striking a brass singing bowl?",
+      "Is the tone produced by the singing bowl clear and bright with a long, lingering sustain?",
+      "Is the pitch of the singing bowl's tone medium-low?",
+      "Does the volume of the singing bowl's tone increase with the intensity of the strike and then naturally decay?",
+      "Is there a sense of resonance within the bowl's cavity conveyed in the sound field?",
+      "Are there subtle ambient sounds such as faint indoor reverberation accompanying the bowl's tone?",
+      "Does the overall audio atmosphere convey a sense of quiet focus?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the wooden mallet visually depicted striking the brass singing bowl in the scene?",
+      "Are there visual cues, such as the bowl's size and shape, that indicate it can produce a medium-low pitch?",
+      "Is there a visual representation of the bowl's cavity that suggests it can resonate sound effectively?",
+      "Are there visual elements, like subtle lighting or reflections, that convey a sense of quiet focus in the scene?",
+      "Is the environment depicted in a way that suggests faint indoor reverberation, such as soft shadows or muted colors?"
+    ]
+  },
+  {
+    "prompt_en": "On the city street, a white sports car is driving rapidly, accompanied by the roaring sound of the engine and the sharp screech of tires friction against the road. The soundscape should contrast the engine's deep low-frequency tones with the high-pitched friction sounds, with the volume gradually increasing as the car approaches. Ambient sounds include the subtle rustling of distant leaves and low-frequency rumbles from other vehicles. Ensure that the movement of the sound source is synchronized with the car's motion in the visual, maintaining consistency between the audio rhythm and the visual speed.",
+    "prompt_vision": "A white sports car driving rapidly down a city street.",
+    "prompt_audio": "Roaring engine with deep low-frequency tones and sharp high-pitched tire screeches, volume increasing as the car approaches; subtle rustling of distant leaves and low-frequency rumbles from other vehicles in the background; sound source movement synchronized with the car's visual motion.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the roaring sound of the engine present with deep low-frequency tones as the sports car drives rapidly?",
+      "Does the audio include the sharp screech of tires with high-pitched friction sounds against the road?",
+      "Is there a gradual increase in volume of the car's engine and tire sounds as the car approaches?",
+      "Are the ambient sounds of subtle rustling leaves and low-frequency rumbles from other vehicles present?",
+      "Is the movement of the sound source synchronized with the car's motion in the visual?",
+      "Does the audio rhythm maintain consistency with the visual speed of the car?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a white sports car visible on the city street?",
+      "Does the white sports car appear to be moving rapidly based on its motion blur or tire movement?",
+      "Are the tires of the white sports car visibly screeching against the road, with possible smoke or skid marks?",
+      "Is the white sports car positioned in a way that suggests forward motion along the street?",
+      "Are other vehicles visible in the scene contributing to the visual context of a city street?"
+    ]
+  },
+  {
+    "prompt_en": "In a dimly lit environment, a lighter is ignited, its flame intense and lively. The crackling sound of the flame is clearly audible, accompanied by the friction noise of metal. A faint buzzing sound, seemingly from gas being sprayed, continuously lingers in the ear. The heat from the flame causes rising changes in the air, producing subtle vibration sounds. Surrounding echoes spread slightly, giving a sense of emptiness.",
+    "prompt_vision": "Dimly lit, a lighter ignites intense flame; heat distorts rising air.",
+    "prompt_audio": "Crackling sound of a flame, friction noise of metal, faint continuous buzzing of gas being sprayed, subtle vibration sounds from heated air, and slight surrounding echoes indicating emptiness.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the crackling sound of the flame clearly audible when the lighter is ignited?",
+      "Does the audio include the friction noise of metal when the lighter is ignited?",
+      "Is there a continuous faint buzzing sound that seems to come from gas being sprayed?",
+      "Can subtle vibration sounds be heard, indicating changes in the air due to the heat from the flame?",
+      "Are there surrounding echoes that spread slightly, giving a sense of emptiness?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the lighter visibly ignited with an intense and lively flame?",
+      "Does the environment appear dimly lit, with low overall brightness?",
+      "Can the flame from the lighter be seen causing visible changes in the air, such as distortion or ripples?",
+      "Are there visible signs of metal friction, such as sparks or metal contact near the lighter?",
+      "Is there a visible source of gas, such as a nozzle or spray, near the lighter?"
+    ]
+  },
+  {
+    "prompt_en": "Inside the bowling alley, the moment the bowling ball strikes the pins produces a crisp and powerful impact sound. The sound reflects off the smooth wooden lanes, creating echoes. As the pins fall, they emit a series of continuous clinking sounds, accompanied by subtle rolling noises. The entire soundscape is dynamic, rhythmic, and full of energy.",
+    "prompt_vision": "Bowling ball hits pins on wooden lane, knocking them down and scattering them.",
+    "prompt_audio": "Crisp and powerful impact sound as the bowling ball hits the pins, followed by echoing reverberations off the wooden lanes, continuous clinking of falling pins, and subtle rolling noises. The soundscape is dynamic, rhythmic, and energetic.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the impact sound of the bowling ball striking the pins have a crisp and powerful quality?",
+      "Are there echoes present when the sound of the bowling ball striking the pins reflects off the smooth wooden lanes?",
+      "Is Do the falling pins emit a series of continuous clinking sounds?",
+      "Are there subtle rolling noises accompanying the clinking sounds of the falling pins?",
+      "Is the overall soundscape dynamic, rhythmic, and full of energy?"
+    ],
+    "auxiliary_info_vision": [
+      "Are the pins visibly falling after being struck by the bowling ball?",
+      "Is the bowling ball shown in motion towards the pins before impact?",
+      "Are the wooden lanes smooth and clearly visible in the scene?",
+      "Does the bowling ball visibly strike the pins with noticeable force?",
+      "Are there multiple pins visibly scattered or rolling after being hit?",
+      "Is the bowling ball depicted as rolling or moving smoothly on the lane before impact?",
+      "Are the pins visibly clinking against each other as they fall?"
+    ]
+  },
+  {
+    "prompt_en": "In a quiet indoor environment, a metal bell is gently struck, producing a crisp and lingering sound. The bell's sound propagates through the room, creating faint echoes due to reflections off the walls. The metal material gives the bell a bright and clear timbre, with a moderate pitch and volume that gradually diminishes until it fades away completely.",
+    "prompt_vision": "A metal bell in a quiet indoor room, stationary after being gently struck.",
+    "prompt_audio": "A crisp, bright, and clear bell tone with moderate pitch and volume, producing faint echoes as it gradually fades away.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a crisp and lingering sound when the metal bell is gently struck?",
+      "Does the bell's sound have a bright and clear timbre characteristic of metal?",
+      "Is the pitch of the bell's sound moderate?",
+      "Does the volume of the bell's sound gradually diminish until it fades away completely?",
+      "Are there faint echoes of the bell's sound due to reflections off the walls?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a metal bell visible in the scene?",
+      "Does the bell appear to be gently struck, suggesting minimal motion?",
+      "Is the bell made of a material that appears metallic, such as shiny or reflective surfaces?",
+      "Are there visual indications of sound propagation, such as subtle vibrations or motion blur around the bell?",
+      "Is the indoor environment depicted as quiet, with no visible signs of activity or movement?",
+      "Are there any visible reflections or echoes suggested by the room's walls or surfaces?",
+      "Does the bell's appearance suggest a moderate size, consistent with producing a moderate pitch and volume?"
+    ]
+  },
+  {
+    "prompt_en": "In a quiet classroom, a finger pushes a small model airplane across a world map drawn on the blackboard. The model airplane emits a faint frictional sound as it slides, accompanied by the sound of the finger's movement. Due to the enclosed environment of the classroom, the sounds propagate through the space and create a slight echo.",
+    "prompt_vision": "A finger pushes a small model airplane across a world map drawn on a blackboard in a quiet classroom.",
+    "prompt_audio": "Faint frictional sound of a model airplane sliding, subtle finger movement sounds, and a slight echo in an enclosed classroom space.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a faint frictional sound emitted by the model airplane as it slides across the blackboard?",
+      "Does the sound of the finger's movement accompany the frictional sound of the model airplane?",
+      "Can the sounds of the model airplane and finger movement be heard propagating through the classroom space?",
+      "Are the sounds of the model airplane and finger movement creating a slight echo within the classroom?",
+      "Is the overall audio environment consistent with a quiet classroom setting, without additional prominent sounds?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a small model airplane visible being pushed across a world map drawn on a blackboard?",
+      "Is the world map clearly visible and drawn on the blackboard?",
+      "Is a finger visibly in contact with the model airplane, pushing it across the map?",
+      "Does the model airplane appear to be sliding rather than flying or hovering?",
+      "Are the surroundings of the scene consistent with a quiet classroom environment?"
+    ]
+  }
+]

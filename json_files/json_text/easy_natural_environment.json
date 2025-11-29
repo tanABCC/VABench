@@ -1,0 +1,800 @@
+[
+  {
+    "prompt_en": "In the countryside at night, fireflies can be seen dancing through the air. The continuous chirping of crickets and croaking of frogs, along with the occasional distant bark of a dog.",
+    "prompt_vision": "Fireflies dancing through the air in the countryside at night.",
+    "prompt_audio": "Continuous chirping of crickets, croaking of frogs, and occasional distant dog barks.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there continuous chirping of crickets audible throughout the scene?",
+      "Can the croaking of frogs be heard consistently in the background?",
+      "Is there an occasional distant bark of a dog audible in the audio?",
+      "Are the sounds of crickets and frogs synchronized with the nighttime setting?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the scene set in a countryside environment?",
+      "Are fireflies visible in the air?",
+      "Is the scene depicted as taking place at night?",
+      "Are there any visible signs of stillness or calmness in the environment, such as stationary trees or grass?"
+    ]
+  },
+  {
+    "prompt_en": "The camera slowly moves through a forest where sunlight filters through the canopy. The clear chirping of birds, the gentle rustling of leaves in the breeze, and the distant tapping of a woodpecker on wood.",
+    "prompt_vision": "The camera slowly moves through a forest where sunlight filters through the canopy.",
+    "prompt_audio": "Clear chirping of birds, gentle rustling of leaves in the breeze, and distant tapping of a woodpecker on wood.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a clear chirping of birds audible throughout the scene?",
+      "Can the gentle rustling of leaves be heard consistently as the camera moves?",
+      "Is the distant tapping of a woodpecker on wood present in the audio?",
+      "Does the audio maintain a natural sound field that matches the forest environment?",
+      "Are the sounds of chirping, rustling, and tapping free from noticeable distortion or noise?"
+    ],
+    "auxiliary_info_vision": [
+      "Is sunlight visibly filtering through the canopy of the forest?",
+      "Does the camera movement appear slow as it moves through the forest?",
+      "Are leaves visibly rustling in the breeze?",
+      "Can the forest canopy be seen with sunlight creating patterns on the ground?",
+      "Is there visible stillness in the forest aside from the gentle movement of leaves?",
+      "Are tree trunks visible where a woodpecker might be tapping?"
+    ]
+  },
+  {
+    "prompt_en": "A fixed camera captures a calm beach with gentle waves. The rhythmic sound of waves lapping against the shore, distant cries of seagulls, and a faint ocean breeze.",
+    "prompt_vision": "A calm beach with gentle waves, captured by a fixed camera.",
+    "prompt_audio": "Rhythmic waves lapping against the shore, distant seagull cries, and a faint ocean breeze.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the rhythmic sound of waves lapping against the shore at regular intervals?",
+      "Are there distant cries of seagulls audible in the audio?",
+      "Is there a faint sound of an ocean breeze present in the audio?",
+      "Can the sound of waves be heard consistently throughout the video?",
+      "Is the audio free from unexpected loud noises or distortions that would disrupt the calm beach atmosphere?"
+    ],
+    "auxiliary_info_vision": [
+      "Are the waves gentle and not crashing violently against the shore?",
+      "Is the beach calm with no visible signs of large disturbances or activity?",
+      "Can the water be seen moving rhythmically towards the shore?",
+      "Are the waves small and consistent in size and motion?",
+      "Is the camera view fixed without any noticeable movement or panning?"
+    ]
+  },
+  {
+    "prompt_en": "Shooting the window from inside, raindrops are hitting the glass. The continuous, gentle sound of rain, along with the clear \"tap tap\" of raindrops striking the windowpane.",
+    "prompt_vision": "View from inside a room, raindrops hitting the window glass.",
+    "prompt_audio": "Continuous gentle rain sounds with clear 'tap tap' of raindrops striking a windowpane.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a continuous, gentle sound of rain present in the audio?",
+      "Can you hear the distinct 'tap tap' sound of raindrops striking the windowpane?",
+      "Is the sound of raindrops synchronized with any visible raindrop impacts on the window in the video?",
+      "Are the raindrop sounds consistent in frequency and pitch with a gentle rain?",
+      "Does the audio maintain a clear distinction between the continuous rain sound and the individual raindrop taps?"
+    ],
+    "auxiliary_info_vision": [
+      "Are raindrops visibly hitting the window glass from the inside view?",
+      "Is the windowpane clearly visible with raindrops on it?",
+      "Can the raindrops be seen creating a pattern or streaks on the glass?",
+      "Is the lighting soft, suggesting a gentle rain outside?",
+      "Are the raindrops appearing to move downward or sideways on the glass, indicating motion?"
+    ]
+  },
+  {
+    "prompt_en": "The camera focuses on a clear stream flowing through a forest. The relaxing sound of water trickling over stones.",
+    "prompt_vision": "A clear stream flowing through a forest",
+    "prompt_audio": "Relaxing sound of water trickling over stones",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of water trickling over stones present in the audio when the stream is shown?",
+      "Does the audio maintain a consistent relaxing quality throughout the scene?",
+      "Can the sound of the stream be heard clearly without distortion or noise?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a clear stream visible in the image or video?",
+      "Are there stones visible in or around the stream?",
+      "Does the stream appear to be flowing through a forest setting?",
+      "Is the water in the stream visibly moving or trickling?",
+      "Are there trees or forest vegetation visible around the stream?"
+    ]
+  },
+  {
+    "prompt_en": "A vast field covered in thick snow, with absolute silence. An atmosphere of extreme quiet, where almost the only sounds are the faint rustling of the wind and the occasional soft snap of distant branches weighed down by the snow.",
+    "prompt_vision": "A vast field covered in thick snow, with no visible movement or human presence, under a still, overcast sky.",
+    "prompt_audio": "Faint rustling of wind and occasional soft snapping of distant snow-laden branches in an otherwise silent environment.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the audio predominantly silent, reflecting the described atmosphere of extreme quiet?",
+      "Does the audio include faint rustling sounds that can be attributed to the wind?",
+      "Are there occasional soft snapping sounds that could represent distant branches weighed down by snow?",
+      "Is the volume of the rustling and snapping sounds appropriately low to maintain the sense of quietness?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the field covered in thick snow?",
+      "Are there no visible signs of human or animal activity in the field?",
+      "Does the snow appear undisturbed and evenly spread across the field?",
+      "Is the atmosphere visually calm with no signs of motion other than faint indications of wind?",
+      "Are there distant branches visibly weighed down by the snow?",
+      "Is the lighting soft and consistent, suggesting a quiet and serene environment?"
+    ]
+  },
+  {
+    "prompt_en": "Shaky footage shot on a windy mountain top. Strong, continuous wind sound with a howling sensation; the wind whistling through rock crevices producing a \"wooo\" sound.",
+    "prompt_vision": "Shaky footage shot on a windy mountain top.",
+    "prompt_audio": "Strong, continuous wind sound with a howling sensation; wind whistling through rock crevices producing a 'wooo' sound.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a strong, continuous wind sound present throughout the footage?",
+      "Can the wind sound be heard whistling through rock crevices, producing a 'wooo' sound?",
+      "Are the wind sounds consistent with the visual depiction of a windy mountain top?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the footage visually shaky, indicating instability in the camera movement?",
+      "Are there visible signs of strong wind, such as moving grass, swaying trees, or dust being blown?",
+      "Can the mountain top be seen in the footage, with rocky terrain or elevated landscape visible?",
+      "Are there objects or elements in the scene visibly affected by the wind, such as clothing or loose items fluttering?",
+      "Is the lighting consistent with an outdoor mountain environment, without artificial indoor lighting?"
+    ]
+  },
+  {
+    "prompt_en": "The camera captures a damp, humid tropical rainforest. A loud and continuous cicada chorus resonates, with the background filled with calls of various exotic insects and frogs.",
+    "prompt_vision": "A damp, humid tropical rainforest captured by a camera.",
+    "prompt_audio": "Loud and continuous cicada chorus with background calls of exotic insects and frogs.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a loud and continuous cicada chorus audible throughout the scene?",
+      "Are there audible calls of various exotic insects in the background?",
+      "Can the calls of frogs be heard in the background along with the insects?",
+      "Is the overall soundscape consistent with a damp, humid tropical rainforest environment?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the rainforest depicted with visibly dense foliage and lush greenery?",
+      "Are there visible signs of moisture or dampness on the leaves or ground?",
+      "Can the presence of exotic insects be inferred through visible insect activity or movement?",
+      "Are frogs visually present in the scene, possibly near water or on vegetation?",
+      "Does the lighting suggest a humid atmosphere, possibly with soft, diffused light filtering through the canopy?"
+    ]
+  },
+  {
+    "prompt_en": "A person walks along a path covered with dry, fallen leaves. The footsteps make crisp \"crunching, rustling\" sounds as they step on the leaves.",
+    "prompt_vision": "A person walking along a path covered with dry, fallen leaves.",
+    "prompt_audio": "Crisp crunching and rustling sounds of footsteps on dry leaves.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include crisp 'crunching' sounds synchronized with each footstep as the person walks on the dry leaves?",
+      "Are 'rustling' sounds present in the audio that correspond to the movement of dry leaves underfoot?",
+      "Is there a consistent timing of footsteps in the audio that matches the pace of walking along the path?",
+      "Can the sound of footsteps be clearly distinguished from any background noise or distortion?",
+      "Is the volume of the footsteps appropriate to suggest walking on dry leaves without being overly loud or quiet?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visible path covered with dry, fallen leaves?",
+      "Does the person appear to be walking along the path?",
+      "Can the dry leaves be seen visibly moving or being displaced as the person steps on them?",
+      "Are the person's feet visibly in contact with the leaves, suggesting walking motion?",
+      "Is the person wearing clothing suitable for walking outdoors, such as shoes or boots?",
+      "Are the leaves visibly dry, suggesting a lack of moisture or glossiness?",
+      "Is the person facing forward, indicating forward walking motion?"
+    ]
+  },
+  {
+    "prompt_en": "A close-up of a campfire blazing in the wilderness at night. The crackling sound of burning firewood and the whooshing sound of flames.",
+    "prompt_vision": "A close-up of a campfire blazing in the wilderness at night.",
+    "prompt_audio": "The crackling sound of burning firewood and the whooshing sound of flames.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a crackling sound that corresponds to the burning firewood?",
+      "Can the whooshing sound of flames be heard distinctly?",
+      "Are the crackling and whooshing sounds synchronized with the visual intensity of the campfire?",
+      "Does the audio maintain a consistent volume level appropriate for a close-up of a campfire?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the campfire visibly blazing with flames in the image?",
+      "Are the flames predominantly orange and yellow in color?",
+      "Is the campfire surrounded by burning firewood?",
+      "Does the lighting suggest it is nighttime, with the campfire being the primary light source?",
+      "Are the flames casting visible light and shadows on nearby objects or surfaces?",
+      "Is there no visible motion in the image, consistent with a still close-up of the campfire?"
+    ]
+  },
+  {
+    "prompt_en": "The camera shoots from a low angle at a bustling meadow. The buzzing sound of bees and other insects flying among the flowers.",
+    "prompt_vision": "Low-angle view of a bustling meadow with flowers",
+    "prompt_audio": "Buzzing sound of bees and other insects flying",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a buzzing sound that corresponds to bees and other insects flying among the flowers?",
+      "Does the audio include a variety of insect sounds that match the bustling activity described?",
+      "Are the buzzing sounds continuous and consistent with the presence of bees and other insects?",
+      "Is the volume of the buzzing sound appropriate for a meadow setting, neither too loud nor too quiet?",
+      "Can the buzzing sound be heard clearly without distortion or noise interference?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the camera angle low, capturing the meadow from below the horizon line?",
+      "Are there visible bees or insects flying among the flowers?",
+      "Are the flowers visibly present in the meadow?",
+      "Is there a sense of motion in the insects, indicating they are flying?",
+      "Are the flowers in the meadow varied in color?"
+    ]
+  },
+  {
+    "prompt_en": "An expansive desert with rising heat waves. There is an atmosphere of vast emptiness, where only the wind whispers over the sand dunes, creating a subtle \"rustling\" sound.",
+    "prompt_vision": "An expansive desert with rising heat waves and sand dunes under a vast, empty sky.",
+    "prompt_audio": "Subtle rustling sound of wind whispering over sand dunes.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a subtle rustling sound that corresponds to the wind moving over the sand dunes?",
+      "Does the audio convey a sense of vast emptiness with minimal sound activity?",
+      "Can the sound of the wind be heard consistently throughout the scene?",
+      "Are there no unexpected or prominent sounds that would disrupt the atmosphere of emptiness?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the desert depicted with visible heat waves rising from the ground?",
+      "Are the sand dunes shown with a smooth, undisturbed surface?",
+      "Is there an absence of any visible vegetation or structures in the desert scene?",
+      "Does the image convey a sense of vast emptiness with no other objects or people present?",
+      "Is the lighting in the scene consistent with a bright, sunlit environment typical of a desert?"
+    ]
+  },
+  {
+    "prompt_en": "A fixed shot inside a massive ice cave. The sound of dripping water melting from the icicles, creating crisp and lingering echoes within the cave.",
+    "prompt_vision": "A fixed shot inside a massive ice cave with icicles hanging from the ceiling.",
+    "prompt_audio": "Dripping water melting from icicles, creating crisp and lingering echoes within the cave.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the sound of dripping water from melting icicles?",
+      "Are there crisp echoes audible in the cave when the water drips?",
+      "Is the sound of dripping water consistent with the visual presence of icicles?",
+      "Can the echoes be heard lingering after each drip sound?",
+      "Is the audio free from any unexpected noise or distortion that would not be typical in an ice cave environment?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there visible dripping water from the icicles inside the cave?",
+      "Are there icicles hanging from the ceiling of the ice cave?",
+      "Is the interior of the cave predominantly made of ice?",
+      "Does the cave appear massive in size based on the visual perspective?",
+      "Are there visible reflections or glimmers on the ice surfaces within the cave?",
+      "Is the shot fixed, showing no camera movement?",
+      "Is the lighting within the cave sufficient to see the details of the ice formations?"
+    ]
+  },
+  {
+    "prompt_en": "By the pond before a thunderstorm, with dark clouds gathering. The frogs are croaking densely and loudly, and the wind is blowing through the reed beds.",
+    "prompt_vision": "Dark clouds gathering over a pond before a thunderstorm, with reed beds swaying in the wind.",
+    "prompt_audio": "Dense and loud frog croaking, wind rustling through reeds.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of wind blowing through the reed beds present and consistent with the described setting?",
+      "Does the audio maintain a natural balance between the loud frog croaks and the sound of the wind?",
+      "Can the frog croaks be spatially perceived as originating from the pond area?",
+      "Is the sound of the wind in the reed beds free of distortion or unnatural artifacts?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there dark clouds visible in the sky above the pond?",
+      "Is there visible movement in the reed beds indicating wind?",
+      "Are there frogs present near or in the pond?",
+      "Is the lighting dim or subdued, suggesting an approaching thunderstorm?",
+      "Can the water surface of the pond show ripples or disturbances due to wind?",
+      "Are the frogs positioned in a way that suggests they are croaking?",
+      "Is there a visual indication of dense vegetation around the pond?"
+    ]
+  },
+  {
+    "prompt_en": "The wind blows across a wheat field, creating undulating waves of grain. The gentle rustling of the wind and the soft \"swishing\" sound of countless wheat stalks rubbing against each other.",
+    "prompt_vision": "Wind blowing across a wheat field, creating undulating waves of grain.",
+    "prompt_audio": "Gentle rustling of wind and soft swishing sounds of wheat stalks rubbing together.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of the wind blowing across the wheat field present and continuous throughout the scene?",
+      "Does the audio include a gentle rustling sound that corresponds with the movement of the wheat stalks?",
+      "Can the soft 'swishing' sound of wheat stalks rubbing against each other be heard clearly?",
+      "Are the sounds of the wind and wheat stalks synchronized with the visual movement of the grain waves?"
+    ],
+    "auxiliary_info_vision": [
+      "Can the wheat stalks be seen bending or swaying in the direction of the wind?",
+      "Are undulating waves visible across the wheat field, suggesting movement caused by the wind?",
+      "Is the wheat field depicted with stalks that appear intact and upright, rather than broken or flattened?",
+      "Does the lighting suggest a calm and natural outdoor environment, without harsh shadows or artificial sources?",
+      "Are the wheat stalks visibly clustered together, creating a dense field appearance?"
+    ]
+  },
+  {
+    "prompt_en": "A gigantic waterfall plunges down from the high mountain. The deafening roar of the massive water crashing against rocks and pools.",
+    "prompt_vision": "A gigantic waterfall plunges down from a high mountain, with water crashing against rocks and pools below.",
+    "prompt_audio": "Deafening roar of massive water crashing against rocks and pools.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the sound of water crashing against rocks and pools, as described?",
+      "Can the audio convey a sense of massiveness and power through the frequency and volume of the waterfall sounds?",
+      "Are there no unexpected or unrelated sounds that would contradict the described scene of a waterfall?",
+      "Is the timbre of the waterfall sound appropriate to suggest the crashing of water against solid surfaces like rocks?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a large waterfall visible in the image or video?",
+      "Does the waterfall appear to be descending from a high elevation?",
+      "Can the water be seen crashing against rocks or pools at the base of the waterfall?",
+      "Are the rocks or pools visibly affected by the force of the water?",
+      "Is the waterfall depicted as having a significant volume of water flowing down?",
+      "Are there visible splashes or mist created by the water hitting the rocks or pools?"
+    ]
+  },
+  {
+    "prompt_en": "The snow melts in spring, forming many small streams. The sound of the melting snow dripping and flowing into streams can be heard.",
+    "prompt_vision": "Snow melting in spring, forming small streams.",
+    "prompt_audio": "Dripping and flowing water sounds from melting snow.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Can the sound of melting snow dripping be heard distinctly in the audio?",
+      "Is there a continuous sound of water flowing that matches the formation of small streams?",
+      "Are the sounds of dripping and flowing water synchronized with the visual depiction of snow melting?",
+      "Does the audio maintain a consistent volume that reflects the gradual increase in water flow as snow melts?",
+      "Is the sound field positioned to reflect the proximity of the streams to the viewer, as implied by the prompt?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there visible streams formed by melting snow in the image or video?",
+      "Is there snow visibly melting in the scene?",
+      "Can you see water flowing from the melting snow?",
+      "Are the streams small in size compared to the surrounding landscape?",
+      "Is the snow visibly reduced or absent in areas where streams are forming?",
+      "Does the scene depict a transition from snow-covered to snow-free areas?",
+      "Are there visible signs of spring, such as greenery or flowers, near the streams?"
+    ]
+  },
+  {
+    "prompt_en": "The camera captures a night view of a swamp. There is a dense chorus of frog croaks, insect sounds, and occasional distant calls from water birds.",
+    "prompt_vision": "Night view of a swamp with dense vegetation and still water reflecting moonlight.",
+    "prompt_audio": "Dense chorus of frog croaks, insect sounds, and occasional distant calls from water birds.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a dense chorus of frog croaks audible in the audio?",
+      "Are insect sounds present and clearly audible in the audio?",
+      "Can occasional distant calls from water birds be heard in the audio?",
+      "Is the overall soundscape consistent with a night view of a swamp, without prominent noises that would imply daytime or urban environments?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the scene depicted in low light conditions consistent with nighttime?",
+      "Are there visible elements that suggest a swamp environment, such as water, reeds, or marshy vegetation?",
+      "Can the presence of frogs be inferred through visual cues like frog silhouettes or movement near the water?",
+      "Are there insects visible in the scene, such as flying near the water or resting on vegetation?",
+      "Is there any indication of water birds, such as silhouettes or reflections on the water surface?"
+    ]
+  },
+  {
+    "prompt_en": "At sunrise, the sun has just risen. The crisp, melodious calls of various bird species announce the beginning of a new day.",
+    "prompt_vision": "Sunrise with the sun just above the horizon, casting soft golden light over the landscape.",
+    "prompt_audio": "Crisp, melodious calls of various bird species",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a noticeable increase in bird calls as the sun rises, indicating the start of a new day?",
+      "Are the bird calls melodious, with a variety of pitches and tones, reflecting different bird species?",
+      "Does the audio maintain a natural sound field, with bird calls appearing to come from different directions?",
+      "Is there an absence of human-made noises, allowing the bird calls to be clearly heard?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the sun visibly above the horizon, indicating it has just risen?",
+      "Are there birds present in the scene, suggesting various species?",
+      "Is the lighting warm and soft, consistent with sunrise conditions?",
+      "Are the birds depicted in a state of activity, such as flying or perched with open beaks, implying they are calling?"
+    ]
+  },
+  {
+    "prompt_en": "The waves crash against the huge rocks, creating towering splashes. The heavy, powerful \"thud\" of the waves hitting the rocks and the sound of the water receding.",
+    "prompt_vision": "Waves crashing against huge rocks, creating towering splashes.",
+    "prompt_audio": "Heavy, powerful thud of waves hitting rocks and the sound of water receding.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the sound of waves crashing against rocks with a heavy, powerful 'thud'?",
+      "Is there a sound of water receding after the waves hit the rocks?",
+      "Can the audio capture the timing of the waves crashing and receding in a continuous cycle?",
+      "Are the sounds of the waves and water splashes synchronized with the visual depiction of the waves hitting the rocks?",
+      "Is the sound field wide enough to convey the expansive nature of the waves and splashes?",
+      "Does the audio maintain a consistent energy level to match the powerful impact of the waves?",
+      "Is there minimal noise or distortion in the audio, allowing the natural sounds of the waves and water to be clearly heard?"
+    ],
+    "auxiliary_info_vision": [
+      "Are the waves visibly crashing against the huge rocks with noticeable force?",
+      "Is there water splashing upward in towering formations upon impact with the rocks?",
+      "Are the rocks depicted as large and sturdy in appearance?",
+      "Does the water appear to recede after crashing against the rocks?",
+      "Is the motion of the waves directed towards the rocks?"
+    ]
+  }
+]

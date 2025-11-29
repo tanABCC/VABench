@@ -1,0 +1,931 @@
+[
+  {
+    "prompt_en": "On an airplane flying at high altitude, the main sound source is the roar of the engines, with sound coming from the right side of the scene, accompanied by light wind noise and ambient cabin sounds. The engine sound is low-pitched and continuous, relatively loud, creating a sense of envelopment. The cabin ambient sounds include occasional seat adjustment noises and faint footsteps, with a slow and irregular rhythm.",
+    "prompt_vision": "Interior of an airplane cabin at high altitude, with seats, windows showing sky, and overhead compartments.",
+    "prompt_audio": "Low-pitched, continuous, and relatively loud engine roar primarily from the right side, accompanied by light wind noise, occasional seat adjustment sounds, and faint, irregular footsteps.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the engine sound low-pitched and continuous, creating a sense of envelopment?",
+      "Does the engine sound predominantly come from the right side of the scene?",
+      "Is there light wind noise accompanying the engine sound?",
+      "Are there ambient cabin sounds present, such as occasional seat adjustment noises?",
+      "Can faint footsteps be heard with a slow and irregular rhythm within the cabin ambient sounds?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the airplane depicted flying at high altitude?",
+      "Are the engines visible on the right side of the airplane?",
+      "Is the cabin interior shown with visible seats and passengers?",
+      "Are any passengers depicted adjusting their seats?",
+      "Are there visible footsteps or movement of passengers in the cabin?"
+    ]
+  },
+  {
+    "prompt_en": "In a quiet car interior, pressing the start button triggers a distant, low engine rumble that gradually builds and stabilizes. The dashboard needles vibrate slightly, accompanied by subtle electronic sounds indicating the vehicle system's activation. The car's air conditioning system begins to operate, producing a gentle airflow noise that creates a comfortable sound field. Occasionally, faint ambient city sounds, such as distant traffic and wind, can be heard in the background, enhancing the sense of space.",
+    "prompt_vision": "Person presses start button in quiet car; dashboard needles vibrate, air conditioning turns on.",
+    "prompt_audio": "Distant low engine rumble that gradually builds and stabilizes, subtle electronic sounds of vehicle system activation, gentle airflow noise from air conditioning, faint ambient city sounds including distant traffic and wind.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a distant, low engine rumble that gradually builds and stabilizes after the start button is pressed?",
+      "Are faint ambient city sounds, such as distant traffic and wind, occasionally audible in the background?",
+      "Is the overall sound environment consistent with a quiet car interior, without any unexpected loud or intrusive noises?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the car interior depicted as quiet with no visible signs of movement or activity?",
+      "Does the dashboard show needles vibrating slightly, indicating activation of the vehicle's systems?",
+      "Can the air conditioning system be seen operating, with visible airflow vents suggesting gentle air movement?",
+      "Are there visual cues of the car's engine starting, such as dashboard lights or indicators turning on?",
+      "Will the car interior appear stable and calm, with no large movements or disruptions?"
+    ]
+  },
+  {
+    "prompt_en": "In a quiet car interior, pressing the start button triggers a distant, low engine rumble that gradually builds and settles into a steady background sound. The car's air conditioning operates softly, producing a faint airflow sound, accompanied occasionally by the gentle click of buttons. Outside, distant traffic noise can be faintly heard from time to time.",
+    "prompt_vision": "Interior of a quiet car with a start button being pressed, air conditioning vents visible, and buttons on the dashboard.",
+    "prompt_audio": "Distant low engine rumble that gradually builds and settles into a steady background sound, soft airflow from air conditioning, occasional gentle button clicks, and faint distant traffic noise intermittently audible.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a distant, low engine rumble that gradually builds and settles into a steady background sound after pressing the start button?",
+      "Does the car's air conditioning produce a faint airflow sound continuously?",
+      "Are there occasional gentle clicks of buttons heard within the car interior?",
+      "Can distant traffic noise be faintly heard from time to time outside the car?",
+      "Is the overall sound environment within the car interior quiet, with no prominent or loud noises?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the car interior visually still, with no noticeable movement or activity?",
+      "Does the start button appear visibly pressed or activated?",
+      "Are the car's air conditioning vents visibly open or operational, suggesting airflow?",
+      "Are the buttons on the car's dashboard or console visually intact and capable of being clicked?",
+      "Is the car's engine visually stationary, with no visible motion indicating activity?"
+    ]
+  },
+  {
+    "prompt_en": "In the in-car environment, the main sound sources come from natural sounds outside the vehicle, emphasizing wind noise and echoes from distant valleys. The in-car audio field should include a faint low hum of the engine and occasional tire-road friction sounds. The timbre should be soft, the volume moderate, and the rhythm slow, creating a peaceful atmosphere. Ambient sounds include distant bird calls and occasional rustling of leaves. The positioning of sound sources should suggest the vast external space and the enclosed feeling inside the car.",
+    "prompt_vision": "Inside a car with windows closed, driving through a scenic valley landscape with distant hills and trees.",
+    "prompt_audio": "Soft, moderate-volume ambient soundscape featuring wind noise, distant valley echoes, faint low engine hum, occasional tire-road friction, distant bird calls, and occasional leaf rustling; slow rhythm, spacious external sound positioning with enclosed interior perspective.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a faint low hum of the engine present in the audio field?",
+      "Are the wind noise and echoes from distant valleys audible as the main external sound sources?",
+      "Does the audio include occasional tire-road friction sounds?",
+      "Are distant bird calls and occasional rustling of leaves included as ambient sounds?",
+      "Is the timbre of the audio soft, contributing to a peaceful atmosphere?",
+      "Is the volume of the audio moderate, matching the described environment?",
+      "Does the positioning of sound sources suggest a vast external space and an enclosed feeling inside the car?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the car interior visually depicted with closed windows to suggest an enclosed feeling?",
+      "Are the car's tires visibly in contact with the road surface to imply tire-road friction sounds?",
+      "Is the engine visually present in the car to suggest the faint low hum?",
+      "Are distant valleys visually depicted outside the car to suggest echoes?",
+      "Are there visible trees or foliage outside the car to imply rustling leaves?",
+      "Is there a visual representation of birds outside the car to suggest distant bird calls?"
+    ]
+  },
+  {
+    "prompt_en": "In an open outdoor environment, an alarm sound comes from the distance, emanating from a speaker within the scene. The volume gradually increases, with a wide soundstage and a sharp, clear timbre. Occasionally, subtle wind sounds in the background enhance the realism of the environment. The sound source is not visible in the scene, but its location and characteristics can be perceived through the direction and reverberation of the sound.",
+    "prompt_vision": "An open outdoor environment with no visible alarm source; natural scenery with ambient lighting and subtle atmospheric details.",
+    "prompt_audio": "Distant alarm sound gradually increasing in volume, wide soundstage, sharp and clear timbre, with subtle background wind sounds enhancing environmental realism; direction and reverberation indicate source location.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the alarm sound have a sharp and clear timbre as described?",
+      "Is the alarm sound's volume gradually increasing over time?",
+      "Can the alarm sound's direction and location be perceived through its reverberation and spatial characteristics?",
+      "Are subtle wind sounds occasionally audible in the background to enhance the realism of the environment?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the outdoor environment visually depicted with open spaces and natural elements such as grass, trees, or sky?",
+      "Are there visual cues, such as the positioning of objects or spatial composition, that suggest the presence of a distant sound source?",
+      "Does the scene include subtle visual indicators of wind, such as moving leaves, swaying grass, or dust particles in the air?",
+      "Are lighting and shadows consistent with an outdoor setting, enhancing the realism of the environment?",
+      "Can the visual composition of the scene suggest depth and distance, aligning with the perception of a sound emanating from afar?",
+      "Are textures and details in the environment, such as the surface of objects or terrain, rendered clearly to support the immersive outdoor setting?"
+    ]
+  },
+  {
+    "prompt_en": "Looking down at the city's twilight view from a helicopter cockpit, the main sound source is the deep hum of the helicopter blades. The sound field surrounds the cockpit, accompanied by light wind noise and distant, muffled urban bustle. The tone is heavy and continuous, with a medium to high volume level, and a steady rhythm. Ambient sounds include occasional radio communication effects and subtle electronic tones from the dashboard instruments. Make sure the rotor sound matches the height and distance perception of the city in the visual scene.",
+    "prompt_vision": "View from helicopter cockpit: city twilight below, distant urban landscape, wide expanse, high altitude.",
+    "prompt_audio": "Deep, continuous hum of helicopter blades with a steady rhythm, medium to high volume, surrounded by light wind noise, distant muffled urban bustle, occasional radio communication effects, and subtle electronic tones from dashboard instruments.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the deep hum of the helicopter blades present and surrounding the cockpit as the main sound source?",
+      "Does the audio include light wind noise that complements the helicopter's altitude?",
+      "Are distant, muffled urban bustle sounds audible, suggesting a city view from above?",
+      "Is the tone of the helicopter blades heavy and continuous with a medium to high volume level?",
+      "Does the audio feature occasional radio communication effects consistent with a helicopter cockpit environment?",
+      "Are there subtle electronic tones from the dashboard instruments audible in the background?",
+      "Does the rotor sound match the height and distance perception of the city in the visual scene?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the city visible below the helicopter cockpit in the image or video?",
+      "Are the helicopter cockpit controls and dashboard instruments visible in the scene?",
+      "Is the lighting in the scene consistent with a twilight setting, with dim or soft lighting?",
+      "Are the helicopter rotor blades visible or implied through motion blur or shadow in the scene?",
+      "Is there a visible perspective that suggests a view from a height, looking down at the city?",
+      "Are there any visible indicators of wind, such as slight movement of objects or subtle blurring?",
+      "Are there any visual cues, such as lights or buildings, that suggest an urban environment below?"
+    ]
+  },
+  {
+    "prompt_en": "Inside the helicopter cockpit, the main sound source is the low, powerful noise of the helicopter's rotor, which should come from off-screen to emphasize its position above. The volume should vary with the helicopter's speed. The rhythm should remain steady, accompanied occasionally by wind and ocean wave sounds to create a sense of realism during flight. Ambient sounds include faint city noise in the distance and subtle water movements. Ensure that the sound of cockpit instrument operations is synchronized with the visuals to enhance authenticity.",
+    "prompt_vision": "Inside a helicopter cockpit with visible instruments and controls, showing the pilot's perspective during flight over an ocean near a distant city.",
+    "prompt_audio": "Low, powerful rotor noise from above, volume varying with helicopter speed, steady rhythm, occasional wind and ocean wave sounds, faint distant city noise, subtle water movements, and synchronized cockpit instrument operation sounds.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the low, powerful noise of the helicopter's rotor audible and does it come from off-screen to emphasize its position above?",
+      "Does the volume of the rotor noise vary with the helicopter's speed?",
+      "Is the rhythm of the rotor noise steady throughout the audio?",
+      "Are wind and ocean wave sounds occasionally audible to create a sense of realism during flight?",
+      "Are faint city noises in the distance audible as ambient sounds?",
+      "Are subtle water movements audible as ambient sounds?",
+      "Is the sound of cockpit instrument operations synchronized with the visuals?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visible helicopter rotor above the cockpit, even if off-screen?",
+      "Are the cockpit instruments visibly operating in synchronization with their sounds?",
+      "Can the wind be visually inferred through motion or effects on objects inside the cockpit?",
+      "Are ocean waves visually represented or implied through the cockpit windows?",
+      "Is there a visual indication of city noise, such as distant cityscape visible through the cockpit windows?",
+      "Are subtle water movements visible through the cockpit windows or implied by reflections?"
+    ]
+  },
+  {
+    "prompt_en": "In a quiet indoor environment, the main sound source is piano music coming from off-screen, with the sound originating from the right side. The tone is warm and clear, at a moderate volume, accompanied by subtle page-turning sounds and detailed noises of fingers touching paper. Background ambient sounds include faint wind and occasional slight creaks of the wooden floor. The overall rhythm is steady and expressive.",
+    "prompt_vision": "Indoor space, no piano, hands turning pages, wooden floor creaks, faint light, calm atmosphere, subtle movements, enclosed room",
+    "prompt_audio": "Warm, clear piano music from the right off-screen at moderate volume; steady and expressive rhythm; subtle page-turning sounds; detailed finger-on-paper noises; faint wind in background; occasional slight creaks of wooden floor.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the piano music originating from the right side of the audio field?",
+      "Does the piano music have a warm and clear tone?",
+      "Is the volume of the piano music moderate?",
+      "Are there subtle page-turning sounds accompanying the piano music?",
+      "Can detailed noises of fingers touching paper be heard?",
+      "Are there faint wind sounds present in the background?",
+      "Are there occasional slight creaks of the wooden floor audible in the background?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visible piano or indication of piano music being played off-screen?",
+      "Are there visible pages or paper that could correspond to the page-turning sounds?",
+      "Can fingers be seen interacting with paper in a way that matches the described subtle noises?",
+      "Is the lighting consistent with an indoor environment, without strong outdoor light sources?",
+      "Are there visible wooden floor elements that could correspond to the described creaks?"
+    ]
+  },
+  {
+    "prompt_en": "In a scene featuring an outdoor basketball court, the main sound source is a basketball flying from a distance and hitting the backboard. The impact of the basketball is clear and powerful, accompanied by the subtle rustling sound of the net. In the background, there is a gentle rustling of leaves caused by a breeze, with occasional distant bird chirps. The basketball's movement within the sound field starts from afar and gradually approaches, with its volume increasing as the distance shortens, and the tempo quickening as the ball draws closer. Ensure that the sound of the basketball's impact is synchronized with the position of the backboard in the scene, accurately indicating the ball's direction and speed.",
+    "prompt_vision": "An outdoor basketball court with a backboard; a basketball is seen moving through the air toward the backboard from a distance, gradually approaching.",
+    "prompt_audio": "A basketball whooshes through the air, growing louder and faster as it approaches, then makes a clear, powerful impact with the backboard, followed by a subtle rustle of the net; gentle rustling leaves and occasional distant bird chirps in the background.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the subtle rustling sound of the net when the basketball hits the backboard?",
+      "Can the gentle rustling of leaves caused by a breeze be heard in the background?",
+      "Are there occasional distant bird chirps audible in the background?",
+      "Does the basketball's movement within the sound field start from afar and gradually approach, with its volume increasing as the distance shortens?",
+      "Is the tempo of the basketball's movement quickening as the ball draws closer?",
+      "Is the sound of the basketball's impact synchronized with the position of the backboard in the scene, accurately indicating the ball's direction and speed?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a basketball visible in the scene?",
+      "Is the basketball court depicted as an outdoor setting?",
+      "Is the basketball shown moving towards the backboard?",
+      "Does the basketball appear to hit the backboard?",
+      "Is the net visibly rustling when the basketball impacts the backboard?",
+      "Are there visible leaves that could be rustling due to a breeze?",
+      "Is the basketball's motion depicted as increasing in speed as it approaches the backboard?"
+    ]
+  },
+  {
+    "prompt_en": "In a quiet stairwell, the main sound sources come from a room below the stairs, with faint music and occasional footsteps. The music is soft and warm in tone, accompanied by slight reverberation that suggests the size and material of the room. The footsteps are slow in rhythm and moderate in volume; as they approach the stairs, the sounds become clearer and the echoes reflecting off the walls grow stronger. Occasionally, there is also the sound of wind from a window and subtle rustling of leaves, adding a natural atmosphere to the space.",
+    "prompt_vision": "A quiet stairwell with a room below, a window letting in wind, and subtle movement of leaves outside.",
+    "prompt_audio": "Soft, warm-toned music with slight reverberation; slow, moderate-volume footsteps that grow clearer and more echoed as they approach the stairs; occasional wind sounds and subtle rustling of leaves.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the faint music soft and warm in tone, with slight reverberation suggesting the size and material of the room below the stairs?",
+      "Is Do the footsteps sound slow in rhythm and moderate in volume, becoming clearer and more echoing as they approach the stairs?",
+      "Is the sound of wind from a window present occasionally, contributing to the natural atmosphere?",
+      "Does the subtle rustling of leaves occur occasionally, adding to the natural ambiance of the space?",
+      "Are the echoes of footsteps reflecting off the walls stronger as the footsteps approach the stairs?",
+      "Is the stairwell quiet overall, with no prominent sounds other than those described in the prompt?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visible stairwell in the image or video?",
+      "Are there any visible windows in the stairwell?",
+      "Can the presence of wind be inferred from moving leaves or curtains near the window?",
+      "Are there any visible leaves that appear to be rustling?",
+      "Is there a visible source of light that suggests the presence of a window?",
+      "Are the walls of the stairwell visible and do they appear to reflect sound, suggesting a hard material?",
+      "Is there any visible indication of footsteps, such as a person walking or shoes on the stairs?"
+    ]
+  },
+  {
+    "prompt_en": "This is an old pair of sneakers placed on a metal shelf.",
+    "prompt_vision": "An old pair of sneakers placed on a metal shelf.",
+    "prompt_audio": "very faint sound",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there an absence of sound indicating that the sneakers are stationary and not being moved?",
+      "Does the audio lack any prominent noise or distortion that would be unexpected for a static scene?",
+      "Is there no sound of footsteps or movement, consistent with the sneakers being placed and not worn?",
+      "Are there no ambient sounds suggesting activity, aligning with the stillness of the scene?"
+    ],
+    "auxiliary_info_vision": [
+      "Are the sneakers visibly worn or aged in appearance?",
+      "Is the pair of sneakers placed together on the metal shelf?",
+      "Does the shelf appear to be made of metal with visible metallic texture or finish?",
+      "Are the sneakers stationary and not showing any signs of motion?",
+      "Is the shelf free from any objects obstructing the view of the sneakers?"
+    ]
+  },
+  {
+    "prompt_en": "In a quiet environment, the main sound source is a person off-screen gently grabbing potato chips, accompanied by subtle crinkling of the plastic bag and the crisp sound of chips being crushed. The sound field is focused on the right side off-screen, with a crisp and dry timbre, moderate volume, and irregular rhythm. Ambient noise is nearly absent, with only occasional faint breathing sounds.",
+    "prompt_vision": "Empty still scene, quiet setting, off-screen person handling a bag of potato chips, no visible action.",
+    "prompt_audio": "Gentle grabbing of potato chips, subtle crinkling of a plastic bag, crisp dry crushing sounds of chips, focused on the right side, moderate volume, irregular rhythm, nearly absent ambient noise, occasional faint breathing sounds.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of the plastic bag crinkling present and subtle, matching the action of gently grabbing potato chips?",
+      "Does the audio feature the crisp sound of chips being crushed, with a dry timbre?",
+      "Is the main sound source focused on the right side off-screen, as described?",
+      "Is the volume of the main sound source moderate, not too loud or too soft?",
+      "Are the sounds of the chips and bag irregular in rhythm, reflecting a natural grabbing motion?",
+      "Is ambient noise nearly absent, with only occasional faint breathing sounds present?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the environment visually depicted as quiet, with no visible sources of noise or movement?",
+      "Does the visual focus suggest the presence of a person off-screen on the right side, possibly indicated by subtle visual cues like shadows or partial visibility?",
+      "Can the potato chips be visually inferred through the presence of a plastic bag or chip fragments, even if not directly visible?",
+      "Are there visual indications of a gentle action, such as minimal movement or lack of forceful gestures?",
+      "Is the lighting consistent with a calm environment, without harsh contrasts or rapid changes?"
+    ]
+  },
+  {
+    "prompt_en": "In a tranquil courtyard, the leaves gently rustle, occasionally accompanied by the distant, muffled sound of ocean waves. The primary sound source is the unseen waves, whose sound comes from the right side of the scene, creating a sense of spacious audio field. The rustling of leaves intertwines with the sound of the waves, forming a natural rhythm. The ambient sound also includes subtle noises of wind passing over the buildings, enhancing the serene atmosphere of the courtyard.",
+    "prompt_vision": "A tranquil courtyard with trees whose leaves are gently moving, surrounded by buildings, with no visible ocean.",
+    "prompt_audio": "Distant, muffled ocean waves from the right, gentle rustling of leaves, and subtle wind sounds passing over buildings, creating a serene, spacious natural soundscape.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the distant sound of ocean waves have a muffled quality and originate from the right side of the audio field?",
+      "Can the rustling of leaves and the sound of ocean waves intertwine to form a natural rhythm without abrupt or jarring transitions?",
+      "Are subtle noises of wind passing over the buildings present and enhancing the serene atmosphere without overpowering other sounds?",
+      "Is the overall audio mix free from noticeable distortion or noise that would disrupt the tranquil ambiance?"
+    ],
+    "auxiliary_info_vision": [
+      "Are the leaves visibly moving in a gentle manner, suggesting a rustling motion?",
+      "Is there an absence of visible people or animals, indicating a tranquil and undisturbed courtyard?",
+      "Are the trees or plants present in the courtyard showing signs of slight movement due to wind?",
+      "Is the lighting in the courtyard soft and even, suggesting a serene atmosphere?",
+      "Are the buildings in the courtyard visually still, with no signs of human activity or movement?"
+    ]
+  },
+  {
+    "prompt_en": "Amidst a lush patch of vegetation, a gentle breeze strokes the leaves, producing a soft rustling sound. In the background, a bird not visible in the frame sings melodiously, its voice coming from the upper right corner of the scene, clear and resonant. Occasionally, the buzzing of insects flits through the plants, creating a natural soundscape.",
+    "prompt_vision": "A lush patch of vegetation with leaves gently moving in a breeze; no bird is visible in the frame.",
+    "prompt_audio": "Soft rustling of leaves, clear and resonant bird song from the upper right, and occasional buzzing of insects.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a soft rustling sound corresponding to the breeze stroking the leaves?",
+      "Does the bird's song come from the upper right corner of the audio field, as described?",
+      "Can the buzzing of insects be heard occasionally, as described in the prompt?",
+      "Are the sounds of the breeze, bird, and insects distinct and identifiable within the audio mix?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there visible movement of leaves indicating a gentle breeze?",
+      "Are the leaves visibly part of a lush patch of vegetation?",
+      "Can the direction of the leaf movement suggest a breeze coming from the upper right corner?",
+      "Are there insects visible amidst the plants, suggesting occasional buzzing?"
+    ]
+  },
+  {
+    "prompt_en": "In a tranquil forest, leaves gently sway while the occasional chirping of distant birds can be heard. The main sound source is a stream hidden outside the frame, with the sound of flowing water coming from the right side of the scene, accompanied by the rustling of leaves in the gentle breeze. The ambient sounds also include the occasional soft thud of falling fruits hitting the ground, creating a naturally harmonious soundscape. The tone is fresh and natural, with moderate volume and a relaxed rhythm, as if narrating the serenity of the forest.",
+    "prompt_vision": "Tranquil forest with gently swaying leaves and falling fruits hitting the ground; a hidden stream is outside the frame.",
+    "prompt_audio": "Flowing water from the right, gentle rustling of leaves, occasional distant bird chirps, and soft thuds of falling fruits; fresh, natural tone with moderate volume and relaxed rhythm.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of flowing water predominantly coming from the right side of the audio scene?",
+      "Are the occasional chirping sounds of distant birds present in the audio?",
+      "Is there a rustling sound of leaves that matches the gentle swaying described in the prompt?",
+      "Can the occasional soft thud of falling fruits be heard in the audio?",
+      "Is the overall volume of the audio moderate, contributing to a relaxed and serene atmosphere?",
+      "Does the audio maintain a naturally harmonious soundscape with a fresh and natural tone?"
+    ],
+    "auxiliary_info_vision": [
+      "Are the leaves visibly swaying gently in the scene?",
+      "Is there a visible stream or indication of water flow outside the frame, suggested by the sound coming from the right side?",
+      "Are the leaves visibly rustling due to a gentle breeze?",
+      "Can the occasional soft thud of falling fruits be visually inferred by fruits on the ground?",
+      "Is the overall visual tone fresh and natural, suggesting a serene forest environment?"
+    ]
+  },
+  {
+    "prompt_en": "In a quiet indoor stairwell, the primary sound source originates from a concealed area above the staircase, with faint footsteps and occasional creaks of floorboards, accompanied by subtle echoes within the stairwell. The sound field should convey a dynamic change as the sound gradually approaches from the top of the stairs, with a warm yet slightly muffled timbre, moderate volume, and no abruptness. The rhythm should be irregular, simulating natural footsteps. Ambient sounds include slight air movement and distant, indistinct bird calls from outdoors, creating an overall atmosphere of tranquility with a hint of mystery.",
+    "prompt_vision": "A quiet indoor stairwell with no visible movement, dimly lit, showing wooden stairs and walls that suggest age and stillness.",
+    "prompt_audio": "Faint, irregular footsteps with occasional floorboard creaks emanating from above, gradually approaching down a stairwell; warm, slightly muffled timbre, moderate volume, no abrupt sounds; subtle echoes present; ambient air movement and distant, indistinct bird calls outdoors; overall tranquil with a hint of mystery.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the primary sound source clearly originating from above the staircase, with a gradual approach in the sound field?",
+      "Are the footsteps faint and accompanied by occasional creaks of floorboards, with subtle echoes within the stairwell?",
+      "Does the sound have a warm yet slightly muffled timbre, with moderate volume and no abruptness?",
+      "Is the rhythm of the footsteps irregular, simulating natural footsteps?",
+      "Are there ambient sounds of slight air movement present in the audio?",
+      "Can distant, indistinct bird calls be heard, contributing to the atmosphere of tranquility and mystery?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the stairwell visually empty of people, indicating quietness?",
+      "Are the stairs visually intact without visible damage or wear?",
+      "Is there a visible light source above the staircase, suggesting the concealed area?",
+      "Are the stairs and floorboards visually still, indicating no abrupt motion?",
+      "Is there a visible window or opening suggesting the source of distant bird calls?",
+      "Are shadows or lighting effects present that imply subtle air movement?",
+      "Is the overall visual atmosphere calm and tranquil, with no signs of disturbance?"
+    ]
+  },
+  {
+    "prompt_en": "On an outdoor table, a paper basket holds a pile of chips drizzled with sauce. Blurred human figures are faintly visible in the background, and the main sounds come from the ambient environment outside the frame, possibly distant street noise or murmurs of a crowd. The crisp sound of the chips is clearly audible within the scene, accompanied by a gentle breeze and occasional bird chirps, creating a relaxed outdoor atmosphere.",
+    "prompt_vision": "On an outdoor table, a paper basket holds a pile of chips drizzled with sauce. Blurred human figures are faintly visible in the background.",
+    "prompt_audio": "Crisp sounds of chips being eaten, gentle breeze, occasional bird chirps, distant street noise, and murmurs of a crowd.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the crisp sound of the chips clearly audible in the audio?",
+      "Does the audio include ambient environmental sounds like distant street noise or crowd murmurs?",
+      "Can the sound of a gentle breeze be heard in the audio?",
+      "Are occasional bird chirps present in the audio?",
+      "Is the overall audio atmosphere relaxed, consistent with an outdoor setting?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a paper basket on the table?",
+      "Does the paper basket contain a pile of chips?",
+      "Are the chips drizzled with sauce?",
+      "Are there blurred human figures faintly visible in the background?",
+      "Is the scene set outdoors, as indicated by the presence of a gentle breeze?",
+      "Are there visual indications of a relaxed atmosphere, such as stillness or calmness in the scene?"
+    ]
+  },
+  {
+    "prompt_en": "On a city street after a snowfall, the main sound source is the distant wind coming from the mountains, deep and continuous, as if calling out. There are faint footsteps on the street, accompanied by the soft crunching of snow, with a slow and irregular rhythm. Occasionally, the low hum of a distant vehicle's engine can be heard, seemingly moving away from the scene. Ambient sounds include the occasional chirp of birds and the slight whistle of wind passing over buildings, creating a cold and tranquil soundscape. Pay attention to the positioning of sound sources: the wind comes from the mountains outside the frame, the vehicle sounds come from the far end of the street, and the footsteps move within the scene.",
+    "prompt_vision": "Snow-covered city street, fresh snowfall, person walking slowly leaving footprints, buildings line the road, distant end fades into wintry haze.",
+    "prompt_audio": "Deep, continuous wind from the mountains; faint, irregular footsteps with soft snow crunching; low hum of a distant vehicle engine fading away; occasional bird chirps; slight whistle of wind over buildings.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the deep and continuous sound of the wind from the mountains audible throughout the scene?",
+      "Are the footsteps accompanied by a soft crunching sound of snow with a slow and irregular rhythm?",
+      "Does the low hum of a distant vehicle's engine occasionally appear, suggesting it is moving away from the scene?",
+      "Can the occasional chirp of birds be heard, contributing to the ambient soundscape?",
+      "Is there a slight whistle of wind passing over buildings, enhancing the cold and tranquil atmosphere?",
+      "Are the footsteps positioned within the scene, distinct from the distant sounds of wind and vehicles?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there visible snow covering the city street?",
+      "Are there faint footprints visible on the snow-covered street, suggesting movement?",
+      "Does the scene show a person walking slowly with irregular steps, implying the soft crunching of snow?",
+      "Are the buildings positioned in a way that suggests wind could pass over them?",
+      "Is the lighting in the scene consistent with a cold and tranquil atmosphere, such as soft or diffused light?"
+    ]
+  },
+  {
+    "prompt_en": "In front of an ancient stone wall, several wooden chairs of different colors are suspended, and an old wooden wheel is also mounted on the wall. The main sounds originate from a corner outside the frame, with faint creaking of wood and occasional rolling sounds from the wheel, suggesting a hidden workshop. Subtle wind sounds and the deep echoes reflected from the walls create a quiet and ancient atmosphere.",
+    "prompt_vision": "In front of an ancient stone wall, several wooden chairs of different colors are suspended, and an old wooden wheel is mounted on the wall.",
+    "prompt_audio": "Faint creaking of wood, occasional rolling sounds from a wheel, subtle wind sounds, and deep echoes reflecting off walls, creating a quiet and ancient atmosphere.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include faint creaking sounds that suggest the presence of wooden chairs or the wheel?",
+      "Are there occasional rolling sounds that imply movement or activity related to the old wooden wheel?",
+      "Is there a subtle wind sound that contributes to the quiet and ancient atmosphere?",
+      "Is Do the deep echoes in the audio reflect off the stone walls, enhancing the sense of an ancient setting?",
+      "Is the overall soundscape quiet, with minimal noise or distortion, to maintain the described atmosphere?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there several wooden chairs of different colors suspended in front of the stone wall?",
+      "Is there an old wooden wheel mounted on the stone wall?",
+      "Are the chairs visibly different in color from each other?",
+      "Is the stone wall visibly ancient in appearance?",
+      "Are the chairs and wheel positioned in a way that suggests they are not in motion?"
+    ]
+  },
+  {
+    "prompt_en": "In a cozy living room setting, soft TV sounds can be heard in the background, coming from the left side outside the frame, with a moderate volume. The background also includes occasional faint popping sounds of popcorn and subtle friction noises from fingers picking up popcorn. Additionally, faint sounds of a breeze from a distant window are present, creating a relaxing atmosphere.",
+    "prompt_vision": "A cozy living room with a TV outside the frame to the left, a bowl of popcorn on a surface, and a distant window slightly open.",
+    "prompt_audio": "Soft TV sounds at moderate volume from the left, occasional faint popcorn popping, subtle finger friction noises while picking up popcorn, and faint breeze sounds from a distant window.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the TV sound coming from the left side outside the frame with a moderate volume?",
+      "Are there occasional faint popping sounds of popcorn audible in the background?",
+      "Can subtle friction noises from fingers picking up popcorn be heard?",
+      "Are faint sounds of a breeze from a distant window present in the audio?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visible television screen in the living room setting?",
+      "Are there visible popcorn pieces or a popcorn container in the scene?",
+      "Is there a window visible in the living room setting?",
+      "Are there any visible signs of a breeze, such as moving curtains or plants?",
+      "Is the lighting in the living room setting soft and warm, suggesting a cozy atmosphere?",
+      "Are there any visible fingers or hands reaching for popcorn in the scene?"
+    ]
+  },
+  {
+    "prompt_en": "Inside a moving off-road vehicle, the view outside the windows is desolate mountains and rivers. Inside the car, a low engine rumble can be heard, accompanied occasionally by slight suspension noises. Outside, the wind whistles past, occasionally mixed with the sound of distant flowing water. The engine noise comes from the left side of the vehicle, while the wind noise enters from the right window, creating a dynamic sound field.",
+    "prompt_vision": "Inside a moving off-road vehicle with desolate mountains and rivers visible through the windows.",
+    "prompt_audio": "Low engine rumble from the left, slight suspension noises, wind whistling from the right window, and distant flowing water sounds.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the low engine rumble consistently audible inside the vehicle?",
+      "Does the engine noise predominantly come from the left side of the vehicle?",
+      "Are slight suspension noises occasionally audible inside the vehicle?",
+      "Is the sound of wind whistling past audible from the right window?",
+      "Can the sound of distant flowing water be occasionally heard outside the vehicle?",
+      "Is there a dynamic sound field created by the combination of engine noise from the left and wind noise from the right?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the off-road vehicle visibly moving, with wheels in motion?",
+      "Are desolate mountains visible through the vehicle's windows?",
+      "Is there a river visible through the vehicle's windows?",
+      "Is the vehicle's interior visible, suggesting a low engine rumble?",
+      "Are there visible signs of slight suspension movement inside the vehicle?",
+      "Is there visible wind movement outside the right window of the vehicle?",
+      "Is there visible water flow in the distance outside the vehicle?"
+    ]
+  },
+  {
+    "prompt_en": "In a modern living room, the main sound source comes from the swimming pool area outside the window, with gentle water sounds and occasional bird chirps. Indoors, there is a faint crackling sound from the fireplace, creating a warm atmosphere. The sound field is broad and natural, with clear tone, moderate volume, and a relaxed rhythm. Environmental sounds include slight wind and distant traffic noise, enhancing the sense of realism in the space.",
+    "prompt_vision": "A modern living room with a window overlooking a swimming pool area, a fireplace with faint crackling flames, and natural daylight illuminating the space.",
+    "prompt_audio": "Gentle water sounds from a swimming pool, occasional bird chirps, faint crackling from a fireplace, slight wind, and distant traffic noise; broad and natural sound field with clear tone, moderate volume, and relaxed rhythm.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the main sound source coming from the swimming pool area outside the window, featuring gentle water sounds?",
+      "Are there occasional bird chirps audible from the swimming pool area?",
+      "Is there a faint crackling sound from the fireplace indoors?",
+      "Does the sound field have a broad and natural quality with a clear tone?",
+      "Is the overall volume of the audio moderate, contributing to a relaxed rhythm?",
+      "Are there slight wind sounds present in the audio, enhancing realism?",
+      "Is distant traffic noise audible, contributing to the environmental soundscape?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visible swimming pool outside the window in the living room scene?",
+      "Are there any visible birds in the scene that could be associated with chirping sounds?",
+      "Is there a fireplace visible indoors with a faint crackling effect?",
+      "Does the living room have a modern design style?",
+      "Is there any indication of wind movement, such as gently swaying curtains or plants?",
+      "Is the overall atmosphere of the living room visually warm and inviting?"
+    ]
+  },
+  {
+    "prompt_en": "In the in-car environment, the main sound sources come from external traffic noise. The sound field should reflect the sound insulation effect of the windows, with a deeper timbre and a slight reverberation. Ambient sounds inside the car include the faint operation noise of the air conditioner and the sound of the dashboard pointer moving. In terms of rhythm, occasional sounds of passing vehicles from outside can be heard, with volume changing according to distance, suggesting the dynamic environment outside the car.",
+    "prompt_vision": "Interior of a car with closed windows, dashboard with moving pointers, air conditioner vents emitting faint airflow, external traffic visible through windows",
+    "prompt_audio": "Muffled external traffic noise with deeper timbre and slight reverberation due to window insulation, faint air conditioner hum, subtle ticking of dashboard pointers, occasional passing vehicles with Doppler-like volume changes",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the external traffic noise audible with a deeper timbre, reflecting the sound insulation effect of the windows?",
+      "Does the audio include a slight reverberation characteristic of the in-car environment?",
+      "Can the faint operation noise of the air conditioner be heard inside the car?",
+      "Are the occasional sounds of passing vehicles from outside audible, with volume changing according to their distance?",
+      "Does the audio reflect a dynamic environment with varying volumes of external traffic noise?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the car interior visually depicted with closed windows to imply sound insulation?",
+      "Are the dashboard pointers visibly moving to suggest operation noise?",
+      "Is the air conditioner visually present and depicted as faintly operating?",
+      "Are external vehicles visually shown passing by the car to suggest dynamic movement?",
+      "Does the spatial layout of the car interior suggest a typical in-car environment?"
+    ]
+  },
+  {
+    "prompt_en": "In the in-car environment, the main sound sources come from external traffic noise, accompanied by a faint low-frequency hum from the engine and electronic prompt sounds from the dashboard. The sound field should reflect the characteristics of the enclosed interior space, with clear timbre and slight reverberation. The volume should be moderate, with a steady rhythm. Ambient sounds include the subtle operation noise of the air conditioner and occasional sounds from steering wheel button presses. The audio should convey, through sound, the direction and speed changes of the traffic flow outside the vehicle.",
+    "prompt_vision": "Car cabin interior: dashboard with electronic indicators, steering wheel with buttons, closed windows showing traffic, materials include leather, plastic, glass.",
+    "prompt_audio": "Moderate-volume traffic noise outside the vehicle, with directional and speed-varying characteristics; faint low-frequency engine hum; subtle air conditioner operation noise; occasional soft clicks from steering wheel button presses; clear timbre with slight reverberation reflecting the enclosed cabin space; steady rhythmic flow.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include external traffic noise as a prominent sound source?",
+      "Is there a faint low-frequency hum from the engine present in the audio?",
+      "Are electronic prompt sounds from the dashboard audible in the audio?",
+      "Does the sound field reflect the characteristics of an enclosed interior space with clear timbre and slight reverberation?",
+      "Is the volume moderate and does the audio maintain a steady rhythm throughout?",
+      "Are ambient sounds like the subtle operation noise of the air conditioner included in the audio?",
+      "Is Do occasional sounds from steering wheel button presses appear in the audio?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the interior of the car visually depicted with clear details, such as the dashboard, steering wheel, and air conditioning vents, to suggest an enclosed space?",
+      "Are the external traffic elements, such as vehicles or road signs, visually represented through windows to indicate the source of external noise?",
+      "Does the lighting inside the car create a realistic enclosed ambiance, with subtle reflections on surfaces like the dashboard or windows?",
+      "Are the textures of interior materials, such as leather seats or plastic dashboard panels, rendered with clarity to enhance the realism of the enclosed space?"
+    ]
+  },
+  {
+    "prompt_en": "Inside a cramped car cockpit, the scene focuses on the details of the steering wheel. The primary sound source is the deep, rumbling engine noise coming from off-screen, accompanied by slight metallic vibrations and occasional tire friction sounds. The sound field should convey the engine noise coming from the front, with a deep, layered tone, medium to low volume, and a steady rhythm that is slightly mechanical. Environmental sounds include subtle interior plastic vibrations and faint external wind noise. All sound effects should harmonize with the visual atmosphere to create an immersive driving experience.",
+    "prompt_vision": "Inside a cramped car cockpit, close-up view of the steering wheel with visible wear and dashboard details.",
+    "prompt_audio": "Deep, rumbling engine noise from the front with a steady, slightly mechanical rhythm, medium to low volume, layered tone; subtle metallic vibrations, occasional tire friction sounds, faint wind noise, and quiet interior plastic rattles.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the deep, rumbling engine noise audible with a layered tone and medium to low volume?",
+      "Does the engine noise appear to come from the front of the sound field?",
+      "Are there slight metallic vibrations accompanying the engine noise?",
+      "Can occasional tire friction sounds be heard in the audio?",
+      "Are there subtle interior plastic vibrations present in the soundscape?",
+      "Is there faint external wind noise audible in the background?",
+      "Does the overall audio harmonize with the visual atmosphere to create an immersive driving experience?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the steering wheel clearly visible in the car cockpit scene?",
+      "Are there visible details on the steering wheel, such as texture or buttons?",
+      "Is the car cockpit depicted as cramped, with limited space around the steering wheel?",
+      "Are there visible signs of slight metallic vibrations in the car cockpit scene?",
+      "Can faint external wind noise be inferred visually, such as through slight movement of objects or materials inside the car?",
+      "Are subtle interior plastic vibrations visually suggested, such as through minor movements or shifts in plastic components?"
+    ]
+  }
+]

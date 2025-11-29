@@ -1,0 +1,817 @@
+[
+  {
+    "prompt_en": "A pair of leather shoes walks across a polished wooden floor, making clear, resonant \"click, click\" sounds.",
+    "prompt_vision": "A pair of leather shoes walking across a polished wooden floor.",
+    "prompt_audio": "Clear, resonant \"click, click\" sounds of leather shoes on a hard surface.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio contain clear, resonant 'click, click' sounds as the shoes walk across the floor?",
+      "Is the timing of the 'click, click' sounds consistent with the pace of walking?",
+      "Can the sound source position shift slightly to indicate movement across the floor?",
+      "Are the 'click, click' sounds free from distortion or noise?",
+      "Is the sound of the shoes walking distinct and recognizable as leather shoes on a wooden floor?"
+    ],
+    "auxiliary_info_vision": [
+      "Are the shoes visibly made of leather material?",
+      "Is the floor visibly polished wood?",
+      "Do the shoes appear to be in motion across the floor?",
+      "Can the shoes be seen making contact with the floor?",
+      "Are the shoes positioned in a way that suggests walking action?",
+      "Is there visible reflection or shine on the wooden floor?",
+      "Are the shoes positioned in pairs, suggesting they belong to a single entity?"
+    ]
+  },
+  {
+    "prompt_en": "The sneakers crunched on the gravel path, each step producing a \"shh, chak, shh, chak\" sound of friction and rolling stones.",
+    "prompt_vision": "Sneakers stepping on a gravel path.",
+    "prompt_audio": "Shh, chak, shh, chak sounds of sneakers crunching on gravel.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a rhythmic 'shh, chak, shh, chak' sound pattern corresponding to the footsteps?",
+      "Is the sound of friction and rolling stones present in the audio when the sneakers move?",
+      "Are the footsteps audibly synchronized with the visual movement of sneakers on the gravel path?",
+      "Is there a consistent sound of crunching gravel accompanying each step in the audio?",
+      "Can the audio convey a sense of movement along a gravel path through the sound of sneakers?"
+    ],
+    "auxiliary_info_vision": [
+      "Are the sneakers visibly in contact with a gravel path?",
+      "Is there visible gravel on the path where the sneakers are stepping?",
+      "Can the sneakers be seen making an impression or displacement on the gravel with each step?",
+      "Is there visible dust or small stones being disturbed by the sneakers' movement?",
+      "Are the sneakers shown in a walking motion, with alternating foot placement on the path?"
+    ]
+  },
+  {
+    "prompt_en": "The boots crunched through the thick, freshly fallen snow with a dull, solid squeak, squeak.",
+    "prompt_vision": "Boots walking through thick, freshly fallen snow.",
+    "prompt_audio": "Dull, solid squeaking sounds with each step.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio feature a repetitive squeak sound that matches the described 'squeak, squeak' pattern as the boots move through the snow?",
+      "Is there a dull, solid sound accompanying the squeak, indicating the boots are crunching through snow?",
+      "Can the sound of the boots in snow be heard consistently throughout the action described?",
+      "Are the squeak sounds synchronized with the visual movement of the boots in the snow?",
+      "Is the overall sound of the boots in snow free from unexpected noise or distortion that would distract from the described action?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there visible thick snow on the ground?",
+      "Are there boots making contact with the snow?",
+      "Is there visible compression or displacement of the snow where the boots step?",
+      "Are the boots visibly moving forward through the snow?",
+      "Is the snow appearing freshly fallen, without signs of melting or dirt?"
+    ]
+  },
+  {
+    "prompt_en": "The running shoes hit the track, producing a resilient, muffled \"thud, thud, thud\" in a steady rhythm.",
+    "prompt_vision": "Running shoes striking a track surface in a steady rhythm",
+    "prompt_audio": "Resilient, muffled thud, thud, thud in a steady rhythm",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a consistent 'thud, thud, thud' sound corresponding to the running shoes hitting the track?",
+      "Does the sound of the shoes hitting the track have a muffled quality?",
+      "Is the rhythm of the 'thud' sounds steady and regular?",
+      "Can the sound of the shoes be described as resilient, indicating a certain firmness or bounce?"
+    ],
+    "auxiliary_info_vision": [
+      "Are the running shoes visibly in contact with the track surface?",
+      "Is there visible motion suggesting the shoes are moving forward along the track?",
+      "Do the shoes appear to be in a repetitive motion pattern consistent with running?",
+      "Is the track surface visible beneath the shoes?",
+      "Are the shoes depicted in a way that suggests they are designed for running?"
+    ]
+  },
+  {
+    "prompt_en": "A steady, strong \"lub-dub, lub-dub\" sound heard through a stethoscope.",
+    "prompt_vision": "A stethoscope placed on a chest.",
+    "prompt_audio": "A steady, strong 'lub-dub, lub-dub' heartbeat sound.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the 'lub-dub, lub-dub' sound consistent in timing throughout the audio?",
+      "Does the audio maintain a strong and clear 'lub-dub, lub-dub' sound without distortion?",
+      "Can the 'lub-dub, lub-dub' sound be distinctly heard as if through a stethoscope?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the stethoscope visually present in the image or video?",
+      "Is the stethoscope positioned near a surface that could represent a chest or body?",
+      "Does the stethoscope appear stationary, indicating a steady action?",
+      "Is the chest or body surface visible and not obstructed by other objects?",
+      "Is the lighting sufficient to clearly see the stethoscope and the surface it is placed on?"
+    ]
+  },
+  {
+    "prompt_en": "Deep, steady breathing, with soft inhalations and exhalations slightly nasal.",
+    "prompt_vision": "a scene with human breath",
+    "prompt_audio": "deep, steady breathing with soft inhalations and slightly nasal exhalations",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the breathing sound deep and steady throughout the audio?",
+      "Are the inhalations and exhalations soft in volume?",
+      "Does the breathing have a slightly nasal quality?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the person's chest visibly rising and falling in a calm, rhythmic manner?",
+      "Are the person's nostrils slightly flaring during inhalation and exhalation?",
+      "Is there a visible lack of rapid or erratic movement in the person's body, indicating a state of relaxation?",
+      "Is the person's mouth closed, suggesting that breathing is primarily through the nose?",
+      "Are the person's shoulders remaining relatively still, without significant movement during breathing?"
+    ]
+  },
+  {
+    "prompt_en": "While skipping rope, the \"whoosh\" of the rope cutting through the air alternates with the light \"tap-tap\" of toes touching the ground.",
+    "prompt_vision": "A person skipping rope, with the rope mid-air and feet lightly touching the ground.",
+    "prompt_audio": "Alternating 'whoosh' sounds of a rope cutting through the air and light 'tap-tap' sounds of toes touching the ground.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a 'whoosh' sound corresponding to the rope cutting through the air?",
+      "Is there a light 'tap-tap' sound synchronized with the toes touching the ground?",
+      "Are the 'whoosh' and 'tap-tap' sounds alternating in a regular pattern?",
+      "Is the timing of the 'tap-tap' sound consistent with the expected rhythm of skipping rope?",
+      "Can the 'whoosh' sound be clearly distinguished from the 'tap-tap' sound in terms of pitch or timbre?",
+      "Is the volume of the 'tap-tap' sound appropriate for light toe touches on the ground?",
+      "Does the audio maintain a consistent rhythm throughout the skipping rope activity?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the rope visibly moving in a circular motion as the person skips?",
+      "Are the person's toes visibly touching the ground during the skipping motion?",
+      "Does the rope appear to be in a taut state while being swung?",
+      "Is the person's body visibly in motion, consistent with skipping rope?",
+      "Are the person's legs visibly bending and extending during the skipping action?",
+      "Is there a visible gap between the rope and the ground during the swing?"
+    ]
+  },
+  {
+    "prompt_en": "The crisp, rhythmic \"clap, clap, clap\" sounds in a series when clapping hands.",
+    "prompt_vision": "Hands clapping together in a rhythmic sequence.",
+    "prompt_audio": "Crisp, rhythmic clapping sounds: 'clap, clap, clap'.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the clapping sound rhythmic with consistent timing between each clap?",
+      "Does the clapping sound have a crisp quality without distortion or noise?",
+      "Are the clapping sounds clearly identifiable as originating from hands?",
+      "Can the clapping sequence be heard as a series of distinct claps?"
+    ],
+    "auxiliary_info_vision": [
+      "Are the hands visibly coming together in a clapping motion?",
+      "Is there a clear depiction of hands separating after each clap?",
+      "Are the hands positioned in a way that suggests they are about to clap again?",
+      "Is there visible motion indicating the hands are moving towards each other for a clap?",
+      "Are the hands shown in a sequence that implies repeated clapping actions?"
+    ]
+  },
+  {
+    "prompt_en": "The quick, faint tapping sound made by fingertips drumming on a wooden table out of impatience.",
+    "prompt_vision": "fingertips drumming on a wooden table",
+    "prompt_audio": "quick, faint tapping sound",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a faint tapping sound present in the audio when fingertips are drumming on the table?",
+      "Does the tapping sound occur at a quick pace, reflecting impatience?",
+      "Can the tapping sound be identified as originating from a wooden surface?",
+      "Are the tapping sounds consistent with the action of fingertips drumming?",
+      "Is the volume of the tapping sound subdued, indicating faintness?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a wooden table visible in the scene?",
+      "Are fingertips shown in contact with the surface of the table?",
+      "Is there a visible motion of the fingertips suggesting a drumming action?",
+      "Are the fingertips positioned in a way that suggests impatience, such as rapid or repetitive movement?",
+      "Is the lighting sufficient to clearly see the texture of the wooden table?",
+      "Are the fingertips shown without any obstruction or occlusion?",
+      "Is the scene free of any large body movements indicating stillness except for the fingertips?"
+    ]
+  },
+  {
+    "prompt_en": "The army marched in place, the synchronized \"snap! snap!\" of hundreds of military boots rising and falling in unison.",
+    "prompt_vision": "Army soldiers marching in place with synchronized movements.",
+    "prompt_audio": "Synchronized 'snap! snap!' of hundreds of military boots striking the ground in unison.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a synchronized 'snap! snap!' sound corresponding to the movement of military boots?",
+      "Does the audio convey the sound of hundreds of boots rising and falling in unison?",
+      "Are the sounds of the boots consistent in timing with the visual marching action?",
+      "Can the sound source position suggest the presence of a large group marching in place?",
+      "Is the energy and volume of the boot sounds appropriate for a large army marching in place?",
+      "Are the sounds free from noise or distortion that would obscure the 'snap! snap!' effect?",
+      "Will the audio maintain a consistent rhythm that matches the visual synchronization of the army's movement?"
+    ],
+    "auxiliary_info_vision": [
+      "Are the soldiers wearing military boots?",
+      "Is there visible leg motion indicating marching?",
+      "Are the soldiers standing in formation?",
+      "Is there a synchronized movement of the soldiers' legs?",
+      "Are the soldiers' boots visibly rising and falling in unison?",
+      "Is there a sense of uniformity in the soldiers' attire?",
+      "Are the soldiers stationary in terms of location despite the marching motion?"
+    ]
+  },
+  {
+    "prompt_en": "The pendulum of the old-fashioned wall clock swings back and forth, driving the escapement mechanism and producing a steady, hypnotic \"tick-tock, tick-tock\" sound.",
+    "prompt_vision": "An old-fashioned wall clock with a swinging pendulum and visible escapement mechanism.",
+    "prompt_audio": "Steady, rhythmic tick-tock sound, hypnotic and mechanical.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio feature a consistent 'tick-tock' sound that matches the pendulum's swinging motion?",
+      "Is the timing of the 'tick-tock' sound synchronized with the visual movement of the pendulum?",
+      "Can the sound of the escapement mechanism be heard distinctly alongside the 'tick-tock' sound?",
+      "Is the pitch of the 'tick-tock' sound steady and consistent throughout the audio?",
+      "Are the sounds free from any noticeable noise or distortion that would disrupt the hypnotic quality?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the pendulum visible swinging back and forth in the image or video?",
+      "Does the wall clock have an escapement mechanism visible in the image or video?",
+      "Can the pendulum be seen moving in a consistent back and forth motion?",
+      "Are the clock hands visible on the face of the wall clock?",
+      "Is the wall clock designed in an old-fashioned style?"
+    ]
+  },
+  {
+    "prompt_en": "Fingers tapped the keyboard, typebars struck the paper, producing a series of crisp, distinct \"click, click\" sounds, ending with a \"ding\" at the end of the line, followed by the rustling sound of pulling the carriage return lever.",
+    "prompt_vision": "Fingers typing on a mechanical typewriter, paper in the roller, carriage return lever being pulled.",
+    "prompt_audio": "Crisp, distinct clicking sounds of typebars striking paper, followed by a ding and the rustling sound of the carriage return lever.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a series of crisp, distinct 'click, click' sounds when fingers tap the keyboard and typebars strike the paper?",
+      "Is there a 'ding' sound at the end of the line in the audio?",
+      "Can the audio capture the rustling sound of pulling the carriage return lever after the 'ding'?",
+      "Are the 'click, click' sounds synchronized with the visual action of fingers tapping the keyboard and typebars striking the paper?",
+      "Will the 'ding' sound occur immediately after the series of 'click, click' sounds end?",
+      "Is the rustling sound of the carriage return lever clearly audible following the 'ding' sound?"
+    ],
+    "auxiliary_info_vision": [
+      "Are fingers visibly tapping on the keyboard?",
+      "Do typebars appear to strike the paper?",
+      "Is there a visible carriage return lever being pulled?",
+      "Are the typebars shown in motion as they strike?",
+      "Is the paper visibly present in the typewriter?",
+      "Does the scene include a typewriter with keys being pressed?",
+      "Is there a visible action of the carriage return lever being moved after the line ends?"
+    ]
+  },
+  {
+    "prompt_en": "The mechanical metronome emits a precise, emotionless \"tick, tick, tick, tick\" at a rate of 120 beats per minute.",
+    "prompt_vision": "A mechanical metronome ticking steadily on a surface.",
+    "prompt_audio": "Precise, emotionless ticking at 120 beats per minute: tick, tick, tick, tick.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the metronome sound consistently emitting a 'tick' at a rate of 120 beats per minute?",
+      "Does the sound of the metronome maintain a steady and unvarying pitch throughout its operation?",
+      "Is the timbre of the metronome sound mechanical and devoid of emotional expression?",
+      "Can the metronome sound be heard clearly without any distortion or noise interference?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the metronome visibly mechanical in design?",
+      "Does the metronome appear to have a visible pendulum or arm that moves back and forth?",
+      "Can the movement of the metronome's pendulum or arm be seen as consistent and rhythmic?",
+      "Are there visible markings or indicators on the metronome that suggest a tempo of 120 beats per minute?",
+      "Is the metronome's movement free from any visible signs of emotion or expression?",
+      "Does the metronome appear stationary except for the moving pendulum or arm?",
+      "Is the lighting on the metronome even, without dramatic shadows or highlights?"
+    ]
+  },
+  {
+    "prompt_en": "The car wiper operates at medium speed, and the rubber blade produces a repetitive \"swish-squeak, swish-squeak\" sound as it moves across the glass.",
+    "prompt_vision": "Car windshield wiper moving at medium speed across a wet windshield",
+    "prompt_audio": "Repetitive swish-squeak, swish-squeak sound of rubber wiper blade on glass",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a repetitive 'swish-squeak, swish-squeak' sound pattern matching the described car wiper operation?",
+      "Is the timing of the 'swish-squeak' sound consistent with a medium speed wiper blade movement?",
+      "Can the sound of the rubber blade be distinctly heard as it moves across the glass?",
+      "Is the pitch and timbre of the 'squeak' sound typical of rubber against glass?",
+      "Are the sounds synchronized with the visual movement of the wiper blade across the glass?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the car wiper visibly moving back and forth across the windshield?",
+      "Does the wiper blade appear to be in contact with the glass surface during its motion?",
+      "Is the wiper blade moving at a speed that is neither too fast nor too slow, suggesting medium speed?",
+      "Are there visible streaks or water displacement on the glass as the wiper moves?",
+      "Is the wiper blade's motion repetitive and consistent, indicating a regular pattern?"
+    ]
+  },
+  {
+    "prompt_en": "When the hand-crank sewing machine operates, the flywheel turns and the needle pierces through the fabric, producing a series of rhythmic \"click, click, click\" sounds.",
+    "prompt_vision": "A hand-crank sewing machine in operation, with the flywheel turning and the needle piercing through fabric.",
+    "prompt_audio": "Rhythmic clicking sounds: 'click, click, click'.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a rhythmic 'click, click, click' sound synchronized with the operation of the sewing machine?",
+      "Is the frequency of the 'click, click, click' sound consistent with the turning speed of the flywheel?",
+      "Can the sound of the needle piercing the fabric be distinctly heard during the operation?",
+      "Are the 'click, click, click' sounds free from unexpected noise or distortion?",
+      "Does the overall audio maintain a steady rhythm without abrupt interruptions or irregularities?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the flywheel visibly turning when the hand-crank sewing machine operates?",
+      "Does the needle visibly pierce through the fabric during the operation of the sewing machine?",
+      "Can the rhythmic motion of the sewing machine be observed as the needle moves up and down?",
+      "Are the hand-crank and flywheel connected in a way that allows the flywheel to turn when the crank is operated?",
+      "Is the fabric visibly positioned under the needle during the sewing machine's operation?",
+      "Will the sewing machine appear stationary when not in operation, with no movement of the flywheel or needle?"
+    ]
+  },
+  {
+    "prompt_en": "The hand saw moved back and forth in the wood, producing a rhythmic \"shush-shush\" friction sound.",
+    "prompt_vision": "A hand saw moving back and forth through a piece of wood.",
+    "prompt_audio": "Rhythmic 'shush-shush' friction sound of a saw cutting wood.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the sound of the hand saw moving back and forth have a rhythmic pattern?",
+      "Is there a friction sound resembling 'shush-shush' when the hand saw moves?",
+      "Can the audio maintain consistent timing with the back and forth motion of the saw?",
+      "Are the sounds produced by the saw synchronized with the visual motion of the saw?",
+      "Is the volume of the friction sound appropriate for the action of sawing wood?",
+      "Does the sound source position match the location of the hand saw in the video?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the hand saw visibly moving back and forth against the wood?",
+      "Does the wood show signs of being cut or scored by the saw?",
+      "Can the hand saw be seen in contact with the wood surface?",
+      "Are there visible wood shavings or dust being produced by the sawing action?",
+      "Is the hand saw held by a person or mechanism during the motion?",
+      "Does the saw blade appear to be in motion, indicating cutting activity?"
+    ]
+  },
+  {
+    "prompt_en": "The ancient waterwheel slowly turns, driven by the flowing water, its wooden structure emitting a periodic creaking sound—“squeak—groan—”",
+    "prompt_vision": "An ancient wooden waterwheel slowly turning as water flows over it.",
+    "prompt_audio": "Periodic creaking sounds: squeak, groan.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a periodic creaking sound synchronized with the turning of the waterwheel?",
+      "Is the creaking sound composed of distinct elements such as 'squeak' and 'groan' as described?",
+      "Can the sound of flowing water be heard consistently in the background to match the waterwheel's movement?",
+      "Are the creaking sounds emitted at intervals that align with the slow rotation of the waterwheel?",
+      "Is the timbre of the creaking sound consistent with a wooden structure?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the waterwheel visibly turning in the image or video?",
+      "Does the waterwheel have a wooden structure?",
+      "Can the flowing water be seen driving the waterwheel?",
+      "Are there visible signs of wear or age on the wooden structure of the waterwheel?",
+      "Is the motion of the waterwheel slow and steady?",
+      "Are the waterwheel's spokes or paddles clearly visible?"
+    ]
+  },
+  {
+    "prompt_en": "In the Newton's cradle experiment, when a steel ball at one end is lifted and released, it strikes the row of balls with a \"click,\" transferring energy through the line so that the ball at the other end swings out. As it swings back and hits the row again, another \"click\" sounds, creating a steady rhythm of \"click... click... click...\"",
+    "prompt_vision": "Steel ball lifted and released on Newton's cradle, strikes others, opposite ball swings out and back, repeating motion.",
+    "prompt_audio": "Distinct, rhythmic metallic clicks with consistent timing, each click corresponding to a collision in the Newton's cradle.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a distinct 'click' sound when the first steel ball strikes the row of balls?",
+      "Does the audio feature a rhythmic pattern of 'click... click... click...' as described?",
+      "Can the sound of the 'click' be heard clearly each time the ball at the end swings back and hits the row?",
+      "Are the 'click' sounds consistent in timing, matching the expected rhythm of the Newton's cradle?",
+      "Is the volume of each 'click' sound similar, indicating consistent energy transfer through the balls?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the steel ball at one end visibly lifted before being released?",
+      "Does the lifted steel ball strike the row of balls upon release?",
+      "Are the balls in the row aligned in a straight line?",
+      "Does the ball at the opposite end swing outward after energy is transferred?",
+      "Is the swinging ball at the opposite end visibly striking the row of balls upon its return?",
+      "Are the steel balls stationary except for the ones being lifted, released, or swinging?"
+    ]
+  },
+  {
+    "prompt_en": "A finger slid across a row of light switches, producing a series of crisp \"click, click, click, click\" sounds.",
+    "prompt_vision": "A finger sliding across a row of light switches",
+    "prompt_audio": "Crisp clicking sounds: click, click, click, click",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a series of distinct 'click' sounds corresponding to each light switch being activated?",
+      "Are the 'click' sounds evenly spaced, suggesting a consistent sliding motion across the switches?",
+      "Is the timbre of the 'click' sounds sharp and clear, indicating the mechanical action of light switches?",
+      "Can the audio convey the impression of multiple switches being toggled in sequence without overlapping sounds?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a finger visibly moving across a row of light switches?",
+      "Are the light switches aligned in a row?",
+      "Does each light switch appear to be in a different position after the finger passes over it?",
+      "Is the finger making contact with each light switch as it moves?",
+      "Are the light switches visibly changing position as the finger slides across them?"
+    ]
+  },
+  {
+    "prompt_en": "Popping the bubbles on bubble wrap with your fingers, producing a satisfying series of \"pop, pop, pop\" sounds.",
+    "prompt_vision": "Fingers pressing and popping bubbles on a sheet of bubble wrap",
+    "prompt_audio": "Satisfying series of popping sounds: pop, pop, pop",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include distinct 'pop' sounds corresponding to the action of popping bubbles on bubble wrap?",
+      "Are the 'pop' sounds consistent in timing with the visual finger movements on the bubble wrap?",
+      "Is the pitch and timbre of the 'pop' sounds appropriate for bubble wrap being popped?",
+      "Can the audio maintain clarity without distortion or noise interfering with the 'pop' sounds?",
+      "Are the 'pop' sounds spaced in a way that matches the expected rhythm of popping bubbles one by one with fingers?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there visible bubble wrap present in the image or video?",
+      "Are fingers shown pressing down on the bubble wrap?",
+      "Does the bubble wrap appear to be compressed or deformed where the fingers are pressing?",
+      "Can you see individual bubbles on the bubble wrap?",
+      "Are the fingers in motion, indicating the act of popping bubbles?",
+      "Is there visible deformation of bubbles indicating they have been popped?",
+      "Are the fingers positioned directly over the bubbles on the bubble wrap?"
+    ]
+  }
+]

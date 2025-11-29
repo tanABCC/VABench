@@ -1,0 +1,1256 @@
+[
+  {
+    "prompt_en": "In an urban flooding scenario, the ambient sound should include the sound of flowing water, distant vehicle engine noise, and occasional horn sounds, accompanied by echoes between buildings. The soundscape should convey the effect of sound waves reflecting off the water surface, with a timbre leaning toward deep, flowing water sounds and occasional metallic clinks. The volume should be moderate, emphasizing the continuous nature of the water flow along with occasional abrupt changes. Rhythmically, there should be irregular water movement sounds and sporadic object-dropping noises. The ambient sound should also incorporate distant footsteps of people and faint breathing sounds, reflecting the sense of spatial distance within the urban environment.",
+    "prompt_vision": "Urban flooding with water flowing through streets, surrounded by buildings, occasional objects floating or submerged, people walking at a distance.",
+    "prompt_audio": "Moderate-volume soundscape featuring deep, continuous flowing water with irregular rhythms, distant vehicle engines, sporadic horn honks, metallic clinks, echoing reflections between buildings and off water surfaces, faint distant footsteps, and very subtle breathing sounds conveying spatial depth.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include continuous flowing water sounds with a deep timbre?",
+      "Are there distant vehicle engine noises and occasional horn sounds present in the audio?",
+      "Is there evidence of echoes between buildings in the soundscape?",
+      "Can the audio convey the effect of sound waves reflecting off the water surface?",
+      "Are there sporadic metallic clinks and object-dropping noises included in the audio?",
+      "Does the audio feature distant footsteps and faint breathing sounds to reflect spatial distance?",
+      "Is the overall volume moderate, with emphasis on the continuous water flow and occasional abrupt changes?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there visible water flowing through the urban environment?",
+      "Are there vehicles visibly present in the scene, suggesting distant engine noise?",
+      "Can buildings be seen in the scene, implying echoes between them?",
+      "Are there objects visibly dropping into the water, suggesting sporadic noises?",
+      "Are there people visible in the distance, suggesting faint footsteps?",
+      "Is the water surface visibly reflecting light, suggesting sound waves reflecting off it?"
+    ]
+  },
+  {
+    "prompt_en": "On a busy city street, vehicles flow continuously, with car engines humming and occasional honking. The buildings along the sidewalks reflect subtle reverberations, while pedestrians' footsteps intertwine with sporadic bicycle bells. Faint construction noises drift from a distant building site, and leaves rustle gently in the breeze, adding natural ambient sounds. The overall soundscape should convey the city's vitality and a sense of spatial depth.",
+    "prompt_vision": "Busy city street, vehicles, buildings, pedestrians, bicycles, distant construction, trees rustling in breeze.",
+    "prompt_audio": "Continuous car engines humming, occasional honking, subtle reverberations from buildings, pedestrians' footsteps, sporadic bicycle bells, faint construction noises from a distance, and gentle rustling of leaves in the breeze, creating a vibrant and spatially deep urban soundscape.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the continuous hum of car engines present throughout the audio, reflecting the flow of vehicles?",
+      "Are occasional car honks audible, adding to the dynamic nature of the city street?",
+      "Is Do pedestrians' footsteps blend naturally into the soundscape, matching the described activity?",
+      "Can sporadic bicycle bell sounds be heard, complementing the pedestrian activity?",
+      "Are faint construction noises from a distant building site discernible, contributing to the spatial depth?",
+      "Is Do the leaves rustle gently in the breeze, providing a natural ambient sound layer?",
+      "Are subtle reverberations from the buildings along the sidewalks perceptible, enhancing the sense of spatial depth?"
+    ],
+    "auxiliary_info_vision": [
+      "Are vehicles visible moving continuously along the street?",
+      "Can pedestrians be seen walking on the sidewalks?",
+      "Are bicycles visible among the pedestrians or on the street?",
+      "Is there any visible construction activity or equipment in the distance?",
+      "Are leaves on trees or plants visibly rustling in the breeze?"
+    ]
+  },
+  {
+    "prompt_en": "A bustling city street scene with constant traffic noise, occasional car horns, and a clearly audible low-frequency rumble from buses. On the sidewalk, the sounds of footsteps and faint conversations blend together, while slight reverberation can be heard between distant buildings. The overall sound field conveys a sense of expansive urban space, with auditory distances matching the visual depth in the scene.",
+    "prompt_vision": "A bustling city street with traffic, buses, pedestrians on the sidewalk, and tall buildings creating visual depth.",
+    "prompt_audio": "Constant traffic noise, occasional car horns, low-frequency bus rumbles, footsteps, faint overlapping conversations, and slight reverberation between buildings conveying expansive urban space.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there constant traffic noise present throughout the scene?",
+      "Are occasional car horns audible in the audio?",
+      "Can a low-frequency rumble from buses be clearly heard?",
+      "Are the sounds of footsteps and faint conversations audible on the sidewalk?",
+      "Is there slight reverberation noticeable between distant buildings?",
+      "Does the overall sound field convey a sense of expansive urban space?",
+      "Is Do the auditory distances match the visual depth in the scene?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the city street visually depicted with a variety of vehicles, such as cars and buses, moving through the scene?",
+      "Are there pedestrians visible on the sidewalks, suggesting activity and movement in the urban environment?",
+      "Does the scene include tall buildings or structures that create a sense of depth and an expansive urban space?",
+      "Is the lighting in the scene consistent with an outdoor urban setting, such as daylight or streetlights, enhancing the realism of the environment?",
+      "Are textures like asphalt on the road, concrete on the sidewalks, and building facades detailed and visually clear to convey the urban atmosphere?"
+    ]
+  },
+  {
+    "prompt_en": "During the urban evening rush hour, the background audio includes vehicle engine noises, tire friction sounds, occasional horn beeps, distant low-frequency rumbles of passing airplanes, pedestrian footsteps, and faint, blurred ambient conversations. The sound field should convey spatial depth on both sides of the road, with volume varying according to distance and a strong rhythmic sense emphasizing traffic flow. Subtle wind noise and distant urban low-frequency hum are added to the environment, resulting in an overall warm timbre with moderate reverb.",
+    "prompt_vision": "Urban evening rush hour with vehicles moving along a road, pedestrians walking on sidewalks, and city buildings lining both sides under ambient evening light.",
+    "prompt_audio": "Vehicle engine noises, tire friction sounds, occasional horn beeps, distant low-frequency airplane rumbles, pedestrian footsteps, faint blurred ambient conversations, subtle wind noise, and a distant urban low-frequency hum; spatial depth on both sides of the road, volume varying by distance, strong rhythmic traffic flow, warm timbre, moderate reverb.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include vehicle engine noises with varying volume based on distance?",
+      "Are tire friction sounds present and synchronized with the implied movement of vehicles?",
+      "Does the audio feature occasional horn beeps that fit naturally within the urban rush hour context?",
+      "Can distant low-frequency rumbles of passing airplanes be heard intermittently in the background?",
+      "Are pedestrian footsteps audible and spatially distributed across the sound field?",
+      "Is there faint, blurred ambient conversation that contributes to the urban atmosphere?",
+      "Does the sound field convey spatial depth on both sides of the road with volume variations reflecting distance?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the visual representation of the urban evening rush hour accurately depicting a busy street with vehicles in motion and pedestrians walking along sidewalks?",
+      "Are the vehicles shown in the scene visually consistent with the rush hour setting, including varied types such as cars, buses, and motorcycles, with appropriate lighting and reflections?",
+      "Does the visual composition include spatial depth, with objects like buildings, streetlights, and distant elements on both sides of the road creating a sense of perspective?",
+      "Are the lighting conditions in the scene consistent with an evening setting, featuring warm tones, streetlights, and possibly headlights from vehicles?",
+      "Can the visual textures of the road, sidewalks, and surrounding urban elements convey realism, such as visible tire marks, worn pavement, or textured building surfaces?",
+      "Are the pedestrians and vehicles positioned in a way that visually emphasizes the flow and rhythm of traffic during rush hour?"
+    ]
+  },
+  {
+    "prompt_en": "On a major urban road, vehicles and motorcycles pass by, accompanied by the sound of tires screeching against the pavement and the roar of engines. In the distant ambient noise, faint bird calls and the rustling of leaves in the wind can be heard, along with occasional pedestrian footsteps and soft horn beeps. The soundscape should reflect reverberations from buildings on both sides of the road, with moderate reverb, conveying a sense of openness and spatial depth within the city environment.",
+    "prompt_vision": "A major urban road with vehicles and motorcycles moving past tall buildings on both sides, under an open sky.",
+    "prompt_audio": "Tires screeching on pavement, roaring engines, faint bird calls, rustling leaves in the wind, occasional pedestrian footsteps, soft horn beeps, and moderate reverberations from surrounding buildings conveying spatial depth.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of tires screeching against the pavement present and distinct in the audio?",
+      "Does the audio include the roar of engines as described in the prompt?",
+      "Can faint bird calls and the rustling of leaves in the wind be heard in the distant ambient noise?",
+      "Are occasional pedestrian footsteps audible in the soundscape?",
+      "Is there evidence of soft horn beeps occurring intermittently in the audio?",
+      "Does the audio reflect moderate reverberations from buildings, conveying a sense of openness and spatial depth?"
+    ],
+    "auxiliary_info_vision": [
+      "Are vehicles visible on the road?",
+      "Are motorcycles present on the road?",
+      "Is there visible movement of vehicles and motorcycles indicating they are passing by?",
+      "Are there buildings visible on both sides of the road?",
+      "Is there any visible indication of wind, such as leaves rustling?",
+      "Are pedestrians visible on the sidewalk or crossing the road?",
+      "Is there any visible indication of sound reverberation, such as echoes or reflections on buildings?"
+    ]
+  },
+  {
+    "prompt_en": "In the acoustic design of an urban restaurant, emphasis is placed on the natural reverberation of the indoor environment and soft background sounds—such as faint door creaks at the entrance, low-frequency traffic noise subtly seeping in, and the delicate clinking of cutlery and glasses intertwining. Human movement sounds, especially the subtle grip of hands on utensils and slight body adjustments with accompanying friction, lend a realistic sense of presence. Various sounds should accurately reflect volume changes according to distance, creating an intimate yet natural sound field that conveys the relaxed ambiance of the space.",
+    "prompt_vision": "An urban restaurant interior with natural lighting, wooden tables, and patrons engaged in quiet conversation, emphasizing spatial layout that supports acoustic intimacy.",
+    "prompt_audio": "Soft background sounds including faint door creaks, low-frequency traffic noise, delicate clinking of cutlery and glasses, subtle hand grip sounds on utensils, slight body movement friction, all with realistic distance-based volume variation to create an intimate, relaxed ambiance.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include faint door creaks at the entrance that are audible but not overpowering?",
+      "Is there low-frequency traffic noise subtly seeping into the audio, maintaining a soft background presence?",
+      "Can the delicate clinking of cutlery and glasses be heard, intertwining naturally within the soundscape?",
+      "Are human movement sounds, such as the subtle grip of hands on utensils, present in the audio?",
+      "Does the audio include slight body adjustments with accompanying friction sounds, contributing to a realistic sense of presence?",
+      "Will the audio accurately reflect volume changes according to distance, creating an intimate yet natural sound field?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the lighting in the restaurant designed to complement the natural reverberation, with soft, ambient illumination enhancing the visual atmosphere?",
+      "Are the textures of the restaurant's interior surfaces visually consistent with the acoustic emphasis, such as smooth walls that might reflect sound subtly?",
+      "Does the composition of the restaurant space visually suggest areas where human movement sounds, like the grip of hands on utensils, would naturally occur?",
+      "Can the spatial arrangement of tables and chairs visually imply a relaxed ambiance, with enough space for subtle body adjustments and interactions?",
+      "Are the visual elements, such as the entrance door, designed to suggest faint creaks, with materials and design that visually indicate potential sound sources?",
+      "Will the visual quality of the restaurant's interior, including the arrangement of cutlery and glasses, suggest delicate clinking sounds through their placement and materials?"
+    ]
+  },
+  {
+    "prompt_en": "On a city street, a fire truck speeds along, accompanied by the prolonged wail of its siren and the screech of tires against the pavement. Ambient sounds include distant engine rumbles, occasional horn blasts, and a faint breeze. The sound field should convey the movement of the fire truck, with the siren gradually approaching, passing by, and fading into the distance, featuring moderate reverb to match the open spatial acoustics of the urban street.",
+    "prompt_vision": "A fire truck speeding along a city street.",
+    "prompt_audio": "Prolonged wail of a fire truck siren with screeching tires, distant engine rumbles, occasional horn blasts, and a faint breeze. The siren sound moves from approaching to passing by to fading into the distance, with moderate reverb matching open urban street acoustics.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the prolonged wail of the fire truck's siren?",
+      "Is there a screeching sound of tires against the pavement as the fire truck speeds along?",
+      "Are there ambient sounds of distant engine rumbles present in the audio?",
+      "Does the sound field convey the movement of the fire truck by having the siren gradually approach, pass by, and fade into the distance?",
+      "Is there moderate reverb in the audio to match the open spatial acoustics of the urban street?",
+      "Are there occasional horn blasts included in the ambient sounds?",
+      "Is there a faint breeze audible in the background of the audio?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a fire truck visible on the city street?",
+      "Does the fire truck appear to be moving quickly along the street?",
+      "Are the tires of the fire truck visibly screeching against the pavement?",
+      "Is the fire truck's siren visually implied to be active, suggesting sound emission?",
+      "Can the motion of the fire truck be inferred as approaching, passing by, and then moving away?",
+      "Are there visible signs of urban street elements, such as buildings or pavement, to suggest an open spatial environment?"
+    ]
+  },
+  {
+    "prompt_en": "The magnificent fireworks display bursting in the night sky creates a vast soundscape with explosive booms and their subsequent echoes. The detonations produce cracking sounds of varying timbres—sometimes rapid, sometimes deep or sharp—forming a richly layered auditory rhythm. Background sounds include distant cheers and a faint breeze, conveying the openness of the urban space. No spoken language is present, preserving the environment's pure, natural effect.",
+    "prompt_vision": "Magnificent fireworks bursting in the night sky over an urban area.",
+    "prompt_audio": "Explosive booms with echoing cracks of varying timbres—rapid, deep, and sharp—forming a layered rhythm, accompanied by distant cheers and a faint breeze; no spoken language.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include explosive booms that match the visual bursts of fireworks?",
+      "Are there echoes following the explosive booms, contributing to the soundscape?",
+      "Is there a variety of cracking sounds with different timbres, such as rapid, deep, or sharp?",
+      "Can distant cheers be heard in the background, indicating human presence?",
+      "Is there a faint breeze audible, suggesting an open urban space?",
+      "Are the explosive sounds and echoes synchronized with the visual display of fireworks?",
+      "Is there an absence of spoken language, maintaining the natural auditory environment?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there visible fireworks bursting in the night sky?",
+      "Is there a variety of colors visible in the fireworks display?",
+      "Do the fireworks create visible light patterns in the sky?",
+      "Is the sky dark, indicating it is nighttime?",
+      "Are there visible sparks or trails following the fireworks explosions?",
+      "Is there a sense of depth in the fireworks display, with some bursts appearing closer or further away?",
+      "Are there visible reflections of the fireworks on any nearby surfaces, such as water or buildings?"
+    ]
+  },
+  {
+    "prompt_en": "In the vast urban night sky, brilliant fireworks continuously burst, each explosion accompanied by a powerful low-frequency rumble and sharp high-frequency cracks. The sounds of fireworks echo among city buildings, creating a sense of spatial distance. Occasional faint breezes and spectators' gasps pass by, forming a rich sound field. The audio landscape reveals depth: the nearby firework sounds are clear and strong, while those farther away are softer yet expansive.",
+    "prompt_vision": "Brilliant fireworks bursting in the vast urban night sky above city buildings.",
+    "prompt_audio": "Powerful low-frequency rumbles and sharp high-frequency cracks from fireworks, echoing among city buildings; nearby explosions are clear and strong, distant ones softer and expansive; occasional faint breezes and spectators' gasps adding depth to the soundscape.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Are the low-frequency rumbles present and synchronized with each firework explosion?",
+      "Is Do the high-frequency cracks occur simultaneously with the visual bursts of fireworks?",
+      "Can the echoes of fireworks be heard reflecting off city buildings, creating a sense of spatial distance?",
+      "Are occasional faint breezes audible, contributing to the sound field?",
+      "Will spectators' gasps be heard intermittently, adding to the audio landscape?",
+      "Is there a noticeable difference in volume between nearby and distant fireworks, with nearby sounds being clearer and stronger?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there visible fireworks bursting in the night sky?",
+      "Do the fireworks display a variety of colors in their explosions?",
+      "Is there a visible contrast between the bright fireworks and the dark urban night sky?",
+      "Can the fireworks be seen reflecting off nearby city buildings?",
+      "Are there visible spectators watching the fireworks display?",
+      "Is there any visible movement in the trees or flags indicating a faint breeze?",
+      "Do the fireworks appear to vary in size or intensity, suggesting different distances?"
+    ]
+  },
+  {
+    "prompt_en": "This is a photo showing the inside of a furnace, with flames burning and tools and equipment surrounding it.",
+    "prompt_vision": "Inside of a furnace with flames burning, surrounded by tools and equipment.",
+    "prompt_audio": "roaring fire and faint clinking of metal tools",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a sound of flames burning inside the furnace?",
+      "Are the sounds of tools and equipment present in the audio?",
+      "Does the audio maintain a consistent sound level that matches the intensity of flames burning?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there visible fire or flames inside the furnace?",
+      "Are there tools or equipment visible near the furnace?",
+      "Is the furnace clearly identifiable as the central object in the image?",
+      "Are the flames emitting light that illuminates the surrounding area?",
+      "Are the tools or equipment positioned in a way that suggests they are used for working with the furnace?"
+    ]
+  },
+  {
+    "prompt_en": "In an ancient pottery workshop, the furnace fire crackles softly, occasionally punctuated by the clear clink of ceramics touching. The indoor soundscape is filled with warm reverberations, as the sound of flames bounces off the brick walls, creating a calm and focused atmosphere. Faintly audible in the background, the whisper of wind comes through the window, enhancing the sense of quiet within.",
+    "prompt_vision": "An ancient pottery workshop with a furnace, brick walls, and a window letting in a faint breeze.",
+    "prompt_audio": "Soft crackling fire, occasional clear clinks of ceramics, warm reverberations off brick walls, and faint whispering wind through a window.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the soft crackling sound of the furnace fire at regular intervals?",
+      "Are the clear clinks of ceramics touching audible and distinct within the soundscape?",
+      "Can the warm reverberations of the flames be heard bouncing off the brick walls, contributing to the atmosphere?",
+      "Is the whisper of wind faintly audible in the background, adding to the sense of quiet?",
+      "Does the overall audio create a calm and focused atmosphere as described?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visible furnace with flames inside the pottery workshop?",
+      "Are there ceramic objects visibly touching or stacked in the workshop?",
+      "Can the brick walls of the workshop be seen in the image or video?",
+      "Is there a window visible in the workshop that suggests the presence of wind?",
+      "Does the lighting in the workshop appear warm, suggesting the glow from the furnace fire?"
+    ]
+  },
+  {
+    "prompt_en": "On the city streets at night, vehicles move incessantly, accompanied by engine roars and tire friction against the pavement. Faint wind sounds and distant urban ambient noise occasionally emerge between tall buildings. The soundscape should convey a dynamic sense of rapid vehicle movement, with reverb appropriate for an open urban environment, and timbres incorporating metallic textures and low-frequency rumbles. Volume should vary according to the proximity of vehicles, rhythm driven by their continuous flow, and background elements including faint distant horn sounds and occasional gusts of wind.",
+    "prompt_vision": "City streets at night with vehicles moving continuously between tall buildings, wet or dry pavement reflecting lights, no visible people, dynamic motion blur suggesting speed.",
+    "prompt_audio": "Engine roars, tire friction on pavement, low-frequency rumbles, metallic textures, varying volume based on vehicle proximity, rhythmic flow of traffic, distant faint horns, occasional gusts of wind, urban ambient noise with open-space reverb.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a continuous sound of engine roars and tire friction against the pavement?",
+      "Does the audio include faint wind sounds and distant urban ambient noise between the buildings?",
+      "Can the soundscape convey a dynamic sense of rapid vehicle movement with appropriate reverb for an open urban environment?",
+      "Are there metallic textures and low-frequency rumbles present in the audio?",
+      "Does the volume of the audio vary according to the proximity of vehicles?",
+      "Is there a rhythm driven by the continuous flow of vehicles?",
+      "Are there faint distant horn sounds and occasional gusts of wind included in the background elements?"
+    ],
+    "auxiliary_info_vision": [
+      "Are vehicles visibly moving on the city streets at night?",
+      "Is there visible tire friction against the pavement?",
+      "Can the vehicles be seen moving rapidly?",
+      "Are there visible tall buildings in the background?",
+      "Is there visible wind movement, such as leaves or debris being blown?"
+    ]
+  },
+  {
+    "prompt_en": "On an outdoor wooden tabletop, several people are preparing a fresh vegetable salad. The crisp sound of a knife cutting vegetables can be heard, along with occasional soft thuds as vegetables drop onto the cutting board. A gentle breeze rustles the leaves nearby, and faint city background noise can be heard in the distance. The soundscape should convey a sense of open outdoor space, with natural and clear audio quality, moderate volume, and rhythm varying in sync with the chopping motions.",
+    "prompt_vision": "Several people preparing a fresh vegetable salad on an outdoor wooden tabletop.",
+    "prompt_audio": "Crisp knife chopping vegetables, occasional soft thuds of vegetables hitting the cutting board, gentle breeze rustling leaves, faint distant city background noise; natural and clear audio quality, moderate volume, rhythm varying with chopping motions.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of a knife cutting vegetables crisp and clear?",
+      "Are there occasional soft thuds audible as vegetables drop onto the cutting board?",
+      "Can the gentle rustling of leaves be heard, indicating a breeze?",
+      "Is there faint city background noise audible in the distance?",
+      "Does the audio convey a sense of open outdoor space with natural sound quality?",
+      "Is the volume of the audio moderate, neither too loud nor too quiet?",
+      "Does the rhythm of the chopping sounds vary in sync with the chopping motions?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there visible vegetables on the wooden tabletop?",
+      "Is there a knife visibly cutting vegetables on the cutting board?",
+      "Are there people visibly engaged in preparing the salad?",
+      "Is there visible motion of vegetables being dropped onto the cutting board?",
+      "Are the leaves visibly rustling due to a gentle breeze?",
+      "Is the tabletop clearly made of wood?",
+      "Are the people visibly outdoors?"
+    ]
+  },
+  {
+    "prompt_en": "In a traditional brick pizza oven, flames burn vigorously, crackling brightly as the sound of burning wood echoes within the enclosed space, creating a warm reverberation. The acoustic environment inside the oven should reflect the dynamic fluctuations of the flames, accompanied occasionally by the snapping sounds of splitting wood. As the pizza bakes at high temperature, the dough slightly puffs up with faint sizzling sounds, producing an overall timbre that is warm and rich in layers.",
+    "prompt_vision": "Flames burning vigorously in a traditional brick pizza oven, with pizza dough puffing slightly as it bakes.",
+    "prompt_audio": "Crackling flames, echoing wood fire with warm reverberation, occasional snapping of splitting wood, and faint sizzling from baking pizza dough, creating a rich, layered, warm timbre.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the sound of flames burning vigorously with a bright crackling noise?",
+      "Is there an echo effect that reflects the enclosed space of the brick pizza oven?",
+      "Are there occasional snapping sounds that resemble splitting wood?",
+      "Does the audio capture the faint sizzling sounds of the pizza dough as it puffs up?",
+      "Is the overall timbre of the audio warm and rich in layers, reflecting the dynamic fluctuations of the flames?"
+    ],
+    "auxiliary_info_vision": [
+      "Are flames visible burning vigorously inside the brick pizza oven?",
+      "Is the brick pizza oven visibly traditional in design?",
+      "Does the dough appear slightly puffed up as it bakes?",
+      "Are the flames bright and casting light within the oven?",
+      "Is the wood visibly burning or splitting inside the oven?",
+      "Can the pizza dough be seen baking at a high temperature?"
+    ]
+  },
+  {
+    "prompt_en": "On the steps of a city street, a gentle breeze rustles the leaves, and occasionally pedestrians pass by, their shoes softly tapping against the stone steps. In the distance, a low rumble of passing vehicles can be heard. The light in front of the door flickers faintly, and now and then birds chirp among the branches, creating a serene yet lively soundscape. The ambient sound should include slight urban background noise, with moderate reverb to convey the openness of the street.",
+    "prompt_vision": "Stone steps on city street, flickering light by door, trees rustling in breeze, pedestrians passing, open urban setting.",
+    "prompt_audio": "Gentle breeze rustling leaves, soft tapping of shoes on stone steps, distant low rumble of vehicles, occasional bird chirps, slight urban background noise, moderate reverb.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a gentle rustling sound of leaves consistent with a breeze?",
+      "Can the sound of pedestrians' shoes softly tapping against stone steps be heard occasionally?",
+      "Is there a low rumble of passing vehicles audible in the distance?",
+      "Is Do the birds chirp among the branches at intervals?",
+      "Is there a faint flickering sound associated with the light in front of the door?",
+      "Does the ambient sound include slight urban background noise?",
+      "Is there moderate reverb present to convey the openness of the street?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there leaves visibly moving as if rustled by a gentle breeze?",
+      "Are pedestrians shown walking on the stone steps with their shoes visibly tapping against them?",
+      "Is there a light in front of the door that flickers faintly?",
+      "Are birds visible among the branches in the scene?",
+      "Are the stone steps clearly depicted as part of the city street setting?"
+    ]
+  },
+  {
+    "prompt_en": "In a warm kitchen environment, a soft baking sound comes from the oven, accompanied by faint electrical hums and occasional light metallic clicks. The soundscape should convey the enclosed and distant quality of the oven's interior, with minimal reverb. Faint background kitchen ambient sounds, such as distant running water or subtle footsteps, can be heard, creating a serene and focused baking atmosphere.",
+    "prompt_vision": "A warm kitchen with an oven in use, no visible activity other than baking inside the closed oven.",
+    "prompt_audio": "Soft baking sounds from inside an oven, faint electrical hums, occasional light metallic clicks, minimal reverb, distant running water, subtle footsteps, overall serene and focused kitchen ambiance.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a soft baking sound that conveys an enclosed and distant quality, matching the oven's interior?",
+      "Are faint electrical hums present in the audio, consistent with the operation of kitchen appliances?",
+      "Does the audio include occasional light metallic clicks that align with the described oven activity?",
+      "Is the soundscape free from excessive reverb, maintaining the minimal reverb quality described in the prompt?",
+      "Are faint background kitchen ambient sounds, such as distant running water or subtle footsteps, included in the audio?",
+      "Does the overall audio convey a serene and focused baking atmosphere as described in the prompt?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there an oven visible in the kitchen environment?",
+      "Are there any visible signs of baking activity, such as rising dough or baked goods inside the oven?",
+      "Is the lighting in the kitchen warm, suggesting a cozy atmosphere?",
+      "Are there any visible kitchen appliances or utensils that suggest a baking process is occurring?",
+      "Is there any visible steam or heat haze near the oven, indicating it is in use?",
+      "Are there any visible signs of a serene atmosphere, such as a lack of clutter or calm lighting?",
+      "Is the oven door closed, suggesting the baking is happening inside?"
+    ]
+  },
+  {
+    "prompt_en": "Observe a scene of multiple loaves of bread placed inside an oven.",
+    "prompt_vision": "Multiple loaves of bread placed inside an oven.",
+    "prompt_audio": "gentle hum of oven and faint crackling of baking bread",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a sound of the oven door closing or opening when the scene begins or ends?",
+      "Does the audio include the sound of the oven operating, such as a hum or fan noise?",
+      "Can you hear the subtle crackling or popping sounds of bread baking inside the oven?",
+      "Are the sounds of the oven consistent with the expected position of the oven in the scene?",
+      "Is there an absence of loud or unrelated noises that would distract from the baking process?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there multiple loaves of bread visible inside the oven?",
+      "Is the oven door closed in the scene?",
+      "Can the loaves of bread be seen positioned on a baking tray or rack inside the oven?",
+      "Is there visible heat or light emanating from the oven indicating it is turned on?",
+      "Are the loaves of bread evenly spaced inside the oven?"
+    ]
+  },
+  {
+    "prompt_en": "This is a photo taken inside a cabin, through the door you can see the deck and blue sky outside.",
+    "prompt_vision": "Photo taken inside a cabin, view through the door showing a deck and blue sky outside.",
+    "prompt_audio": "faint but harmonious sound",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a noticeable absence of wind or outdoor noise when the scene is described as inside a cabin?",
+      "Does the audio maintain a consistent quietness, implying the stillness of the cabin interior?",
+      "Are any sounds of footsteps or movement inside the cabin subdued or muffled, suggesting a tranquil indoor environment?",
+      "Is there a lack of prominent outdoor sounds, such as birds or traffic, when viewing the deck and blue sky through the door?",
+      "Does the audio avoid any sudden loud noises, maintaining the peacefulness suggested by the cabin setting?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visible door in the image leading to the outside?",
+      "Can you see a deck through the door?",
+      "Is the sky visible through the door and is it blue?",
+      "Are there wooden elements in the cabin interior, such as walls or furniture?",
+      "Does the lighting inside the cabin suggest daylight coming from outside?",
+      "Are there any objects or furniture visible on the deck?"
+    ]
+  },
+  {
+    "prompt_en": "In a quiet office environment, the mechanical sounds of the printer are clearly audible, accompanied by faint paper friction and button clicks. Faint air conditioning hum and occasional keyboard tapping can be heard in the background, creating an atmosphere typical of a modern workspace. The sound field should convey a sense of distance between the printer and the operator, with moderate reverb to reflect the characteristics of the indoor space.",
+    "prompt_vision": "A quiet modern office with a printer, desk, and computer workstation.",
+    "prompt_audio": "Mechanical printer sounds, faint paper friction, button clicks, distant air conditioning hum, occasional keyboard tapping, moderate reverb, sense of distance between printer and operator",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Are the mechanical sounds of the printer clearly audible and distinct from other background noises?",
+      "Does the audio include faint paper friction sounds synchronized with the printer's operation?",
+      "Are button clicks audible and appropriately timed with the printer's usage?",
+      "Is there a faint hum from the air conditioning consistently present in the background?",
+      "Can occasional keyboard tapping be heard at irregular intervals, distinct from the printer sounds?",
+      "Does the sound field convey a sense of distance between the printer and the operator through spatial audio cues?",
+      "Is there moderate reverb in the audio to reflect the indoor characteristics of the office space?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the printer visually depicted with mechanical parts in motion, such as rollers or trays, to suggest operation?",
+      "Are sheets of paper shown emerging from the printer, with visible friction or movement to indicate printing activity?",
+      "Can the office environment be seen with typical workspace elements, such as desks, chairs, computers, and lighting consistent with indoor settings?",
+      "Are spatial relationships between the printer and the operator visually clear, with a noticeable distance between them in the composition?",
+      "Does the lighting in the scene reflect a typical indoor office setup, with moderate brightness and no harsh shadows?",
+      "Are textures and details of the printer and surrounding objects rendered clearly, showing a modern and realistic office aesthetic?"
+    ]
+  },
+  {
+    "prompt_en": "In a quiet indoor setting, the background features open books and items on a desk, creating an atmosphere of immersion in study or work. The ambient sounds include faint rustling of pages, the sound of pen writing on paper, and occasional keyboard keystrokes. The sound field should convey a sense of indoor space with slight reverb, soft timbre, moderate volume, and steady rhythm, suitable for prolonged concentration. There is no human voice or spoken content—only ambient sounds and subtle object movements.",
+    "prompt_vision": "Open books and various items arranged on a desk in a quiet indoor setting, suggesting an atmosphere of focused study or work.",
+    "prompt_audio": "Faint rustling of pages, soft pen writing on paper, occasional keyboard keystrokes; indoor ambient sounds with slight reverb, soft timbre, moderate volume, and steady rhythm; no human voice or spoken content.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a faint rustling sound of pages turning in the background?",
+      "Can the sound of a pen writing on paper be heard intermittently?",
+      "Are there occasional keyboard keystrokes audible in the audio?",
+      "Does the sound field convey a sense of indoor space with slight reverb?",
+      "Is the overall timbre of the ambient sounds soft and conducive to concentration?",
+      "Is the volume of the ambient sounds moderate, avoiding any sudden loud noises?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there open books visible on the desk in the background?",
+      "Does the desk feature items such as stationery or other objects typically associated with study or work?",
+      "Is the indoor setting visually quiet, with no visible signs of large movements or disruptions?",
+      "Are the open books positioned in a way that suggests they are being used or referenced?",
+      "Is the lighting soft and consistent, suitable for a concentrated indoor atmosphere?"
+    ]
+  },
+  {
+    "prompt_en": "Inside a spacious library, the space between wooden floors and bookshelves carries a subtle reverberation. The ambient sounds include faint rustling of pages in the distance, occasional footsteps, and slight scraping noises between shelves. The sound field exhibits spatial depth, with overall low volume creating a quiet atmosphere. The rhythm is slow, the timbre soft, consistent with natural indoor acoustic effects.",
+    "prompt_vision": "Spacious library with wooden floors and bookshelves, empty or sparsely occupied, soft ambient lighting.",
+    "prompt_audio": "Faint rustling of pages, occasional quiet footsteps, subtle scraping sounds between shelves, low-volume ambient noise with soft timbre and slow rhythm, natural indoor reverberation.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include faint rustling of pages that matches the described quiet atmosphere?",
+      "Are occasional footsteps audible with a soft timbre and consistent with the described wooden floor?",
+      "Does the audio include slight scraping noises between shelves that align with the spatial depth of the sound field?",
+      "Is there a subtle reverberation present in the audio, consistent with the spacious library environment?",
+      "Does the overall sound field exhibit spatial depth, with sounds positioned appropriately to create a sense of distance?",
+      "Is the overall volume of the audio low, maintaining the quiet atmosphere described in the prompt?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the library depicted as spacious with visible wooden floors and bookshelves?",
+      "Are there visible bookshelves in the library scene?",
+      "Is the lighting in the library soft, suggesting a quiet atmosphere?",
+      "Are there people visible in the library, possibly engaged in activities like reading or walking?",
+      "Is the library scene free of any visible motion suggesting a calm and quiet environment?"
+    ]
+  },
+  {
+    "prompt_en": "In a kitchen setting, there are faint sounds of the range hood operating and occasional clinking of kitchen utensils. Soft friction noises from turning dough can be heard, along with crisp sounds of a metal spatula touching the iron griddle. The ambient sound includes subtle indoor reverberation, reflecting the enclosed nature of the kitchen space.",
+    "prompt_vision": "A kitchen with a range hood, kitchen utensils, dough being turned, and a metal spatula on an iron griddle.",
+    "prompt_audio": "Faint range hood hum, occasional clinking of utensils, soft dough-turning friction, crisp metal spatula-on-griddle sounds, subtle indoor reverberation.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a faint sound of the range hood operating in the background?",
+      "Are there occasional clinking sounds of kitchen utensils?",
+      "Can soft friction noises be heard when dough is being turned?",
+      "Does the sound of a metal spatula touching the iron griddle have a crisp quality?",
+      "Is there subtle indoor reverberation present, indicating the enclosed nature of the kitchen space?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there visible dough being turned or manipulated by hand or a tool?",
+      "Is there a metal spatula visibly touching or interacting with an iron griddle?",
+      "Are there kitchen utensils visibly present in the scene?",
+      "Is the range hood visibly installed and operating in the kitchen setting?",
+      "Is the kitchen setting enclosed, with walls or cabinets visible to suggest an indoor space?"
+    ]
+  },
+  {
+    "prompt_en": "In a serene indoor space, a white cat moves lightly across a piano, possibly producing faint wooden resonance from the piano's surface. The room features soft ambient sounds, such as distant urban low-frequency noise and occasional gusts of wind. The sound field should convey the depth of the piano and the spaciousness of the room, with moderate reverb to create a comfortable indoor atmosphere. The cat's movement sounds should be synchronized with the visuals, including gentle footsteps and occasional light taps of its paws on the piano surface.",
+    "prompt_vision": "A white cat moves lightly across a piano in a serene indoor space.",
+    "prompt_audio": "Faint wooden resonance from the piano surface, soft ambient sounds including distant urban low-frequency noise and occasional gusts of wind, gentle cat footsteps and light paw taps synchronized with movement, moderate reverb conveying room spaciousness and piano depth.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of the cat's gentle footsteps synchronized with its movement across the piano in the video?",
+      "Does the audio include faint wooden resonance from the piano's surface as the cat moves across it?",
+      "Are the soft ambient sounds, such as distant urban low-frequency noise, present in the audio?",
+      "Can occasional gusts of wind be heard in the audio, contributing to the ambient soundscape?",
+      "Is there moderate reverb in the audio that conveys the spaciousness of the room?",
+      "Does the sound field convey the depth of the piano, enhancing the indoor atmosphere?",
+      "Are the light taps of the cat's paws on the piano surface audible and synchronized with the visuals?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a white cat visible in the scene?",
+      "Is the cat moving across the piano?",
+      "Are the cat's paws making contact with the piano surface?",
+      "Is the piano visible in the room?",
+      "Is the room depicted as spacious?",
+      "Does the cat appear to move lightly and gracefully?",
+      "Is the indoor space portrayed as serene?"
+    ]
+  },
+  {
+    "prompt_en": "In a quiet indoor office environment, the printer is operating, emitting faint mechanical sounds accompanied by the rustling of paper. In the background, there are soft keystrokes and occasional mouse clicks, creating an atmosphere of focused work. The room's acoustics feature moderate reverberation, reflecting the materials of walls and furniture. Faint city ambient sounds, such as distant traffic and occasional bird chirps, can be heard through the window, adding to the sense of spatial realism.",
+    "prompt_vision": "Indoor office: printer operating, paper moving, person typing with mouse, furniture, walls, window showing cityscape.",
+    "prompt_audio": "Faint mechanical sounds of a printer, rustling paper, soft keystrokes, occasional mouse clicks, moderate reverberation, distant traffic noise, and occasional bird chirps.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the printer emitting faint mechanical sounds consistent with its operation?",
+      "Are there rustling paper sounds accompanying the printer's operation?",
+      "Are soft keystrokes audible in the background, indicating focused work?",
+      "Are occasional mouse clicks present, contributing to the work atmosphere?",
+      "Is there moderate reverberation in the room's acoustics, reflecting the indoor environment?",
+      "Can faint city ambient sounds, such as distant traffic, be heard through the window?",
+      "Are occasional bird chirps audible, adding to the sense of spatial realism?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a printer visibly operating with paper moving through it?",
+      "Are there people visibly typing on keyboards or using a mouse in the background?",
+      "Is the office environment depicted as quiet with no visible signs of loud activity?",
+      "Are the windows shown in the scene closed, suggesting faint city sounds can be heard?",
+      "Is the lighting in the office consistent with an indoor setting, without harsh shadows or bright sunlight?",
+      "Are the walls and furniture materials visually consistent with moderate reverberation, such as hard surfaces?",
+      "Is there a visible indication of an urban environment outside the window, like distant buildings or traffic?"
+    ]
+  },
+  {
+    "prompt_en": "In a modern office, a printer is operating, producing faint mechanical sounds and the rustling of paper. The environment includes subtle noises from an air conditioner and keyboard typing, with acoustic reverberation typical of an indoor space. The sources and perceived distances of the sounds correspond accurately to the positions of the equipment and objects in the scene.",
+    "prompt_vision": "A modern office with a printer, air conditioner, and keyboard on desks, with paper near the printer.",
+    "prompt_audio": "Faint mechanical sounds from a printer, rustling paper, subtle air conditioner hum, and keyboard typing, with indoor acoustic reverberation; sound sources and distances match object positions.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the audio of the printer producing faint mechanical sounds consistent with its operation in the scene?",
+      "Does the rustling of paper sound appropriately faint and match the operation of the printer?",
+      "Are the subtle noises from the air conditioner present and consistent with its operation in a modern office?",
+      "Is the sound of keyboard typing audible and does it match the expected acoustic reverberation of an indoor office space?",
+      "Can the perceived distances of the printer, air conditioner, and keyboard typing sounds be accurately determined based on their positions in the scene?",
+      "Is there an appropriate level of acoustic reverberation present in the audio to suggest an indoor office environment?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a printer visible in the modern office scene?",
+      "Does the printer appear to be operating, with paper visibly emerging from it?",
+      "Are there visible papers being produced by the printer in the scene?",
+      "Is there an air conditioner visible in the office environment?",
+      "Are there keyboards visible in the office, suggesting typing activity?",
+      "Is the spatial layout of the equipment consistent with their expected positions in a modern office?"
+    ]
+  },
+  {
+    "prompt_en": "In a modern laboratory setting, printers and computers are in operation, with faint mechanical hums and keyboard tapping in the background. The soundscape should reflect the indoor spatial acoustics with slight reverberation. Occasional sounds of laboratory equipment powering on and paper feeding through the printer are present at moderate volume, maintaining a steady rhythm that matches the orderly atmosphere of the lab.",
+    "prompt_vision": "A modern laboratory with operating printers and computers, featuring clean surfaces, organized equipment, and a controlled, orderly environment.",
+    "prompt_audio": "Faint mechanical hums, rhythmic keyboard tapping, occasional laboratory equipment power-on sounds, and moderate-volume paper feeding through a printer, all with slight indoor reverberation.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a faint mechanical hum present in the background, consistent with the operation of printers and computers?",
+      "Does the audio include keyboard tapping sounds that are audible but not overpowering, matching the background activity?",
+      "Are there occasional sounds of laboratory equipment powering on, distinct and moderate in volume?",
+      "Can the sound of paper feeding through the printer be heard, maintaining a steady rhythm?",
+      "Is there a slight reverberation in the audio that reflects the indoor spatial acoustics of a modern laboratory setting?",
+      "Are the sounds of equipment and paper feeding synchronized with the orderly atmosphere of the lab?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visible printer in operation with paper feeding through it?",
+      "Are there computers visible in the laboratory setting?",
+      "Is there any laboratory equipment that appears to be powered on?",
+      "Are the printers and computers arranged in a modern laboratory setting?",
+      "Is there any visible indication of a steady and orderly atmosphere in the lab, such as organized equipment or workstations?"
+    ]
+  },
+  {
+    "prompt_en": "Amid the towering buildings of the city at night, a gentle breeze blows, carrying faint echoes of urban bustle from afar, occasionally punctuated by the distant sound of passing cars. In the open spaces between the skyscrapers, the wind echoes among the structures, creating a subtle reverberation. Atop one of the buildings, the swimming pool ripples softly against its edges, accompanied by the shimmering lights of the distant cityscape, evoking a serene yet vibrant nocturnal atmosphere.",
+    "prompt_vision": "Nighttime cityscape with towering skyscrapers, shimmering distant lights, and a rooftop swimming pool gently rippling against its edges.",
+    "prompt_audio": "Faint echoes of urban bustle, distant passing cars, and subtle wind reverberations between buildings.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include faint echoes of urban bustle that align with the described distant city activity?",
+      "Are the sounds of passing cars occasionally audible and appropriately distant as described?",
+      "Can the gentle breeze be heard softly without overpowering other elements in the audio?",
+      "Are the rippling sounds of the swimming pool present and consistent with the described soft movement of water?",
+      "Does the overall audio maintain a serene yet vibrant nocturnal atmosphere as implied by the prompt?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the scene set in a city with towering buildings visible in the background?",
+      "Are the buildings illuminated by lights that create a shimmering cityscape?",
+      "Does the swimming pool atop one of the buildings have visible ripples against its edges?",
+      "Is there a subtle reverberation in the air due to the wind echoing between the structures?",
+      "Are the surroundings illuminated by the lights of the city, giving the scene a vibrant nocturnal atmosphere?",
+      "Is the wind blowing gently, causing the ripples in the swimming pool?",
+      "Is there a clear sense of stillness with occasional distant sounds of passing cars?"
+    ]
+  },
+  {
+    "prompt_en": "In a warm indoor setting, there is a metal bell on a table, surrounded by soft lighting with a festive atmosphere. The bell produces a crisp sound with a slight metallic resonance, the sound field close to the scene and at a moderate volume. Background ambient sounds include faint indoor reverberation, distant light footsteps, and occasional clinks of objects, creating an overall serene and cozy atmosphere.",
+    "prompt_vision": "A metal bell on a table in a warmly lit indoor setting with soft lighting and a festive atmosphere.",
+    "prompt_audio": "Crisp bell sound with slight metallic resonance, moderate volume, close sound field, faint indoor reverberation, distant light footsteps, and occasional clinks of objects.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the bell produce a crisp sound with a slight metallic resonance when it is rung?",
+      "Is the sound field of the bell close to the scene, indicating proximity to the listener?",
+      "Is the volume of the bell's sound moderate, neither too loud nor too soft?",
+      "Are there faint indoor reverberations present in the background, contributing to the ambiance?",
+      "Can distant light footsteps be heard occasionally, adding to the serene atmosphere?",
+      "Are there occasional clinks of objects audible, enhancing the festive and cozy setting?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a metal bell visible on a table in the scene?",
+      "Is the lighting in the scene soft and warm, contributing to a festive atmosphere?",
+      "Are there visual cues indicating a serene and cozy indoor setting, such as soft lighting or festive decorations?",
+      "Is the bell positioned in a way that suggests it could produce sound, such as being upright or slightly tilted?",
+      "Are there any visual elements suggesting faint indoor reverberation, such as subtle reflections or shadows?"
+    ]
+  },
+  {
+    "prompt_en": "Against the backdrop of a city at twilight, a modern bridge spans across the river, with occasional vehicles passing by, emitting faint engine hums and tire friction sounds. The water gently laps against the bridge piers, accompanied by the distant murmur of urban bustle and the occasional blast of a ship's horn. The structure of the bridge and surrounding buildings creates subtle reverberations, producing a spacious and deep sound field.",
+    "prompt_vision": "A modern bridge spanning a river at twilight, with city buildings in the background and occasional vehicles passing by.",
+    "prompt_audio": "Faint engine hums and tire friction from passing vehicles, gentle lapping of water against bridge piers, distant urban murmur, occasional ship horn blasts, and subtle reverberations creating a spacious, deep sound field.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Are faint engine hums and tire friction sounds audible when vehicles pass on the bridge?",
+      "Does the sound of water gently lapping against the bridge piers occur consistently?",
+      "Is the distant murmur of urban bustle present in the background?",
+      "Are occasional blasts of a ship's horn audible and distinct?",
+      "Does the audio include subtle reverberations that match the spacious and deep sound field implied by the bridge and surrounding buildings?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a modern bridge spanning across a river visible in the scene?",
+      "Are there occasional vehicles visible on the bridge?",
+      "Is the city backdrop depicted with twilight lighting conditions?",
+      "Is the water shown gently lapping against the bridge piers?",
+      "Are the surrounding buildings visible near the bridge?"
+    ]
+  },
+  {
+    "prompt_en": "In a quiet indoor environment, gentle keystrokes are accompanied by occasional mouse clicks, with faint distant traffic noise and subtle wind sounds from outside the window barely audible in the background. The sound field should convey a warm indoor reverberation, with a soft and non-harsh timbre. The rhythm should synchronize with hand movements, creating an atmosphere of focused work.",
+    "prompt_vision": "Person at desk near window, hands typing rhythmically, warm indoor light, subtle outdoor ambient glow, quiet room",
+    "prompt_audio": "Gentle keystrokes and occasional mouse clicks, with faint distant traffic noise and subtle wind sounds in the background; warm indoor reverberation, soft and non-harsh timbre, rhythm synchronized with hand movements.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of gentle keystrokes present and consistent with the described hand movements?",
+      "Are occasional mouse clicks audible and synchronized with the keystrokes?",
+      "Is there faint distant traffic noise audible in the background, as described?",
+      "Can subtle wind sounds from outside the window be heard, contributing to the background ambiance?",
+      "Does the sound field convey a warm indoor reverberation, as specified?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a person visible typing on a keyboard?",
+      "Are the person's hands visibly moving in a typing motion?",
+      "Is there a computer mouse visible near the keyboard?",
+      "Are the person's fingers visibly clicking the mouse occasionally?",
+      "Is the indoor environment visually calm and still, with no large movements or distractions?",
+      "Is there a window visible in the scene, suggesting an indoor setting?",
+      "Are the person's facial expressions neutral or focused, indicating concentration?"
+    ]
+  },
+  {
+    "prompt_en": "In a quiet indoor tailor's studio, the mechanical sound of a sewing machine dominates, accompanied by faint fabric rustling and occasional scissor cutting noises. The soundscape should reflect the reverberation of the interior space, creating a focused and serene atmosphere. Background ambient sounds include distant city traffic and a subtle breeze, low in volume but continuously present, adding spatial depth. Rhythmically, the sewing machine's sound should repeat regularly, with occasional slight variations.",
+    "prompt_vision": "A quiet indoor tailor's studio with a sewing machine in use, fabric pieces on a worktable, and scattered tailoring tools.",
+    "prompt_audio": "Regular mechanical sewing machine sounds with slight rhythmic variations, faint fabric rustling, occasional scissor cuts, subtle distant city traffic, and a low continuous breeze, all with interior room reverberation creating a serene and focused atmosphere.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the sewing machine produce a mechanical sound that repeats regularly with occasional slight variations?",
+      "Are faint fabric rustling sounds audible alongside the sewing machine noise?",
+      "Is Do occasional scissor cutting noises occur in the audio, complementing the sewing machine and fabric sounds?",
+      "Is the reverberation of the indoor space reflected in the audio, creating a focused and serene atmosphere?",
+      "Are distant city traffic sounds present at a low volume, adding spatial depth to the soundscape?",
+      "Is a subtle breeze sound continuously audible in the background, contributing to the spatial depth?",
+      "Does the overall audio maintain a quiet indoor ambiance consistent with the described tailor's studio setting?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a sewing machine visible in the tailor's studio?",
+      "Are scissors present in the scene, possibly near fabric or being used?",
+      "Is fabric visibly being manipulated or positioned in the studio?",
+      "Does the sewing machine appear to be in operation, with visible movement of its needle or fabric?",
+      "Are the lighting conditions consistent with an indoor studio setting, such as overhead or focused lighting?",
+      "Is the tailor's studio visually quiet and organized, without excessive motion or clutter?",
+      "Are there any windows or openings visible that could suggest the presence of distant city traffic or a subtle breeze?"
+    ]
+  },
+  {
+    "prompt_en": "In a modern living room, the low hum of a vacuum cleaner fills the space, accompanied by faint vibrations from the floor. Outside the window, ambient city noises can be faintly heard—distant traffic and occasional bird calls. The sound of the vacuum produces moderate reverberation within the room, creating a sense of enclosure. The person operating the vacuum occasionally makes soft footsteps and rustling clothing sounds, synchronized with the rhythm of the machine.",
+    "prompt_vision": "A person vacuuming in a modern living room with a window showing a cityscape outside.",
+    "prompt_audio": "Low hum of a vacuum cleaner with moderate reverberation, faint floor vibrations, distant traffic, occasional bird calls, soft footsteps, and rustling clothing sounds synchronized with the vacuum's rhythm.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the low hum of the vacuum cleaner consistently audible throughout the scene?",
+      "Does the sound of the vacuum cleaner produce moderate reverberation within the room, creating a sense of enclosure?",
+      "Are faint vibrations from the floor synchronized with the operation of the vacuum cleaner?",
+      "Can ambient city noises, such as distant traffic and occasional bird calls, be faintly heard outside the window?",
+      "Are the soft footsteps of the person operating the vacuum synchronized with the rhythm of the machine?",
+      "Does the rustling of clothing occur occasionally and align with the movements of the person operating the vacuum?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a vacuum cleaner visible in the modern living room?",
+      "Is the person operating the vacuum cleaner visible in the scene?",
+      "Does the person appear to be making soft footsteps while operating the vacuum cleaner?",
+      "Is the vacuum cleaner positioned on the floor of the living room?",
+      "Are the person's clothing visually moving or rustling as they operate the vacuum cleaner?",
+      "Is there a window visible in the living room showing an outdoor city environment?"
+    ]
+  },
+  {
+    "prompt_en": "In an indoor environment filled with numerous copper bells, the chimes occasionally ring due to gentle breezes or accidental touches, producing crisp, resonant sounds that create an ancient atmosphere. The sound field should have slight reverb, reflecting the spaciousness of an urban interior. Ambient sounds include faint footsteps and distant city noise in the background. The bell chimes appear intermittently, simulating random interactions or light winds brushing against the bells. Volume should be kept at a comfortable level, allowing each chime to be clearly heard without becoming overly sharp or harsh.",
+    "prompt_vision": "Indoor space filled with numerous copper bells hanging in an urban interior, with soft ambient lighting and architectural details suggesting age and spaciousness.",
+    "prompt_audio": "Intermittent crisp, resonant copper bell chimes with slight reverb, accompanied by faint footsteps and distant city noise; comfortable volume, clear but not harsh.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Are the bell chimes crisp and resonant, reflecting the material of copper when they ring?",
+      "Does the sound field include slight reverb to convey the spaciousness of an urban interior?",
+      "Can the bell chimes be heard intermittently, simulating random interactions or light winds?",
+      "Is the volume of the bell chimes kept at a comfortable level, allowing them to be clearly heard without being overly sharp or harsh?",
+      "Are faint footsteps audible in the background, contributing to the ambient sound?",
+      "Is distant city noise present in the background, enhancing the urban atmosphere?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there multiple copper bells visible in the indoor environment?",
+      "Is there any visible movement of the bells, suggesting interaction or wind?",
+      "Are the bells positioned in a way that suggests they could be touched or moved by a breeze?",
+      "Is the lighting in the environment consistent with an urban interior setting?",
+      "Are the bells visually distinct and identifiable as copper?",
+      "Is there a visible spaciousness in the environment that suggests room for sound reverberation?",
+      "Are the bells arranged in a manner that suggests occasional ringing due to gentle breezes or accidental touches?"
+    ]
+  }
+]

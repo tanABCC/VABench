@@ -1,0 +1,2062 @@
+[
+  {
+    "prompt_en": "A CEO paces anxiously back and forth in a modern office, frequently checking his watch. Over the normal ambient office sounds, a clear, relentless mechanical clock ticking is layered, its rhythm slightly accelerating as the CEO's steps quicken.",
+    "prompt_vision": "A CEO pacing anxiously back and forth in a modern office, frequently checking his watch.",
+    "prompt_audio": "Ambient office sounds with a clear, relentless mechanical clock ticking layered over, its rhythm slightly accelerating.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a clear sound of footsteps that matches the pacing of the CEO?",
+      "Does the sound of the mechanical clock ticking become more frequent as the CEO's steps quicken?",
+      "Can the ambient office sounds be heard in the background without overpowering the clock ticking or footsteps?",
+      "Is the ticking of the clock distinct and continuous throughout the scene?",
+      "Are the sounds of the CEO's footsteps and the clock ticking synchronized with the visual pacing and actions of the CEO?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the CEO visibly pacing back and forth in the modern office?",
+      "Does the CEO frequently look at his watch while pacing?",
+      "Are the CEO's steps visually quickening over time?",
+      "Is the office depicted with modern furniture or design elements?",
+      "Is the CEO's facial expression showing signs of anxiety?",
+      "Is the CEO dressed in formal business attire?",
+      "Are the CEO's movements consistent with the action of pacing?"
+    ]
+  },
+  {
+    "prompt_en": "After a character finishes reading a letter, their face shows an expression of intense pain (close-up). At the exact moment the character's expression changes, generate a sharp, loud sound of glass shattering, symbolizing the collapse of their inner world.",
+    "prompt_vision": "Close-up of a character's face showing intense pain immediately after reading a letter",
+    "prompt_audio": "Sharp, loud sound of glass shattering",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the sound of glass shattering occur at the exact moment the character's expression changes to intense pain?",
+      "Is the sound of glass shattering sharp and loud, matching the intensity of the character's emotional collapse?",
+      "Is there a clear synchronization between the visual change in the character's expression and the auditory cue of glass shattering?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the character holding or positioned near a letter that they have finished reading?",
+      "Does the character's face show an expression of intense pain in a close-up view?",
+      "Are the character's facial features visibly contorted to convey emotional distress?",
+      "Is the lighting focused on the character's face to emphasize their expression?",
+      "Are the character's eyes open wide or squinting in a manner that suggests pain or anguish?",
+      "Is the background visually static or neutral to keep the focus on the character's expression?",
+      "Does the character's pose or posture remain still to emphasize the emotional impact of their facial expression?"
+    ]
+  },
+  {
+    "prompt_en": "A detective stares at a clue board, suddenly his/her eyes light up with a look of revelation. At the very moment of this facial transformation, add a crisp, bright \"ding\" sound from a wind chime or triangle to symbolize the \"Eureka moment.\"",
+    "prompt_vision": "A detective stares at a clue board, eyes suddenly lighting up with a look of revelation.",
+    "prompt_audio": "A crisp, bright 'ding' sound from a wind chime or triangle.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a crisp, bright 'ding' sound at the exact moment the detective's eyes light up with revelation?",
+      "Does the 'ding' sound have a clear and distinct pitch that is typical of a wind chime or triangle?",
+      "Is the 'ding' sound free from any noise or distortion, ensuring clarity?",
+      "Can the 'ding' sound be easily perceived as coming from a small, metallic instrument like a wind chime or triangle?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the detective visibly staring at a clue board?",
+      "Does the detective's facial expression change to show a look of revelation?",
+      "Are the detective's eyes visibly lighting up at the moment of revelation?",
+      "Is there a clue board present in the scene?",
+      "Is the detective's facial transformation clearly captured in the image or video?"
+    ]
+  },
+  {
+    "prompt_en": "A young person helplessly looks out the window, with their domineering parents arguing in the background. Generate a heavy, echoing sound of a prison cell door slamming shut and locking, symbolizing the character's sense of mental confinement.",
+    "prompt_vision": "A young person helplessly looks out the window while their domineering parents argue in the background.",
+    "prompt_audio": "Heavy, echoing sound of a prison cell door slamming shut and locking",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a heavy, echoing sound of a prison cell door slamming shut and locking after the parents start arguing?",
+      "Does the audio include the sound of the parents arguing in the background while the young person looks out the window?",
+      "Is the sound of the prison cell door slamming and locking synchronized with the visual depiction of the young person looking out the window?",
+      "Are the arguing voices clearly audible and distinct from the sound of the prison cell door slamming?",
+      "Does the echoing effect of the prison cell door sound create a sense of confinement in the audio?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the young person visibly looking out the window with a helpless expression?",
+      "Are the parents positioned in the background, appearing to argue with each other?",
+      "Does the young person's facial expression clearly convey a sense of helplessness or distress?",
+      "Are the parents visually depicted in a domineering posture or gestures, such as pointing or raised hands?",
+      "Is the window clearly visible in the scene, with the young person facing it?"
+    ]
+  },
+  {
+    "prompt_en": "A character walks down an empty street as a seemingly friendly stranger approaches from behind. Accompany the approaching stranger with an extremely faint, barely perceptible, low growl of a beast.",
+    "prompt_vision": "A character walks down an empty street as a seemingly friendly stranger approaches from behind.",
+    "prompt_audio": "extremely faint, barely perceptible, low growl of a beast",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of footsteps audible as the character walks down the street?",
+      "Does the audio include an extremely faint, barely perceptible, low growl as the stranger approaches?",
+      "Is the growl sound synchronized with the stranger's approach from behind?",
+      "Is the street environment quiet enough to make the growl barely perceptible?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the street visibly empty with no other people or vehicles present?",
+      "Does the character appear to be walking with visible leg movement?",
+      "Can the stranger be seen approaching from behind the character?",
+      "Is the stranger's facial expression or body language suggestive of friendliness?",
+      "Are there no visible signs of other animals or beasts in the scene?",
+      "Is the lighting consistent with an outdoor setting, without any dramatic shadows or highlights?",
+      "Is the character's clothing style appropriate for walking outdoors?"
+    ]
+  },
+  {
+    "prompt_en": "A child witnesses a harsh moment from the adult world (such as a violent argument or bullying). Generate a delicate music box melody that suddenly stutters, goes off-key, and distorts at the exact moment the child sees the pivotal event.",
+    "prompt_vision": "A child witnessing a harsh adult moment such as a violent argument or bullying",
+    "prompt_audio": "Delicate music box melody that suddenly stutters, goes off-key, and distorts",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the music box melody play with a delicate and soft timbre before the pivotal event?",
+      "Is there a noticeable stutter in the music box melody at the exact moment the child witnesses the pivotal event?",
+      "Does the melody go off-key precisely when the pivotal event occurs?",
+      "Is there a distortion in the music box sound that coincides with the moment the child sees the pivotal event?",
+      "Does the music box melody maintain a consistent pitch and harmony before the pivotal event occurs?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the child visibly present in the scene, observing the event?",
+      "Are the adults engaged in a visibly harsh argument or bullying, with clear aggressive gestures or expressions?",
+      "Does the child’s facial expression change to reflect witnessing the pivotal event, such as showing shock, fear, or sadness?",
+      "Are the adults positioned in a way that makes their actions clearly visible to the child?",
+      "Is there a noticeable visual cue, such as a sudden movement or change in the adults’ behavior, marking the pivotal moment of the event?"
+    ]
+  },
+  {
+    "prompt_en": "A character walks home, dragging a weary body, their face etched with exhaustion and stress. Over the sound of their footsteps, layer in slow, heavy metallic chains dragging across the ground.",
+    "prompt_vision": "A character walks home, dragging a weary body, their face etched with exhaustion and stress.",
+    "prompt_audio": "Slow, heavy metallic chains dragging across the ground layered over footsteps.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Are the footsteps audible and consistent with a walking pace throughout the scene?",
+      "Does the sound of metallic chains dragging have a slow and heavy quality?",
+      "Can the footsteps and chain dragging sounds be heard simultaneously without one overpowering the other?",
+      "Is there a clear distinction in the audio between the sound of footsteps and the sound of chains?",
+      "Will the audio maintain a consistent level of volume without sudden changes or distortions?",
+      "Are the footsteps and chain dragging sounds synchronized with the character's movements in the video?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the character visibly walking with a posture that suggests weariness?",
+      "Does the character's face show clear signs of exhaustion and stress?",
+      "Can metallic chains be seen dragging across the ground near the character?",
+      "Are the chains moving slowly in sync with the character's footsteps?",
+      "Is the character's clothing style consistent with someone who might be returning home?"
+    ]
+  },
+  {
+    "prompt_en": "A character smiles, but their eyes flicker as they tell a lie to another person. At the exact moment of the lie, add a faint but distinct hissing sound of a snake's tongue.",
+    "prompt_vision": "A character smiles while speaking to another person, their eyes flickering subtly.",
+    "prompt_audio": "Faint but distinct hissing sound of a snake's tongue at the moment of the lie.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a faint but distinct hissing sound of a snake's tongue at the exact moment the character tells the lie?",
+      "Does the audio remain quiet or absent of prominent sounds when the character is not speaking or lying?",
+      "Is the hissing sound synchronized with the character's dialogue when they tell the lie?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the character smiling with visible upturned corners of the mouth?",
+      "Are the character's eyes flickering with noticeable rapid movement?",
+      "Is there another person visibly present in the scene with the character?",
+      "Does the character's facial expression remain consistent with a smile while their eyes flicker?",
+      "Are the character's eyes open and clearly visible during the flickering action?"
+    ]
+  },
+  {
+    "prompt_en": "A judge or leader pauses solemnly before making a significant decision. At the moment he or she makes the decision (such as nodding or speaking), generate a sharp, decisive \"gavel bang\" sound.",
+    "prompt_vision": "A judge or leader pauses solemnly before making a significant decision, then nods or speaks decisively.",
+    "prompt_audio": "sharp, decisive gavel bang",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio remain quiet or subdued during the pause before the decision is made?",
+      "Is there a sharp and decisive gavel bang sound synchronized with the moment the judge or leader makes the decision?",
+      "Does the gavel bang sound have a clear and distinct timbre, resembling the impact of wood on wood?",
+      "Is the gavel bang sound free from noticeable noise or distortion?",
+      "Does the volume of the gavel bang sound appropriately match the significance of the decision moment without being excessively loud or too soft?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the judge or leader depicted with a solemn facial expression before making the decision?",
+      "Does the judge or leader appear to be in a stationary pose before nodding or speaking?",
+      "Can the judge or leader be seen nodding or speaking at the moment of decision?",
+      "Is there a visible gavel in the scene that could be associated with the decisive moment?",
+      "Are the judge's or leader's clothing styles formal or indicative of authority?"
+    ]
+  },
+  {
+    "prompt_en": "A character makes a selfless, kind gesture, wearing a pure smile. At the same time, add a single, clear, sustained chime of a church bell or the resonant sound of a crystal glass.",
+    "prompt_vision": "A character making a selfless, kind gesture with a pure smile.",
+    "prompt_audio": "A single, clear, sustained chime of a church bell or the resonant sound of a crystal glass.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a single, clear, sustained chime sound present during the scene?",
+      "Does the chime sound resemble either a church bell or a crystal glass?",
+      "Is the chime sound free from any noise or distortion?",
+      "Does the chime sound start at the same time as the character's gesture?",
+      "Is the chime sound sustained without interruption throughout the scene?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the character depicted with a visible pure smile on their face?",
+      "Does the character appear to be performing a selfless, kind gesture?",
+      "Are the character's facial features clearly visible to convey the expression of a pure smile?",
+      "Is the character's body language consistent with performing a kind gesture?",
+      "Is the character's clothing style appropriate for the context of making a selfless gesture?",
+      "Are the character's hands or arms positioned in a way that suggests they are actively engaged in the gesture?",
+      "Is the lighting direction such that the character's smile and gesture are well-illuminated?"
+    ]
+  },
+  {
+    "prompt_en": "A person forces a smile at a noisy party, yet their eyes reveal they are overwhelmed. Distort and layer the normal party chatter and music in the background to create an indistinguishable, chaotic noise, symbolizing the character's racing thoughts.",
+    "prompt_vision": "A person forcing a smile at a noisy party, their eyes showing they are overwhelmed",
+    "prompt_audio": "Distorted, layered party chatter and music forming indistinguishable chaotic noise, symbolizing racing thoughts",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the background audio composed of distorted and layered party chatter and music, creating an indistinguishable, chaotic noise?",
+      "Does the chaotic noise in the background maintain a consistent presence throughout the scene, symbolizing the character's racing thoughts?",
+      "Can the chaotic noise be perceived as overwhelming, aligning with the character's emotional state as revealed by their eyes?",
+      "Are the sounds of the party chatter and music sufficiently distorted to prevent clear identification of individual voices or melodies?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the person visibly smiling in the image?",
+      "Are the person's eyes showing signs of being overwhelmed, such as widened or unfocused?",
+      "Is there a visible crowd or group of people in the background, suggesting a party setting?",
+      "Does the image include visual elements that suggest noise or chaos, such as blurred or distorted figures?",
+      "Are there visual cues, like overlapping or layered elements, that symbolize chaotic thoughts or noise?"
+    ]
+  },
+  {
+    "prompt_en": "An old man strokes a cherished keepsake—perhaps an old jacket. Faint, nostalgic sounds emerge, like from an antique radio: a hazy fragment of music or conversation from a bygone era, muffled and warm with time.",
+    "prompt_vision": "An old man gently stroking an old jacket, holding it with care and nostalgia.",
+    "prompt_audio": "Faint, muffled sounds resembling an antique radio broadcast: hazy, warm fragments of vintage music or distant conversation.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include faint sounds that resemble music or conversation from an antique radio?",
+      "Is the audio characterized by a muffled and warm quality, suggesting the passage of time?",
+      "Can the sound of the old man stroking the keepsake be heard, such as gentle rustling or fabric movement?",
+      "Are the nostalgic sounds synchronized with the visual action of the old man interacting with the keepsake?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there an old man visible in the image or video?",
+      "Is the old man stroking an object that resembles a keepsake, such as an old jacket?",
+      "Does the keepsake appear worn or aged, suggesting it is cherished?",
+      "Is the old man displaying a calm or nostalgic facial expression?",
+      "Is the lighting in the scene warm, suggesting a nostalgic atmosphere?",
+      "Is the old man's hand visibly in contact with the keepsake, indicating stroking action?"
+    ]
+  },
+  {
+    "prompt_en": "A character opens an ordinary box and sees something astonishing inside. Generate a shimmering, melodious magical sound effect, like fairy dust tinkling down—'ting-a-ling, ding-dong'.",
+    "prompt_vision": "A character opens an ordinary box and sees something astonishing inside.",
+    "prompt_audio": "Shimmering, melodious magical sound effect like fairy dust tinkling down—'ting-a-ling, ding-dong'.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a shimmering, melodious magical sound effect when the box is opened?",
+      "Is there a tinkling sound resembling 'ting-a-ling, ding-dong' when the character sees something astonishing inside the box?",
+      "Can the sound effect be described as having a high-pitched, fairy dust-like quality?",
+      "Are the sound effects synchronized with the visual action of the box being opened?",
+      "Is the volume of the magical sound effect appropriate for the moment of astonishment, neither too loud nor too soft?",
+      "Does the sound effect maintain a consistent timbre that suggests a magical or enchanting quality throughout its duration?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the character visibly opening a box with their hands?",
+      "Does the box appear ordinary in design and color?",
+      "Is there a visible expression of astonishment on the character's face?",
+      "Is there a shimmering visual effect emanating from inside the box?",
+      "Are there sparkles or fairy dust-like particles visible around the box?",
+      "Is the lighting inside the box brighter than the surrounding area?",
+      "Is the character's gaze directed towards the contents of the box?"
+    ]
+  },
+  {
+    "prompt_en": "A key character tries to light a cigarette in the wind, but the lighter keeps going out. Amid the sound of the wind, a distant, mournful church bell tolls.",
+    "prompt_vision": "A person struggling to light a cigarette in strong wind, with a lighter flame repeatedly extinguishing.",
+    "prompt_audio": "Howling wind with a distant, mournful church bell tolling.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of the wind consistently audible throughout the scene?",
+      "Does the lighter produce a brief ignition sound each time it is attempted to be lit?",
+      "Can the sound of the lighter going out be heard distinctly amid the wind noise?",
+      "Is the distant church bell toll audible and clear despite the wind noise?",
+      "Are the timing and frequency of the church bell toll consistent with a typical bell sound?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the key character holding a cigarette visibly in their hand or mouth?",
+      "Is the lighter being held by the key character and visibly going out repeatedly?",
+      "Can the wind be inferred from the movement of the character's hair or clothing?",
+      "Is the character's facial expression showing frustration or concentration while trying to light the cigarette?",
+      "Are the character's hands visibly shielding the lighter from the wind?"
+    ]
+  },
+  {
+    "prompt_en": "The protagonist makes a firm decision and takes the first step into an unknown journey. At the very moment of that step, a single, heavy, echoing drumbeat sounds.",
+    "prompt_vision": "A person takes their first step forward into an uncertain path, expression resolute.",
+    "prompt_audio": "A single, heavy, echoing drumbeat.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio feature a single drumbeat at the exact moment the protagonist takes the first step?",
+      "Is the drumbeat heavy and echoing in nature?",
+      "Can the drumbeat be clearly heard without any distortion or noise?",
+      "Is the timing of the drumbeat synchronized with the protagonist's first step?",
+      "Does the drumbeat have a noticeable reverberation effect, suggesting an echo?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the protagonist depicted taking a step forward with one foot lifted or extended ahead of the other?",
+      "Does the protagonist's facial expression show determination or resolve?",
+      "Is the protagonist's body posture upright and firm, indicating confidence?",
+      "Is there a visible drum in the scene, or an implied source of the drumbeat such as a drumstick or vibration effect?",
+      "Does the lighting emphasize the protagonist at the moment of the step, such as a spotlight or focused illumination?",
+      "Are the surroundings visually suggestive of an unknown or mysterious journey, such as unfamiliar terrain or abstract elements?",
+      "Is there a sense of stillness or lack of motion in the scene apart from the protagonist's step?"
+    ]
+  },
+  {
+    "prompt_en": "A new employee steps into the cubicle forest, where everyone's head is bowed like a cog in a machine: the tapping of keyboards meshes like gears, the printer gasps like a piston, the phone rings as a mechanical alarm—this entire office is a colossal machine that never stops, breathing to the rhythm of steel and devouring the last warmth of humanity.",
+    "prompt_vision": "New employee enters cubicle-filled office; workers hunched over desks, surrounded by keyboards, printers, ringing phones, like parts of a machine.",
+    "prompt_audio": "Rhythmic tapping of keyboards blending together, intermittent mechanical printer sounds like gasping pistons, sharp repetitive phone rings like alarms, all forming a continuous, machine-like soundscape.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a consistent sound of keyboard tapping that meshes together like gears throughout the audio?",
+      "Does the printer produce a sound resembling a gasping piston at regular intervals?",
+      "Can the phone ring be heard distinctly, resembling a mechanical alarm?",
+      "Are the sounds of the office creating a rhythmic pattern that suggests a machine-like environment?",
+      "Will the audio maintain a continuous presence of office machinery sounds without significant breaks?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the new employee visible stepping into the cubicle forest?",
+      "Are the employees' heads visibly bowed?",
+      "Can the tapping of keyboards be seen meshing like gears?",
+      "Is the printer visible and gasping like a piston?",
+      "Is the phone visible ringing like a mechanical alarm?",
+      "Are the cubicles arranged in a way that resembles a machine?",
+      "Is there a visible lack of warmth or human touch in the office environment?"
+    ]
+  },
+  {
+    "prompt_en": "She adjusts her ornate attire before the mirror, her makeup flawless, yet her eyes are as lifeless as a dry well. Beneath the silence of the room, flies circle inside her skull, and the faint sound of termites gnawing at wood seeps out from the mirror—splendor is merely the shell, decay the core, even the air quietly rotting away.",
+    "prompt_vision": "Woman in ornate attire, flawless makeup, empty eyes, dim still room, antique mirror reflects hollow expression.",
+    "prompt_audio": "Faint buzzing of flies, barely audible termite gnawing sounds emanating from the mirror, and an oppressive silence suggesting slow decay.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include faint sounds of termites gnawing at wood emanating from the mirror?",
+      "Is the room predominantly silent, with no prominent background noises?",
+      "Are all audible elements subdued or faint, consistent with the described quiet and decaying atmosphere?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the woman wearing ornate attire visible in the image?",
+      "Is the woman's makeup flawless and clearly applied?",
+      "Are the woman's eyes depicted as lifeless or lacking expression?",
+      "Is there a mirror visible in the scene reflecting the woman?",
+      "Are there visual elements suggesting flies circling inside or around her head?",
+      "Is there any indication of termites or wood decay visible in the mirror or room?",
+      "Is the overall atmosphere of the room depicted as silent or still?"
+    ]
+  },
+  {
+    "prompt_en": "He sat in the garden drinking afternoon tea, sunlight soft and birdsong light, but every 27 seconds, a muffled thud of suppressed explosion surfaced like tinnitus—no memory, just the ghost of PTSD settled into his ear canal; the calm was merely parole.",
+    "prompt_vision": "A man sitting in a sunlit garden drinking afternoon tea, surrounded by greenery and soft light.",
+    "prompt_audio": "Gentle birdsong and ambient garden sounds, periodically interrupted every 27 seconds by a muffled, low-frequency thud resembling a suppressed explosion; otherwise calm and quiet.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a light birdsong audible in the background while he sits in the garden drinking tea?",
+      "Does the audio include a muffled thud sound every 27 seconds, resembling a suppressed explosion?",
+      "Is the overall audio environment calm, with the exception of the periodic muffled thud?",
+      "Are the sounds of drinking tea, such as cup clinking or sipping, present in the audio?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the man sitting in the garden visible in the image or video?",
+      "Is there a cup or teapot present to indicate he is drinking tea?",
+      "Is the sunlight depicted as soft, suggesting gentle lighting conditions?",
+      "Are there birds visible or implied through their presence in the garden setting?",
+      "Does the visual content suggest a calm atmosphere despite the implied tension?",
+      "Is the man portrayed as still, with no large body movements indicating calmness?",
+      "Is there any visual indication of a muffled thud, such as subtle vibrations or disturbances?"
+    ]
+  },
+  {
+    "prompt_en": "The camera descends slowly from a rooftop party in a luxury mansion into the basement. Elegant strings are gradually consumed by a low-pass filter as the floors fall away—high frequencies fade, midrange blurs, until only a dull bass thumps \"thump... thump...\" beneath dripping pipes. Class is not space, but a grave of sound.",
+    "prompt_vision": "Camera descending from a rooftop party in a luxury mansion into a dark basement with dripping pipes.",
+    "prompt_audio": "Elegant string music gradually low-pass filtered, high frequencies fading, midrange blurring, leaving only a dull bass thump: 'thump... thump...' beneath dripping water sounds.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio feature elegant string music that gradually becomes less distinct as the camera descends?",
+      "Is there a noticeable application of a low-pass filter effect on the string music, reducing high frequencies as the descent continues?",
+      "Does the midrange of the string music become blurred or less clear as the camera moves downward?",
+      "Is there a persistent dull bass thumping sound that becomes prominent as the camera reaches the basement?",
+      "Can the sound of dripping pipes be heard clearly in the basement audio environment?",
+      "Is the overall audio experience consistent with a transition from a lively rooftop party to a quieter, more subdued basement setting?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the camera movement shown as a slow descent from the rooftop party into the basement?",
+      "Are there visible elements of a luxury mansion, such as elegant architecture or decor, during the rooftop party scene?",
+      "Are there people or objects visually indicating a rooftop party, such as guests, drinks, or party decorations?",
+      "Does the basement scene include dripping pipes visibly releasing water droplets?",
+      "Is the lighting in the basement dim or darker compared to the rooftop party?",
+      "Are the visual elements in the basement consistent with a grave-like or somber atmosphere?",
+      "Does the transition between floors visually show a change in environment, such as the disappearance of party elements and the appearance of basement features?"
+    ]
+  },
+  {
+    "prompt_en": "He smiled at his mother as he lied, each word dropping into a deep well, carrying an ultra-low-frequency resonance—soft at first, like dust settling, then growing louder, until the three words \"I'm fine\" crashed into his skull like a boulder. Lies have weight, and the ears know it first.",
+    "prompt_vision": "A man smiling at his mother while speaking, with a somber expression in his eyes.",
+    "prompt_audio": "Soft, low-frequency resonance growing louder, culminating in a deep, heavy crash-like sound; subtle dust-settling ambience underneath.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the voice delivering the words 'I'm fine' have an ultra-low-frequency resonance that starts softly and grows louder?",
+      "Is the sound of the voice initially soft, resembling the subtle settling of dust?",
+      "Does the sound of the words 'I'm fine' culminate in a loud, impactful auditory effect, akin to a boulder crashing?",
+      "Are the words 'I'm fine' audibly distinct and synchronized with the described emotional weight in the delivery?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the person smiling visibly at his mother?",
+      "Does the person's facial expression show a smile?",
+      "Can the person's mouth be seen forming the words 'I'm fine'?",
+      "Are the person's lips moving as he speaks?",
+      "Is the person's mother visible in the image or video?",
+      "Does the person's facial expression remain calm as he speaks?",
+      "Are the person's eyes directed towards his mother?"
+    ]
+  },
+  {
+    "prompt_en": "He stared at the crack in the wall. The clock's ticking began to stretch and warp; the sound of dripping water twisted into screams. Everyday noises, pulled out of tune, became eerie groans—not the room going mad, but the edge of his sanity dissolving within the sound waves, reality collapsing beginning with his hearing.",
+    "prompt_vision": "A man staring at a crack in a wall, dimly lit room with a clock and signs of water damage.",
+    "prompt_audio": "Distorted clock ticking, dripping water morphing into screams, everyday sounds detuned into eerie groans.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the sound of a clock ticking that stretches and warps over time?",
+      "Is there a dripping water sound that transitions into screams?",
+      "Are everyday noises audibly distorted into eerie groans?",
+      "Can the audio convey a sense of reality collapsing through progressively unsettling sound transformations?",
+      "Are the warped and twisted sounds free of noticeable noise or distortion unrelated to the described effects?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visible crack in the wall that the person is staring at?",
+      "Is the person depicted as being still, with no large body movements?",
+      "Are the person's eyes directed towards the crack in the wall?",
+      "Is there a clock visible in the scene?",
+      "Is the lighting in the room consistent with a sense of stillness or inactivity, without dynamic changes?",
+      "Is the person's facial expression one of intense focus or concentration, as they stare at the crack?",
+      "Is there any visible indication of sound distortion, such as visual cues of sound waves or vibrations?"
+    ]
+  },
+  {
+    "prompt_en": "The family meeting was dead silent. She pressed her lips tightly together, but her pupils burned; a high-pitched whine rose in the background, growing shriller as her fury mounted—her stifled scream locked in her throat, resonating through eardrums instead of vocal cords, shattering glass in silence.",
+    "prompt_vision": "A tense family meeting with a woman pressing her lips together, her eyes wide with anger, surrounded by stillness and shattered glass.",
+    "prompt_audio": "High-pitched whine growing shriller, stifled scream resonating silently, no audible vocalization, dead silence otherwise.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the audio devoid of any prominent sounds during the family meeting, indicating silence?",
+      "Does the audio feature a high-pitched whine that becomes shriller as the described fury increases?",
+      "Can the audio convey the sensation of a stifled scream resonating through eardrums rather than vocal cords?",
+      "Are there no sounds of glass shattering, maintaining the described silence despite the implied intensity?"
+    ],
+    "auxiliary_info_vision": [
+      "Is her mouth closed with lips pressed tightly together?",
+      "Are her pupils visibly intense or focused?",
+      "Is there a visible high-pitched whine effect, such as vibrations or distortion in the background?",
+      "Is there shattered glass visible in the scene?",
+      "Is the overall scene visually silent, with no apparent motion or activity?"
+    ]
+  },
+  {
+    "prompt_en": "A couple sits across from each other, smiling gently as coffee steams between them, their conversation soft and tender. Yet in the background, thin ice continues to crack in the distance—“crack…crunch”—each whisper beneath their words intensifying the sound, until at “We're fine,” the ice layer groans aloud. The surface is calm, like the lake's still water, but beneath, the cracks run deep.",
+    "prompt_vision": "Couple smiles across table with coffee, frozen lake behind them under calm sky.",
+    "prompt_audio": "Soft, tender conversation between two people, overlaid with distant, intermittent ice cracking sounds ('crack... crunch'), gradually intensifying until a deep groan coincides with the phrase 'We're fine.'",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a soft and tender conversation audible between the couple?",
+      "Does the audio include the sound of coffee steaming between the couple?",
+      "Can the sound of thin ice cracking and crunching be heard in the background?",
+      "Is the sound of the ice cracking and crunching more pronounced when the couple speaks softly?",
+      "Does the ice layer groan audibly at the moment the phrase 'We're fine' is spoken?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there visible steam rising from the coffee cups between the couple?",
+      "Are the couple sitting across from each other?",
+      "Are both individuals smiling gently?",
+      "Is the surface of the lake depicted as calm and still?",
+      "Is there a visual representation of cracks in the ice in the background?",
+      "Does the ice appear to have visible cracks running beneath the surface?"
+    ]
+  },
+  {
+    "prompt_en": "He walked through the empty old house, his footsteps softly echoing. A child's laughter, half a second long and reverberating, flickered from the nursery; faint clinking of dishes drifted from the kitchen; at the stairway turn, a mother's voice calling his childhood nickname lingered—memory, like a ghostly radio station, briefly plays at specific coordinates before sinking back into silence.",
+    "prompt_vision": "An empty old house with a nursery, kitchen, and stairway turn; no people visible.",
+    "prompt_audio": "Softly echoing footsteps; half-second reverberating child's laughter; faint clinking of dishes; mother's voice calling a childhood nickname, all fading into silence.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Are the footsteps softly echoing as he walks through the empty old house?",
+      "Does the child's laughter last for half a second and have a reverberating quality?",
+      "Can the faint clinking of dishes be heard drifting from the kitchen?",
+      "Is the mother's voice calling his childhood nickname heard at the stairway turn?",
+      "Does the audio return to silence after each specific sound or memory is heard?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the house visibly old with signs of wear such as peeling paint or aged furniture?",
+      "Are the rooms in the house empty without visible occupants or clutter?",
+      "Does the man appear to be walking with visible footsteps or movement through the house?",
+      "Is there a nursery room visible with elements suggesting it was once used by a child, such as toys or a crib?",
+      "Are there dishes or kitchenware visible in the kitchen area?",
+      "Is there a stairway visible with a turn or curve in its structure?",
+      "Does the overall scene convey a sense of stillness or absence of motion, apart from the man's walking?"
+    ]
+  },
+  {
+    "prompt_en": "The tycoon gazes down at the city, a smirk playing on his lips, as the traffic and voices outside the window are quietly replaced by the low growls of wolves and the sound of drooling—neon signs become the prey's fur, skyscrapers the bones awaiting gnawing, and greed transforms the entire city into a ravenous pack of beasts in his ears.",
+    "prompt_vision": "A tycoon smirking while looking down at a cityscape with neon signs and skyscrapers.",
+    "prompt_audio": "Low growls of wolves, drooling sounds, and distant city traffic fading into silence.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a transition from the sound of traffic and voices to the low growls of wolves as described in the prompt?",
+      "Does the audio include the sound of drooling as the city transforms in the tycoon's perception?",
+      "Are the low growls of wolves positioned to create a sound field that suggests they are surrounding the city?",
+      "Can the growls and drooling sounds be heard distinctly without noise or distortion?",
+      "Will the audio maintain a quietness or subdued volume as the traffic and voices are replaced by the growls and drooling sounds?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the tycoon depicted gazing down at the city through a window?",
+      "Does the tycoon have a visible smirk on his lips?",
+      "Are neon signs visually transformed to resemble fur in the scene?",
+      "Are skyscrapers visually depicted as resembling bones in the scene?",
+      "Is there a visual representation of wolves or a pack of beasts in the cityscape?"
+    ]
+  },
+  {
+    "prompt_en": "A young man sits at a family banquet, elders chatting and laughing around him, but their voices gradually slow and drop in frequency, merging into a heavy drone, like a stone mill grinding against his eardrums—tradition is not words, but a sonic shackle, pressing down so that each breath feels like struggling through mud.",
+    "prompt_vision": "A young man sitting at a family banquet surrounded by elders who are chatting and laughing.",
+    "prompt_audio": "Elders' voices gradually slowing and dropping in frequency, merging into a heavy, droning sound like a stone mill grinding.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a gradual slowing and lowering in frequency of the elders' voices as described?",
+      "Does the audio include a heavy drone sound that resembles a stone mill grinding?",
+      "Can the transition from distinct voices to a drone be clearly perceived in the audio?",
+      "Are the elders' voices initially audible and distinct before merging into the drone?",
+      "Is there an audible sense of pressure or heaviness in the sound, as if pressing down on the listener?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the young man seated at a table with other people around him?",
+      "Are there elders visibly chatting and laughing near the young man?",
+      "Does the young man appear to be struggling or uncomfortable in his facial expression?",
+      "Are the elders' mouths open or in motion, suggesting they are speaking or laughing?",
+      "Is there a visible banquet setup, such as food or tableware, indicating a family meal?",
+      "Are the elders positioned closely around the young man, suggesting a social gathering?"
+    ]
+  },
+  {
+    "prompt_en": "Kneeling in the ruins, he gently touches a tender sprout emerging from a crack in the concrete. The wind suddenly stops, and a pure, lingering sound of a singing bowl rises from the earth's core—hope does not come from shouting, but from the single note the universe tunes when a stem pierces through despair.",
+    "prompt_vision": "A man kneeling in ruins, touching a small green sprout growing from a crack in the concrete.",
+    "prompt_audio": "A pure, lingering singing bowl tone rising from the earth, following a sudden stillness of wind.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of the singing bowl clear and pure, without any distortion or noise?",
+      "Does the audio capture the sudden cessation of wind sounds, transitioning to silence before the singing bowl sound begins?",
+      "Can the sound of the singing bowl be perceived as emanating from a low position, suggesting it rises from the earth's core?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a person kneeling in the ruins?",
+      "Is the person gently touching a sprout emerging from a crack in the concrete?",
+      "Is the sprout visibly emerging from a crack in the concrete?",
+      "Is the wind visually depicted as having stopped, with no movement of surrounding debris or dust?",
+      "Is there a visual representation of a singing bowl sound rising from the earth's core, such as vibrations or waves emanating from the ground?",
+      "Is the scene visually calm, with no signs of chaos or movement, reflecting the stillness described in the prompt?"
+    ]
+  },
+  {
+    "prompt_en": "He whispered secrets by the ear, his voice trembling with electronic pulses, like a data virus implanted into the cerebral cortex; afterward, every phone call, every radio broadcast, every doorbell ring carried a variation of that whisper—the mind is a plague, and sound is its transmission chain.",
+    "prompt_vision": "A person whispering into another's ear, surrounded by faint digital glows and abstract neural network patterns.",
+    "prompt_audio": "A trembling whisper layered with subtle electronic pulses and glitches, followed by distorted echoes of phone rings, radio static, and doorbell chimes carrying the same whisper.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the whisper sound like it contains electronic pulses, resembling a data virus?",
+      "Is the whisper audible and synchronized with the visual depiction of whispering by the ear?",
+      "Are variations of the whisper present in every radio broadcast shown or heard?",
+      "Will the sound of a doorbell ring include a variation of the whisper?",
+      "Is there a consistent auditory theme of the whisper throughout the various sound sources mentioned?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a person whispering into someone's ear?",
+      "Are there visible electronic pulses or effects around the whispering person?",
+      "Does the scene include visual elements suggesting a cerebral cortex, such as brain imagery or neural networks?",
+      "Are there visual representations of phone calls, radio broadcasts, or doorbell rings?",
+      "Is there a visual indication of sound waves or vibrations emanating from the whispering?"
+    ]
+  },
+  {
+    "prompt_en": "Montage cuts across city corners: as the piano's three notes fade, the cello's plucked string quietly continues in the next shot; before the trumpet's brief cry dissipates, the subway station announcement swallows and reassembles it—fate is never revealed through dialogue, but through motifs secretly shaking hands on the soundtrack.",
+    "prompt_vision": "Montage cuts across city corners; subway station interior; no dialogue or visible musical instruments.",
+    "prompt_audio": "Piano three-note sequence fading out; cello plucked string continuing quietly; brief trumpet cry; subway station announcement overlapping and absorbing the trumpet sound; recurring musical motifs interweaving.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio feature a sequence where a piano plays three notes that fade out before transitioning to the next sound?",
+      "Is there a cello sound that is plucked and continues quietly after the piano notes fade?",
+      "Does a trumpet sound briefly before being overtaken by another sound?",
+      "Is there a sound resembling a subway station announcement that overlaps with or follows the trumpet sound?",
+      "Are there no spoken dialogues in the audio, with the narrative conveyed through musical motifs instead?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visual transition between different city corners as the montage cuts across them?",
+      "Does the video show a piano with keys being pressed as the notes fade?",
+      "Can a cello be seen with strings being plucked in the next shot?",
+      "Are there visible elements indicating a subway station announcement, such as speakers or signage?",
+      "Is there a trumpet visible in the scene when its brief cry is heard?"
+    ]
+  },
+  {
+    "prompt_en": "He turned the combination, and the safe burst open with a thunderous clank, gears roaring like a symphony. But the moment the door swung fully open, all sound was sucked into vacuum, leaving only absolute silence—the loudest disappointment is when expectation shatters so completely that not even an echo dares remain.",
+    "prompt_vision": "A safe door swinging fully open, revealing its empty interior, with visible gears and mechanisms inside the safe.",
+    "prompt_audio": "Thunderous clank and roaring gears abruptly cutting to complete silence.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the sound of the safe opening include a thunderous clank when the combination is turned?",
+      "Are the gears audible and roaring like a symphony as the safe opens?",
+      "Is there absolute silence immediately after the safe door swings fully open?",
+      "Does the transition from the loud sounds to silence occur abruptly as the door opens completely?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the safe door visibly open in the image or video?",
+      "Are the gears inside the safe depicted as moving or turning?",
+      "Does the safe appear to have a visible combination lock mechanism?",
+      "Is there a visual representation of the safe making a loud clank or noise, such as visible vibrations or motion lines?",
+      "Is the interior of the safe shown as empty or devoid of contents?",
+      "Are there visual cues indicating silence or stillness after the safe is opened, such as lack of motion or sound waves?"
+    ]
+  },
+  {
+    "prompt_en": "At this level of task, the intent is complex, subtle, and even contradictory, requiring the model to engage in deeper reasoning and creativity. The goal of sound design is to reveal the character's subconscious, inner conflicts, or to create a unique psychological atmosphere.",
+    "prompt_vision": "A dimly lit room with a person sitting alone, head in hands, surrounded by faintly glowing abstract shapes that shift and pulse slowly.",
+    "prompt_audio": "Low, dissonant ambient tones with intermittent whispers, muffled heartbeats, and distant echoes of fragmented piano notes, creating a tense, introspective atmosphere.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include subtle background sounds that suggest inner conflict or tension?",
+      "Are there variations in pitch or frequency that reflect the character's subconscious emotions?",
+      "Is there a use of sound distortion or noise to convey a psychological atmosphere?",
+      "Can the audio-visual synchronization reflect the complexity of the character's inner struggles?",
+      "Are there moments of silence or subdued sound that imply introspection or psychological depth?",
+      "Will the sound design create an immersive sound field that enhances the unique psychological atmosphere?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the character visually depicted with facial expressions that suggest inner conflict?",
+      "Are there visual elements that imply a psychological atmosphere, such as contrasting lighting or shadows?",
+      "Does the character's body language indicate subtle emotional tension or struggle?",
+      "Are there objects or symbols in the scene that visually represent subconscious thoughts or conflicts?",
+      "Is the lighting direction used to emphasize the character's emotional state or psychological atmosphere?",
+      "Are there visible contrasts in color or texture that contribute to a sense of psychological complexity?",
+      "Is the character's pose or action visually consistent with the idea of inner conflict or subtle emotional tension?"
+    ]
+  },
+  {
+    "prompt_en": "A person smiles faintly, saying \"I'm fine,\" eyes shattered like glass, fists trembling beneath the table, while a muffled, almost imperceptible string drone seeps quietly into the background—like a heart screaming in silence, letting the audience hear the collapse beneath the lie deep within their ears.",
+    "prompt_vision": "A person smiles faintly, saying 'I'm fine,' eyes shattered like glass, fists trembling beneath the table.",
+    "prompt_audio": "A muffled, almost imperceptible string drone seeping quietly into the background, like a heart screaming in silence.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the dialogue 'I'm fine' clearly audible and synchronized with the person's lip movements?",
+      "Does the audio include a faint, muffled string drone in the background?",
+      "Can the trembling of fists be heard as a subtle sound beneath the table, if at all?",
+      "Is the overall audio mix free from any unexpected noise or distortion that would distract from the described elements?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the person faintly smiling with visible lips slightly curved upward?",
+      "Are the person's eyes depicted with a shattered or fragmented appearance, resembling broken glass?",
+      "Are the person's fists visibly trembling beneath the table?",
+      "Is the table present and positioned above the person's fists, partially occluding them?",
+      "Is the person seated in a still posture, with no large body movements visible?"
+    ]
+  },
+  {
+    "prompt_en": "The villain offers a glass of water, smiling kindly like a grandfather, but as the glass touches his hand, a faint hiss—like a snake flicking its tongue—slithers in from an auditory blind spot. Only the audience feels a chill down their spine; the character remains oblivious, unaware of the deadly poison hidden beneath the tenderness.",
+    "prompt_vision": "A villain smiling kindly like a grandfather offers a glass of water; the character reaches for it, unaware of any danger.",
+    "prompt_audio": "A faint hiss, like a snake flicking its tongue, subtly audible beneath otherwise calm ambient sound.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a faint hissing sound when the glass touches the villain's hand, resembling a snake flicking its tongue?",
+      "Does the hissing sound appear to come from an auditory blind spot, making it feel unexpected or subtle?",
+      "Is the villain's voice or any vocalization synchronized with the visual of him smiling kindly?",
+      "Are the ambient sounds or background noise subdued enough to emphasize the hissing sound?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the villain holding a glass of water in his hand?",
+      "Is the villain smiling kindly, resembling a grandfather?",
+      "Is the villain's hand visibly touching the glass of water?",
+      "Is the villain's facial expression consistent with kindness, such as a gentle smile?"
+    ]
+  },
+  {
+    "prompt_en": "He sat in the conference room silent as stone, his mouth twitching slightly, his eyelids fluttering faintly, while the meeting discussion droned on indistinctly in the background. Inside his head, however, roared a reverberating scream: \"These idiots don't understand a thing!\"—reality and inner turmoil splitting apart in dissonant counterpoint.",
+    "prompt_vision": "A man sitting silently in conference room, mouth twitching, eyelids fluttering,others are engaged in a meeting discussion.",
+    "prompt_audio": "Indistinct background meeting discussion, muffled and droning; internally, a reverberating scream: 'These idiots don't understand a thing!'",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the background discussion sound in the conference room indistinct and continuous?",
+      "Does the audio include a reverberating scream representing the character's inner turmoil?",
+      "Can the sound of the reverberating scream be clearly distinguished from the background discussion?",
+      "Is there an absence of prominent sounds from the character's physical movements, such as mouth twitching or eyelid fluttering?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the man sitting still in the conference room with no large body movements?",
+      "Is the man's mouth twitching slightly?",
+      "Are the man's eyelids fluttering faintly?",
+      "Is the man visibly silent with no speaking or loud expressions?",
+      "Does the man appear to be in a conference room setting?"
+    ]
+  },
+  {
+    "prompt_en": "A veteran watches a child set off fireworks. Just as the corner of his mouth lifts, the firework explodes with a bang—yet in his ears, the sound twists into the roar of a mortar shell; the child's laughter instantly stretches into the dying screams from the battlefield. PTSD floods over him, drowning out the sounds of reality.",
+    "prompt_vision": "A veteran watches a child set off fireworks; the veteran's expression shifts as the firework explodes.",
+    "prompt_audio": "Firework explosion sound morphing into mortar shell blast, child's laughter distorting into battlefield screams",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there an initial explosion sound when the firework is set off, followed by a twisting transformation into a mortar shell roar in the veteran's auditory perception?",
+      "Does the child's laughter initially sound normal before transforming into the sound of dying screams in the veteran's auditory perception?",
+      "Is there a noticeable shift from the real-world sounds to the distorted sounds as described, indicating the onset of the veteran's PTSD episode?",
+      "Are the distorted sounds (mortar shell roar and dying screams) clearly distinguishable from the initial real-world sounds (firework explosion and child's laughter)?",
+      "Is there a reduction or absence of other ambient sounds to emphasize the veteran's auditory hallucinations during the PTSD episode?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the veteran visibly watching the child set off fireworks?",
+      "Does the veteran's mouth show a slight lifting at the corner before the firework explodes?",
+      "Is there a visible firework explosion occurring near the child?",
+      "Are the child's facial expressions or body language indicative of laughter?",
+      "Does the veteran's facial expression change to one of distress or discomfort after the firework explodes?"
+    ]
+  },
+  {
+    "prompt_en": "The two shook hands and exchanged pleasantries, their smiles perfectly standard. But in the 0.3 seconds their palms touched, a distorted, echoing crash of a car collision tore through the air—audible only to him and the audience. It was a premonition of the coming accident, fate exploding prematurely in their ears.",
+    "prompt_vision": "Two people shaking hands and smiling politely.",
+    "prompt_audio": "A distorted, echoing crash of a car collision, audible only to one person and the audience, lasting 0.3 seconds.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a distorted, echoing crash sound during the 0.3 seconds when their palms touch?",
+      "Is the crash sound audible only during the handshake and not before or after?",
+      "Can the crash sound be clearly distinguished from any other background noise?",
+      "Is the crash sound positioned in a way that suggests it is heard by both the character and the audience?",
+      "Does the audio remain silent or subdued before and after the handshake, except for the crash sound?",
+      "Are the pleasantries exchanged without any distortion or interference from the crash sound?"
+    ],
+    "auxiliary_info_vision": [
+      "Are both individuals visibly shaking hands with their palms touching?",
+      "Are both individuals smiling with standard facial expressions?",
+      "Is there a visible stillness in the scene, indicating no large body movements during the handshake?",
+      "Is there a visual representation of a car collision, such as a distorted image or motion blur, during the handshake?"
+    ]
+  },
+  {
+    "prompt_en": "She watched from afar as her lover laughed heartily with someone else; to her ears, the laughter grew shrill, coated with a metallic tremor, looping and accelerating until it became a grating, mocking mechanical noise—jealousy is not an emotion, but an instrument of auditory torture.",
+    "prompt_vision": "A woman standing at a distance, watching her lover laughing with another person.",
+    "prompt_audio": "Laughter that starts naturally but becomes increasingly shrill, metallic, tremulous, looping, accelerating, and transforming into a grating, mocking mechanical sound.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the laughter initially sound hearty and natural before transforming?",
+      "Does the laughter gradually become shrill as described?",
+      "Is there a metallic tremor audible in the transformed laughter?",
+      "Does the laughter loop and accelerate in its transformed state?",
+      "Does the transformed laughter resemble a grating, mocking mechanical noise?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a woman observing from a distance in the image or video?",
+      "Does the scene include a person laughing heartily?",
+      "Are there two people interacting closely in the scene?",
+      "Is the woman's facial expression neutral or showing signs of jealousy?",
+      "Are the people laughing positioned closer to each other than to the woman watching?",
+      "Is there a visible contrast between the woman's stillness and the motion of the laughing individuals?"
+    ]
+  },
+  {
+    "prompt_en": "He walked into the empty room and suddenly froze. There were no footsteps, no breath in the air—only a 17Hz infrasonic hum rising from the floor, mingled with the faint cracking sounds of ice crystals forming, as if an unseen pair of eyes was breathing down the back of his neck.",
+    "prompt_vision": "A man standing frozen in an empty room, ice crystals forming on the floor, no visible source of sound or movement.",
+    "prompt_audio": "17Hz infrasonic hum rising from the floor, faint cracking sounds of ice crystals forming, no footsteps, no breath sounds",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the 17Hz infrasonic hum audible as a low-frequency sound rising from the floor when he enters the room?",
+      "Are there faint cracking sounds of ice crystals forming audible in the room?",
+      "Is there an absence of footsteps sounds when he walks into the empty room?",
+      "Is there an absence of breathing sounds in the air when he freezes in the room?",
+      "Is the infrasonic hum and ice crystal cracking sound present without any distortion or noise interference?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the room visually empty, with no furniture or objects present?",
+      "Does the man appear to be standing still, indicating he has frozen in place?",
+      "Can ice crystals be seen forming on surfaces within the room?",
+      "Is there a visual indication of a hum or vibration emanating from the floor?",
+      "Are there no visible footsteps or movement in the room?",
+      "Is there a lack of visible breath or air movement around the man?"
+    ]
+  },
+  {
+    "prompt_en": "She stared at the cake, swallowed hard, and looked away—yet the cake whispered inside her mind: \"Take a bite... no one will know...\" Accompanied by a sweet, psychedelic synth melody, temptation took root in her inner ear.",
+    "prompt_vision": "A woman staring at a cake, then looking away with a tense expression.",
+    "prompt_audio": "Sweet, psychedelic synth melody with a whispering voice saying 'Take a bite... no one will know...'",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a sweet, psychedelic synth melody audible during the scene when she stares at the cake?",
+      "Does the audio include a whispering voice saying 'Take a bite... no one will know...' when she looks away from the cake?",
+      "Is the synth melody synchronized with the visual depiction of her staring at the cake, enhancing the sense of temptation?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a cake visibly present in the scene?",
+      "Is the woman visibly staring at the cake?",
+      "Does the woman's facial expression suggest contemplation or temptation?",
+      "Is the cake visually appealing or decorated in a way that might suggest temptation?",
+      "Are the woman's eyes visibly looking away from the cake at some point?",
+      "Is there a sense of stillness or lack of motion in the woman's body, suggesting she is standing or sitting quietly?",
+      "Is there any visual indication of a psychedelic or dreamlike atmosphere, such as unusual colors or patterns?"
+    ]
+  },
+  {
+    "prompt_en": "In the subway car, everyone stares down at their phones with identical motions, as if on an AI assembly line. The ambient sounds are replaced by a hypnotic, repetitive \"click\" rhythm, like interlocking gears—humans silently reduced to mechanical appendages under technology's metronome.",
+    "prompt_vision": "People in a subway car all staring down at their phones, moving in identical, repetitive motions.",
+    "prompt_audio": "Hypnotic, repetitive clicking rhythm like interlocking gears, no other ambient sounds",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a repetitive 'click' rhythm audible, resembling interlocking gears, throughout the scene in the subway car?",
+      "Are the ambient sounds of the subway car replaced by the described mechanical 'click' rhythm?",
+      "Does the audio maintain a consistent rhythm that matches the hypnotic, repetitive nature described in the prompt?",
+      "Is there an absence of typical subway ambient sounds, such as chatter or train noises, in favor of the mechanical rhythm?",
+      "Are the sounds synchronized with the visual motions of people staring down at their phones, as described?"
+    ],
+    "auxiliary_info_vision": [
+      "Are all individuals in the subway car looking down at their phones?",
+      "Is there a visible repetitive motion among the people, suggesting synchronized activity?",
+      "Do the people in the subway car appear to be stationary, with no large body movements?",
+      "Are the phones held in a similar manner by all individuals, indicating uniformity?",
+      "Is there a sense of stillness in the subway car, with no visible interaction between individuals?",
+      "Are the individuals' facial expressions neutral or focused, suggesting engagement with their phones?"
+    ]
+  },
+  {
+    "prompt_en": "He picked up the wallet, looked around to find no one in sight, yet his ears split into two whispering voices: one hoarse and urging, \"Take it, change your life,\" the other trembling and pleading, \"Put it down, don't ruin yourself\"—conscience and desire holding a trial within his skull.",
+    "prompt_vision": "A man picking up a wallet, looking around to see no one nearby.",
+    "prompt_audio": "Two whispering voices: one hoarse urging 'Take it, change your life,' the other trembling pleading 'Put it down, don't ruin yourself.'",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Are the whispering voices audible and distinct from each other, with one sounding hoarse and the other trembling?",
+      "Is there a noticeable absence of background noise or prominent sounds when he looks around and finds no one in sight?",
+      "Does the audio maintain synchronization with the visual depiction of him picking up the wallet?",
+      "Can the sound of the whispering voices be perceived as originating from within his head, rather than from an external source?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a wallet visible in the scene?",
+      "Are the man's ears depicted as split into two separate parts?",
+      "Is the man shown looking around with no other people visible in the scene?",
+      "Is there a visual representation of two whispering voices near the man's ears?",
+      "Is the man holding the wallet in his hand?",
+      "Are the man's facial expressions showing signs of internal conflict or contemplation?",
+      "Is the scene visually calm with no motion indicating the man is standing still?"
+    ]
+  },
+  {
+    "prompt_en": "The artist stares at the canvas, pupils dilated, the sound of brush scraping amplified and distorted into a beast clawing at an iron cage, high-frequency strings in the background like blades scraping bone, the rhythm accelerating—creativity screaming, reason dissolving, madness tuning itself.",
+    "prompt_vision": "An artist staring intently at a canvas, pupils dilated, holding a paintbrush, surrounded by chaotic brushstrokes and splatters of paint.",
+    "prompt_audio": "Amplified and distorted scraping of a paintbrush, high-frequency string sounds resembling blades scraping bone, accelerating rhythm, dissonant and intense.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of the brush scraping amplified and distorted to resemble a beast clawing at an iron cage?",
+      "Are high-frequency string sounds present in the background, resembling blades scraping bone?",
+      "Is there a noticeable distortion in the audio, enhancing the chaotic and intense atmosphere described?",
+      "Can the audio-visual model synchronize the visual action of staring with the intense auditory elements described?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the artist's gaze directed towards the canvas with visible focus or intensity?",
+      "Are the artist's pupils visibly dilated, indicating heightened attention or emotion?",
+      "Does the artist hold a paintbrush, suggesting they are in the process of painting?",
+      "Is there a visible canvas in front of the artist, indicating the focus of their attention?",
+      "Is there a sense of motion or activity in the artist's posture, implying engagement in painting?"
+    ]
+  },
+  {
+    "prompt_en": "He stepped onto the boarding ramp, his right foot hovering in midair when he suddenly froze. The airport announcement continued softly, but from deep within the metal fuselage came a creaking groan—like the bones of a giant bird cracking under pressure. A sixth sense screamed an alarm inside his ear canal.",
+    "prompt_vision": "A man stepping onto an airport boarding ramp, his right foot suspended midair as he freezes in place.",
+    "prompt_audio": "Soft airport announcement in the background; deep, creaking groan emanating from within the metal fuselage, resembling cracking bones; faint internal alarm-like sensation in the ear canal.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a sound of footsteps when he steps onto the boarding ramp?",
+      "Does the airport announcement continue softly in the background?",
+      "Can a creaking groan be heard from within the metal fuselage?",
+      "Is the creaking groan similar to the sound of bones cracking under pressure?",
+      "Is there an auditory representation of an alarm inside his ear canal?"
+    ],
+    "auxiliary_info_vision": [
+      "Is his right foot visibly hovering in midair above the boarding ramp?",
+      "Is he depicted as frozen in motion, with no visible movement in his body?",
+      "Is the boarding ramp clearly visible in the scene?",
+      "Is the metal fuselage shown with a visible creaking or bending effect?",
+      "Are there no other people visibly interacting with him at the moment he freezes?",
+      "Is the airport announcement visually implied through speakers or signage in the scene?"
+    ]
+  },
+  {
+    "prompt_en": "She walked alone across the empty parking lot. Every time she turned her head, there came from a dark corner a soft click of a shutter, or the abrupt cutoff of a breath—yet as soon as she faced forward again, the sound vanished. The feeling of being watched was no illusion; it was a landmine planted in sound.",
+    "prompt_vision": "A woman walking alone across an empty parking lot, turning her head toward dark corners, then facing forward again.",
+    "prompt_audio": "Soft click of a camera shutter, abrupt cutoff of a breath, silence when facing forward, tense ambient stillness.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a sound of footsteps as she walks across the parking lot?",
+      "Does the audio include a soft click sound when she turns her head?",
+      "Is there an abrupt cutoff of a breath sound when she turns her head?",
+      "Does the sound of the click or breath vanish when she faces forward again?",
+      "Is the overall soundscape quiet when she is not turning her head?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a single person walking across an empty parking lot?",
+      "Does the person occasionally turn her head while walking?",
+      "Can the parking lot be seen as empty with no other people or vehicles present?",
+      "Are there visible dark corners in the parking lot?",
+      "Will the person appear to be alone without any visible companions?"
+    ]
+  },
+  {
+    "prompt_en": "He sat by the window. The clock ticked, traffic roared—everything seemed normal, but all sounds were stretched fifty percent longer, their pitch sinking into darkness, time thickening like syrup around his eardrums—trauma had stranded him on an island of slow motion, the world playing at regular speed while he lived in delayed time.",
+    "prompt_vision": "A man sitting by a window, looking detached from his surroundings.",
+    "prompt_audio": "Clock ticking and traffic roaring, all sounds stretched 50% longer with lowered pitch, creating a slow, syrupy auditory effect.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the ticking of the clock audibly stretched to sound fifty percent longer than usual?",
+      "Does the pitch of the clock ticking sound lower than its typical frequency?",
+      "Can the roar of traffic be heard as elongated, lasting fifty percent longer than normal?",
+      "Is the pitch of the traffic noise audibly lower, creating a sense of darkness?",
+      "Will the overall audio create a sensation of delayed time, contrasting with the normal speed of the visual elements?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a man sitting by a window?",
+      "Is the clock visible in the scene?",
+      "Are there vehicles visible to suggest traffic?",
+      "Does the man's facial expression appear neutral or contemplative, without exaggerated emotion?",
+      "Is there a visual indication of the passage of time, such as a clock hand movement?"
+    ]
+  },
+  {
+    "prompt_en": "Their eyes met in the sea of people; in that instant, all sounds faded into silence, even heartbeats paused—then a solemn, mournful brass motif of fate crashed down. Rivals recognized each other without a word; the universe had already begun playing the prelude to its final movement.",
+    "prompt_vision": "Two rivals locking eyes in a crowded place, surrounded by blurred figures, dramatic lighting emphasizing their faces",
+    "prompt_audio": "Sudden silence followed by a solemn, mournful brass motif, resonant and fateful, like a prelude to a final movement",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a moment of silence where all ambient sounds are absent when their eyes meet?",
+      "Does the audio include a brass motif that sounds solemn and mournful after the moment of silence?",
+      "Is the brass motif clearly audible and distinct from any other sounds that may follow?",
+      "Does the audio transition smoothly from silence to the brass motif without any abrupt noise or distortion?"
+    ],
+    "auxiliary_info_vision": [
+      "Are the two individuals making direct eye contact with each other?",
+      "Is there a large crowd of people surrounding the two individuals?",
+      "Are the two individuals' facial expressions serious or intense, indicating recognition or rivalry?",
+      "Is there a noticeable absence of motion or activity among the crowd, suggesting a moment of stillness?",
+      "Are the two individuals positioned in a way that suggests they are the focus of the scene?"
+    ]
+  },
+  {
+    "prompt_en": "The leader's speech was impassioned and stirring, yet the audience's eyes gradually glazed over with fanaticism. Beneath every stressed syllable lay a 40Hz sinusoidal pulse, an invisible hook piercing into the brainstem—sound became incantation, the crowd puppets on strings, hypnosis accomplished through frequency.",
+    "prompt_vision": "A speaker delivering an impassioned speech to an audience whose eyes are glazed over with fanaticism.",
+    "prompt_audio": "Speech with a 40Hz sinusoidal pulse underlying every stressed syllable, creating a hypnotic, incantation-like effect.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the leader's speech include stressed syllables that are audibly emphasized in timing or volume?",
+      "Is there a consistent 40Hz sinusoidal pulse audible beneath the speech throughout the scene?",
+      "Can the audio-visual synchronization between the leader's speech and the audience's reactions be maintained without noticeable delay?",
+      "Are the speech's tonal qualities stirring and impassioned, matching the described emotional intensity?",
+      "Is the 40Hz pulse free from distortion or noise that would interfere with its hypnotic effect?"
+    ],
+    "auxiliary_info_vision": [
+      "Are the leader's facial expressions intense and passionate during the speech?",
+      "Is the audience depicted with glazed-over eyes, indicating a trance-like state?",
+      "Does the leader appear to be gesturing emphatically while speaking?",
+      "Are the audience members shown sitting or standing still, with minimal physical movement?",
+      "Is the lighting focused on the leader, emphasizing their presence during the speech?"
+    ]
+  },
+  {
+    "prompt_en": "He tilted his head up toward the hundred-meter redwood. Above the sounds of wind and birdsong, a subsonic resonance like that of a pipe organ rose from deep within the earth—below 30Hz, vibrating his chest until it numbed. Nature did not speak, but with infrasound it brought him to his knees; awe was a physiological response.",
+    "prompt_vision": "A man tilting his head upward toward a towering hundred-meter redwood tree in a forest.",
+    "prompt_audio": "Subsonic resonance below 30Hz, infrasound vibrating the chest, layered over ambient wind and birdsong.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a subsonic resonance present in the audio that is below 30Hz, capable of creating a chest-vibrating sensation?",
+      "Are the sounds of wind audible in the audio, complementing the described scene?",
+      "Is birdsong present in the audio, contributing to the natural soundscape?",
+      "Does the audio maintain a balance where the subsonic resonance is distinguishable above the sounds of wind and birdsong?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the man tilting his head upwards towards a tall tree?",
+      "Is the tree depicted as a redwood?",
+      "Is the tree visually represented as very tall, suggesting a height of around a hundred meters?",
+      "Is there an indication of wind through the movement of leaves or branches?",
+      "Are there birds visible or implied by the context of birdsong?",
+      "Is the man shown experiencing a physical reaction, such as being on his knees, due to the infrasound?"
+    ]
+  },
+  {
+    "prompt_en": "The AI doctor delivered the grim news with a blank expression, its synthesized voice steady and emotionless, while in the background the persistent beeping of hard drive read/write operations and the hum of fans droned on—technology wrapping the cruelest message in its calmest noises, coldness being its default tone.",
+    "prompt_vision": "An AI doctor with a blank expression delivering news, surrounded by computer hardware with active hard drives and cooling fans.",
+    "prompt_audio": "Steady, emotionless synthesized voice speaking grim news, accompanied by persistent beeping of hard drive read/write operations and a constant hum of fans.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the AI doctor's synthesized voice steady and emotionless throughout its delivery of the news?",
+      "Does the background include persistent beeping sounds resembling hard drive read/write operations?",
+      "Is there a continuous hum in the background that matches the sound of computer fans?",
+      "Are the synthesized voice and background noises free of distortion or unexpected interruptions?",
+      "Does the synthesized voice maintain a consistent volume and energy level while delivering the news?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the AI doctor depicted with a blank facial expression?",
+      "Does the image show the AI doctor delivering news with no visible emotion?",
+      "Are there visible computer components such as hard drives or fans in the background?",
+      "Can the image convey a sense of technological coldness through visual elements?",
+      "Is the AI doctor shown in a setting that includes electronic devices or machinery?"
+    ]
+  },
+  {
+    "prompt_en": "She floated above, watching her body curled up on the sofa. The sound of her breathing seemed distant, as if from the depths of the sea, while in her own ears there was only a steady, hollow, observer's breath—dissociation is not a metaphor, but an exile of hearing.",
+    "prompt_vision": "A woman's body curled up on a sofa, viewed from above as if floating in midair.",
+    "prompt_audio": "Distant, muffled breathing sounds resembling underwater echoes; a steady, hollow, and detached breathing in the foreground.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of her breathing distant and subdued, resembling an underwater effect?",
+      "Does the audio include a steady, hollow sound representing the observer's breath?",
+      "Are the breathing sounds distinct and non-overlapping between her body on the sofa and her observer's perspective?",
+      "Is there an absence of other prominent sounds, maintaining a quiet atmosphere consistent with the described dissociation?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a person floating above a sofa in the image?",
+      "Is the person on the sofa curled up?",
+      "Does the floating person appear to be observing the person on the sofa?",
+      "Is the person on the sofa visibly still, suggesting calmness or inactivity?",
+      "Are the facial features of the person on the sofa relaxed, indicating a lack of distress?",
+      "Is the lighting in the scene soft, suggesting a peaceful atmosphere?",
+      "Is the sofa clearly visible in the image?"
+    ]
+  },
+  {
+    "prompt_en": "On the psychotherapy couch, she closed her eyes and recalled her childhood, murmuring indistinctly, while in her ears echoed backward screams, doors slamming at distorted speeds, and distorted cries—her subconscious like a ghostly radio station intermittently broadcasting a sealed horror film at the edge of awareness.",
+    "prompt_vision": "Woman lying on a psychotherapy couch with eyes closed, recalling childhood memories.",
+    "prompt_audio": "Indistinct murmuring, backward screams, doors slamming at distorted speeds, distorted cries, ghostly radio static, faint horror film audio fragments",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the murmuring sound match the indistinct and subdued vocalization described in the prompt?",
+      "Are the backward screams audible and appropriately distorted as described?",
+      "Is Do the sounds of doors slamming exhibit distorted speeds as mentioned in the prompt?",
+      "Are the distorted cries present and consistent with the ghostly and unsettling tone described?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the woman depicted with closed eyes while lying on a psychotherapy couch?",
+      "Does the image show the woman murmuring with indistinct facial expressions?",
+      "Are there visual elements suggesting distorted audio, such as backward screams or doors slamming at unusual speeds?",
+      "Can the scene include ghostly or ethereal elements to represent the subconscious broadcasting?",
+      "Is there a visual representation of a horror film theme, such as eerie or unsettling imagery?"
+    ]
+  }
+]

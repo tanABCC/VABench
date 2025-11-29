@@ -1,0 +1,705 @@
+[
+  {
+    "prompt_en": "In a quiet attic bedroom, the background sound consists of faint air conditioner operation and occasional wind noise from outside the window. The sound field is centered in the middle of the room, with a soft timbre, reduced low frequencies, and maintained at a comfortable low volume. The rhythm is steady and smooth, with the ambient sounds harmonizing with the tranquil atmosphere of the space.",
+    "prompt_vision": "A quiet attic bedroom with a window, showing a calm and tranquil atmosphere.",
+    "prompt_audio": "Faint air conditioner hum and occasional wind noise, soft timbre, reduced low frequencies, steady and smooth rhythm, comfortable low volume, harmonious ambient sounds.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the faint air conditioner operation audible with a soft timbre and reduced low frequencies?",
+      "Does the occasional wind noise from outside the window occur intermittently and blend harmoniously with the tranquil atmosphere?",
+      "Is the overall sound field centered in the middle of the room as described?",
+      "Are the ambient sounds maintained at a comfortable low volume without abrupt changes in loudness?",
+      "Does the rhythm of the ambient sounds remain steady and smooth throughout the audio?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the attic bedroom visually depicted with elements that suggest tranquility, such as soft lighting and muted colors?",
+      "Are there visual cues indicating the presence of an air conditioner, such as vents or a unit, in the attic bedroom scene?",
+      "Does the window in the attic bedroom scene visually suggest the possibility of wind noise, perhaps through slightly moving curtains or visible trees outside?",
+      "Is the overall composition of the attic bedroom scene visually harmonious, with objects and furniture arranged to enhance a peaceful atmosphere?",
+      "Are textures in the attic bedroom scene, such as bedding or curtains, depicted with a soft appearance that complements the tranquil setting?",
+      "Is the lighting in the attic bedroom scene visually soft and diffused, contributing to a calm and serene ambiance?"
+    ]
+  },
+  {
+    "prompt_en": "Generate a rural ranch sound scene, including the low mooing of cows, occasional bird chirps, the rustling of leaves in a gentle breeze, and faint sounds of distant farm tools clinking. The soundscape should convey a sense of openness, with moderate volume, natural and relaxed rhythm, and ambient sounds that are well-coordinated with the visual scene.",
+    "prompt_vision": "Peaceful rural ranch, open fields, grazing cows, scattered trees with leaves rustling in breeze, distant farm structures, tools faintly visible.",
+    "prompt_audio": "Low mooing of cows, occasional bird chirps, rustling leaves in a gentle breeze, and faint distant clinking of farm tools; moderate volume, natural relaxed rhythm, open and ambient soundscape.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include low mooing sounds from cows at appropriate intervals?",
+      "Are there occasional bird chirps with natural timing and pitch variations?",
+      "Is the rustling of leaves audible and consistent with a gentle breeze?",
+      "Can faint sounds of distant farm tools clinking be heard without overpowering other elements?",
+      "Are the ambient sounds balanced in volume to convey a moderate and relaxed soundscape?",
+      "Does the audio convey a sense of openness through appropriate spatial sound positioning?",
+      "Are all auditory elements well-coordinated with the visual scene, ensuring synchronization and natural rhythm?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there cows visible in the scene, with at least one appearing to be in a position or pose that suggests low mooing?",
+      "Are there birds present in the scene, positioned in a way that suggests they could be chirping?",
+      "Are there trees or plants in the scene with visible movement of leaves that suggests rustling in a gentle breeze?",
+      "Are there farm tools or equipment visible in the distance, positioned in a way that suggests they could be producing faint clinking sounds?",
+      "Does the overall scene convey a sense of openness, such as wide fields or expansive landscapes?"
+    ]
+  },
+  {
+    "prompt_en": "The church bells ring, and the scene shows the bell tower and the swinging bells.",
+    "prompt_vision": "Bell tower with swinging bells",
+    "prompt_audio": "Ringing church bells",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Are the church bells audible when the scene shows the bell tower and the swinging bells?",
+      "Does the sound of the church bells match the expected frequency and pitch of large bells?",
+      "Can the sound of the church bells be heard clearly without distortion or noise?",
+      "Is the timing of the bell sounds synchronized with the swinging motion of the bells in the scene?",
+      "Will the sound of the church bells maintain consistent energy and volume throughout the scene?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the bell tower visible in the scene?",
+      "Are the bells shown swinging within the bell tower?",
+      "Does the motion of the bells suggest they are ringing?",
+      "Are the bells visibly suspended from a structure within the bell tower?",
+      "Is the swinging motion of the bells depicted clearly in the image or video?"
+    ]
+  },
+  {
+    "prompt_en": "In a quiet hospital setting, an ECG machine emits steady beeping sounds, accompanied by faint mechanical noises, creating a tense yet focused atmosphere. The rhythm of the ECG is stable and clear, originating from the center of the room, with a moderate volume that does not interfere with the operation of other equipment.",
+    "prompt_vision": "A quiet hospital room with an ECG machine at the center, medical equipment nearby, and a calm, focused atmosphere.",
+    "prompt_audio": "Steady, clear beeping sounds from an ECG machine with faint mechanical noises, moderate volume, stable rhythm.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the steady beeping sound from the ECG machine clear and stable in rhythm?",
+      "Are faint mechanical noises present and consistent with the operation of the ECG machine?",
+      "Is the sound of the ECG machine originating from the center of the room as described?",
+      "Does the moderate volume of the ECG machine's beeping avoid interfering with other equipment sounds?",
+      "Is the overall audio consistent with a quiet hospital setting, without prominent background noise or distractions?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there an ECG machine visible in the center of the room?",
+      "Are the ECG machine's display and components clearly visible?",
+      "Does the ECG machine show a stable and clear rhythm on its screen?",
+      "Are there no visible signs of excessive motion or disturbance in the hospital setting?",
+      "Is the lighting in the room consistent with a quiet hospital environment, without dramatic shadows or harsh contrasts?",
+      "Are there no visible obstructions or objects interfering with the operation of the ECG machine?"
+    ]
+  },
+  {
+    "prompt_en": "Simulate the rhythmic sound of an electrocardiogram (ECG), with a clear and regular tone. The background environment is quiet, the volume of the heartbeat sound is moderate, and the sense of rhythm is strong, as if in a hospital monitoring room, where the ECG waveform fluctuates completely in sync with the audio rhythm.",
+    "prompt_vision": "ECG monitor displaying rhythmic waveform fluctuations in a quiet hospital room",
+    "prompt_audio": "clear, regular, moderate-volume ECG beep rhythm with strong sense of timing, no background noise",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the rhythmic sound of the electrocardiogram (ECG) clear and regular throughout the audio?",
+      "Does the ECG sound maintain a moderate volume without being too loud or too quiet?",
+      "Is the background environment quiet, with no prominent or distracting noises?",
+      "Is the sense of rhythm in the ECG sound strong and consistent, as described?",
+      "Does the ECG waveform visually fluctuate completely in sync with the audio rhythm?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the ECG waveform visually fluctuating in sync with the rhythmic sound of the heartbeat?",
+      "Does the visual representation of the ECG waveform maintain a clear and regular pattern?",
+      "Can the background environment be visually identified as a quiet hospital monitoring room?",
+      "Are the visual elements of the ECG waveform clearly defined and easily distinguishable?"
+    ]
+  },
+  {
+    "prompt_en": "In a quiet office environment, there are faint background sounds of keyboard typing and mouse clicks, with occasional rustling of paper. The volume is moderate, and the sound field is focused around the desk area. The mouse clicks are crisp and unhurried, creating an atmosphere conducive to concentrated work.",
+    "prompt_vision": "A quiet office with a desk, keyboard, mouse, and papers, showing no visible movement or people.",
+    "prompt_audio": "Faint keyboard typing, crisp unhurried mouse clicks, occasional paper rustling, moderate volume, focused sound field around desk area.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the audio predominantly quiet with faint background sounds as described in the prompt?",
+      "Are the keyboard typing sounds present and consistent with the described faint background activity?",
+      "Is there occasional rustling of paper audible, as specified in the prompt?",
+      "Is the sound field focused around the desk area, without significant noise from other directions?",
+      "Does the overall audio create an atmosphere conducive to concentrated work, as described?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visible desk area with objects such as a keyboard and mouse that suggest an office environment?",
+      "Are there visual elements like paper or documents on the desk that imply occasional rustling?",
+      "Does the lighting in the scene appear moderate, suggesting a quiet and focused atmosphere?",
+      "Are the spatial relationships between the desk objects arranged in a way that indicates a conducive environment for concentrated work?"
+    ]
+  },
+  {
+    "prompt_en": "On a dark night, there is a ghostly figure wrapped in white cloth in the fields. The surrounding environment is quiet, with only the occasional sound of a breeze passing through the grass. The ghost's footsteps are light, accompanied by a faint rustling sound, creating a mysterious and slightly tense atmosphere in the surrounding soundscape.",
+    "prompt_vision": "A ghostly figure wrapped in white cloth stands in a field on a dark night.",
+    "prompt_audio": "Occasional breeze rustling through grass, faint rustling footsteps, quiet ambient soundscape.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of a faint breeze passing through the grass occasionally audible in the audio?",
+      "Are the ghost's footsteps light and accompanied by a faint rustling sound?",
+      "Does the surrounding environment remain quiet except for the described occasional breeze and the ghost's footsteps?",
+      "Can the audio create a mysterious and slightly tense atmosphere as described in the prompt?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the ghostly figure wrapped in white cloth visible in the fields?",
+      "Is the surrounding environment depicted as dark, consistent with a night setting?",
+      "Does the ghostly figure appear to be walking lightly, with a subtle pose or movement suggesting light footsteps?",
+      "Is the white cloth wrapping the ghostly figure clearly visible and distinct?",
+      "Are the fields shown as quiet and still, with no visible signs of significant motion or activity?"
+    ]
+  },
+  {
+    "prompt_en": "In an old greenhouse covered in spider webs, two figures draped in white sheets stand—one holding a glowing pumpkin-shaped lamp and the other holding a mobile phone. Faint wind and occasional rustling of leaves can be heard in the background, along with a faint buzzing sound from the pumpkin lamp. The overall setting creates a mysterious and serene atmosphere.",
+    "prompt_vision": "Two sheet-draped figures in spider-webbed greenhouse: one holds glowing pumpkin lamp, other holds mobile phone.",
+    "prompt_audio": "Faint wind, occasional rustling of leaves, and a faint buzzing sound from the pumpkin lamp.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a faint wind sound audible in the background throughout the scene?",
+      "Can occasional rustling of leaves be heard in the background, adding to the atmosphere?",
+      "Does the pumpkin-shaped lamp emit a faint buzzing sound consistently while it is glowing?",
+      "Are the sounds from the mobile phone, such as button presses or notifications, appropriately synchronized with its usage?",
+      "Is the overall audio mix balanced to maintain a serene atmosphere without overwhelming noise or distortion?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the greenhouse visibly old and covered in spider webs?",
+      "Are there two figures draped in white sheets present in the scene?",
+      "Is one figure holding a glowing pumpkin-shaped lamp?",
+      "Is the other figure holding a mobile phone?",
+      "Is the glowing pumpkin-shaped lamp emitting visible light?",
+      "Are there faint movements of leaves indicating wind in the scene?",
+      "Does the overall visual setting appear mysterious and serene?"
+    ]
+  },
+  {
+    "prompt_en": "In the dim forest, three ghostly figures draped in white sheets stand quietly, each holding a smiling jack-o'-lantern. The background is filled with the rustling sound of wind through leaves, occasionally interrupted by the distant hoot of an owl. The ghosts move slightly, producing soft rustling noises from their fabric. The overall atmosphere is mysterious and slightly eerie, with tones gentle and deep.",
+    "prompt_vision": "Three ghostly figures in white sheets hold smiling jack-o'-lanterns in a dim, shadowy forest with trees and foliage.",
+    "prompt_audio": "Rustling sound of wind through leaves, occasionally interrupted by the distant hoot of an owl, and soft rustling noises from fabric as the figures move slightly.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a continuous rustling sound of wind through leaves in the background?",
+      "Does the audio occasionally include the distant hoot of an owl?",
+      "Can the movement of the ghostly figures produce soft rustling noises from their fabric?",
+      "Are the tones in the audio gentle and deep, matching the mysterious and slightly eerie atmosphere?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there three ghostly figures present in the image, each draped in white sheets?",
+      "Is each ghostly figure holding a smiling jack-o'-lantern?",
+      "Is the lighting in the forest dim, creating a mysterious atmosphere?",
+      "Are the ghostly figures standing quietly with only slight movement visible?",
+      "Are the white sheets of the ghostly figures slightly rustling, indicating gentle motion?",
+      "Is the overall visual tone of the scene gentle and deep, contributing to an eerie atmosphere?"
+    ]
+  },
+  {
+    "prompt_en": "On a busy city street, pedestrians rush past each other, their footsteps overlapping and intermingling with the distant sounds of vehicles and the occasional honk of a horn, creating an overall soundscape full of dynamics and layers. Faintly audible in the background are the sounds of wind and low-frequency urban ambient noise, contributing to a fast-paced metropolitan atmosphere.",
+    "prompt_vision": "Busy city street with pedestrians rushing past each other.",
+    "prompt_audio": "Overlapping footsteps, distant vehicle sounds, occasional horn honks, faint wind, and low-frequency urban ambient noise creating a dynamic, layered, fast-paced metropolitan soundscape.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include distant sounds of vehicles that contribute to the urban soundscape?",
+      "Is the occasional honk of a horn present in the audio, adding to the street dynamics?",
+      "Can faint sounds of wind be heard in the background of the audio?",
+      "Are low-frequency urban ambient noises present, enhancing the metropolitan atmosphere?"
+    ],
+    "auxiliary_info_vision": [
+      "Are pedestrians visible rushing past each other on the busy city street?",
+      "Is there visible overlapping of pedestrians' movements as they navigate the street?",
+      "Can the pedestrians' footsteps be inferred visually through their walking or rushing actions?",
+      "Are vehicles visible in the background or nearby, contributing to the urban setting?",
+      "Is the overall scene visually dynamic, suggesting a fast-paced metropolitan atmosphere?",
+      "Are pedestrians' movements consistent with a busy and hurried demeanor?"
+    ]
+  },
+  {
+    "prompt_en": "In the natural environment of a mountain lake, the gentle rustling of leaves in the breeze, the distant murmur of a stream, and occasional birdsong fill the air. The footsteps of two hikers softly echo along the gravel path, accompanied by their steady breathing and the subtle friction of their backpacks. The overall soundscape is open and natural, with moderate volume and a relaxed rhythm, creating a peaceful atmosphere.",
+    "prompt_vision": "Two hikers walking along a gravel path near a mountain lake, surrounded by trees and natural landscape.",
+    "prompt_audio": "Gentle rustling of leaves, distant murmur of a stream, occasional birdsong, soft footsteps on gravel, steady breathing, and subtle friction of backpacks; open, natural soundscape with moderate volume and relaxed rhythm.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there gentle rustling of leaves audible in the breeze?",
+      "Can the distant murmur of a stream be heard in the background?",
+      "Are occasional birdsongs present in the audio?",
+      "Is Do the footsteps of two hikers softly echo along the gravel path?",
+      "Is the steady breathing of the hikers audible?",
+      "Does the audio include subtle friction sounds from the hikers' backpacks?",
+      "Is the overall soundscape open and natural with moderate volume and a relaxed rhythm?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there two hikers visible on a gravel path?",
+      "Are the hikers carrying backpacks?",
+      "Is the environment depicted as a mountain lake with natural surroundings?",
+      "Are there visible leaves or trees that could rustle in the breeze?",
+      "Is the gravel path clearly visible beneath the hikers' feet?",
+      "Are the hikers' poses or movements consistent with walking softly?",
+      "Is the overall visual atmosphere calm and peaceful without signs of chaos or disturbance?"
+    ]
+  },
+  {
+    "prompt_en": "In an environment filled with old-fashioned alarm clocks, the ticking of the clocks weaves together into a complex rhythm, filling the soundscape with mechanical operation noises. Each clock has a slightly different tone—some are crisp, while others are deeper. The volume intensifies with the number of clocks, creating a continuous background hum. Occasionally, the ambient sound includes faint metallic clinking, as if the clocks are gently bumping against one another.",
+    "prompt_vision": "A room filled with old-fashioned alarm clocks, closely arranged on shelves and surfaces, their metallic bodies reflecting ambient light.",
+    "prompt_audio": "A complex rhythmic ticking from multiple old-fashioned alarm clocks, each with slightly different tones—some crisp, others deeper—creating a continuous mechanical hum, occasionally interspersed with faint metallic clinking sounds.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the ticking sounds of multiple alarm clocks with varying tones, such as crisp and deeper ones?",
+      "Is the ticking rhythm complex and continuous, filling the soundscape as described?",
+      "Does the volume of the ticking increase proportionally with the implied number of clocks?",
+      "Are there occasional faint metallic clinking sounds, suggesting clocks gently bumping against each other?",
+      "Is the overall soundscape dominated by mechanical operation noises without prominent unrelated sounds?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there multiple old-fashioned alarm clocks visible in the environment?",
+      "Is each alarm clock visually distinct in design or appearance?",
+      "Are the alarm clocks positioned in a way that suggests they could gently bump against one another?",
+      "Do the alarm clocks appear stationary without visible motion?",
+      "Are the alarm clocks visually metallic or made of materials commonly associated with old-fashioned designs?",
+      "Is the lighting consistent across the environment, allowing clear visibility of the clocks?",
+      "Are there no visible objects other than the alarm clocks in the environment?"
+    ]
+  },
+  {
+    "prompt_en": "In a snow-covered forest, a gentle breeze blows as snowflakes slowly drift down. The surroundings are silent except for the soft wind and the faint sound of snow landing. A person dressed in heavy winter clothing walks slowly across the snowy ground, with each step producing a slight crunching sound in the snow. The overall soundscape is quiet and vast, as if one were in a serene, snow-enclosed world.",
+    "prompt_vision": "A person in heavy winter clothing walks slowly through a snow-covered forest with snowflakes drifting down.",
+    "prompt_audio": "Soft wind, faint sound of snow landing, slight crunching of snow with each step, overall quiet and vast soundscape.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a soft wind sound present throughout the audio to represent the gentle breeze?",
+      "Can faint sounds of snowflakes landing be heard intermittently amidst the quiet?",
+      "Does each footstep of the person walking produce a quiet crunching sound in the snow?",
+      "Is there an overall quietness in the audio, with minimal noise other than the specified elements?",
+      "Are the sounds of the wind and footsteps positioned to create a sense of vastness in the sound field?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the ground visibly covered in snow throughout the scene?",
+      "Are snowflakes visibly drifting down from the sky in the scene?",
+      "Is the person wearing heavy winter clothing visible in the scene?",
+      "Does the person appear to be walking slowly across the snowy ground?",
+      "Are the person's footsteps visibly causing slight indentations or disturbances in the snow?",
+      "Is the forest visibly snow-covered with trees present in the scene?",
+      "Does the scene visually convey a calm and still atmosphere with no rapid motion or activity?"
+    ]
+  },
+  {
+    "prompt_en": "In a tranquil forest, an old train is parked beside rusty tracks, surrounded by dense trees and the gentle sound of wind. The train's metal body occasionally emits a faint creaking noise, accompanied by distant bird chirps and the rustling of leaves, creating an atmosphere of serenity tinged with a hint of mystery.",
+    "prompt_vision": "An old train parked beside rusty tracks in a tranquil forest surrounded by dense trees.",
+    "prompt_audio": "Gentle wind, faint creaking of metal, distant bird chirps, and rustling leaves.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the gentle sound of wind consistently audible throughout the scene?",
+      "Does the train's metal body emit faint creaking noises at occasional intervals?",
+      "Are distant bird chirps present and distinguishable in the audio?",
+      "Is the rustling of leaves audible and synchronized with the tranquil forest setting?",
+      "Does the overall audio maintain a serene atmosphere without sudden loud or jarring noises?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the train visibly old with signs of wear, such as rust or faded paint?",
+      "Are the tracks beside the train visibly rusty?",
+      "Are dense trees surrounding the train and tracks visible?",
+      "Is the train stationary with no visible motion or movement?",
+      "Is the forest scene visually tranquil, with no signs of disturbance or chaos?",
+      "Are the train's metal parts visibly intact but showing occasional signs of age, such as slight deformation or wear?",
+      "Is the lighting soft and consistent with a serene atmosphere?"
+    ]
+  },
+  {
+    "prompt_en": "In the environment of a subway station, a musician is playing the trumpet. The trumpet's sound reverberates within the enclosed space, creating a rich acoustic effect. In the background, the low-frequency rumble of passing subways contrasts with the trumpet's high pitches. The trumpet's tone is bright and clear, with moderate volume, a brisk rhythm, and an improvised feel characteristic of jazz style.",
+    "prompt_vision": "A musician playing a trumpet in a subway station.",
+    "prompt_audio": "Bright, clear trumpet tones with moderate volume, brisk rhythm, and improvised jazz style, reverberating in an enclosed space; contrasted by low-frequency rumble of passing subways.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the trumpet sound have a bright and clear tone as described in the prompt?",
+      "Is the trumpet's rhythm brisk and does it convey an improvised jazz style?",
+      "Can the trumpet's sound be heard with moderate volume in the audio?",
+      "Are the trumpet's high pitches contrasting with the low-frequency rumble of passing subways?",
+      "Is there a reverberation effect present in the audio, indicating the enclosed space of a subway station?",
+      "Does the audio include the low-frequency rumble of subways passing in the background?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a musician holding and playing a trumpet in the subway station?",
+      "Is the musician's posture indicative of actively playing the trumpet, such as having the trumpet raised to their lips?",
+      "Are there visible elements that suggest the environment is a subway station, such as tiled walls or signage?",
+      "Is the musician's facial expression or body language consistent with concentration or engagement in playing music?",
+      "Is there a visible contrast between the musician's activity and the background, suggesting the presence of passing subways?",
+      "Is the musician's clothing style or posture suggestive of a jazz musician, such as relaxed or casual attire?"
+    ]
+  },
+  {
+    "prompt_en": "In a quiet office environment, the background sounds include faint keyboard typing and occasional paper turning. There may be slight notification tones from mobile phones. The overall sound field is relatively focused and quiet, creating an atmosphere suitable for concentrated work.",
+    "prompt_vision": "A quiet office environment with people working at desks, some typing on keyboards, handling papers, and mobile phones occasionally lighting up with notifications.",
+    "prompt_audio": "Faint keyboard typing, occasional paper turning, and slight mobile phone notification tones in a quiet, focused office soundscape.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the background sound predominantly quiet, with no loud or intrusive noises?",
+      "Does the audio include faint keyboard typing sounds that match the described quiet office environment?",
+      "Are occasional paper-turning sounds present and appropriately subtle?",
+      "Can slight notification tones from mobile phones be heard intermittently without overpowering the quiet atmosphere?",
+      "Is the overall sound field focused and consistent with a concentrated work environment?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the lighting in the office environment evenly distributed, avoiding harsh shadows or overly bright spots?",
+      "Are the desks in the office arranged in a way that promotes a clean and organized visual layout?",
+      "Are the textures of furniture and objects, such as wooden desks or fabric chairs, visually clear and detailed?",
+      "Does the office environment feature neutral or muted color tones to enhance the calm and focused atmosphere?",
+      "Are spatial relationships between objects, such as chairs and desks, visually logical and consistent with a typical office setup?"
+    ]
+  },
+  {
+    "prompt_en": "In a modern living room, sunlight streams in through large windows, filling the space with natural light. The background features gentle wind sounds and distant birdsong, with occasional rustling leaves. The indoor sound field is spacious and serene, occasionally punctuated by slight sounds of furniture movement, creating a warm and soft tonal ambiance.",
+    "prompt_vision": "A modern living room bathed in natural sunlight streaming through large windows.",
+    "prompt_audio": "Gentle wind, distant birdsong, occasional rustling leaves, and subtle furniture movement sounds creating a spacious, serene, warm, and soft tonal ambiance.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a gentle wind sound present in the background throughout the scene?",
+      "Are distant bird sounds audible intermittently in the audio?",
+      "Can occasional rustling leaves be heard in the background?",
+      "Does the indoor sound field convey a spacious and serene ambiance?",
+      "Are slight sounds of furniture movement occasionally audible in the audio?",
+      "Is the overall tonal ambiance warm and soft as described?"
+    ],
+    "auxiliary_info_vision": [
+      "Is sunlight visibly streaming through large windows into the living room?",
+      "Are the windows large and allowing natural light to fill the space?",
+      "Is the living room visibly modern in design and style?",
+      "Does the lighting in the room appear natural and soft, consistent with sunlight?",
+      "Are there visible shadows or highlights in the room that suggest sunlight streaming in?",
+      "Is the furniture in the living room arranged in a way that complements a spacious and serene ambiance?",
+      "Are there no visible signs of motion or activity inconsistent with a calm and serene environment?"
+    ]
+  },
+  {
+    "prompt_en": "On the tranquil lake surface, a fisherman is busily working on a small boat, surrounded by morning sunlight shimmering on the water, creating soft patterns of light and shadow. The lake gently laps against the boat, and occasionally, the calls of distant birds can be heard. The background features the outlines of distant mountains, with a fresh, natural atmosphere in the air. The fisherman's movements synchronize with the sound of water, forming a harmonious rhythm.",
+    "prompt_vision": "Fisherman on small boat at sunrise, shimmering lake, soft light, distant mountains, fresh natural atmosphere",
+    "prompt_audio": "Gentle lapping of water against a boat, occasional distant bird calls, and rhythmic sounds of the fisherman's movements synchronized with the water.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include gentle lapping sounds of water against the boat that match the described tranquil lake surface?",
+      "Are the occasional calls of distant birds present and appropriately spaced to reflect their distance?",
+      "Is the sound of the fisherman's movements synchronized with the gentle water sounds to create a harmonious rhythm?",
+      "Does the audio avoid prominent noise or distortion that would disrupt the described tranquil and natural atmosphere?",
+      "Are the sounds of the fisherman's actions consistent with the described activity of working on a small boat?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the fisherman visible on a small boat on the lake surface?",
+      "Does the lake surface show shimmering patterns of light and shadow from the morning sunlight?",
+      "Are the outlines of distant mountains visible in the background?",
+      "Is the water gently lapping against the boat, indicating slight motion?",
+      "Can the fisherman's movements be seen as synchronized with the gentle motion of the water?"
+    ]
+  },
+  {
+    "prompt_en": "In a forest where sunlight filters through the trees, a gentle breeze rustles the leaves with a soft, rustling sound, while footsteps lightly tread on fallen leaves, accompanied by the natural sounds of birds chirping in the distance. The tone is soft, the volume moderate, and the rhythm slow, creating a peaceful atmosphere.",
+    "prompt_vision": "Sunlight filters through trees in a forest, with fallen leaves on the ground.",
+    "prompt_audio": "Soft rustling of leaves in a gentle breeze, light footsteps on dry leaves, distant birds chirping; moderate volume, slow rhythm, peaceful atmosphere.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a soft rustling sound of leaves when the breeze passes through the trees?",
+      "Are the footsteps on fallen leaves producing a light, soft sound?",
+      "Can the distant chirping of birds be heard at a moderate volume?",
+      "Does the audio maintain a slow rhythm to match the peaceful atmosphere?",
+      "Are the natural sounds of the forest, including the breeze and birds, free from distortion or noise?"
+    ],
+    "auxiliary_info_vision": [
+      "Is sunlight visibly filtering through the trees in the forest scene?",
+      "Are leaves visibly rustling due to the gentle breeze?",
+      "Can footsteps be seen lightly treading on fallen leaves?",
+      "Are the fallen leaves visibly scattered on the ground?",
+      "Are the trees in the forest depicted with visible foliage?",
+      "Is the overall lighting in the scene soft and moderate, consistent with sunlight filtering through trees?"
+    ]
+  }
+]

@@ -1,0 +1,341 @@
+[
+  {
+    "prompt_en": "In the kitchen, the sound of a knife cutting vegetables was clearly audible, accompanied by faint breathing and occasional rustling of clothing. The cutting rhythm was steady, with crisp sounds produced each time the blade touched the cutting board. Occasionally, distant water flow and faint footsteps could also be heard in the surrounding environment.",
+    "prompt_vision": "Person chopping vegetables on cutting board, clothes rustling, water flowing, faint footsteps in kitchen environment.",
+    "prompt_audio": "Clear, crisp sounds of a knife cutting vegetables on a cutting board, steady rhythmic chopping, faint breathing, occasional rustling of clothing, distant water flow, and faint footsteps in the background.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of a knife cutting vegetables clearly audible with a crisp quality each time the blade touches the cutting board?",
+      "Is there a steady rhythm to the cutting sounds, indicating a consistent pace?",
+      "Can faint breathing be heard in the audio, suggesting the presence of a person?",
+      "Are there occasional rustling sounds of clothing, indicating movement or adjustment by the person cutting?",
+      "Is there a faint sound of distant water flow present in the background?",
+      "Can occasional faint footsteps be heard, suggesting movement in the surrounding environment?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visible knife cutting vegetables on a cutting board?",
+      "Are the vegetables visibly being sliced or chopped?",
+      "Is there a person present who appears to be cutting the vegetables?",
+      "Does the person cutting the vegetables have a steady hand motion?",
+      "Are there visible signs of clothing movement, such as slight fabric shifts or folds?",
+      "Is there a visible water source, like a faucet, that could imply distant water flow?",
+      "Are there visible signs of footsteps, such as slight movement or shadow changes on the floor?"
+    ]
+  },
+  {
+    "prompt_en": "In a quiet environment, the bell rings, its sound crisp and prolonged, echoing through the empty space. The timbre of the bell is pure, with moderate volume, slow and solemn rhythm. As the pendulum swings, the sound gradually fades until it completely disappears. There is almost no ambient noise, only the occasional gentle breeze passing by.",
+    "prompt_vision": "A bell in an empty space, with a gently swinging pendulum, surrounded by stillness and occasional light movement of air.",
+    "prompt_audio": "A crisp, prolonged bell ring with pure timbre, moderate volume, slow and solemn rhythm, gradually fading to silence, with only faint breeze sounds occasionally.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the bell sound crisp and prolonged, echoing through the empty space?",
+      "Does the bell have a pure timbre with moderate volume?",
+      "Is the rhythm of the bell slow and solemn?",
+      "Does the sound of the bell gradually fade until it completely disappears as the pendulum swings?",
+      "Is there almost no ambient noise present in the environment?",
+      "Can the occasional gentle breeze be heard passing by?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the bell visually present in the scene?",
+      "Does the pendulum appear to be swinging?",
+      "Can the bell be seen in a quiet and empty environment?",
+      "Are there visual indications of the bell's sound fading over time?",
+      "Is the pendulum's motion slow and solemn?",
+      "Are there visual cues of a gentle breeze passing by?",
+      "Is the environment depicted as having almost no ambient noise visually?"
+    ]
+  },
+  {
+    "prompt_en": "A race car driver is speeding on a snowmobile through the snow, with snowflakes flying all around, and the background features snow-capped mountains and buildings.",
+    "prompt_vision": "A race car driver speeding on a snowmobile through snow, snowflakes flying, snow-capped mountains and buildings in the background.",
+    "prompt_audio": "roaring snowmobile engine and whooshing wind",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a sound of a snowmobile engine that matches the speed implied by the prompt?",
+      "Are there sounds of snow being displaced or crushed as the snowmobile moves through the snow?",
+      "Can the sound of the snowmobile engine be heard consistently throughout the scene, indicating continuous movement?",
+      "Is there an absence of other prominent sounds that would not be expected in a snowy mountain setting, such as city traffic or loud human activity?",
+      "Does the audio include subtle wind sounds that might accompany the movement through snowflakes?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the race car driver visibly riding a snowmobile?",
+      "Are snowflakes visibly flying around the snowmobile?",
+      "Is the snowmobile moving through snow?",
+      "Are snow-capped mountains visible in the background?",
+      "Are buildings visible in the background?",
+      "Is the snowmobile visibly moving at high speed?"
+    ]
+  },
+  {
+    "prompt_en": "In the subway car, a person is sitting on a seat, body slightly leaning forward, hands gripping a plastic bag, head bowed. As the subway moves, a faint sound of track friction and rolling wheels echoes inside the carriage, occasionally accompanied by slight metallic clinks caused by the swaying of the car. The person's breathing is barely audible in the quiet carriage, subtly varying with the rhythm of the subway.",
+    "prompt_vision": "In a subway car, a person sits on a seat, body slightly leaning forward, hands gripping a plastic bag, head bowed.",
+    "prompt_audio": "Faint sound of track friction and rolling wheels echoing inside the carriage, occasional slight metallic clinks from the swaying car, and barely audible breathing subtly varying with the rhythm of the subway.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the faint sound of track friction and rolling wheels audible inside the carriage?",
+      "Are there occasional slight metallic clinks caused by the swaying of the subway car?",
+      "Is the person's breathing barely audible in the quiet carriage?",
+      "Does the person's breathing subtly vary with the rhythm of the subway?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the person sitting on a seat in the subway car?",
+      "Is the person's body slightly leaning forward?",
+      "Are the person's hands gripping a plastic bag?",
+      "Is the person's head bowed?",
+      "Is the subway car swaying slightly, suggesting motion?",
+      "Are there any visible signs of the subway car's movement, such as slight tilting or objects swaying?",
+      "Is the environment inside the subway car visually calm and quiet, with no large movements from the person?"
+    ]
+  },
+  {
+    "prompt_en": "At sunset, a person sits quietly by the lakeside, surrounded by a serene environment with gentle ripples on the water. There is a faint breeze and distant bird calls in the background. The person's breathing is synchronized with subtle clothing rustles, accompanied occasionally by slight movement sounds. The overall tone is soft, the sound field is open, the volume is moderate, and the rhythm is slow.",
+    "prompt_vision": "At sunset, a person sits quietly by the lakeside, surrounded by a serene environment with gentle ripples on the water.",
+    "prompt_audio": "Faint breeze, distant bird calls, soft breathing synchronized with subtle clothing rustles, occasional slight movement sounds; overall soft tone, open sound field, moderate volume, slow rhythm.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of gentle ripples on the water present and consistent with the lakeside setting?",
+      "Are distant bird calls audible in the background, contributing to the serene environment?",
+      "Does the faint breeze produce subtle, soft sounds that match the described environment?",
+      "Is the person's breathing synchronized with subtle clothing rustles, reflecting slight movements?",
+      "Is the overall sound field open, with moderate volume and a slow rhythm, consistent with the serene lakeside setting?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the person sitting still by the lakeside with no large body movements visible?",
+      "Is the water showing gentle ripples consistent with a calm lake surface?",
+      "Is the lighting direction consistent with a sunset, such as warm tones and low-angle light?",
+      "Are the person's clothes subtly rustling, indicating slight movements or a faint breeze?",
+      "Is the environment visually serene with no signs of chaos or disturbance?",
+      "Are the person's facial expression and posture consistent with a quiet and calm demeanor?",
+      "Is the surrounding vegetation or objects subtly affected by the faint breeze, such as slight movement of leaves or grass?"
+    ]
+  },
+  {
+    "prompt_en": "In a dimly lit forest, three people are slowly walking while wearing white sheets, accompanied by subtle footstep sounds and rustling fabric. The ambient sounds include the whispering of leaves and distant bird calls, creating a mysterious and serene atmosphere. Each person's footsteps have a slightly different rhythm, forming an irregular sound field. Pay attention to the synchronization between footsteps and fabric rustling, as well as the natural integration of ambient sounds.",
+    "prompt_vision": "In a dimly lit forest, three people slowly walk wearing white sheets.",
+    "prompt_audio": "Subtle footstep sounds with slightly different rhythms, rustling fabric synchronized with footsteps, whispering leaves, and distant bird calls creating a mysterious and serene ambient soundscape.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Are the subtle footstep sounds synchronized with the visual movement of each person's walking?",
+      "Does the rustling fabric sound occur in coordination with the visual motion of the white sheets?",
+      "Can the ambient sounds of whispering leaves and distant bird calls be heard consistently throughout the scene?",
+      "Are the footsteps of the three people distinguishable with slightly different rhythms, forming an irregular sound field?",
+      "Is the overall audio mix free of noticeable noise or distortion that would disrupt the mysterious and serene atmosphere?"
+    ],
+    "auxiliary_info_vision": [
+      "Are there three people visible in the scene?",
+      "Are the people wearing white sheets?",
+      "Is the forest environment dimly lit?",
+      "Are the people walking slowly?",
+      "Is there visible movement of fabric as the people walk?"
+    ]
+  },
+  {
+    "prompt_en": "In a quiet indoor environment, a soldier is walking slowly, his footsteps echoing in the empty space with a steady and powerful rhythm. The soldier's breathing subtly rises and falls in sync with his steps, while the metal parts of the weapon in his hand occasionally emit faint clinking sounds. The overall soundscape creates an atmosphere of tension and focused intensity.",
+    "prompt_vision": "A soldier walking slowly indoors in an empty space, holding a weapon with metal parts.",
+    "prompt_audio": "Echoing footsteps with a steady, powerful rhythm, subtle rising and falling breathing in sync with steps, faint clinking sounds from metal weapon parts, creating a tense and intense atmosphere.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of the soldier's footsteps steady and rhythmic, with an audible echo that suggests an empty indoor space?",
+      "Does the soldier's breathing rise and fall subtly in sync with the rhythm of his footsteps?",
+      "Are faint clinking sounds from the metal parts of the weapon occasionally audible, without being overly frequent or loud?",
+      "Is the overall soundscape free of extraneous or unrelated noises that would disrupt the quiet and tense atmosphere?",
+      "Does the audio convey a sense of focused intensity through the interplay of footsteps, breathing, and occasional weapon clinks?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the soldier depicted walking slowly in the image or video?",
+      "Does the soldier's posture suggest a steady and powerful rhythm in his movement?",
+      "Can the metal parts of the weapon be seen in the soldier's hand?",
+      "Are the metal parts of the weapon visibly clinking or moving slightly?",
+      "Is the indoor environment shown as quiet and empty, without visible distractions or movement?",
+      "Does the soldier's facial expression or body language convey tension and focused intensity?"
+    ]
+  },
+  {
+    "prompt_en": "On the sand dunes under the setting sun, a couple is dancing gently. The background features soft wind sounds, accompanied by the subtle noise of sand grains sliding. Moving to the rhythm of the music, their footsteps are light, producing faint rustling sounds on the sandy ground. Occasionally, the gentle friction of clothing can be heard as they dance. The entire scene is filled with a romantic atmosphere, with sounds perfectly synchronized to the movements.",
+    "prompt_vision": "A couple dancing gently on sand dunes under a setting sun, with soft lighting and a romantic atmosphere.",
+    "prompt_audio": "Soft wind sounds, subtle sliding of sand grains, faint rustling from light footsteps on sand, and occasional gentle friction of clothing, all synchronized to rhythmic music.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of soft wind present in the background throughout the scene?",
+      "Does the audio include subtle noise of sand grains sliding consistently?",
+      "Are the footsteps producing faint rustling sounds that match the couple's movements on the sandy ground?",
+      "Can the gentle friction of clothing be heard occasionally as the couple dances?",
+      "Is the music rhythmically synchronized with the couple's dance movements?",
+      "Are all sounds contributing to a romantic atmosphere without any unexpected noise or distortion?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a couple visible on the sand dunes?",
+      "Are the couple's movements gentle and fluid, suggesting dancing?",
+      "Is the lighting consistent with a setting sun, casting warm tones on the scene?",
+      "Does the couple's clothing appear to move slightly, indicating gentle friction?",
+      "Are the couple's footsteps light, suggesting minimal disturbance to the sand?"
+    ]
+  },
+  {
+    "prompt_en": "On the wooden bowling lane, a player is preparing to bowl. Accompanied by footsteps and the faint sound of shoes rubbing against the floor, the deep rolling sound of the bowling ball gradually intensifies. In the distance, the crisp sound of the ball striking the pins can be heard, while faint noises of other players and the reverberation of the lane fill the background.",
+    "prompt_vision": "A player preparing to bowl on a wooden bowling lane.",
+    "prompt_audio": "Footsteps, faint sound of shoes rubbing against the floor, deep rolling sound of a bowling ball intensifying, crisp sound of the ball striking pins in the distance, faint noises of other players, and reverberation of the lane.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Are the footsteps audible as the player prepares to bowl?",
+      "Is there a faint sound of shoes rubbing against the wooden floor?",
+      "Does the deep rolling sound of the bowling ball intensify as it moves down the lane?",
+      "Can the crisp sound of the ball striking the pins be heard in the distance?",
+      "Are there faint noises of other players audible in the background?",
+      "Is there reverberation of the lane present in the background sounds?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the player holding a bowling ball in preparation to bowl?",
+      "Is the bowling ball positioned on the wooden lane before being rolled?",
+      "Are the player's shoes visible and making contact with the wooden floor?",
+      "Is the bowling ball rolling down the lane towards the pins?",
+      "Are the pins visibly arranged at the end of the bowling lane?",
+      "Is the wooden bowling lane clearly visible in the scene?",
+      "Are the pins visibly struck by the bowling ball at the end of the lane?"
+    ]
+  }
+]

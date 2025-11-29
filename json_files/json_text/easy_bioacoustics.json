@@ -1,0 +1,1559 @@
+[
+  {
+    "prompt_en": "The kitten lazily curled up in the sunlight, softly letting out a gentle, nasal \"meow~\".",
+    "prompt_vision": "A kitten curled up in sunlight.",
+    "prompt_audio": "Soft, gentle, nasal meow.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a gentle, nasal 'meow' sound when the kitten is shown in the sunlight?",
+      "Does the 'meow' sound have a soft volume, consistent with a relaxed kitten?",
+      "Is the 'meow' sound synchronized with the kitten's mouth movements?",
+      "Is there an absence of loud or abrupt noises, maintaining a peaceful atmosphere as the kitten rests?",
+      "Does the audio maintain a consistent and natural sound field, with the 'meow' appearing to originate from the kitten's position?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the kitten curled up in a relaxed position?",
+      "Is the kitten positioned in sunlight with visible light and shadow effects?",
+      "Does the kitten have its eyes partially or fully closed, indicating a calm state?",
+      "Is the kitten's fur illuminated by sunlight, showing a warm glow or highlights?",
+      "Is the kitten's mouth slightly open, suggesting it is softly meowing?"
+    ]
+  },
+  {
+    "prompt_en": "The puppy excitedly barked \"Woof! Woof!\" and wagged its tail like a propeller when it saw its owner come home.",
+    "prompt_vision": "A puppy wagging its tail vigorously and looking at its owner who has just come home.",
+    "prompt_audio": "Excited barking: 'Woof! Woof!'",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the sound of a puppy barking with the specific vocalization 'Woof! Woof!' when the owner arrives?",
+      "Is the timing of the puppy's barking synchronized with the visual moment when the owner comes home?",
+      "Is the energy and volume of the puppy's barking consistent with an excited demeanor?",
+      "Are the sounds of the puppy's actions (barking and tail wagging) free from distortion or unwanted noise?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the puppy visibly wagging its tail in a rapid motion?",
+      "Is the puppy's mouth open as if barking?",
+      "Are the puppy's ears perked up, indicating excitement?",
+      "Is the puppy facing towards a person, suggesting it sees its owner?",
+      "Does the puppy have a lively posture, indicating excitement?",
+      "Is the puppy's tail positioned in a way that suggests rapid movement?",
+      "Are the puppy's eyes wide open, showing alertness and excitement?"
+    ]
+  },
+  {
+    "prompt_en": "The rooster stood on the fence, puffing out his chest and crowing, \"Cock-a-doodle-doo!\"—awakening the entire village.",
+    "prompt_vision": "A rooster standing on a fence, puffing out its chest.",
+    "prompt_audio": "Loud crowing sound: 'Cock-a-doodle-doo!', echoing across a quiet village at dawn.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of a rooster crowing clearly audible when the rooster puffs out his chest?",
+      "Does the crowing sound match the typical pitch and timbre of a rooster's 'Cock-a-doodle-doo'?",
+      "Can the crowing be heard with sufficient volume to imply it awakens the entire village?",
+      "Is there an absence of other prominent sounds that would distract from the rooster's crowing?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a rooster standing on a fence?",
+      "Is the rooster puffing out its chest?",
+      "Is the rooster's beak open as if crowing?",
+      "Is the rooster's head raised while crowing?",
+      "Are the rooster's wings slightly spread as it puffs out its chest?"
+    ]
+  },
+  {
+    "prompt_en": "The cow slowly lifts its head in the pasture, letting out a deep, prolonged \"Moo—\" as if the earth itself were breathing.",
+    "prompt_vision": "A cow slowly lifting its head in a pasture",
+    "prompt_audio": "Deep, prolonged mooing sound, resonant and sustained",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a deep, prolonged 'Moo' sound when the cow lifts its head?",
+      "Is the pitch of the 'Moo' sound consistent with that of a cow's vocalization?",
+      "Is the volume of the 'Moo' sound appropriate for a cow in an open pasture setting?",
+      "Is there an absence of unexpected noise or distortion during the cow's 'Moo'?",
+      "Does the timing of the 'Moo' sound align with the cow lifting its head?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the cow's head visibly lifted in the image or video?",
+      "Does the cow appear to be in a pasture setting?",
+      "Can the cow be seen with its mouth open, suggesting it is making a sound?",
+      "Is the cow's body mostly still, indicating slow movement?",
+      "Are the cow's eyes open, suggesting alertness or wakefulness?"
+    ]
+  },
+  {
+    "prompt_en": "The little lamb followed closely behind its mother, letting out a soft, trembling \"baa~,\" like a marshmallow making a sound.",
+    "prompt_vision": "A little lamb following closely behind its mother.",
+    "prompt_audio": "Soft, trembling 'baa~' sound, like a marshmallow making a sound.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a soft, trembling 'baa~' sound that can be heard as the little lamb follows its mother?",
+      "Does the 'baa~' sound have a gentle and delicate timbre, similar to the softness of a marshmallow?",
+      "Can the sound of the lamb's 'baa~' be clearly distinguished from any other background noises?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a little lamb visible in the image or video?",
+      "Is the little lamb positioned closely behind its mother?",
+      "Is the little lamb's mouth open, suggesting it is making a sound?",
+      "Is the mother lamb visible in the image or video?",
+      "Are both the little lamb and its mother standing still or walking slowly, indicating calmness?",
+      "Is the little lamb's fur visibly soft and fluffy, resembling a marshmallow?"
+    ]
+  },
+  {
+    "prompt_en": "The horse, startled on the grassland, suddenly reared up and let out a sharp, high-pitched neigh that split the air.",
+    "prompt_vision": "A horse rearing up on a grassland, startled",
+    "prompt_audio": "Sharp, high-pitched neigh",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a sharp, high-pitched neigh when the horse rears up?",
+      "Is the timing of the neigh synchronized with the horse rearing up?",
+      "Can the sound of the neigh be clearly distinguished from any background noise?",
+      "Is there an absence of other prominent sounds when the horse rears up, implying a focus on the neigh?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the horse visibly rearing up on its hind legs?",
+      "Does the horse appear to be on a grassland?",
+      "Can the horse's mouth be seen open, suggesting it is neighing?",
+      "Are the horse's front legs lifted off the ground?",
+      "Is the horse's mane visibly moving, indicating motion?"
+    ]
+  },
+  {
+    "prompt_en": "The lion crouched on the rocky peak, took a deep breath, and let out a roar—\"Roar!!\"—shaking the leaves so that they trembled and rustled.",
+    "prompt_vision": "A lion crouching on a rocky peak, leaves trembling and rustling around it.",
+    "prompt_audio": "A loud lion roar followed by rustling leaves.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of the lion's roar synchronized with the visual moment the lion opens its mouth to roar?",
+      "Does the roar have a deep and resonant timbre that matches the expected sound of a lion?",
+      "Can the rustling of leaves be heard immediately after the roar, indicating the impact of the roar on the environment?",
+      "Is the volume of the roar significantly louder than the rustling of the leaves, reflecting the power of the lion's roar?",
+      "Are the rustling sounds positioned in the audio field to suggest they are coming from the surrounding environment rather than the lion itself?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the lion crouched on a rocky peak visible in the image or video?",
+      "Does the lion appear to be taking a deep breath before roaring?",
+      "Can the lion's mouth be seen open wide as it roars?",
+      "Are there visible leaves trembling or rustling due to the roar?",
+      "Is the lion's body positioned in a crouched stance?"
+    ]
+  },
+  {
+    "prompt_en": "The lone wolf stood on the cliff, howling at the moon—\"Awoo\"—its long, mournful cry made the cold night instantly colder.",
+    "prompt_vision": "A lone wolf standing on a cliff under a full moon, head raised in howl.",
+    "prompt_audio": "A long, mournful wolf howl: 'Awoo', echoing through a cold night.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the howl audible and distinct, with a clear 'Awoo' vocalization?",
+      "Does the sound of the howl have a consistent pitch and timbre that aligns with a typical wolf cry?",
+      "Is the audio free from unexpected noise or distortion that would detract from the howl?",
+      "Does the howl's volume and energy match the implied intensity of a lone wolf crying out on a cold night?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a wolf visible in the image or video?",
+      "Is the wolf positioned on a cliff?",
+      "Is the wolf howling with its mouth open?",
+      "Is the moon visible in the sky?",
+      "Is the scene depicted at night?",
+      "Is the wolf's body facing towards the moon?",
+      "Is the wolf's fur visibly affected by the cold, such as appearing fluffed up?"
+    ]
+  },
+  {
+    "prompt_en": "The frog squatted on the lotus leaf, puffed its cheeks, and let out a crisp, loud \"Croak!\"—the pond fell silent for a second.",
+    "prompt_vision": "A frog squats on a lotus leaf, puffing its cheeks.",
+    "prompt_audio": "A crisp, loud croak followed by a second of silence.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a clear and distinct 'Croak!' sound when the frog puffs its cheeks?",
+      "Does the 'Croak!' sound have a crisp and loud quality?",
+      "Is there a noticeable moment of silence immediately following the 'Croak!' sound?",
+      "Can the 'Croak!' sound be identified as originating from the frog's position on the lotus leaf?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the frog visibly squatting on the lotus leaf?",
+      "Are the frog's cheeks puffed out as if preparing to croak?",
+      "Is the frog's mouth open, indicating it is making a sound?",
+      "Is the lotus leaf clearly visible beneath the frog?",
+      "Is there a noticeable stillness in the pond, suggesting silence after the croak?"
+    ]
+  },
+  {
+    "prompt_en": "Crickets hide among the grass roots in the corner of the wall, their high-frequency chirping sound continuing nonstop throughout the night.",
+    "prompt_vision": "Crickets hiding among grass roots in the corner of a wall",
+    "prompt_audio": "High-frequency cricket chirping continuing nonstop throughout the night",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a continuous high-frequency chirping sound present throughout the audio?",
+      "Does the chirping sound resemble that of crickets?",
+      "Is the volume of the chirping sound consistent, without noticeable interruptions?",
+      "Can the chirping sound be perceived as originating from a specific location, such as near the corner of a wall?",
+      "Are there no unexpected loud noises or distortions that disrupt the cricket chirping?"
+    ],
+    "auxiliary_info_vision": [
+      "Are crickets visibly present among the grass roots?",
+      "Is there a visible corner of a wall in the scene?",
+      "Are the crickets depicted as stationary or hiding, with no large body movements?",
+      "Is there grass visible in the scene where the crickets are hiding?",
+      "Are the crickets positioned at the base of the grass, near the roots?"
+    ]
+  },
+  {
+    "prompt_en": "A crow stood on a withered branch, cawing twice in a hoarse voice, like a rusty door hinge turning.",
+    "prompt_vision": "A crow standing on a withered branch.",
+    "prompt_audio": "Two hoarse caws, resembling the sound of a rusty door hinge turning.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the sound of a crow cawing twice?",
+      "Is the crow's cawing hoarse and reminiscent of a rusty door hinge?",
+      "Is there no additional prominent sound apart from the crow's cawing?",
+      "Does the timing between the two caws match natural crow vocalization patterns?",
+      "Is the sound source positioned to match the crow's location on the branch?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a crow present in the image or video?",
+      "Is the crow standing on a branch?",
+      "Does the branch appear withered?",
+      "Is the crow's beak open, indicating it is cawing?",
+      "Does the crow appear to caw twice, with a pause in between?",
+      "Is the crow's cawing visually represented as hoarse, similar to a rusty door hinge turning?"
+    ]
+  },
+  {
+    "prompt_en": "The owl perched at the entrance of an ancient tree hollow, letting out two low hoots—\"hoo... hoo...\"—making the night seem even deeper.",
+    "prompt_vision": "An owl perched at the entrance of an ancient tree hollow at night.",
+    "prompt_audio": "Two low hoots: 'hoo... hoo...'",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include two distinct low hoots from the owl, matching the described 'hoo... hoo...' pattern?",
+      "Is the timing between the two hoots consistent with a natural owl call, without abrupt or unnatural pauses?",
+      "Can the hoots be clearly identified as originating from the owl's position at the entrance of the tree hollow?",
+      "Is the overall soundscape quiet enough to emphasize the depth of night, without prominent background noise or disturbances?",
+      "Are the hoots free from distortion or noise, maintaining a clear and natural owl sound quality?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there an owl visible at the entrance of a tree hollow?",
+      "Does the owl appear to be perched rather than flying or moving?",
+      "Can the owl be seen with its beak open, suggesting it is hooting?",
+      "Is the tree hollow depicted as ancient, with visible signs of age such as rough bark or large openings?",
+      "Are the surroundings dark, indicating nighttime?",
+      "Is the owl's body still, implying it is not in motion while perched?",
+      "Are the owl's eyes open, suggesting alertness during the night?"
+    ]
+  },
+  {
+    "prompt_en": "The cobra reared up, flicking its tongue, hissing continuously—\"s-s-s-s\"—as if the ground itself were retreating.",
+    "prompt_vision": "A cobra reared up, flicking its tongue.",
+    "prompt_audio": "Continuous hissing sound: \"s-s-s-s\"",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a distinct hissing sound that matches the cobra's action of flicking its tongue?",
+      "Is the volume of the hissing sound appropriate to suggest the cobra's presence without being overly loud or quiet?",
+      "Can the hissing sound be clearly identified as originating from the cobra's position in the scene?",
+      "Are there no unexpected or unrelated sounds that would distract from the cobra's hissing?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the cobra reared up with its upper body elevated above the ground?",
+      "Does the cobra have its tongue flicking outward visibly?",
+      "Can the cobra's mouth be seen open as it hisses?",
+      "Are the cobra's hood flaps expanded outward in a defensive posture?",
+      "Is the cobra's body stationary except for the flicking tongue and hissing action?"
+    ]
+  },
+  {
+    "prompt_en": "The elephant swung its trunk and raised its head, letting out a trumpet-like \"Woo—Ong!\" that made the ground tremble slightly.",
+    "prompt_vision": "An elephant swinging its trunk and raising its head.",
+    "prompt_audio": "A loud, trumpet-like 'Woo—Ong!' causing slight ground tremors.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a trumpet-like sound when the elephant raises its head?",
+      "Is there a low-frequency rumble or vibration in the audio that suggests the ground is trembling slightly?",
+      "Is the timing of the trumpet-like sound synchronized with the visual action of the elephant swinging its trunk and raising its head?",
+      "Does the sound of the trumpet-like 'Woo—Ong!' have a distinct pitch that resembles an elephant's call?",
+      "Can the audio convey the sense of power and volume expected from an elephant's trumpet-like call?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the elephant's trunk visibly swinging in the image or video?",
+      "Is the elephant's head raised in the image or video?",
+      "Does the elephant appear to be making a trumpet-like sound?",
+      "Is the ground visibly trembling or showing signs of movement in the image or video?",
+      "Are the elephant's ears visibly flared or extended in the image or video?"
+    ]
+  },
+  {
+    "prompt_en": "The little pig roots in the feeding trough, grunting contentedly as it eats, \"Oink... oink...\"",
+    "prompt_vision": "A little pig eating from a feeding trough.",
+    "prompt_audio": "Contented grunting sounds, 'oink... oink...'",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include grunting sounds matching the pig's activity in the feeding trough?",
+      "Are the grunting sounds synchronized with the pig's rooting movements in the feeding trough?",
+      "Can the audio include the vocalization 'Oink... oink...' as described?",
+      "Is the volume of the grunting and vocalizations appropriate for a small pig in close proximity?",
+      "Does the sound of rooting in the feeding trough match the expected material interaction, such as soft or muffled noises?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a little pig visible in the image or video?",
+      "Is the pig's snout in contact with or near the feeding trough, indicating rooting behavior?",
+      "Does the pig appear to be in a position or pose that suggests it is eating?",
+      "Is the pig's mouth open or near the trough, suggesting it is making a grunting sound?",
+      "Is the pig's body relatively still, indicating it is focused on eating rather than moving around?",
+      "Is the feeding trough visible in the scene?",
+      "Is the pig's facial expression or body language consistent with contentment, such as relaxed ears or a calm posture?"
+    ]
+  },
+  {
+    "prompt_en": "The bee hovers in front of the flower stamens, its wings vibrating steadily with a \"buzzing...\" sound like a tiny engine.",
+    "prompt_vision": "A bee hovering in front of flower stamens, wings in motion.",
+    "prompt_audio": "Steady buzzing sound like a tiny engine.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a continuous buzzing sound present when the bee is hovering in front of the flower stamens?",
+      "Does the buzzing sound have a steady frequency, similar to a tiny engine, when the bee's wings are vibrating?",
+      "Can the buzzing sound be heard clearly without any distortion or interference when the bee is in front of the flower stamens?",
+      "Is the buzzing sound synchronized with the visual depiction of the bee's wing movement?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the bee hovering in front of the flower stamens without touching them?",
+      "Are the bee's wings visibly vibrating in a steady motion?",
+      "Is the bee positioned close enough to the flower stamens to appear interacting with them?",
+      "Are the flower stamens clearly visible and distinct in the image or video?",
+      "Does the bee appear stationary in the air, without moving forward or backward?"
+    ]
+  },
+  {
+    "prompt_en": "A seagull skimmed over the crest of a wave, letting out a sharp, drawn-out cry—“Squawk!”—as the salty wind carried an aggressive edge.",
+    "prompt_vision": "A seagull flying low over the crest of an ocean wave, with wind visibly rippling the water's surface.",
+    "prompt_audio": "A sharp, drawn-out seagull cry ('Squawk!') carried by strong, gusty wind with a harsh, salty quality.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a sharp, drawn-out cry that resembles a seagull's 'Squawk'?",
+      "Is the seagull's cry synchronized with the visual moment when it skims over the wave?",
+      "Can the sound of the seagull's cry be clearly heard without distortion or noise?",
+      "Is there an appropriate level of wind noise that suggests an aggressive edge without overpowering the seagull's cry?",
+      "Does the audio maintain a consistent sound field that matches the visual perspective of the seagull skimming over the wave?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a seagull visible in the scene?",
+      "Is the seagull positioned above the crest of a wave?",
+      "Is the seagull's beak open, suggesting it is making a sound?",
+      "Is there visible motion suggesting the seagull is skimming over the wave?",
+      "Is the wave crest visible beneath the seagull?"
+    ]
+  },
+  {
+    "prompt_en": "Cicadas cluster on the tree trunks, their shrill \"zhiliao—zhiliao—\" blending into a deafening chorus, as waves of heat ripple with the sound.",
+    "prompt_vision": "Cicadas clustered on tree trunks, heat waves rippling in the air.",
+    "prompt_audio": "Shrill 'zhiliao—zhiliao—' cicada sounds blending into a deafening chorus.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the cicada sound characterized by a shrill and repetitive 'zhiliao—zhiliao—' pattern?",
+      "Does the audio include a continuous and loud chorus of cicada sounds blending together?",
+      "Are the cicada sounds synchronized with the implied heat waves in the scene, creating a cohesive audio-visual experience?",
+      "Is the overall soundscape dominated by the cicada chorus without noticeable interruptions or unrelated noise?"
+    ],
+    "auxiliary_info_vision": [
+      "Are cicadas visibly clustered on the tree trunks?",
+      "Is there a visual indication of heat waves, such as distortion or shimmering effects in the air?",
+      "Can the cicadas be seen in a way that suggests they are making noise, such as open wings or vibrating bodies?"
+    ]
+  },
+  {
+    "prompt_en": "The mouse poked its head out of a hole in the wall, let out a tiny \"squeak!\" and instantly retreated into the darkness.",
+    "prompt_vision": "A mouse poking its head out of a hole in the wall and quickly retreating into the darkness.",
+    "prompt_audio": "A tiny, high-pitched squeak.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a tiny 'squeak' sound when the mouse pokes its head out of the hole?",
+      "Is the 'squeak' sound appropriately high-pitched to match the expected vocalization of a mouse?",
+      "Does the audio remain quiet or subdued after the mouse retreats into the darkness?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a visible mouse poking its head out of a hole in the wall?",
+      "Does the mouse appear to be retreating back into the hole?",
+      "Is the hole located on a wall surface?",
+      "Is the mouse's head the only part visible outside the hole?",
+      "Is the mouse's action of retreating depicted as quick or instantaneous?"
+    ]
+  },
+  {
+    "prompt_en": "The squirrel clutched a pine cone, gnawing rapidly with \"crack! crack!\"—the sound of nutshells breaking crisp and clean.",
+    "prompt_vision": "A squirrel clutching a pine cone, gnawing on it.",
+    "prompt_audio": "Rapid crack! crack! sounds of nutshells breaking crisp and clean.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the sound of a squirrel gnawing on a pine cone?",
+      "Is the timing of the 'crack! crack!' sounds consistent with rapid gnawing?",
+      "Can the sound of nutshells breaking be heard clearly and cleanly without distortion?",
+      "Is the volume of the gnawing and cracking sounds appropriate for the action described?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the squirrel holding a pine cone in its paws?",
+      "Is the squirrel's mouth positioned near the pine cone as if gnawing?",
+      "Are there visible fragments or pieces of nutshell around the squirrel, indicating the pine cone is being broken?",
+      "Is the squirrel's body positioned in a way that suggests it is actively engaged in gnawing?",
+      "Is the squirrel's head slightly tilted towards the pine cone, suggesting focus on the task?"
+    ]
+  },
+  {
+    "prompt_en": "The pigeon paces on the windowsill, softly cooing, \"Coo... coo-coo,\" as if murmuring a mantra to itself.",
+    "prompt_vision": "A pigeon pacing on a windowsill.",
+    "prompt_audio": "Soft cooing sounds: 'Coo... coo-coo,' like a murmured mantra.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include soft cooing sounds matching the described 'Coo... coo-coo' vocalization of the pigeon?",
+      "Is the pacing of the pigeon accompanied by subtle, expected sounds such as gentle taps or scuffs on the windowsill?",
+      "Is the overall audio free of prominent noise or distortion that would distract from the soft cooing and pacing sounds?",
+      "Does the audio maintain a quiet or subdued sound environment, consistent with the implied calmness of the scene?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a pigeon visible on the windowsill?",
+      "Is the pigeon depicted as pacing back and forth on the windowsill?",
+      "Is the pigeon shown with its beak slightly open, suggesting it is cooing?",
+      "Are the pigeon's wings folded against its body, indicating it is not flying?",
+      "Is the windowsill clearly visible in the scene?"
+    ]
+  },
+  {
+    "prompt_en": "The duck waddled past the pond, quacking \"Quack! Quack!\"—ripples spread across the water in circles.",
+    "prompt_vision": "A duck waddling past a pond with circular ripples spreading across the water surface.",
+    "prompt_audio": "Quack! Quack!",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the sound of a duck quacking with a clear and distinct 'Quack! Quack!' pattern?",
+      "Is the timing of the duck's quacking synchronized with its waddling past the pond?",
+      "Can the sound of the duck's quacking be heard from the position where the duck is described as waddling?",
+      "Are the ripples spreading across the water accompanied by subtle water sounds, such as gentle splashing or lapping?",
+      "Is there an absence of loud or unrelated noises that would distract from the duck's quacking and the water ripples?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a duck visible in the scene?",
+      "Is the duck shown in a waddling motion?",
+      "Are ripples visible on the surface of the pond?",
+      "Is the duck's beak open as if quacking?",
+      "Are the ripples on the water forming circular patterns?",
+      "Is the duck positioned near the pond?",
+      "Is the water in the pond still except for the ripples?"
+    ]
+  },
+  {
+    "prompt_en": "The goose stretched its neck and let out a sharp \"Gaa—Aa!!\", flapping its wings threateningly with a whooshing sound.",
+    "prompt_vision": "A goose stretching its neck and flapping its wings threateningly.",
+    "prompt_audio": "A sharp \"Gaa—Aa!!\" honk accompanied by a whooshing sound of flapping wings.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a sharp 'Gaa—Aa!!' sound when the goose stretches its neck?",
+      "Is there a whooshing sound accompanying the flapping of the goose's wings?",
+      "Are the sounds of the goose's vocalization and wing flapping synchronized with the visual actions?",
+      "Is the pitch of the goose's vocalization consistent with a typical goose call?",
+      "Does the audio maintain clarity without distortion during the goose's vocalization and wing flapping?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the goose depicted with its neck stretched forward?",
+      "Are the wings of the goose visibly flapping in a threatening manner?",
+      "Can the sharp 'Gaa—Aa!!' vocalization be inferred through the goose's open beak or vocal posture?",
+      "Is the motion of the wings creating a visual sense of whooshing or movement in the air?",
+      "Does the goose appear stationary on the ground while performing these actions?"
+    ]
+  },
+  {
+    "prompt_en": "The turkey puffed up its chest, \"gobble-gobble-gobbling!\" with urgent calls, its tail feathers fanning out as if angrily dancing.",
+    "prompt_vision": "A turkey puffing up its chest with tail feathers fanned out in an aggressive display.",
+    "prompt_audio": "Urgent, rapid gobble-gobble-gobbling sounds.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the sound of the turkey's gobbling synchronized with its beak movements?",
+      "Does the audio include the distinct 'gobble-gobble' sound typical of a turkey?",
+      "Is the volume of the gobbling consistent with the urgency described in the prompt?",
+      "Are there no unexpected background noises that distract from the turkey's gobbling?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the turkey's chest visibly puffed up?",
+      "Are the turkey's tail feathers fanned out?",
+      "Does the turkey appear to be in a dynamic or animated pose, suggesting movement or action?",
+      "Is the turkey's beak open, indicating it is making a sound?",
+      "Are the turkey's wings positioned in a way that suggests it is in an active or aggressive stance?"
+    ]
+  },
+  {
+    "prompt_en": "Bats hang upside down in caves, emitting faint \"squeak... squeak...\" ultrasound pulses barely audible to the human ear.",
+    "prompt_vision": "Bats hanging upside down in a cave",
+    "prompt_audio": "Faint squeak... squeak... ultrasound pulses, barely audible to the human ear",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a faint 'squeak... squeak...' sound that corresponds to the ultrasound pulses emitted by the bats?",
+      "Are the 'squeak... squeak...' sounds emitted at a frequency that is barely audible to the human ear?",
+      "Is the volume of the 'squeak... squeak...' sounds consistent with being faint as described?",
+      "Can the sound source position be identified as coming from the bats hanging upside down?",
+      "Is there an absence of prominent background noise, allowing the faint 'squeak... squeak...' sounds to be discernible?"
+    ],
+    "auxiliary_info_vision": [
+      "Are the bats depicted hanging upside down from the cave ceiling?",
+      "Is there a visible cave environment surrounding the bats?",
+      "Are the bats' bodies oriented with their heads pointing downward?",
+      "Can the bats be seen with their wings folded while hanging?",
+      "Are the bats shown in a still position, indicating they are not flying?"
+    ]
+  },
+  {
+    "prompt_en": "The koala clung to the tree trunk, making low moaning sounds—\"waa... waa...\"—like a sleepy sigh from someone not quite awake.",
+    "prompt_vision": "A koala clinging to a tree trunk.",
+    "prompt_audio": "Low moaning sounds, 'waa... waa...', resembling a sleepy sigh.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include low moaning sounds resembling 'waa... waa...' as described?",
+      "Is the timing of the moaning sounds consistent with a sleepy sigh?",
+      "Is the timbre of the moaning sounds soft and subdued, similar to a sleepy sigh?",
+      "Are the moaning sounds positioned close to the tree trunk, as if originating from the koala?",
+      "Is there an absence of prominent background noise, allowing the moaning sounds to be clearly heard?",
+      "Does the audio maintain a quiet atmosphere, consistent with the koala's sleepy state?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the koala visibly clinging to the tree trunk?",
+      "Does the koala appear to be in a stationary position on the tree?",
+      "Can the koala's mouth be seen open as if making a sound?",
+      "Are the koala's eyes partially closed, suggesting a sleepy expression?",
+      "Is the tree trunk clearly visible in the image?",
+      "Are the koala's limbs wrapped around the tree trunk, indicating a firm grip?"
+    ]
+  },
+  {
+    "prompt_en": "The sloth slowly lifted its head. \"Uh... ah...\" it groaned, drawing out the nasal sound, taking three seconds to complete a single syllable.",
+    "prompt_vision": "A sloth slowly lifting its head.",
+    "prompt_audio": "Nasal groaning with drawn-out syllables, 'Uh... ah...', each taking about three seconds to complete.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the groaning sound last for approximately three seconds per syllable as described?",
+      "Does the audio match the sloth's slow head movement with no sudden or loud sounds?",
+      "Are the syllables in the groaning sound clearly distinguishable and drawn out as described?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the sloth's head visibly moving upwards?",
+      "Does the sloth's facial expression appear relaxed or neutral?",
+      "Is the sloth's body mostly still, with minimal movement except for the head?",
+      "Are the sloth's eyes open or partially open as it lifts its head?",
+      "Is the sloth's mouth slightly open as it groans?",
+      "Is the sloth's fur texture visible and consistent with a typical sloth?",
+      "Is the lighting sufficient to clearly see the sloth's head and facial features?"
+    ]
+  },
+  {
+    "prompt_en": "The raccoon rummaged through the trash can, letting out an excited \"squeak!\" as its claws scraped against the metal lid with a \"clatter.\"",
+    "prompt_vision": "A raccoon rummaging through a trash can, its claws scraping against the metal lid.",
+    "prompt_audio": "An excited squeak followed by a clattering sound of claws on metal.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a squeak sound when the raccoon is rummaging through the trash can?",
+      "Is there a clatter sound when the raccoon's claws scrape against the metal lid?",
+      "Can the sound of rummaging through the trash can be heard distinctly?",
+      "Are the sounds of the raccoon's actions synchronized with its movements in the video?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a raccoon visible in the image or video?",
+      "Is the raccoon interacting with a trash can?",
+      "Are the raccoon's claws visibly in contact with the metal lid of the trash can?",
+      "Is the trash can lid visibly metal?",
+      "Is the raccoon depicted in a pose that suggests rummaging or searching?",
+      "Does the raccoon appear to be in motion, indicating activity?",
+      "Is there visible evidence of the trash can being disturbed, such as items being displaced or scattered?"
+    ]
+  },
+  {
+    "prompt_en": "The fox moved through the bushes at night, letting out a brief, mournful cry—“Ying… wu…”—like a child weeping.",
+    "prompt_vision": "A fox moving through bushes at night",
+    "prompt_audio": "A brief, mournful fox cry: 'Ying... wu...', resembling a child weeping",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a sound of rustling or movement through bushes when the fox moves?",
+      "Does the audio include a brief, mournful cry resembling 'Ying… wu…' as described?",
+      "Is the cry similar in pitch and tone to a child weeping?",
+      "Is the sound of the fox's movement through the bushes subdued, consistent with nighttime quietness?",
+      "Is there an absence of other prominent sounds, suggesting a nighttime setting?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the fox visible moving through the bushes?",
+      "Are the bushes present in the scene?",
+      "Is the scene depicted as nighttime with low lighting?",
+      "Does the fox appear to be in motion, suggesting movement through the bushes?",
+      "Is the fox's mouth open, indicating it is making a sound?",
+      "Are shadows or dim lighting visible, consistent with a nighttime setting?"
+    ]
+  },
+  {
+    "prompt_en": "The zebra, startled, bolted forward with a sharp \"neigh!\"—its hooves pounded in sync with its frantic cries.",
+    "prompt_vision": "A zebra bolting forward, muscles tense, mouth open mid-neigh, hooves striking the ground.",
+    "prompt_audio": "Sharp neighing cries synchronized with rapid, pounding hoofbeats.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a sharp 'neigh' sound when the zebra is startled and bolts forward?",
+      "Is Do the sounds of the zebra's hooves pounding occur in sync with its cries?",
+      "Is the volume of the hooves pounding consistent with the intensity of the zebra's movement?",
+      "Does the audio maintain synchronization between the visual movement of the zebra and the corresponding hoof sounds?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the zebra depicted in a forward motion, suggesting it is running?",
+      "Are the zebra's hooves visibly off the ground, indicating a fast pace?",
+      "Does the zebra's facial expression appear startled or alarmed?",
+      "Is there visible dust or debris being kicked up by the zebra's hooves?",
+      "Are the zebra's legs shown in a dynamic pose consistent with running?",
+      "Is the zebra's mouth open, suggesting it is making a sound?",
+      "Is the zebra's body oriented in a forward direction, consistent with bolting?"
+    ]
+  },
+  {
+    "prompt_en": "The rhino lowered its head and charged forward, letting out a muffled snort—\"Hnnn!\"—from its nostrils, the ground trembling with each step.",
+    "prompt_vision": "A rhino lowering its head and charging forward, the ground visibly trembling with each heavy step.",
+    "prompt_audio": "A muffled snort 'Hnnn!' from a rhino's nostrils, accompanied by deep, rhythmic thuds of its footsteps causing low rumbles.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a muffled snort sound resembling 'Hnnn!' as the rhino lowers its head and charges forward?",
+      "Is there a synchronized sound of heavy footsteps matching the rhino's movement as it charges forward?",
+      "Can the audio convey a sense of ground trembling with each step, such as through low-frequency vibrations or rumbling sounds?",
+      "Are the sounds of the snort and footsteps free from noticeable distortion or noise that would detract from their clarity?",
+      "Does the timing of the snort occur appropriately as the rhino lowers its head and begins to charge?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the rhino's head visibly lowered as it charges forward?",
+      "Can the rhino's nostrils be seen flaring as it snorts?",
+      "Are the rhino's legs in a motion that indicates forward movement?",
+      "Is there visible dust or debris on the ground suggesting it is trembling?",
+      "Does the rhino's body appear tense or muscular, indicating exertion?"
+    ]
+  },
+  {
+    "prompt_en": "The giraffe lowers its head to drink water, letting out a soft, low-frequency hum, \"Moo... hmm...\" as its neck sways gently with each breath.",
+    "prompt_vision": "A giraffe lowering its head to drink water, its neck swaying gently with each breath.",
+    "prompt_audio": "Soft, low-frequency hum, 'Moo... hmm...'",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a soft, low-frequency hum matching the described 'Moo... hmm...' vocalization as the giraffe lowers its head?",
+      "Is the timing of the giraffe's hum synchronized with the gentle swaying of its neck as described?",
+      "Are the giraffe's vocalizations free of distortion or noise that would contradict the soft and natural tone described?",
+      "Does the audio remain quiet apart from the giraffe's hum, consistent with the absence of other described sounds?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the giraffe's head lowered towards the water?",
+      "Does the giraffe's neck sway gently as it breathes?",
+      "Is there visible water in front of the giraffe?",
+      "Are the giraffe's legs positioned to support its lowered head?",
+      "Is the giraffe's mouth close to the water surface?"
+    ]
+  },
+  {
+    "prompt_en": "The otter floated on the water surface, letting out short, sharp whistles—“squeak! squeak!”—while slapping its paws against the water, splashing with a “slap, slap” sound.",
+    "prompt_vision": "An otter floating on the water surface, slapping its paws against the water and creating splashes.",
+    "prompt_audio": "Short, sharp whistles ('squeak! squeak!') and repeated slapping sounds ('slap, slap') on water.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include short, sharp whistles that sound like 'squeak' when the otter is depicted?",
+      "Is there a 'slap, slap' sound synchronized with the visual of the otter slapping its paws against the water?",
+      "Are the whistle sounds and the slapping sounds clearly distinguishable from each other in terms of timbre?",
+      "Is the timing of the 'squeak' sounds consistent with the otter's mouth movements?",
+      "Does the audio maintain a consistent volume level that matches the expected energy of the otter's actions on the water surface?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the otter visible floating on the water surface?",
+      "Are the otter's paws visibly slapping against the water?",
+      "Can you see water splashes resulting from the otter's paw slaps?",
+      "Is the otter's mouth open, suggesting it is whistling?",
+      "Are the otter's paws positioned above the water surface during the slapping action?"
+    ]
+  },
+  {
+    "prompt_en": "A lone penguin in the flock raises its head and lets out a long cry—“Ah…ah…”—its call echoing across the vast, desolate ice field.",
+    "prompt_vision": "A lone penguin in a flock raises its head on a vast, desolate ice field.",
+    "prompt_audio": "A long penguin call—'Ah... ah...'—echoing across an icy expanse.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include the sound of a penguin vocalizing with a cry resembling 'Ah…ah…' as described?",
+      "Is the penguin's cry audible and sustained for a long duration as specified?",
+      "Can the cry's echo effect be heard, suggesting it reverberates across a vast ice field?",
+      "Is the audio free from unexpected noise or distortion that would detract from the described desolate ice field ambiance?",
+      "Does the timing of the penguin's cry align with the visual depiction of the penguin raising its head and vocalizing?",
+      "Are the cry's pitch and timbre consistent with what is commonly expected from a penguin vocalization?",
+      "Is the overall audio quiet or subdued apart from the penguin's cry, reflecting the desolate ice field setting?"
+    ],
+    "auxiliary_info_vision": [
+      "Is there a lone penguin with its head raised among a flock of penguins?",
+      "Does the lone penguin appear to be making a vocalization, as suggested by an open beak or mouth?",
+      "Are the surrounding penguins in the flock visually distinct from the lone penguin with its head raised?",
+      "Is the setting depicted as a vast, desolate ice field, with no other prominent features or structures?",
+      "Can the posture of the lone penguin suggest that it is engaged in a calling action, such as an upward tilt of the head?"
+    ]
+  },
+  {
+    "prompt_en": "The kangaroo landed with a thud, and simultaneously made two short warning calls: \"click! click!\"",
+    "prompt_vision": "A kangaroo landing on the ground",
+    "prompt_audio": "thud followed by two short clicks: \"click! click!\"",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is there a thud sound when the kangaroo lands?",
+      "Are there two distinct 'click' sounds following the thud?",
+      "Is Do the 'click' sounds occur simultaneously with the thud?",
+      "Is the timing between the two 'click' sounds short and consistent with a warning call?",
+      "Is the volume of the 'click' sounds appropriate to be perceived as a warning call?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the kangaroo visible in the image or video?",
+      "Does the kangaroo appear to have just landed, with its legs bent or positioned for landing?",
+      "Can the kangaroo's mouth be open, indicating it is making a call?",
+      "Are the kangaroo's ears positioned forward, suggesting alertness or communication?",
+      "Is there visible dust or debris around the kangaroo's feet, implying a recent landing?"
+    ]
+  },
+  {
+    "prompt_en": "The chameleon lies motionless on the branch, its throat softly pulsing with a faint \"gurgle... gurgle,\" emitting an almost silent low-frequency call.",
+    "prompt_vision": "A chameleon lying motionless on a branch, its throat softly pulsing.",
+    "prompt_audio": "Faint low-frequency gurgle sounds, almost silent.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Is the chameleon's throat movement synchronized with the faint 'gurgle... gurgle' sound?",
+      "Can the faint 'gurgle... gurgle' sound be heard intermittently, corresponding to the chameleon's throat pulsing?",
+      "Is the overall sound environment quiet, reflecting the chameleon's motionless state on the branch?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the chameleon lying motionless on the branch?",
+      "Is the chameleon's throat visibly pulsing softly?",
+      "Is the chameleon positioned on a branch?",
+      "Are the chameleon's limbs resting without visible movement?",
+      "Is the chameleon's body showing no signs of large motion or activity?"
+    ]
+  },
+  {
+    "prompt_en": "The electric eel swims through the water, occasionally emitting a faint \"zzzt... pop!\" as it releases a small electric current, causing bubbles to burst.",
+    "prompt_vision": "An electric eel swimming through water, with small bubbles bursting around it.",
+    "prompt_audio": "Faint 'zzzt... pop!' sounds as electric discharges occur.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a faint 'zzzt... pop!' sound that occurs occasionally as the electric eel swims?",
+      "Is there a synchronization between the visual movement of the eel and the timing of the 'zzzt... pop!' sounds?",
+      "Can the sound of bubbles bursting be heard in conjunction with the 'zzzt... pop!' sound?",
+      "Are the sounds of the 'zzzt... pop!' and bubbles bursting free from noticeable noise or distortion?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the electric eel visible swimming through the water?",
+      "Are there bubbles present in the water near the electric eel?",
+      "Do the bubbles appear to burst when the electric eel emits a small electric current?",
+      "Is the electric eel's body in a swimming pose, with visible motion of its tail?",
+      "Can the faint electric current be visually inferred through the bursting of bubbles?"
+    ]
+  },
+  {
+    "prompt_en": "The octopus's tentacles suction onto the rocky wall with a soft \"plop... squish,\" and a brief \"whoosh!\" as it jets forward.",
+    "prompt_vision": "An octopus clinging to a rocky wall with its tentacles, then propelling itself forward.",
+    "prompt_audio": "Soft plop... squish, followed by a brief whoosh!",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a soft 'plop' sound when the octopus's tentacles suction onto the rocky wall?",
+      "Does the audio include a 'squish' sound accompanying the suction of the tentacles onto the rocky wall?",
+      "Does the audio include a brief 'whoosh' sound as the octopus jets forward?",
+      "Are the timing and sequence of the 'plop,' 'squish,' and 'whoosh' sounds consistent with the described actions of the octopus?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the octopus's body in contact with the rocky wall?",
+      "Are the tentacles visibly suctioned onto the rocky surface?",
+      "Can you see the octopus's tentacles making a 'plop' or 'squish' motion against the rock?",
+      "Is the octopus's body oriented in a direction that suggests forward motion?",
+      "Does the octopus appear to be moving away from the rocky wall?",
+      "Are the tentacles visibly extended or stretched as if in motion?",
+      "Is there a visible indication of the octopus jetting forward, such as a streamlined body shape?"
+    ]
+  },
+  {
+    "prompt_en": "Jellyfish float silently, but their tentacles cut through the water with a faint \"hiss... hiss,\" an extremely soft friction like silk skimming across the surface.",
+    "prompt_vision": "Jellyfish floating in water, their tentacles moving through the liquid.",
+    "prompt_audio": "Very faint hissing sounds, soft friction like silk skimming across a surface.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_ese",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision",
+      "global_fad",
+      "global_fvd",
+      "global_kvd"
+    ],
+    "auxiliary_info_audio": [
+      "Does the audio include a faint 'hiss' sound when the jellyfish tentacles move through the water?",
+      "Is the 'hiss' sound extremely soft, resembling the friction of silk skimming across a surface?",
+      "Is there an absence of other prominent sounds, maintaining the quietness expected from jellyfish floating silently?"
+    ],
+    "auxiliary_info_vision": [
+      "Are jellyfish visible floating in the water?",
+      "Do the jellyfish tentacles appear to be cutting through the water?",
+      "Are the jellyfish tentacles visibly elongated and flowing?",
+      "Is the motion of the jellyfish tentacles smooth and continuous?",
+      "Are the jellyfish depicted as stationary or moving calmly without rapid motion?"
+    ]
+  }
+]

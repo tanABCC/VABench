@@ -1,0 +1,37 @@
+[
+  {
+    "prompt_en": "On a sunny afternoon, two young people are sitting on the stairs watching a skateboarding video on a smartphone. There is subtle ambient city noise in the background, such as distant traffic and people talking. The two are discussing the skateboarding techniques shown in the video, with their dialogue precisely synchronized to their lip movements. Their tone is relaxed and curious. The sound field should reflect the spatial relationship between the two, with natural timbre, moderate volume, and rhythm varying according to the content of the conversation.",
+    "prompt_vision": "Two young people sitting on stairs on a sunny afternoon, watching a skateboarding video on a smartphone.",
+    "prompt_audio": "Subtle ambient city noise including distant traffic and people talking; relaxed and curious dialogue between two people discussing skateboarding techniques, with precise lip-sync, natural timbre, moderate volume, and rhythm varying with conversation content.",
+    "dimension": [
+      "first_dnsmos",
+      "first_nisqa",
+      "first_audiobox",
+      "second_viclip",
+      "second_clap",
+      "second_desync",
+      "second_lsa",
+      "second_imagebind",
+      "third_alignment",
+      "third_artistry",
+      "third_audio_reality",
+      "third_expressiveness",
+      "third_visual_reality",
+      "fourth_qa_audio",
+      "fourth_qa_vision"
+    ],
+    "auxiliary_info_audio": [
+      "Is the dialogue between the two young people synchronized with their lip movements?",
+      "Does the ambient city noise include subtle sounds of distant traffic and people talking?",
+      "Can the sound field reflect the spatial relationship between the two young people sitting on the stairs?",
+      "Are the voices of the two young people relaxed and curious in tone?"
+    ],
+    "auxiliary_info_vision": [
+      "Is the smartphone visible in the hands of one of the young people?",
+      "Are the two young people sitting on stairs?",
+      "Is the lighting consistent with a sunny afternoon, with bright and clear illumination?",
+      "Are the two young people facing the smartphone while watching the video?",
+      "Are the lips of the two young people visibly moving in sync with their dialogue?"
+    ]
+  }
+]
