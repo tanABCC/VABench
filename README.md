@@ -4,11 +4,12 @@
 
 
 ### 📄 Paper has been released on arXiv
+https://arxiv.org/abs/2512.09299
 
 
 
 ### News
-* **`Nov. 30th, 2025`:** We’ve released our paper on arXiv, along with our test data!
+* **`Dec. 9th, 2025`:** We’ve released our paper on arXiv, along with our test data!
 *   🔜 *Evaluation code coming soon!*
 
 
