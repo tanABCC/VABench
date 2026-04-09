@@ -31,7 +31,7 @@ pip install git+https://github.com/facebookresearch/ImageBind.git
 After the date being prepared:
 ```
 export VABENCH_CACHE_DIR = path to the cache dir
-python evaluate_v2a.py --data_dir path to the test --output_dir path to the result dir
+python evaluate.py --data_dir path to the test --output_dir path to the result dir
 ```
 
 ###  Citation

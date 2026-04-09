@@ -58,12 +58,9 @@ class VABench(object):
             if mapped_prompt == prompt:
                 for video_name in video_names:
                     video_name_nosuffix = video_name.split('.')[0]
-                    video_name_prefix= video_name_nosuffix[0:-2]
+                    video_name_prefix= video_name_nosuffix
                     if idx == video_name_prefix:
                         return video_name
-                    # idx = idx[:len(idx) - 4]
-                    # if idx == video_name[:len(idx)]:
-                    #     return video_name
 
     def build_full_info_json(self, videos_path, audios_path, name, dimension_list, prompt_list=[], special_str='', verbose=False, **kwargs):
         cur_full_info_list = []
