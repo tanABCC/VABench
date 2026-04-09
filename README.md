@@ -12,6 +12,7 @@ https://arxiv.org/abs/2512.09299
 
 ### Dataset
 test images:https://huggingface.co/datasets/tanABBCC/VABench_I2AV/tree/main
+
 model cache:
 
 ### Abstract
@@ -28,10 +29,12 @@ pip install -r requirement.txt
 pip install git+https://github.com/openai/CLIP.git
 pip install git+https://github.com/facebookresearch/ImageBind.git
 ```
+To run successfully, at least two GPUs with 80GB of VRAM are recommended.
+
 After the date being prepared:
 ```
-export VABENCH_CACHE_DIR = path to the cache dir
-python evaluate.py --data_dir path to the test --output_dir path to the result dir
+export VABENCH_CACHE_DIR = /path/to/the/cache/dir
+python evaluate.py --data_dir /path/to/the/test --output_dir /path/to/the/result/dir
 ```
 
 ###  Citation
