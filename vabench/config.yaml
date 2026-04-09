@@ -1,0 +1,21 @@
+dimensions:
+  - first_dnsmos
+  - first_nisqa
+  - first_audiobox
+  - second_viclip
+  - second_clap
+  - second_desync
+  - second_lsa
+  - second_imagebind
+  - third_alignment
+  - third_audio_reality
+  - third_visual_reality
+  - third_expressiveness
+  - third_artistry
+  - fourth_qa_audio
+  - fourth_qa_vision
+
+params:
+  max_memory: {0: "80GB",1: "80GB"}
+  device_map: "auto" 
+
