@@ -14,7 +14,7 @@ if _cache_root:
     PATH_WEIGHT = os.path.join(_cache_root, "checkpoints", "auxiliary", "sfd_face.pth")
 else:
     # 回退到原来的相对路径，兼容旧用法
-PATH_WEIGHT = "checkpoints/auxiliary/sfd_face.pth"
+    PATH_WEIGHT = "checkpoints/auxiliary/sfd_face.pth"
 img_mean = np.array([104.0, 117.0, 123.0])[:, np.newaxis, np.newaxis].astype("float32")
 
 
